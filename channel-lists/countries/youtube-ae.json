@@ -1,9 +1,41 @@
 [
   {
+    "videoId": "f6VpkfV7m4Y",
+    "channelId": "UCRJUVYt9gjg8MnlGacySUdg",
+    "name": "Asharq News - الشرق للأخبار",
+    "category": "News",
+    "language": "ara",
+    "country": "AE"
+  },
+  {
+    "videoId": "I-qP4xS7vPg",
+    "channelId": "UCsHdPPJXT-yKVTLGkn3DSvQ",
+    "name": "CNBC Arabia TV",
+    "category": "News",
+    "language": "ara",
+    "country": "AE"
+  },
+  {
+    "videoId": "iWZIkkLZL8o",
+    "channelId": "UCBZLg-ixSGqEjh3ld7nSwLg",
+    "name": "The Smurfs | السنافر",
+    "category": "Kids",
+    "language": "ara",
+    "country": "AE"
+  },
+  {
     "videoId": "me1fBxx9wJY",
     "channelId": "UCIJXOvggjKtCagMfxvcCzAA",
     "name": "Sky News عربية",
     "category": "News",
+    "language": "ara",
+    "country": "AE"
+  },
+  {
+    "videoId": "YKHWAb6b48I",
+    "channelId": "UCuaMJTqQ_W7qztqZ_zyErJg",
+    "name": "Bee Movies | بث مباشر افلام عربي",
+    "category": "Entertainment",
     "language": "ara",
     "country": "AE"
   }

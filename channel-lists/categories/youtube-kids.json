@@ -8,6 +8,14 @@
     "country": "US"
   },
   {
+    "videoId": "Dkkp4KfdGPY",
+    "channelId": "UCNcdbMyA59zE-Vk668bKWOg",
+    "name": "Disney Junior | Mickey Mouse Adventures",
+    "category": "Kids",
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "videoId": "E3NOvf9WNAQ",
     "channelId": "UCrNnk0wFBnCS1awGjq_ijGQ",
     "name": "PBS Kids | Daniel Tiger",
@@ -18,7 +26,23 @@
   {
     "videoId": "Fjp2TdlTTIU",
     "channelId": "UCktaw9L-f65LzUUdjmCFkbQ",
-    "name": "DisneyXD Phineas and Ferb",
+    "name": "DisneyXD | Phineas and Ferb",
+    "category": "Kids",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "iWZIkkLZL8o",
+    "channelId": "UCBZLg-ixSGqEjh3ld7nSwLg",
+    "name": "The Smurfs | السنافر",
+    "category": "Kids",
+    "language": "ara",
+    "country": "AE"
+  },
+  {
+    "videoId": "MTw_JjSEW-M",
+    "channelId": "UCyxe3g0khLIXRxRd3G9qSrw",
+    "name": "3ABN Kids Network",
     "category": "Kids",
     "language": "eng",
     "country": "US"
@@ -35,6 +59,14 @@
     "videoId": "sBf2Hbt60s8",
     "channelId": "UCrNnk0wFBnCS1awGjq_ijGQ",
     "name": "PBS Kids | SUPER WHY!",
+    "category": "Kids",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "UUtHlW8V8rw",
+    "channelId": "UClPzMXh4d5baHqR_tSeiagw",
+    "name": "The Loud House",
     "category": "Kids",
     "language": "eng",
     "country": "US"

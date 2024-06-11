@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "videoId": "7heWRN252pQ",
+    "channelId": "UCXoJ8kY9zpLBEz-8saaT3ew",
+    "name": "FREEДОМ TV | Телеканал ФРІДОМ",
+    "category": "News",
+    "language": "rus",
+    "country": "UA"
+  },
+  {
+    "videoId": "dY8KJ_Pls38",
+    "channelId": "UCkyrSWEcjZKpIwMxiPfOcgg",
+    "name": "5 канал",
+    "category": "News",
+    "language": "ukr",
+    "country": "UA"
+  },
+  {
+    "videoId": "hns12gYNRq0",
+    "channelId": "UCja992VI_u2e52c9FHQXw5A",
+    "name": "24 Канал онлайн",
+    "category": "News",
+    "language": "rus",
+    "country": "UA"
+  },
+  {
+    "videoId": "JpTL53Su4U8",
+    "channelId": "UCH9H_b9oJtSHBovh94yB5HA",
+    "name": "Телеканал Прямий",
+    "category": "News",
+    "language": "ukr",
+    "country": "UA"
+  },
+  {
+    "videoId": "WY8sDvZdWEA",
+    "channelId": "UCXoJ8kY9zpLBEz-8saaT3ew",
+    "name": "ТСН | Єдині новини | 1+1",
+    "category": "News",
+    "language": "ukr",
+    "country": "UA"
+  }
+]

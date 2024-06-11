@@ -26,7 +26,15 @@
   {
     "videoId": "Fjp2TdlTTIU",
     "channelId": "UCktaw9L-f65LzUUdjmCFkbQ",
-    "name": "DisneyXD Phineas and Ferb",
+    "name": "DisneyXD | Phineas and Ferb",
+    "category": "Kids",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "MTw_JjSEW-M",
+    "channelId": "UCyxe3g0khLIXRxRd3G9qSrw",
+    "name": "3ABN Kids Network",
     "category": "Kids",
     "language": "eng",
     "country": "US"
@@ -45,6 +53,14 @@
     "name": "PBS Kids | SUPER WHY!",
     "category": "Kids",
     "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "t9Ilev-uk4w",
+    "channelId": "UCBG57608Hukev3d0d-gvLhQ",
+    "name": "Current Time | НАСТОЯЩЕЕ ВРЕМЯ",
+    "category": "News",
+    "language": "rus",
     "country": "US"
   },
   {

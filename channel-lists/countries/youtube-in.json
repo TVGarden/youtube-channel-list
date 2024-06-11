@@ -8,6 +8,14 @@
     "country": "IN"
   },
   {
+    "videoId": "1wECsnGZcfc",
+    "channelId": "UCup3etEdjyF1L3sRbU-rKLw",
+    "name": "24 News",
+    "category": "News",
+    "language": "mal",
+    "country": "IN"
+  },
+  {
     "videoId": "4PpS_RGUzfQ",
     "channelId": "UCLTZ5y21NnklrxpU5AfWd8w",
     "name": "Prime9 News",
@@ -19,6 +27,22 @@
     "videoId": "byG7EGw9NPs",
     "channelId": "UCfymZbh17_3T_UhgjkQ9fRQ",
     "name": "10TV News Telugu",
+    "category": "News",
+    "language": "tel",
+    "country": "IN"
+  },
+  {
+    "videoId": "HLv-EF57rcY",
+    "channelId": "UCl5YgCiwSRVOiC2Nd1P9v1A",
+    "name": "99TV Telugu",
+    "category": "News",
+    "language": "tel",
+    "country": "IN"
+  },
+  {
+    "videoId": "II_m28Bm-iM",
+    "channelId": "UCPXTXMecYqnRKNdqdVOGSFg",
+    "name": "TV9 Telugu News LIVE",
     "category": "News",
     "language": "tel",
     "country": "IN"
@@ -43,6 +67,14 @@
     "videoId": "Li1ZA566CIo",
     "channelId": "UCNZOrs1QBt8cJnv9ud96qRA",
     "name": "hmtv News Live",
+    "category": "News",
+    "language": "tel",
+    "country": "IN"
+  },
+  {
+    "videoId": "uf5aOXorX1w",
+    "channelId": "UCMIobchb8wgycijrgc1UnZw",
+    "name": "ABN Digital Exclusives",
     "category": "News",
     "language": "tel",
     "country": "IN"
