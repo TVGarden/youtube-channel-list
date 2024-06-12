@@ -1,5 +1,13 @@
 [
   {
+    "videoId": "ebkvidfKmBQ",
+    "channelId": "UC0mthbFRIm_uYkkzMX09sJw",
+    "name": "Al-Arabiya Business",
+    "category": "Business",
+    "language": "ara",
+    "country": "AE"
+  },
+  {
     "videoId": "f6VpkfV7m4Y",
     "channelId": "UCRJUVYt9gjg8MnlGacySUdg",
     "name": "Asharq News - الشرق للأخبار",
@@ -27,6 +35,14 @@
     "videoId": "me1fBxx9wJY",
     "channelId": "UCIJXOvggjKtCagMfxvcCzAA",
     "name": "Sky News عربية",
+    "category": "News",
+    "language": "ara",
+    "country": "AE"
+  },
+  {
+    "videoId": "Y9O4yhCOuyk",
+    "channelId": "UCWnBTuzUUDpKhJPGuDQMynA",
+    "name": "Al Mashhad | المشهد",
     "category": "News",
     "language": "ara",
     "country": "AE"

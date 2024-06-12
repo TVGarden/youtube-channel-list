@@ -1,8 +1,24 @@
 [
   {
+    "videoId": "DB3ADM87XTM",
+    "channelId": "UCH4UNKBHSNwstan99YDoCVg",
+    "name": "Alghad TV | قناة الغد",
+    "category": "News",
+    "language": "ara",
+    "country": "EG"
+  },
+  {
     "videoId": "mCXXYE1tPVg",
     "channelId": "UCzWdc0aUo0IDk5ysLrt04hw",
     "name": "AlKahera WalNas 2",
+    "category": "Entertainment",
+    "language": "ara",
+    "country": "EG"
+  },
+  {
+    "videoId": "yzvXhYKLIqI",
+    "channelId": "UCzKamNFKCvzLOrqfBUAsD6Q",
+    "name": "Al Nahar TV | بث مباشر",
     "category": "Entertainment",
     "language": "ara",
     "country": "EG"

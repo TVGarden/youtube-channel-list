@@ -24,6 +24,14 @@
     "country": "JP"
   },
   {
+    "videoId": "1CwagPa36rI",
+    "channelId": "UCyky9PDwU5cClLPYSLVhQmQ",
+    "name": "A1TV NEWS",
+    "category": "News",
+    "language": "hin",
+    "country": "IN"
+  },
+  {
     "videoId": "1wECsnGZcfc",
     "channelId": "UCup3etEdjyF1L3sRbU-rKLw",
     "name": "24 News",
@@ -46,6 +54,14 @@
     "category": "News",
     "language": "tel",
     "country": "IN"
+  },
+  {
+    "videoId": "6smlpd2BS5k",
+    "channelId": "UCelk6aHijZq-GJBBB9YpReA",
+    "name": "BBC News عربي",
+    "category": "News",
+    "language": "ara",
+    "country": "UK"
   },
   {
     "videoId": "7heWRN252pQ",
@@ -80,6 +96,14 @@
     "country": "AR"
   },
   {
+    "videoId": "bCgJhh5qoog",
+    "channelId": "UCahpxixMCwoANAftn6IxkTg",
+    "name": "AlArabiya | العربية",
+    "category": "News",
+    "language": "ara",
+    "country": "SA"
+  },
+  {
     "videoId": "byG7EGw9NPs",
     "channelId": "UCfymZbh17_3T_UhgjkQ9fRQ",
     "name": "10TV News Telugu",
@@ -112,6 +136,22 @@
     "country": "JP"
   },
   {
+    "videoId": "DB3ADM87XTM",
+    "channelId": "UCH4UNKBHSNwstan99YDoCVg",
+    "name": "Alghad TV | قناة الغد",
+    "category": "News",
+    "language": "ara",
+    "country": "EG"
+  },
+  {
+    "videoId": "djb9AO_bmNY",
+    "channelId": "UCuiLR4p6wQ3xLEm15pEn1Xw",
+    "name": "Record News",
+    "category": "News",
+    "language": "por",
+    "country": "BR"
+  },
+  {
     "videoId": "DxhwEQjegYw",
     "channelId": "UCcfLuU0NFT0ZRoQy4jk6GdA",
     "name": "CGTN Français Infos",
@@ -134,6 +174,38 @@
     "category": "News",
     "language": "jpn",
     "country": "JP"
+  },
+  {
+    "videoId": "e2RgSa1Wt5o",
+    "channelId": "UC65i3Fyq91uiUkIS0i5GLNQ",
+    "name": "Alaraby TV | العربي - أخبار",
+    "category": "News",
+    "language": "ara",
+    "country": "QA"
+  },
+  {
+    "videoId": "EIEmDM7h-cM",
+    "channelId": "UC7k--FhnJzhPTrbtldMSoQQ",
+    "name": "adn40Mx",
+    "category": "News",
+    "language": "spa",
+    "country": "MX"
+  },
+  {
+    "videoId": "et0bSUddkn4",
+    "channelId": "UCrj5BGAhtWxDfqbza9T9hqA",
+    "name": "AlHadath | الحدث",
+    "category": "News",
+    "language": "ara",
+    "country": "SA"
+  },
+  {
+    "videoId": "eXZ4-qp16nI",
+    "channelId": "UCq9e_hCv2jvgck8WowW1NXg",
+    "name": "ABC 7 SWFL",
+    "category": "News",
+    "language": "eng",
+    "country": "US"
   },
   {
     "videoId": "f6VpkfV7m4Y",
@@ -182,6 +254,14 @@
     "category": "News",
     "language": "rus",
     "country": "UA"
+  },
+  {
+    "videoId": "huU_acn3WIw",
+    "channelId": "UCW1sJwBOGgPhSPXJ-6pjF6w",
+    "name": "El Tres TV",
+    "category": "News",
+    "language": "spa",
+    "country": "AR"
   },
   {
     "videoId": "Hy4UCfsE6Yk",
@@ -296,12 +376,28 @@
     "country": "TR"
   },
   {
+    "videoId": "NQjabLGdP5g",
+    "channelId": "UC1_E8NeF5QHY2dtdLRBCCLA",
+    "name": "africanews",
+    "category": "News",
+    "language": "eng",
+    "country": "FR"
+  },
+  {
     "videoId": "NwL9UHFVqGM",
     "channelId": "UCsRnhjcUCR78Q3Ud6OXCTNg",
     "name": "T13",
     "category": "News",
     "language": "spa",
     "country": "CL"
+  },
+  {
+    "videoId": "nyd-xznCpJc",
+    "channelId": "UCRWFSbif-RFENbBrSiez1DA",
+    "name": "ABP NEWS",
+    "category": "News",
+    "language": "hin",
+    "country": "IN"
   },
   {
     "videoId": "ocFG3yor--M",
@@ -334,6 +430,22 @@
     "category": "News",
     "language": "urd",
     "country": "PK"
+  },
+  {
+    "videoId": "PKwLsAu-z10",
+    "channelId": "UCv3rFzn-GHGtqzXiaq3sWNg",
+    "name": "ABP Ananda",
+    "category": "News",
+    "language": "ben",
+    "country": "IN"
+  },
+  {
+    "videoId": "Pn_5nJLgmvc",
+    "channelId": "UC0DM_mHV2u6dj8ig51GkQwg",
+    "name": "eltrece",
+    "category": "News",
+    "language": "spa",
+    "country": "AR"
   },
   {
     "videoId": "qah4pyuH_Jo",
@@ -416,6 +528,14 @@
     "country": "IN"
   },
   {
+    "videoId": "UQ3P8ezZmzg",
+    "channelId": "UCwKS2U-DwjPZZvM6mSXPKgA",
+    "name": "Almagharibia TV | المغاربية",
+    "category": "News",
+    "language": "ara",
+    "country": "DZ"
+  },
+  {
     "videoId": "VDhPBOOSDlw",
     "channelId": "UCuTAXTexrhetbOe3zgskJBQ",
     "name": "日テレNEWS",
@@ -430,6 +550,22 @@
     "category": "News",
     "language": "ukr",
     "country": "UA"
+  },
+  {
+    "videoId": "y8JcLOL4yiQ",
+    "channelId": "UC_yXEx3-Gk5drg9qhPzSQSg",
+    "name": "Al Jazeera Balkans",
+    "category": "News",
+    "language": "bos",
+    "country": "QA"
+  },
+  {
+    "videoId": "Y9O4yhCOuyk",
+    "channelId": "UCWnBTuzUUDpKhJPGuDQMynA",
+    "name": "Al Mashhad | المشهد",
+    "category": "News",
+    "language": "ara",
+    "country": "AE"
   },
   {
     "videoId": "YJtUDi_JOUw",

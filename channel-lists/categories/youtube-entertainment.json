@@ -24,6 +24,14 @@
     "country": "EG"
   },
   {
+    "videoId": "PLR6KdmyTho",
+    "channelId": "UCDPk9MG2RexnOMGTD-YnSnA",
+    "name": "Nat Geo Wild | Killer Clashes",
+    "category": "Entertainment",
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "videoId": "PWdRHYPxnsY",
     "channelId": "UCfyPw7vYwIVb6OuDIf7qeOQ",
     "name": "25 Film | TOLGSHOW",
@@ -46,5 +54,13 @@
     "category": "Entertainment",
     "language": "ara",
     "country": "AE"
+  },
+  {
+    "videoId": "yzvXhYKLIqI",
+    "channelId": "UCzKamNFKCvzLOrqfBUAsD6Q",
+    "name": "Al Nahar TV | بث مباشر",
+    "category": "Entertainment",
+    "language": "ara",
+    "country": "EG"
   }
 ]

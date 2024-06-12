@@ -8,6 +8,14 @@
     "country": "IN"
   },
   {
+    "videoId": "1CwagPa36rI",
+    "channelId": "UCyky9PDwU5cClLPYSLVhQmQ",
+    "name": "A1TV NEWS",
+    "category": "News",
+    "language": "hin",
+    "country": "IN"
+  },
+  {
     "videoId": "1wECsnGZcfc",
     "channelId": "UCup3etEdjyF1L3sRbU-rKLw",
     "name": "24 News",
@@ -21,6 +29,14 @@
     "name": "Prime9 News",
     "category": "News",
     "language": "tel",
+    "country": "IN"
+  },
+  {
+    "videoId": "9ykTXun32y0",
+    "channelId": "UClOK2dPmq8k8Xwii_4TjRnQ",
+    "name": "Agamvani Channel",
+    "category": "Religious",
+    "language": "hin",
     "country": "IN"
   },
   {
@@ -69,6 +85,22 @@
     "name": "hmtv News Live",
     "category": "News",
     "language": "tel",
+    "country": "IN"
+  },
+  {
+    "videoId": "nyd-xznCpJc",
+    "channelId": "UCRWFSbif-RFENbBrSiez1DA",
+    "name": "ABP NEWS",
+    "category": "News",
+    "language": "hin",
+    "country": "IN"
+  },
+  {
+    "videoId": "PKwLsAu-z10",
+    "channelId": "UCv3rFzn-GHGtqzXiaq3sWNg",
+    "name": "ABP Ananda",
+    "category": "News",
+    "language": "ben",
     "country": "IN"
   },
   {

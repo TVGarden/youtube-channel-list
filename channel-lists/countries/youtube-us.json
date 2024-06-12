@@ -1,9 +1,25 @@
 [
   {
+    "videoId": "8AMaonEFMME",
+    "channelId": "UCMeyWH1vyb1TT6Vimp4MqLA",
+    "name": "AAC Television",
+    "category": "Shop",
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "videoId": "ay6xaygH16E",
     "channelId": "UCeY4C8Sbx8B4bIyREPSvORQ",
     "name": "The Smurfs",
     "category": "Kids",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "BJ3Yv572V1A",
+    "channelId": "UCDPk9MG2RexnOMGTD-YnSnA",
+    "name": "Nat Geo Wild | Ultimate Predators",
+    "category": "Documentary",
     "language": "eng",
     "country": "US"
   },
@@ -24,6 +40,14 @@
     "country": "US"
   },
   {
+    "videoId": "eXZ4-qp16nI",
+    "channelId": "UCq9e_hCv2jvgck8WowW1NXg",
+    "name": "ABC 7 SWFL",
+    "category": "News",
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "videoId": "Fjp2TdlTTIU",
     "channelId": "UCktaw9L-f65LzUUdjmCFkbQ",
     "name": "DisneyXD | Phineas and Ferb",
@@ -32,10 +56,10 @@
     "country": "US"
   },
   {
-    "videoId": "MTw_JjSEW-M",
-    "channelId": "UCyxe3g0khLIXRxRd3G9qSrw",
-    "name": "3ABN Kids Network",
-    "category": "Kids",
+    "videoId": "ltIbe_Ulzps",
+    "channelId": "UC6VJE6cD8ZPpe6ZOtVtlBTA",
+    "name": "Amazing Facts TV",
+    "category": "Religious",
     "language": "eng",
     "country": "US"
   },
@@ -44,6 +68,14 @@
     "channelId": "UCNcdbMyA59zE-Vk668bKWOg",
     "name": "Disney Junior | Minnie's Bow-Toons",
     "category": "Kids",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "PLR6KdmyTho",
+    "channelId": "UCDPk9MG2RexnOMGTD-YnSnA",
+    "name": "Nat Geo Wild | Killer Clashes",
+    "category": "Entertainment",
     "language": "eng",
     "country": "US"
   },
