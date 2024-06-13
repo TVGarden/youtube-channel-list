@@ -8,6 +8,14 @@
     "country": "IN"
   },
   {
+    "videoId": "-527PXkCtZw",
+    "channelId": "UCQmJk0ErE_FiorcLBsDKORA",
+    "name": "CGTN Arabic",
+    "category": "News",
+    "language": "ara",
+    "country": "CN"
+  },
+  {
     "videoId": "-C6FE2m7kX8",
     "channelId": "UCWnOKASPkCBEL-_O8odMvtg",
     "name": "Nagoya TV News",
@@ -94,6 +102,14 @@
     "category": "News",
     "language": "spa",
     "country": "AR"
+  },
+  {
+    "videoId": "8tvpdpYqSwg",
+    "channelId": "UC8NcXMG3A3f2aFQyGTpSNww",
+    "name": "Channel i News",
+    "category": "News",
+    "language": "ben",
+    "country": "BD"
   },
   {
     "videoId": "8WX6YL9JnLw",
@@ -274,10 +290,10 @@
   {
     "videoId": "HDQEhzQP-c0",
     "channelId": "UCj0TppyxzQWm9JbMg3CP8Rg",
-    "name": "CGTN Europe News",
+    "name": "CGTN Europe",
     "category": "News",
     "language": "eng",
-    "country": "UK"
+    "country": "CN"
   },
   {
     "videoId": "HLv-EF57rcY",
@@ -560,6 +576,14 @@
     "country": "TW"
   },
   {
+    "videoId": "Tj3gkmDaI7I",
+    "channelId": "UCUy__zD6aeuZKUXX8kUc4ZQ",
+    "name": "Česko-Slovenská regionálna televízia",
+    "category": "News",
+    "language": "slk",
+    "country": "SK"
+  },
+  {
     "videoId": "tjZ8i9NM-nU",
     "channelId": "UCjUxj4cyy_F0tVCT8WfmdZQ",
     "name": "Berita RT",
@@ -670,5 +694,13 @@
     "category": "News",
     "language": "ind",
     "country": "ID"
+  },
+  {
+    "videoId": "yqipQw_Vgic",
+    "channelId": "UCd94YCD7yp6d-YZSRYWyeFA",
+    "name": "CGTN Español",
+    "category": "News",
+    "language": "spa",
+    "country": "CN"
   }
 ]
