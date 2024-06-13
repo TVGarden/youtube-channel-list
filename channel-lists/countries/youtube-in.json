@@ -32,14 +32,6 @@
     "country": "IN"
   },
   {
-    "videoId": "9ykTXun32y0",
-    "channelId": "UClOK2dPmq8k8Xwii_4TjRnQ",
-    "name": "Agamvani Channel",
-    "category": "Religious",
-    "language": "hin",
-    "country": "IN"
-  },
-  {
     "videoId": "byG7EGw9NPs",
     "channelId": "UCfymZbh17_3T_UhgjkQ9fRQ",
     "name": "10TV News Telugu",
@@ -72,6 +64,14 @@
     "country": "IN"
   },
   {
+    "videoId": "Ko18SgceYX8",
+    "channelId": "UCf8w5m0YsRa8MHQ5bwSGmbw",
+    "name": "Asianet News | Malayalam",
+    "category": "News",
+    "language": "mal",
+    "country": "IN"
+  },
+  {
     "videoId": "L0RktSIM980",
     "channelId": "UCumtYpCY26F6Jr3satUgMvA",
     "name": "NTV Telugu",
@@ -85,6 +85,14 @@
     "name": "hmtv News Live",
     "category": "News",
     "language": "tel",
+    "country": "IN"
+  },
+  {
+    "videoId": "McYfr4DHk8k",
+    "channelId": "UCMnz0yLX3afzFc8y822YO5g",
+    "name": "ARADANA TV",
+    "category": "Religious",
+    "language": "hin",
     "country": "IN"
   },
   {
@@ -104,11 +112,27 @@
     "country": "IN"
   },
   {
+    "videoId": "ueJsgNKeq8c",
+    "channelId": "UCN1MXjng-rot-pglSJJ9SCA",
+    "name": "BIG TV Telugu News",
+    "category": "News",
+    "language": "tel",
+    "country": "IN"
+  },
+  {
     "videoId": "uf5aOXorX1w",
     "channelId": "UCMIobchb8wgycijrgc1UnZw",
     "name": "ABN Digital Exclusives",
     "category": "News",
     "language": "tel",
+    "country": "IN"
+  },
+  {
+    "videoId": "yS3ksBLNvYQ",
+    "channelId": "UCQ8kxAu_on_YzVPMjB03rqA",
+    "name": "Awakening TV",
+    "category": "Religious",
+    "language": "eng",
     "country": "IN"
   }
 ]

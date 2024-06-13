@@ -1,9 +1,57 @@
 [
   {
+    "videoId": "5Whk9MVTpI4",
+    "channelId": "UCehmwSZGPod7JFbHJspmxzQ",
+    "name": "Cartoon Network Türkiye | KRAL ŞAKİR",
+    "category": "Kids",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "videoId": "7v-M9z6PmXI",
+    "channelId": "UCJ5bBXls09z7Cjwg-qBzAZQ",
+    "name": "Aşk-ı Nevâ",
+    "category": "Religious",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "videoId": "G01VzjfaSRI",
+    "channelId": "UCQgq6bnp3N_ZlyNq5dHmkNw",
+    "name": "BYHORSES TV",
+    "category": "Sports",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "videoId": "GcuWWVOZEi8",
+    "channelId": "UChNgvcVZ_ggDdZ0zCcuuzFw",
+    "name": "BENGÜ TÜRK",
+    "category": "News",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "videoId": "I_RsWDrgg5I",
+    "channelId": "UCehmwSZGPod7JFbHJspmxzQ",
+    "name": "Cartoon Network Türkiye",
+    "category": "Kids",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
     "videoId": "JX5mSkUfxmk",
     "channelId": "UCdlEXiVLTEvA280oyMvr8Kw",
     "name": "Güldür Güldür Show",
     "category": "Comedy",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "videoId": "MkwxgOns4Nw",
+    "channelId": "UC4o8w_8iedvUVYp77TdheqA",
+    "name": "CAH Medya",
+    "category": "Religious",
     "language": "tur",
     "country": "TR"
   },
@@ -32,11 +80,27 @@
     "country": "TR"
   },
   {
+    "videoId": "OypUpUTYAHI",
+    "channelId": "UCPe9vNjHF1kEExT5kHwc7aw",
+    "name": "beIN SPORTS Türkiye",
+    "category": "Sports",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
     "videoId": "PWdRHYPxnsY",
     "channelId": "UCfyPw7vYwIVb6OuDIf7qeOQ",
     "name": "25 Film | TOLGSHOW",
     "category": "Entertainment",
     "language": "tur",
+    "country": "TR"
+  },
+  {
+    "videoId": "Y8re9iEbrkA",
+    "channelId": "UC-LRBEUet4xX2fRB3JitFxg",
+    "name": "ANews",
+    "category": "News",
+    "language": "eng",
     "country": "TR"
   }
 ]

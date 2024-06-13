@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "videoId": "6Z52_p4WwCM",
+    "channelId": "UCySoNg54OYL6oImf7XhJaUA",
+    "name": "ArcadiaTV World German",
+    "category": "Travel",
+    "language": "ger",
+    "country": "LI"
+  },
+  {
+    "videoId": "AOYGl90wJH0",
+    "channelId": "UCySoNg54OYL6oImf7XhJaUA",
+    "name": "ArcadiaTV World UK",
+    "category": "Travel",
+    "language": "eng",
+    "country": "LI"
+  }
+]

@@ -32,6 +32,14 @@
     "country": "US"
   },
   {
+    "videoId": "DRiiYcG3cyA",
+    "channelId": "UC9trsD1jCTXXtN3xIOIU8gg",
+    "name": "WB Kids | Tom & Jerry",
+    "category": "Kids",
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "videoId": "E3NOvf9WNAQ",
     "channelId": "UCrNnk0wFBnCS1awGjq_ijGQ",
     "name": "PBS Kids | Daniel Tiger",
@@ -56,6 +64,22 @@
     "country": "US"
   },
   {
+    "videoId": "GEw2q6JiugA",
+    "channelId": "UCzuQ_l5TMSd4TuOrWbHYodg",
+    "name": "Antiks Cartoons | Antiks",
+    "category": "Kids",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "iyOq8DhaMYw",
+    "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
+    "name": "Bloomberg Business News",
+    "category": "Business",
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "videoId": "ltIbe_Ulzps",
     "channelId": "UC6VJE6cD8ZPpe6ZOtVtlBTA",
     "name": "Amazing Facts TV",
@@ -68,6 +92,14 @@
     "channelId": "UCNcdbMyA59zE-Vk668bKWOg",
     "name": "Disney Junior | Minnie's Bow-Toons",
     "category": "Kids",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "OlUMDZchivQ",
+    "channelId": "UCUMZ7gohGI9HcU9VNsr2FJQ",
+    "name": "Bloomberg Originals",
+    "category": "Documentary",
     "language": "eng",
     "country": "US"
   },
@@ -109,6 +141,14 @@
     "name": "Live Now | CCTV 中文国际",
     "category": "News",
     "language": "zho",
+    "country": "US"
+  },
+  {
+    "videoId": "UmdMTatmQTQ",
+    "channelId": "UCNcdbMyA59zE-Vk668bKWOg",
+    "name": "Disney Junior | Winnie the Pooh",
+    "category": "Kids",
+    "language": "eng",
     "country": "US"
   },
   {

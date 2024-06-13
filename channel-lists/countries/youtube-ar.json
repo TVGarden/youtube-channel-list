@@ -1,9 +1,25 @@
 [
   {
+    "videoId": "0RaAMC2O8So",
+    "channelId": "UCYvINPByAdCcpA0sWrF3I_w",
+    "name": "Radio Mitre",
+    "category": "News",
+    "language": "spa",
+    "country": "AR"
+  },
+  {
     "videoId": "8gs-9lsfVQU",
     "channelId": "UChxGASjdNEYHhVKpl667Huw",
     "name": "Telefe Noticias",
     "category": "News",
+    "language": "spa",
+    "country": "AR"
+  },
+  {
+    "videoId": "9MAF_mCH3xY",
+    "channelId": "UCNxohbqfDp8YxW_Mji2XMHA",
+    "name": "CADENA HEAT 91.9 FM",
+    "category": "Music",
     "language": "spa",
     "country": "AR"
   },
@@ -24,10 +40,18 @@
     "country": "AR"
   },
   {
-    "videoId": "huU_acn3WIw",
-    "channelId": "UCW1sJwBOGgPhSPXJ-6pjF6w",
-    "name": "El Tres TV",
-    "category": "News",
+    "videoId": "Cpa-69T3Znk",
+    "channelId": "UCW53kA_WXKWVxJbpHrTOBfw",
+    "name": "Canal E",
+    "category": "Business",
+    "language": "spa",
+    "country": "AR"
+  },
+  {
+    "videoId": "FuUKx_XY5U4",
+    "channelId": "UCUM1n1Cb_cbnYTY45GvtyJw",
+    "name": "Canal Diez Mar del Plata",
+    "category": "Entertainment",
     "language": "spa",
     "country": "AR"
   },
@@ -40,17 +64,25 @@
     "country": "AR"
   },
   {
-    "videoId": "ocFG3yor--M",
-    "channelId": "UCba3hpU7EFBSk817y9qZkiA",
-    "name": "LN+",
+    "videoId": "JbGnKIM8c70",
+    "channelId": "UC5UKMEIoqvNDMSDz2_6Sn9g",
+    "name": "Canal 8 San Juan",
     "category": "News",
     "language": "spa",
     "country": "AR"
   },
   {
-    "videoId": "Pn_5nJLgmvc",
-    "channelId": "UC0DM_mHV2u6dj8ig51GkQwg",
-    "name": "eltrece",
+    "videoId": "meJ21sM2yJc",
+    "channelId": "UCOV_Vx1baZJY9Tfvgm-UI3w",
+    "name": "Canal de la Ciudad",
+    "category": "Entertainment",
+    "language": "spa",
+    "country": "AR"
+  },
+  {
+    "videoId": "ocFG3yor--M",
+    "channelId": "UCba3hpU7EFBSk817y9qZkiA",
+    "name": "LN+",
     "category": "News",
     "language": "spa",
     "country": "AR"

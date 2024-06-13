@@ -8,6 +8,14 @@
     "country": "JP"
   },
   {
+    "videoId": "6ylxhOjlHw8",
+    "channelId": "UCpJRmMTfdv0iPbnjo6qBw_g",
+    "name": "Aquarius Musikindo",
+    "category": "Music",
+    "language": "ind",
+    "country": "ID"
+  },
+  {
     "videoId": "7AxXXNmu9vQ",
     "channelId": "UCHVcga2iFmktWA7vX-CnAtA",
     "name": "Lính Trận Miền Xa - Nhạc Lính Hải Ngoại",
@@ -24,6 +32,14 @@
     "country": "ZA"
   },
   {
+    "videoId": "9MAF_mCH3xY",
+    "channelId": "UCNxohbqfDp8YxW_Mji2XMHA",
+    "name": "CADENA HEAT 91.9 FM",
+    "category": "Music",
+    "language": "spa",
+    "country": "AR"
+  },
+  {
     "videoId": "aUtito9_Nc8",
     "channelId": "UCOCbWHBEHggqr5_WB8N9x8g",
     "name": "360 Entertainment - Bolero & Nhạc Vàng",
@@ -34,7 +50,7 @@
   {
     "videoId": "G3NX_hzCuFM",
     "channelId": "UCPde4guD9yFBRzkxk2PatoA",
-    "name": "All the K-POP | 4세대 걸그룹",
+    "name": "All the K-POP",
     "category": "Music",
     "language": "kor",
     "country": "KR"
@@ -54,6 +70,14 @@
     "category": "Music",
     "language": "vie",
     "country": "VN"
+  },
+  {
+    "videoId": "P1fX2GGdVS0",
+    "channelId": "UCUSSnoEQ8DSRK-gnWS0vfyA",
+    "name": "Arirang Radio K-Pop",
+    "category": "Music",
+    "language": "kor",
+    "country": "KR"
   },
   {
     "videoId": "VhMKDYQ0vBY",

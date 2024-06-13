@@ -24,12 +24,28 @@
     "country": "JP"
   },
   {
+    "videoId": "0RaAMC2O8So",
+    "channelId": "UCYvINPByAdCcpA0sWrF3I_w",
+    "name": "Radio Mitre",
+    "category": "News",
+    "language": "spa",
+    "country": "AR"
+  },
+  {
     "videoId": "1CwagPa36rI",
     "channelId": "UCyky9PDwU5cClLPYSLVhQmQ",
     "name": "A1TV NEWS",
     "category": "News",
     "language": "hin",
     "country": "IN"
+  },
+  {
+    "videoId": "1mYzBgRV6-k",
+    "channelId": "UCz2yxQJZgiB_5elTzqV7FiQ",
+    "name": "BOL NEWS",
+    "category": "News",
+    "language": "urd",
+    "country": "PK"
   },
   {
     "videoId": "1wECsnGZcfc",
@@ -88,6 +104,14 @@
     "country": "UK"
   },
   {
+    "videoId": "ABWJSa_6FWw",
+    "channelId": "UCgu4v4HAioB0N5K6aq_H-WQ",
+    "name": "Canal 66 Mexicali",
+    "category": "News",
+    "language": "spa",
+    "country": "MX"
+  },
+  {
     "videoId": "avly0uwZzOE",
     "channelId": "UCT7KFGv6s2a-rh2Jq8ZdM1g",
     "name": "Crónica TV",
@@ -96,12 +120,28 @@
     "country": "AR"
   },
   {
+    "videoId": "b6R9-7KZ8YM",
+    "channelId": "UC25EuGAePOPvPrUA5cmu3dQ",
+    "name": "africanews Français",
+    "category": "News",
+    "language": "fra",
+    "country": "FR"
+  },
+  {
     "videoId": "bCgJhh5qoog",
     "channelId": "UCahpxixMCwoANAftn6IxkTg",
     "name": "AlArabiya | العربية",
     "category": "News",
     "language": "ara",
     "country": "SA"
+  },
+  {
+    "videoId": "biqpPMEVJrk",
+    "channelId": "UCHKib3PFscrSEFOINC2ZJCQ",
+    "name": "B SMART - En direct",
+    "category": "News",
+    "language": "fra",
+    "country": "FR"
   },
   {
     "videoId": "byG7EGw9NPs",
@@ -142,14 +182,6 @@
     "category": "News",
     "language": "ara",
     "country": "EG"
-  },
-  {
-    "videoId": "djb9AO_bmNY",
-    "channelId": "UCuiLR4p6wQ3xLEm15pEn1Xw",
-    "name": "Record News",
-    "category": "News",
-    "language": "por",
-    "country": "BR"
   },
   {
     "videoId": "DxhwEQjegYw",
@@ -216,6 +248,14 @@
     "country": "AE"
   },
   {
+    "videoId": "GcuWWVOZEi8",
+    "channelId": "UChNgvcVZ_ggDdZ0zCcuuzFw",
+    "name": "BENGÜ TÜRK",
+    "category": "News",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
     "videoId": "gXvMSjtaMPg",
     "channelId": "UCATnyu9lou_Lw43gvyoh8uA",
     "name": "RCC News 24",
@@ -254,14 +294,6 @@
     "category": "News",
     "language": "rus",
     "country": "UA"
-  },
-  {
-    "videoId": "huU_acn3WIw",
-    "channelId": "UCW1sJwBOGgPhSPXJ-6pjF6w",
-    "name": "El Tres TV",
-    "category": "News",
-    "language": "spa",
-    "country": "AR"
   },
   {
     "videoId": "Hy4UCfsE6Yk",
@@ -304,12 +336,44 @@
     "country": "JP"
   },
   {
+    "videoId": "JbGnKIM8c70",
+    "channelId": "UC5UKMEIoqvNDMSDz2_6Sn9g",
+    "name": "Canal 8 San Juan",
+    "category": "News",
+    "language": "spa",
+    "country": "AR"
+  },
+  {
+    "videoId": "jm43IyjUv9E",
+    "channelId": "UCziREKwhu2KgoDVNlRrfMBw",
+    "name": "Canal de Panamá",
+    "category": "News",
+    "language": "spa",
+    "country": "PA"
+  },
+  {
     "videoId": "JpTL53Su4U8",
     "channelId": "UCH9H_b9oJtSHBovh94yB5HA",
     "name": "Телеканал Прямий",
     "category": "News",
     "language": "ukr",
     "country": "UA"
+  },
+  {
+    "videoId": "kIhw0QLt2Uk",
+    "channelId": "UC5dYmq91e5_g54krpO06NJw",
+    "name": "Astro AWANI",
+    "category": "News",
+    "language": "msa",
+    "country": "MY"
+  },
+  {
+    "videoId": "Ko18SgceYX8",
+    "channelId": "UCf8w5m0YsRa8MHQ5bwSGmbw",
+    "name": "Asianet News | Malayalam",
+    "category": "News",
+    "language": "mal",
+    "country": "IN"
   },
   {
     "videoId": "L0RktSIM980",
@@ -440,14 +504,6 @@
     "country": "IN"
   },
   {
-    "videoId": "Pn_5nJLgmvc",
-    "channelId": "UC0DM_mHV2u6dj8ig51GkQwg",
-    "name": "eltrece",
-    "category": "News",
-    "language": "spa",
-    "country": "AR"
-  },
-  {
     "videoId": "qah4pyuH_Jo",
     "channelId": "UCcmpeVbSSQlZRvHfdC-CRwg",
     "name": "24 News HD",
@@ -504,12 +560,12 @@
     "country": "TW"
   },
   {
-    "videoId": "tqzSns9PYn4",
-    "channelId": "UCgBAPAcLsh_MAPvJprIz89w",
-    "name": "Aaj News",
+    "videoId": "tjZ8i9NM-nU",
+    "channelId": "UCjUxj4cyy_F0tVCT8WfmdZQ",
+    "name": "Berita RT",
     "category": "News",
-    "language": "urd",
-    "country": "PK"
+    "language": "msa",
+    "country": "MY"
   },
   {
     "videoId": "twhG7_jvA8g",
@@ -518,6 +574,14 @@
     "category": "News",
     "language": "zho",
     "country": "US"
+  },
+  {
+    "videoId": "ueJsgNKeq8c",
+    "channelId": "UCN1MXjng-rot-pglSJJ9SCA",
+    "name": "BIG TV Telugu News",
+    "category": "News",
+    "language": "tel",
+    "country": "IN"
   },
   {
     "videoId": "uf5aOXorX1w",
@@ -552,12 +616,28 @@
     "country": "UA"
   },
   {
+    "videoId": "xLUNoMMBsQA",
+    "channelId": "UCyEJX-kSj0kOOCS7Qlq2G7g",
+    "name": "Arise News",
+    "category": "News",
+    "language": "eng",
+    "country": "NG"
+  },
+  {
     "videoId": "y8JcLOL4yiQ",
     "channelId": "UC_yXEx3-Gk5drg9qhPzSQSg",
     "name": "Al Jazeera Balkans",
     "category": "News",
     "language": "bos",
     "country": "QA"
+  },
+  {
+    "videoId": "Y8re9iEbrkA",
+    "channelId": "UC-LRBEUet4xX2fRB3JitFxg",
+    "name": "ANews",
+    "category": "News",
+    "language": "eng",
+    "country": "TR"
   },
   {
     "videoId": "Y9O4yhCOuyk",

@@ -1,11 +1,11 @@
 [
   {
-    "videoId": "9ykTXun32y0",
-    "channelId": "UClOK2dPmq8k8Xwii_4TjRnQ",
-    "name": "Agamvani Channel",
+    "videoId": "7v-M9z6PmXI",
+    "channelId": "UCJ5bBXls09z7Cjwg-qBzAZQ",
+    "name": "Aşk-ı Nevâ",
     "category": "Religious",
-    "language": "hin",
-    "country": "IN"
+    "language": "tur",
+    "country": "TR"
   },
   {
     "videoId": "d3B2HLjr1pU",
@@ -24,11 +24,35 @@
     "country": "US"
   },
   {
+    "videoId": "McYfr4DHk8k",
+    "channelId": "UCMnz0yLX3afzFc8y822YO5g",
+    "name": "ARADANA TV",
+    "category": "Religious",
+    "language": "hin",
+    "country": "IN"
+  },
+  {
+    "videoId": "MkwxgOns4Nw",
+    "channelId": "UC4o8w_8iedvUVYp77TdheqA",
+    "name": "CAH Medya",
+    "category": "Religious",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
     "videoId": "p6xCcy9HL0E",
     "channelId": "UCqbQTS505CVDNNmPI0KwoYA",
     "name": "Al Khadimiyyah TV",
     "category": "Religious",
     "language": "fra",
     "country": "SN"
+  },
+  {
+    "videoId": "yS3ksBLNvYQ",
+    "channelId": "UCQ8kxAu_on_YzVPMjB03rqA",
+    "name": "Awakening TV",
+    "category": "Religious",
+    "language": "eng",
+    "country": "IN"
   }
 ]

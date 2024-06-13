@@ -1,8 +1,32 @@
 [
   {
+    "videoId": "Cpa-69T3Znk",
+    "channelId": "UCW53kA_WXKWVxJbpHrTOBfw",
+    "name": "Canal E",
+    "category": "Business",
+    "language": "spa",
+    "country": "AR"
+  },
+  {
     "videoId": "ebkvidfKmBQ",
     "channelId": "UC0mthbFRIm_uYkkzMX09sJw",
     "name": "Al-Arabiya Business",
+    "category": "Business",
+    "language": "ara",
+    "country": "AE"
+  },
+  {
+    "videoId": "iyOq8DhaMYw",
+    "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
+    "name": "Bloomberg Business News",
+    "category": "Business",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "Yxq9ThUBsq4",
+    "channelId": "UCxjpGbfoLy6oodYdiyzQE4g",
+    "name": "Asharq Business اقتصاد الشرق",
     "category": "Business",
     "language": "ara",
     "country": "AE"

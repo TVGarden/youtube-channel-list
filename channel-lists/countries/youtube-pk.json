@@ -1,5 +1,13 @@
 [
   {
+    "videoId": "1mYzBgRV6-k",
+    "channelId": "UCz2yxQJZgiB_5elTzqV7FiQ",
+    "name": "BOL NEWS",
+    "category": "News",
+    "language": "urd",
+    "country": "PK"
+  },
+  {
     "videoId": "MVzaSVKqWpc",
     "channelId": "UCsgC5cbz3DE2Shh34gNKiog",
     "name": "92 NEWS HD",
@@ -19,14 +27,6 @@
     "videoId": "qah4pyuH_Jo",
     "channelId": "UCcmpeVbSSQlZRvHfdC-CRwg",
     "name": "24 News HD",
-    "category": "News",
-    "language": "urd",
-    "country": "PK"
-  },
-  {
-    "videoId": "tqzSns9PYn4",
-    "channelId": "UCgBAPAcLsh_MAPvJprIz89w",
-    "name": "Aaj News",
     "category": "News",
     "language": "urd",
     "country": "PK"
