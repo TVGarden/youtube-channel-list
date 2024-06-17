@@ -1,5 +1,21 @@
 [
   {
+    "videoId": "_Rsm6cWgis8",
+    "channelId": "UCfJsOa7m1zKMS9T2dvIljfQ",
+    "name": "Cops",
+    "category": "Entertainment",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "9NyxcX3rhQs",
+    "channelId": "UCvJJ_dzjViJCoLf5uKUTwoA",
+    "name": "CNBC",
+    "category": "News",
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "videoId": "ay6xaygH16E",
     "channelId": "UCeY4C8Sbx8B4bIyREPSvORQ",
     "name": "The Smurfs",
@@ -64,6 +80,14 @@
     "country": "US"
   },
   {
+    "videoId": "iesPl7zRbVY",
+    "channelId": "UC1FbPiXx59_ltnFVx7IxWow",
+    "name": "FOX Weather",
+    "category": "News",
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "videoId": "iyOq8DhaMYw",
     "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
     "name": "Bloomberg Business News",
@@ -76,6 +100,14 @@
     "channelId": "UC6VJE6cD8ZPpe6ZOtVtlBTA",
     "name": "Amazing Facts TV",
     "category": "Religious",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "N-UGU17tJss",
+    "channelId": "UCtKY2DeY9GkBr35opV7E2Lg",
+    "name": "BTV",
+    "category": "General",
     "language": "eng",
     "country": "US"
   },

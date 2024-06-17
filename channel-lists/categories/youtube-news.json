@@ -8,6 +8,14 @@
     "country": "IN"
   },
   {
+    "videoId": "-3vWXpu_M38",
+    "channelId": "UClLuu9p9zMmE4TDg8s2E2cQ",
+    "name": "Citizen Extra",
+    "category": "News",
+    "language": "eng",
+    "country": "KE"
+  },
+  {
     "videoId": "-527PXkCtZw",
     "channelId": "UCQmJk0ErE_FiorcLBsDKORA",
     "name": "CGTN Arabic",
@@ -72,6 +80,14 @@
     "country": "IN"
   },
   {
+    "videoId": "4sTLXqKa_Y4",
+    "channelId": "UCsba91UGiQLFOb5DN3Z_AdQ",
+    "name": "CNBC Africa",
+    "category": "News",
+    "language": "eng",
+    "country": "ZA"
+  },
+  {
     "videoId": "6smlpd2BS5k",
     "channelId": "UCelk6aHijZq-GJBBB9YpReA",
     "name": "BBC News عربي",
@@ -86,6 +102,14 @@
     "category": "News",
     "language": "rus",
     "country": "UA"
+  },
+  {
+    "videoId": "7OljcHpzxoM",
+    "channelId": "UCdTup4kK7Ze08KYp7ReiuMw",
+    "name": "City 42",
+    "category": "News",
+    "language": "urd",
+    "country": "PK"
   },
   {
     "videoId": "8gs-9lsfVQU",
@@ -112,6 +136,14 @@
     "country": "UK"
   },
   {
+    "videoId": "9NyxcX3rhQs",
+    "channelId": "UCvJJ_dzjViJCoLf5uKUTwoA",
+    "name": "CNBC",
+    "category": "News",
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "videoId": "ABWJSa_6FWw",
     "channelId": "UCgu4v4HAioB0N5K6aq_H-WQ",
     "name": "Canal 66 Mexicali",
@@ -134,6 +166,14 @@
     "category": "News",
     "language": "fra",
     "country": "FR"
+  },
+  {
+    "videoId": "b6sRM0kuTP8",
+    "channelId": "UCB-8E662xOk1I3-wdhTMNiw",
+    "name": "City 21 News",
+    "category": "News",
+    "language": "urd",
+    "country": "PK"
   },
   {
     "videoId": "bCgJhh5qoog",
@@ -192,6 +232,14 @@
     "country": "EG"
   },
   {
+    "videoId": "dlSqshkDaPY",
+    "channelId": "UCUvXoiDEKI8VZJrr58g4VAw",
+    "name": "DBC NEWS",
+    "category": "News",
+    "language": "ben",
+    "country": "BD"
+  },
+  {
     "videoId": "DxhwEQjegYw",
     "channelId": "UCcfLuU0NFT0ZRoQy4jk6GdA",
     "name": "CGTN Français",
@@ -222,6 +270,14 @@
     "category": "News",
     "language": "spa",
     "country": "MX"
+  },
+  {
+    "videoId": "EPsQtn2Nf0o",
+    "channelId": "UC35KuZBNIj4S5Ls0yjY-UHQ",
+    "name": "GNN",
+    "category": "News",
+    "language": "urd",
+    "country": "PK"
   },
   {
     "videoId": "et0bSUddkn4",
@@ -312,6 +368,14 @@
     "country": "AE"
   },
   {
+    "videoId": "iesPl7zRbVY",
+    "channelId": "UC1FbPiXx59_ltnFVx7IxWow",
+    "name": "FOX Weather",
+    "category": "News",
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "videoId": "II_m28Bm-iM",
     "channelId": "UCPXTXMecYqnRKNdqdVOGSFg",
     "name": "TV9 Telugu News",
@@ -326,6 +390,14 @@
     "category": "News",
     "language": "tel",
     "country": "IN"
+  },
+  {
+    "videoId": "j59_Y6QWFwc",
+    "channelId": "UCgBAPAcLsh_MAPvJprIz89w",
+    "name": "Aaj TV",
+    "category": "News",
+    "language": "urd",
+    "country": "PK"
   },
   {
     "videoId": "J5qCNuadfLY",
@@ -448,6 +520,14 @@
     "country": "IN"
   },
   {
+    "videoId": "nzlK3NZw31w",
+    "channelId": "UC6UW8OOQQBGdwmnaYLh-qdw",
+    "name": "City 41",
+    "category": "News",
+    "language": "urd",
+    "country": "PK"
+  },
+  {
     "videoId": "ocFG3yor--M",
     "channelId": "UCba3hpU7EFBSk817y9qZkiA",
     "name": "LN+",
@@ -478,6 +558,14 @@
     "category": "News",
     "language": "urd",
     "country": "PK"
+  },
+  {
+    "videoId": "phjnyAXZAtI",
+    "channelId": "UCQeyQKc5p0d4B89K-DCzX5Q",
+    "name": "سعودي 24",
+    "category": "News",
+    "language": "ara",
+    "country": "SA"
   },
   {
     "videoId": "PKwLsAu-z10",
@@ -520,12 +608,28 @@
     "country": "AR"
   },
   {
+    "videoId": "s2waUruqze4",
+    "channelId": "UCys6fpFsyUIHMVhn9g10trQ",
+    "name": "CTIASIA 中天亞洲台",
+    "category": "News",
+    "language": "zho",
+    "country": "TW"
+  },
+  {
     "videoId": "sFZe_RPnNSo",
     "channelId": "UCiaePeoCqpU8hBHiNrgkzrA",
     "name": "El Doce",
     "category": "News",
     "language": "spa",
     "country": "AR"
+  },
+  {
+    "videoId": "snQc830GJzE",
+    "channelId": "UCPLKy4Ypb4mfblbjJI8Aljw",
+    "name": "News Central TV",
+    "category": "News",
+    "language": "eng",
+    "country": "NG"
   },
   {
     "videoId": "t9Ilev-uk4w",
@@ -584,6 +688,14 @@
     "country": "IN"
   },
   {
+    "videoId": "um4MfsDx8tQ",
+    "channelId": "UCqyt55f3byoK8rjgO0LBe4Q",
+    "name": "Desh TV",
+    "category": "News",
+    "language": "ben",
+    "country": "BD"
+  },
+  {
     "videoId": "UQ3P8ezZmzg",
     "channelId": "UCwKS2U-DwjPZZvM6mSXPKgA",
     "name": "Almagharibia TV | المغاربية",
@@ -600,6 +712,22 @@
     "country": "JP"
   },
   {
+    "videoId": "vVEpSqd033o",
+    "channelId": "UCDj9HHrRUzlsTuPQN0PHxjw",
+    "name": "Jamuna TV Plus",
+    "category": "News",
+    "language": "ben",
+    "country": "BD"
+  },
+  {
+    "videoId": "W8nThq62Vb4",
+    "channelId": "UCEXGDNclvmg6RW0vipJYsTQ",
+    "name": "Channels Television",
+    "category": "News",
+    "language": "eng",
+    "country": "NG"
+  },
+  {
     "videoId": "WY8sDvZdWEA",
     "channelId": "UCXoJ8kY9zpLBEz-8saaT3ew",
     "name": "ТСН | Єдині новини | 1+1",
@@ -614,6 +742,14 @@
     "category": "News",
     "language": "eng",
     "country": "NG"
+  },
+  {
+    "videoId": "XWq5kBlakcQ",
+    "channelId": "UC83jt4dlz1Gjl58fzQrrKZg",
+    "name": "CNA International",
+    "category": "News",
+    "language": "eng",
+    "country": "SG"
   },
   {
     "videoId": "y8JcLOL4yiQ",
@@ -670,5 +806,13 @@
     "category": "News",
     "language": "spa",
     "country": "CN"
+  },
+  {
+    "videoId": "yXiCk6HgKkc",
+    "channelId": "UCgp4A6I8LCWrhUzn-5SbKvA",
+    "name": "TVC News",
+    "category": "News",
+    "language": "eng",
+    "country": "NG"
   }
 ]

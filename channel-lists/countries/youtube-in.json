@@ -96,11 +96,27 @@
     "country": "IN"
   },
   {
+    "videoId": "P857H4ej-MQ",
+    "channelId": "UCmRbHAgG2k2vDUvb3xsEunQ",
+    "name": "CNBC-TV18",
+    "category": "Business",
+    "language": "eng",
+    "country": "IN"
+  },
+  {
     "videoId": "PKwLsAu-z10",
     "channelId": "UCv3rFzn-GHGtqzXiaq3sWNg",
     "name": "ABP Ananda",
     "category": "News",
     "language": "ben",
+    "country": "IN"
+  },
+  {
+    "videoId": "TD0A7fHAxKw",
+    "channelId": "UCQIycDaLsBpMKjOCeaKUYVg",
+    "name": "CNBC Awaaz",
+    "category": "Business",
+    "language": "hin",
     "country": "IN"
   },
   {
