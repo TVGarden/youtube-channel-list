@@ -1,5 +1,13 @@
 [
   {
+    "videoId": "bCgJhh5qoog",
+    "channelId": "UCahpxixMCwoANAftn6IxkTg",
+    "name": "Alarabiya",
+    "category": "News",
+    "language": "ara",
+    "country": "AE"
+  },
+  {
     "videoId": "ebkvidfKmBQ",
     "channelId": "UC0mthbFRIm_uYkkzMX09sJw",
     "name": "Al-Arabiya Business",
@@ -10,7 +18,7 @@
   {
     "videoId": "f6VpkfV7m4Y",
     "channelId": "UCRJUVYt9gjg8MnlGacySUdg",
-    "name": "Asharq News - الشرق للأخبار",
+    "name": "Asharq News",
     "category": "News",
     "language": "ara",
     "country": "AE"
@@ -34,7 +42,7 @@
   {
     "videoId": "me1fBxx9wJY",
     "channelId": "UCIJXOvggjKtCagMfxvcCzAA",
-    "name": "Sky News عربية",
+    "name": "Sky News Arabia",
     "category": "News",
     "language": "ara",
     "country": "AE"
@@ -42,7 +50,7 @@
   {
     "videoId": "Y9O4yhCOuyk",
     "channelId": "UCWnBTuzUUDpKhJPGuDQMynA",
-    "name": "Al Mashhad | المشهد",
+    "name": "Al Mashhad",
     "category": "News",
     "language": "ara",
     "country": "AE"

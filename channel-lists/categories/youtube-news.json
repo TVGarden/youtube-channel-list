@@ -26,7 +26,7 @@
   {
     "videoId": "0niffIGZRPc",
     "channelId": "UCl27leged0PT2kIrRtrFYKA",
-    "name": "RBC News 24 | 沖縄ニュース",
+    "name": "RBC News 24",
     "category": "News",
     "language": "jpn",
     "country": "JP"
@@ -38,14 +38,6 @@
     "category": "News",
     "language": "spa",
     "country": "AR"
-  },
-  {
-    "videoId": "1CwagPa36rI",
-    "channelId": "UCyky9PDwU5cClLPYSLVhQmQ",
-    "name": "A1TV NEWS",
-    "category": "News",
-    "language": "hin",
-    "country": "IN"
   },
   {
     "videoId": "1mYzBgRV6-k",
@@ -90,7 +82,7 @@
   {
     "videoId": "7heWRN252pQ",
     "channelId": "UCXoJ8kY9zpLBEz-8saaT3ew",
-    "name": "FREEДОМ TV | Телеканал ФРІДОМ",
+    "name": "FREEDOM",
     "category": "News",
     "language": "rus",
     "country": "UA"
@@ -114,7 +106,7 @@
   {
     "videoId": "8WX6YL9JnLw",
     "channelId": "UC0vn8ISa4LKMunLbzaXLnOQ",
-    "name": "GBNews",
+    "name": "GB News",
     "category": "News",
     "language": "eng",
     "country": "UK"
@@ -138,7 +130,7 @@
   {
     "videoId": "b6R9-7KZ8YM",
     "channelId": "UC25EuGAePOPvPrUA5cmu3dQ",
-    "name": "africanews Français",
+    "name": "Africanews French",
     "category": "News",
     "language": "fra",
     "country": "FR"
@@ -146,10 +138,10 @@
   {
     "videoId": "bCgJhh5qoog",
     "channelId": "UCahpxixMCwoANAftn6IxkTg",
-    "name": "AlArabiya | العربية",
+    "name": "Alarabiya",
     "category": "News",
     "language": "ara",
-    "country": "SA"
+    "country": "AE"
   },
   {
     "videoId": "biqpPMEVJrk",
@@ -202,18 +194,10 @@
   {
     "videoId": "DxhwEQjegYw",
     "channelId": "UCcfLuU0NFT0ZRoQy4jk6GdA",
-    "name": "CGTN Français Infos",
+    "name": "CGTN Français",
     "category": "News",
     "language": "fra",
     "country": "CN"
-  },
-  {
-    "videoId": "dY8KJ_Pls38",
-    "channelId": "UCkyrSWEcjZKpIwMxiPfOcgg",
-    "name": "5 канал",
-    "category": "News",
-    "language": "ukr",
-    "country": "UA"
   },
   {
     "videoId": "e2pgLUmaxGs",
@@ -258,7 +242,7 @@
   {
     "videoId": "f6VpkfV7m4Y",
     "channelId": "UCRJUVYt9gjg8MnlGacySUdg",
-    "name": "Asharq News - الشرق للأخبار",
+    "name": "Asharq News",
     "category": "News",
     "language": "ara",
     "country": "AE"
@@ -282,7 +266,7 @@
   {
     "videoId": "hA46WfBYdgo",
     "channelId": "6MiXqJdLpmYtR431Ow",
-    "name": "STVニュース北海道",
+    "name": "STV News",
     "category": "News",
     "language": "jpn",
     "country": "JP"
@@ -330,7 +314,7 @@
   {
     "videoId": "II_m28Bm-iM",
     "channelId": "UCPXTXMecYqnRKNdqdVOGSFg",
-    "name": "TV9 Telugu News LIVE",
+    "name": "TV9 Telugu News",
     "category": "News",
     "language": "tel",
     "country": "IN"
@@ -352,14 +336,6 @@
     "country": "JP"
   },
   {
-    "videoId": "JbGnKIM8c70",
-    "channelId": "UC5UKMEIoqvNDMSDz2_6Sn9g",
-    "name": "Canal 8 San Juan",
-    "category": "News",
-    "language": "spa",
-    "country": "AR"
-  },
-  {
     "videoId": "jm43IyjUv9E",
     "channelId": "UCziREKwhu2KgoDVNlRrfMBw",
     "name": "Canal de Panamá",
@@ -378,7 +354,7 @@
   {
     "videoId": "kIhw0QLt2Uk",
     "channelId": "UC5dYmq91e5_g54krpO06NJw",
-    "name": "Astro AWANI",
+    "name": "Astro Awani",
     "category": "News",
     "language": "msa",
     "country": "MY"
@@ -386,7 +362,7 @@
   {
     "videoId": "Ko18SgceYX8",
     "channelId": "UCf8w5m0YsRa8MHQ5bwSGmbw",
-    "name": "Asianet News | Malayalam",
+    "name": "Asianet News",
     "category": "News",
     "language": "mal",
     "country": "IN"
@@ -410,7 +386,7 @@
   {
     "videoId": "me1fBxx9wJY",
     "channelId": "UCIJXOvggjKtCagMfxvcCzAA",
-    "name": "Sky News عربية",
+    "name": "Sky News Arabia",
     "category": "News",
     "language": "ara",
     "country": "AE"
@@ -418,7 +394,7 @@
   {
     "videoId": "mn4DlkkqfAo",
     "channelId": "UCV01ajGl6nt09h40iDoHDNg",
-    "name": "Al Ekhbariya | قناة الإخبارية",
+    "name": "Al Ekhbariya",
     "category": "News",
     "language": "ara",
     "country": "SA"
@@ -458,18 +434,10 @@
   {
     "videoId": "NQjabLGdP5g",
     "channelId": "UC1_E8NeF5QHY2dtdLRBCCLA",
-    "name": "africanews",
+    "name": "Africanews English",
     "category": "News",
     "language": "eng",
     "country": "FR"
-  },
-  {
-    "videoId": "NwL9UHFVqGM",
-    "channelId": "UCsRnhjcUCR78Q3Ud6OXCTNg",
-    "name": "T13",
-    "category": "News",
-    "language": "spa",
-    "country": "CL"
   },
   {
     "videoId": "nyd-xznCpJc",
@@ -538,7 +506,7 @@
   {
     "videoId": "QoY06xa2vII",
     "channelId": "UCxA_zZwALQMmVMSZyLKC-Nw",
-    "name": "قناة بلقيس الفضائية Belqees TV",
+    "name": "Belqees TV",
     "category": "News",
     "language": "ara",
     "country": "YE"
@@ -562,7 +530,7 @@
   {
     "videoId": "t9Ilev-uk4w",
     "channelId": "UCBG57608Hukev3d0d-gvLhQ",
-    "name": "Current Time | НАСТОЯЩЕЕ ВРЕМЯ",
+    "name": "НАСТОЯЩЕЕ ВРЕМЯ",
     "category": "News",
     "language": "rus",
     "country": "US"
@@ -666,7 +634,7 @@
   {
     "videoId": "Y9O4yhCOuyk",
     "channelId": "UCWnBTuzUUDpKhJPGuDQMynA",
-    "name": "Al Mashhad | المشهد",
+    "name": "Al Mashhad",
     "category": "News",
     "language": "ara",
     "country": "AE"
@@ -681,8 +649,8 @@
   },
   {
     "videoId": "ylYJSBUgaMA",
-    "channelId": "民視新聞網 Formosa TV",
-    "name": "UC2VmWn8dAqkzlQqvy02E1PA",
+    "channelId": "UC2VmWn8dAqkzlQqvy02E1PA",
+    "name": "民視新聞網 Formosa TV",
     "category": "News",
     "language": "zho",
     "country": "TW"

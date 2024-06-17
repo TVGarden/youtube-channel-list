@@ -8,14 +8,6 @@
     "country": "IN"
   },
   {
-    "videoId": "1CwagPa36rI",
-    "channelId": "UCyky9PDwU5cClLPYSLVhQmQ",
-    "name": "A1TV NEWS",
-    "category": "News",
-    "language": "hin",
-    "country": "IN"
-  },
-  {
     "videoId": "1wECsnGZcfc",
     "channelId": "UCup3etEdjyF1L3sRbU-rKLw",
     "name": "24 News",
@@ -50,7 +42,7 @@
   {
     "videoId": "II_m28Bm-iM",
     "channelId": "UCPXTXMecYqnRKNdqdVOGSFg",
-    "name": "TV9 Telugu News LIVE",
+    "name": "TV9 Telugu News",
     "category": "News",
     "language": "tel",
     "country": "IN"
@@ -66,7 +58,7 @@
   {
     "videoId": "Ko18SgceYX8",
     "channelId": "UCf8w5m0YsRa8MHQ5bwSGmbw",
-    "name": "Asianet News | Malayalam",
+    "name": "Asianet News",
     "category": "News",
     "language": "mal",
     "country": "IN"
@@ -125,14 +117,6 @@
     "name": "ABN Digital Exclusives",
     "category": "News",
     "language": "tel",
-    "country": "IN"
-  },
-  {
-    "videoId": "yS3ksBLNvYQ",
-    "channelId": "UCQ8kxAu_on_YzVPMjB03rqA",
-    "name": "Awakening TV",
-    "category": "Religious",
-    "language": "eng",
     "country": "IN"
   }
 ]

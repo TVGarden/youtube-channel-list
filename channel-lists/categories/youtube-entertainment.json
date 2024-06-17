@@ -48,14 +48,6 @@
     "country": "US"
   },
   {
-    "videoId": "PWdRHYPxnsY",
-    "channelId": "UCfyPw7vYwIVb6OuDIf7qeOQ",
-    "name": "25 Film | TOLGSHOW",
-    "category": "Entertainment",
-    "language": "tur",
-    "country": "TR"
-  },
-  {
     "videoId": "SwkLV4Kfdh0",
     "channelId": "UC1X2nRRWPptr88W_N9RWS1g",
     "name": "A.S TV | أي إس تيفي",
@@ -70,13 +62,5 @@
     "category": "Entertainment",
     "language": "ara",
     "country": "AE"
-  },
-  {
-    "videoId": "yzvXhYKLIqI",
-    "channelId": "UCzKamNFKCvzLOrqfBUAsD6Q",
-    "name": "Al Nahar TV | بث مباشر",
-    "category": "Entertainment",
-    "language": "ara",
-    "country": "EG"
   }
 ]
