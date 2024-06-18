@@ -8,14 +8,6 @@
     "country": "IN"
   },
   {
-    "videoId": "-3vWXpu_M38",
-    "channelId": "UClLuu9p9zMmE4TDg8s2E2cQ",
-    "name": "Citizen Extra",
-    "category": "News",
-    "language": "eng",
-    "country": "KE"
-  },
-  {
     "videoId": "-527PXkCtZw",
     "channelId": "UCQmJk0ErE_FiorcLBsDKORA",
     "name": "CGTN Arabic",
@@ -30,6 +22,14 @@
     "category": "News",
     "language": "jpn",
     "country": "JP"
+  },
+  {
+    "videoId": "-TkpXa0ZJAI",
+    "channelId": "UCKwucPzHZ7zCUIf7If-Wo1g",
+    "name": "DD News",
+    "category": "News",
+    "language": "hin",
+    "country": "IN"
   },
   {
     "videoId": "0niffIGZRPc",
@@ -232,6 +232,14 @@
     "country": "EG"
   },
   {
+    "videoId": "DIAqkChREn8",
+    "channelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+    "name": "Dawn News",
+    "category": "News",
+    "language": "urd",
+    "country": "PK"
+  },
+  {
     "videoId": "dlSqshkDaPY",
     "channelId": "UCUvXoiDEKI8VZJrr58g4VAw",
     "name": "DBC NEWS",
@@ -366,6 +374,14 @@
     "category": "News",
     "language": "ara",
     "country": "AE"
+  },
+  {
+    "videoId": "i0LqVy0eh24",
+    "channelId": "UC1UOne4B9wIrMe0KMwe-7_g",
+    "name": "CTVN AKD PLUS",
+    "category": "News",
+    "language": "ben",
+    "country": "IN"
   },
   {
     "videoId": "iesPl7zRbVY",
@@ -560,12 +576,12 @@
     "country": "PK"
   },
   {
-    "videoId": "phjnyAXZAtI",
-    "channelId": "UCQeyQKc5p0d4B89K-DCzX5Q",
-    "name": "سعودي 24",
+    "videoId": "phReZqihpAI",
+    "channelId": "UCGDQNvybfDDeGTf4GtigXaw",
+    "name": "DD India",
     "category": "News",
-    "language": "ara",
-    "country": "SA"
+    "language": "eng",
+    "country": "IN"
   },
   {
     "videoId": "PKwLsAu-z10",
@@ -648,14 +664,6 @@
     "country": "TW"
   },
   {
-    "videoId": "Tj3gkmDaI7I",
-    "channelId": "UCUy__zD6aeuZKUXX8kUc4ZQ",
-    "name": "Česko-Slovenská regionálna televízia",
-    "category": "News",
-    "language": "slk",
-    "country": "SK"
-  },
-  {
     "videoId": "tjZ8i9NM-nU",
     "channelId": "UCjUxj4cyy_F0tVCT8WfmdZQ",
     "name": "Berita RT",
@@ -686,14 +694,6 @@
     "category": "News",
     "language": "tel",
     "country": "IN"
-  },
-  {
-    "videoId": "um4MfsDx8tQ",
-    "channelId": "UCqyt55f3byoK8rjgO0LBe4Q",
-    "name": "Desh TV",
-    "category": "News",
-    "language": "ben",
-    "country": "BD"
   },
   {
     "videoId": "UQ3P8ezZmzg",
