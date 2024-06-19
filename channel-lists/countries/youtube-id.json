@@ -1,9 +1,41 @@
 [
   {
+    "videoId": "53UByQBzuLw",
+    "channelId": "UCoSkllfpgmFHtbVK835QaQg",
+    "name": "Official iNews",
+    "category": "News",
+    "language": "ind",
+    "country": "ID"
+  },
+  {
+    "videoId": "dPRdBbsBy98",
+    "channelId": "UCiTK5pzTj6BMIO14YYLA_jA",
+    "name": "Gazwah TV",
+    "category": "Religious",
+    "language": "ind",
+    "country": "ID"
+  },
+  {
+    "videoId": "uLMeB-ShnEw",
+    "channelId": "UCem4zrffr93cp-o8cOPDhdQ",
+    "name": "Media Sunnah Aceh TV",
+    "category": "Religious",
+    "language": "ind",
+    "country": "ID"
+  },
+  {
     "videoId": "yNKvkPJl-tg",
     "channelId": "UCER4rvDnRBPr_ncYW4UCZjg",
     "name": "tvOneNews",
     "category": "News",
+    "language": "ind",
+    "country": "ID"
+  },
+  {
+    "videoId": "ZsSYbpIes9A",
+    "channelId": "UCWcErqFw28UlHluawiWLO2g",
+    "name": "Fatwa TV Official",
+    "category": "Religious",
     "language": "ind",
     "country": "ID"
   }

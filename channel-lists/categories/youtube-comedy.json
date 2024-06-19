@@ -1,10 +1,42 @@
 [
   {
+    "videoId": "aM08YIndoiA",
+    "channelId": "UCFzph9x-n9FR52BI94Zfgww",
+    "name": "MYSTERY SCIENCE THEATER 3000 | FOREVER-a-thon",
+    "category": "Comedy",
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "videoId": "JX5mSkUfxmk",
     "channelId": "UCdlEXiVLTEvA280oyMvr8Kw",
     "name": "Güldür Güldür Show",
     "category": "Comedy",
     "language": "tur",
     "country": "TR"
+  },
+  {
+    "videoId": "L86tCKYXk7Y",
+    "channelId": "UCFzph9x-n9FR52BI94Zfgww",
+    "name": "MYSTERY SCIENCE THEATER 3000 | RiffTrax",
+    "category": "Comedy",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "PLwMPyL1sUE",
+    "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
+    "name": "Shout! Studios | The Whitest Kids U' Know",
+    "category": "Comedy",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "rhMqcflrOeQ",
+    "channelId": "UCFzph9x-n9FR52BI94Zfgww",
+    "name": "MYSTERY SCIENCE THEATER 3000 | Shorts-a-thon",
+    "category": "Comedy",
+    "language": "eng",
+    "country": "US"
   }
 ]

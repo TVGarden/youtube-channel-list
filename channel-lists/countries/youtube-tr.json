@@ -1,9 +1,41 @@
 [
   {
+    "videoId": "-HJwrahoMsQ",
+    "channelId": "UCf_ResXZzE-o18zACUEmyvQ",
+    "name": "Halk TV",
+    "category": "News",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "videoId": "2bJMbofRq5k",
+    "channelId": "UCndv_71XKrbKshL_LjM3pAA",
+    "name": "Her An Kur'an Her An Zikir",
+    "category": "Religious",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
     "videoId": "5Whk9MVTpI4",
     "channelId": "UCehmwSZGPod7JFbHJspmxzQ",
     "name": "Cartoon Network Türkiye | Kral Şakir",
     "category": "Kids",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "videoId": "6BX-NUzBSp8",
+    "channelId": "UCtc-a9ZUIg0_5HpsPxEO7Qg",
+    "name": "Haber Global",
+    "category": "News",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "videoId": "7auFhFsoTdA",
+    "channelId": "UCABzirZ6FyebIf8YSptKMwQ",
+    "name": "Kurtlar Vadisi",
+    "category": "Series",
     "language": "tur",
     "country": "TR"
   },
@@ -16,10 +48,58 @@
     "country": "TR"
   },
   {
+    "videoId": "a5OTwdV7R08",
+    "channelId": "UCk-I0F9R6AqhPFg8hrgmX_A",
+    "name": "Radyo Dinle | Radyo 7",
+    "category": "Music",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "videoId": "AacykI39EFU",
+    "channelId": "UCuqE0wyaY7XnYm6QYOa1lLw",
+    "name": "Radyo Dinle | Radyo Arabesk",
+    "category": "Music",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "videoId": "Amb7_Vi8qOw",
+    "channelId": "UCuqE0wyaY7XnYm6QYOa1lLw",
+    "name": "Radyo Dinle | Damar FM",
+    "category": "Music",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "videoId": "B99h3vvUIyU",
+    "channelId": "UCmeIlUqcw49tOsE82LXz_zg",
+    "name": "Fatmagül'ün Suçu Ne?",
+    "category": "Series",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "videoId": "CD-IE4Dh_p0",
+    "channelId": "UCGKPVBUcJcEMvqceX3Pl5Lw",
+    "name": "Emret Komutanım",
+    "category": "Series",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
     "videoId": "CEkP-MmEPM0",
     "channelId": "UCtzcebnk0sLhCBtJy7GJaCg",
     "name": "Çiftçi TV",
     "category": "Education",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "videoId": "Ds4XXYTWMcc",
+    "channelId": "UCuqE0wyaY7XnYm6QYOa1lLw",
+    "name": "Radyo Dinle | Akustik Türküle",
+    "category": "Music",
     "language": "tur",
     "country": "TR"
   },
@@ -32,10 +112,34 @@
     "country": "TR"
   },
   {
+    "videoId": "ExlWtnvFm5E",
+    "channelId": "UCk-I0F9R6AqhPFg8hrgmX_A",
+    "name": "Radyo Dinle | Best FM",
+    "category": "Music",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "videoId": "fgPhoaEqouA",
+    "channelId": "UCpHlvQ5HoyDgRPAxjUpNZvg",
+    "name": "Elapro Sahne",
+    "category": "Music",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
     "videoId": "G01VzjfaSRI",
     "channelId": "UCQgq6bnp3N_ZlyNq5dHmkNw",
     "name": "BYHORSES TV",
     "category": "Sports",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "videoId": "GBMLvut9sxc",
+    "channelId": "UC5Hq5hQex9I53tD6UfdUcWQ",
+    "name": "Radyo Dinle | Radyo Pop Time",
+    "category": "Music",
     "language": "tur",
     "country": "TR"
   },
@@ -48,10 +152,34 @@
     "country": "TR"
   },
   {
+    "videoId": "hfx8H7YrmTw",
+    "channelId": "UCHumSHRFQ8skiHTY75sxytQ",
+    "name": "Gülşah Film | Kemal Sunal Filmleri",
+    "category": "Classic",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
     "videoId": "I_RsWDrgg5I",
     "channelId": "UCehmwSZGPod7JFbHJspmxzQ",
     "name": "Cartoon Network Türkiye",
     "category": "Kids",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "videoId": "i0RoZvIq0k0",
+    "channelId": "UCE1XdVHzOdMnUsUMatIzjag",
+    "name": "Kemal Sunal Filmleri",
+    "category": "Classic",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "videoId": "iQt208KYF00",
+    "channelId": "UCk-I0F9R6AqhPFg8hrgmX_A",
+    "name": "Radyo Dinle | Türkçe Pop",
+    "category": "Music",
     "language": "tur",
     "country": "TR"
   },
@@ -100,6 +228,38 @@
     "channelId": "UCPe9vNjHF1kEExT5kHwc7aw",
     "name": "beIN SPORTS Türkiye",
     "category": "Sports",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "videoId": "PTp6hmibGSc",
+    "channelId": "UCulg-mlXf314L1pemPqCVng",
+    "name": "Film Atölyesi | Şener Şen Filmleri",
+    "category": "Classic",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "videoId": "T1S5ZKS7NS4",
+    "channelId": "UCuqE0wyaY7XnYm6QYOa1lLw",
+    "name": "Radyo Dinle | Radyo Türkü",
+    "category": "Music",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "videoId": "TPJ7Q9rWMiM",
+    "channelId": "UCk-I0F9R6AqhPFg8hrgmX_A",
+    "name": "Radyo Dinle | Pal Nostalji",
+    "category": "Music",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "videoId": "uSBjB6Z6UTg",
+    "channelId": "UCgH3Vo5DVMsrbDSUoSecm0Q",
+    "name": "Lider Haber",
+    "category": "News",
     "language": "tur",
     "country": "TR"
   },

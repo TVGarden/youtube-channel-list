@@ -24,6 +24,14 @@
     "country": "IN"
   },
   {
+    "videoId": "2CZC-VmIeOQ",
+    "channelId": "UCMg2yY8OzHhw6mOvgIkaXYg",
+    "name": "Hindu Dharmam",
+    "category": "Religious",
+    "language": "tel",
+    "country": "IN"
+  },
+  {
     "videoId": "4DPyUQqTxMs",
     "channelId": "UCu9Fj9QRAg26ZY9DhF8HSrQ",
     "name": "DD Urdu",
@@ -48,9 +56,25 @@
     "country": "IN"
   },
   {
+    "videoId": "GI-8sFxRoyw",
+    "channelId": "UCJi8M0hRKjz8SLPvJKEVTOg",
+    "name": "ETV Andhra Pradesh",
+    "category": "News",
+    "language": "tel",
+    "country": "IN"
+  },
+  {
     "videoId": "HLv-EF57rcY",
     "channelId": "UCl5YgCiwSRVOiC2Nd1P9v1A",
     "name": "99TV Telugu",
+    "category": "News",
+    "language": "tel",
+    "country": "IN"
+  },
+  {
+    "videoId": "HoYsWagMFfE",
+    "channelId": "UC_2irx_BQR7RsBKmUV9fePQ",
+    "name": "ABN Telugu ",
     "category": "News",
     "language": "tel",
     "country": "IN"
@@ -75,6 +99,14 @@
     "videoId": "j_XjJmh0BXk",
     "channelId": "UCAR3h_9fLV82N2FH4cE4RKw",
     "name": "TV5 News",
+    "category": "News",
+    "language": "tel",
+    "country": "IN"
+  },
+  {
+    "videoId": "JnuYyOJ0XLU",
+    "channelId": "UCu6edg8_eu3-A8ylgaWereA",
+    "name": "T News Telugu",
     "category": "News",
     "language": "tel",
     "country": "IN"
@@ -136,6 +168,14 @@
     "country": "IN"
   },
   {
+    "videoId": "oWnkRvZb5fE",
+    "channelId": "UC6ickpgDIsltU_-8CbZaksQ",
+    "name": "ETV Telangana",
+    "category": "News",
+    "language": "tel",
+    "country": "IN"
+  },
+  {
     "videoId": "P857H4ej-MQ",
     "channelId": "UCmRbHAgG2k2vDUvb3xsEunQ",
     "name": "CNBC-TV18",
@@ -160,11 +200,27 @@
     "country": "IN"
   },
   {
+    "videoId": "RYqewnoTqWQ",
+    "channelId": "UCZ8S3qwowiFztAQBRTawWfA",
+    "name": "Hare Krsna TV",
+    "category": "Entertainment",
+    "language": "hin",
+    "country": "IN"
+  },
+  {
     "videoId": "TD0A7fHAxKw",
     "channelId": "UCQIycDaLsBpMKjOCeaKUYVg",
     "name": "CNBC Awaaz",
     "category": "Business",
     "language": "hin",
+    "country": "IN"
+  },
+  {
+    "videoId": "TgxzTaXnoO8",
+    "channelId": "UC1FKQ3BEs3ctdzHsfb69vkw",
+    "name": "FGN Channel",
+    "category": "Education",
+    "language": "urd",
     "country": "IN"
   },
   {

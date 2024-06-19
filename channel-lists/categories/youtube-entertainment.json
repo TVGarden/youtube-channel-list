@@ -40,12 +40,12 @@
     "country": "TR"
   },
   {
-    "videoId": "FuUKx_XY5U4",
-    "channelId": "UCUM1n1Cb_cbnYTY45GvtyJw",
-    "name": "Canal Diez Mar del Plata",
+    "videoId": "fwGSqHvUyyQ",
+    "channelId": "UCQ08tNTPiBn44c975S81ftg",
+    "name": "Televisa Del Golfo",
     "category": "Entertainment",
     "language": "spa",
-    "country": "AR"
+    "country": "MX"
   },
   {
     "videoId": "iCpJ43WWL5w",
@@ -54,6 +54,22 @@
     "category": "Entertainment",
     "language": "eng",
     "country": "UK"
+  },
+  {
+    "videoId": "IX9FJJTZ-Po",
+    "channelId": "UCMpWpGXG8tlWA6Xban2m6oA",
+    "name": "Diva Depressão",
+    "category": "Entertainment",
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "videoId": "jurk0xk8qyE",
+    "channelId": "UCsnsCFJMPIJaUSVP_hLVUCA",
+    "name": "Discovery Australia",
+    "category": "Entertainment",
+    "language": "eng",
+    "country": "AU"
   },
   {
     "videoId": "mCXXYE1tPVg",
@@ -88,12 +104,36 @@
     "country": "MX"
   },
   {
+    "videoId": "RYqewnoTqWQ",
+    "channelId": "UCZ8S3qwowiFztAQBRTawWfA",
+    "name": "Hare Krsna TV",
+    "category": "Entertainment",
+    "language": "hin",
+    "country": "IN"
+  },
+  {
     "videoId": "SwkLV4Kfdh0",
     "channelId": "UC1X2nRRWPptr88W_N9RWS1g",
     "name": "A.S TV | أي إس تيفي",
     "category": "Entertainment",
     "language": "ara",
     "country": "MA"
+  },
+  {
+    "videoId": "WFDbJY0eBGI",
+    "channelId": "UCw7SNYrYei7F5ttQO3o-rpA",
+    "name": "Disney Channel | Wizards of Waverly Place",
+    "category": "Entertainment",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "x8pV0qE9ToM",
+    "channelId": "UCYozHHDnLnQs2yc2k3t8cPA",
+    "name": "El Ocho",
+    "category": "Entertainment",
+    "language": "spa",
+    "country": "AR"
   },
   {
     "videoId": "YKHWAb6b48I",

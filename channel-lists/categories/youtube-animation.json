@@ -1,11 +1,51 @@
 [
   {
+    "videoId": "_7TLt-Ox7m0",
+    "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
+    "name": "Shout! Studios | M.A.S.K.",
+    "category": "Animation",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "06e876rxY40",
+    "channelId": "UCQ3h_JrL6nQnF7oNY6t7zIw",
+    "name": "La Oveja Shaun",
+    "category": "Animation",
+    "language": "spa",
+    "country": "ES"
+  },
+  {
+    "videoId": "1nlcSWKi4ZY",
+    "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
+    "name": "TokuSHOUTsu | Ultraman Movie Marathon",
+    "category": "Animation",
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "videoId": "6LZqtJjU3gA",
     "channelId": "UCqKyIUdsk78t85MxLRSR5kQ",
     "name": "Soviet Toons | Ну, погоди!",
     "category": "Animation",
     "language": "rus",
     "country": "UK"
+  },
+  {
+    "videoId": "BdeRBMTJlR8",
+    "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
+    "name": "TokuSHOUTsu | Mach GoGoGo",
+    "category": "Animation",
+    "language": "jpn",
+    "country": "US"
+  },
+  {
+    "videoId": "BvfeESeYx50",
+    "channelId": "UCxwitsUVNzwS5XBSC5UQV8Q",
+    "name": "Marvel HQ | Marvel's Spider-Man",
+    "category": "Animation",
+    "language": "eng",
+    "country": "US"
   },
   {
     "videoId": "cOLQACygN5A",
@@ -16,11 +56,75 @@
     "country": "UK"
   },
   {
+    "videoId": "ex9QWiQZM-o",
+    "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
+    "name": "Shout! Studios | FARSCAPE (Français)",
+    "category": "Animation",
+    "language": "fra",
+    "country": "US"
+  },
+  {
+    "videoId": "iiEwnKxG12c",
+    "channelId": "UCHS2LM1n3f5cyL-ebgkqyLw",
+    "name": "Союзмультфильм | Ну, погоди!",
+    "category": "Animation",
+    "language": "rus",
+    "country": "RU"
+  },
+  {
     "videoId": "lvL7NBq9akc",
     "channelId": "UC1Wp3qfvlq1GybWL6C85jSw",
     "name": "Anime Vanguard Live",
     "category": "Animation",
     "language": "jpn",
     "country": "JP"
+  },
+  {
+    "videoId": "pWT0tHoAVuY",
+    "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
+    "name": "TokuSHOUTsu | ReBoot",
+    "category": "Animation",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "rHZp0WJT-V0",
+    "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
+    "name": "TokuSHOUTsu | Digimon Adventure tri.",
+    "category": "Animation",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "rQX8tV2Z15M",
+    "channelId": "UCTsgmnXbWotzbR36vU0YPrA",
+    "name": "Teenage Mutant Ninja Turtles | TMNT",
+    "category": "Animation",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "UAIJhVmaBZo",
+    "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
+    "name": "Shout! Studios | Speed Racer",
+    "category": "Animation",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "Vk7AMehrHw4",
+    "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
+    "name": "Shout! Studios | ReBoot",
+    "category": "Animation",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "W9WeTzvwyMw",
+    "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
+    "name": "TokuSHOUTsu | Speed Racer",
+    "category": "Animation",
+    "language": "eng",
+    "country": "US"
   }
 ]

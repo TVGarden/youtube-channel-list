@@ -14,5 +14,21 @@
     "category": "Travel",
     "language": "eng",
     "country": "LI"
+  },
+  {
+    "videoId": "EE1Vnk0g6t4",
+    "channelId": "UC3o_gaqvLoPSRVMc2GmkDrg",
+    "name": "Expoza Travel",
+    "category": "Travel",
+    "language": "ita",
+    "country": "IT"
+  },
+  {
+    "videoId": "HfgIFGbdGJ0",
+    "channelId": "UCRuyAVeVd7oUwh0LWmxxBBQ",
+    "name": "earthTV Showcase",
+    "category": "Travel",
+    "language": "eng",
+    "country": "US"
   }
 ]

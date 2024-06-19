@@ -16,11 +16,115 @@
     "country": "FR"
   },
   {
+    "videoId": "CQ3KsEbsYHs",
+    "channelId": "UCACdxU3VrJIJc7ujxtHWs1w",
+    "name": "euronews (Deutsch)",
+    "category": "News",
+    "language": "deu",
+    "country": "FR"
+  },
+  {
+    "videoId": "cx0LcJBpnbA",
+    "channelId": "UCbATDExtWstHnwWELZnXNZA",
+    "name": "euronews (România)",
+    "category": "News",
+    "language": "ron",
+    "country": "FR"
+  },
+  {
+    "videoId": "jAn7L2Kt32U",
+    "channelId": "UC4Ct8gIf9f0n4mdyGsFiZRA",
+    "name": "euronews (Magyarul)",
+    "category": "News",
+    "language": "hun",
+    "country": "FR"
+  },
+  {
+    "videoId": "l8PMl7tUDIE",
+    "channelId": "UCCCPCZNChQdGa9EkATeye4g",
+    "name": "France 24",
+    "category": "News",
+    "language": "fra",
+    "country": "FR"
+  },
+  {
+    "videoId": "lwYzwdBiaho",
+    "channelId": "UCFzJjgVicCtFxJ5B0P_ei8A",
+    "name": "euronews (Русский)",
+    "category": "News",
+    "language": "rus",
+    "country": "FR"
+  },
+  {
+    "videoId": "NiRIbKwAejk",
+    "channelId": "UCW2QcKZiU8aUGg4yxCIditg",
+    "name": "euronews (Français)",
+    "category": "News",
+    "language": "fra",
+    "country": "FR"
+  },
+  {
     "videoId": "NQjabLGdP5g",
     "channelId": "UC1_E8NeF5QHY2dtdLRBCCLA",
     "name": "Africanews English",
     "category": "News",
     "language": "eng",
+    "country": "FR"
+  },
+  {
+    "videoId": "O9mOtdZ-nSk",
+    "channelId": "UCyoGb3SMlTlB8CLGVH4c8Rw",
+    "name": "euronews (Español)",
+    "category": "News",
+    "language": "spa",
+    "country": "FR"
+  },
+  {
+    "videoId": "pUcmpyynASM",
+    "channelId": "UC1mX9vuLOYf8fhaXS_KcDRg",
+    "name": "euronews (Italiano)",
+    "category": "News",
+    "language": "ita",
+    "country": "FR"
+  },
+  {
+    "videoId": "pykpO5kQJ98",
+    "channelId": "UCSrZ3UV4jOidv8ppoVuvW9Q",
+    "name": "euronews (English)",
+    "category": "News",
+    "language": "eng",
+    "country": "FR"
+  },
+  {
+    "videoId": "uWIhV9gQClg",
+    "channelId": "UC8HJZNfDPoySgW9DN3YGNaA",
+    "name": "euronews (Ελληνικά)",
+    "category": "News",
+    "language": "ell",
+    "country": "FR"
+  },
+  {
+    "videoId": "XuZAl-ZPEcA",
+    "channelId": "UCUmEPYxmnyQDeRUcFkslmQw",
+    "name": "euronews (Português)",
+    "category": "News",
+    "language": "por",
+    "country": "FR"
+  },
+  {
+    "videoId": "Y-IlMeCCtIg",
+    "channelId": "UCUdOoVWuWmgo1wByzcsyKDQ",
+    "name": "France 24 Espanol",
+    "category": "News",
+    "language": "spa",
+    "country": "FR"
+  },
+  {
+    "videoId": "Z-Nwo-ypKtM",
+    "channelId": "UCO6K_kkdP-lnSCiO3tPx7WA",
+    "name": "franceinfo",
+    "category": "News",
+    "language": "fra",
     "country": "FR"
   }
 ]

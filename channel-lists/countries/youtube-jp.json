@@ -56,6 +56,14 @@
     "country": "JP"
   },
   {
+    "videoId": "EHe_t9ZjDDA",
+    "channelId": "UCgrmHAblzN-QzMMgl2oNRog",
+    "name": "RKB毎日放送NEWS",
+    "category": "News",
+    "language": "jpn",
+    "country": "JP"
+  },
+  {
     "videoId": "gXvMSjtaMPg",
     "channelId": "UCATnyu9lou_Lw43gvyoh8uA",
     "name": "RCC News 24",
@@ -80,10 +88,42 @@
     "country": "JP"
   },
   {
+    "videoId": "Jc_MexRxmDM",
+    "channelId": "UCCTpf5c_9HDo_OSu3aX8uFQ",
+    "name": "HBCニュース　北海道放送",
+    "category": "News",
+    "language": "jpn",
+    "country": "JP"
+  },
+  {
     "videoId": "lvL7NBq9akc",
     "channelId": "UC1Wp3qfvlq1GybWL6C85jSw",
     "name": "Anime Vanguard Live",
     "category": "Animation",
+    "language": "jpn",
+    "country": "JP"
+  },
+  {
+    "videoId": "ohI356mwBp8",
+    "channelId": "UC6AG81pAkf6Lbi_1VC5NmPA",
+    "name": "TBS NEWS DIG Powered by JNN",
+    "category": "News",
+    "language": "jpn",
+    "country": "JP"
+  },
+  {
+    "videoId": "PCccV7cCW8M",
+    "channelId": "UCqPDZgcJtyPFhJM4qx-PuKg",
+    "name": "鹿児島ニュースKTS",
+    "category": "News",
+    "language": "jpn",
+    "country": "JP"
+  },
+  {
+    "videoId": "SM5ukgrbamY",
+    "channelId": "UCtf-aWCCwZPep5woQd9lAIQ",
+    "name": "サンテレビニュース",
+    "category": "News",
     "language": "jpn",
     "country": "JP"
   },

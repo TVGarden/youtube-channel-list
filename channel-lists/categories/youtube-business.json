@@ -1,5 +1,13 @@
 [
   {
+    "videoId": "4etMOBpFCqM",
+    "channelId": "UCWVqdPTigfQ-cSNwG7O9MeA",
+    "name": "EKHON TV",
+    "category": "Business",
+    "language": "ben",
+    "country": "BD"
+  },
+  {
     "videoId": "Cpa-69T3Znk",
     "channelId": "UCW53kA_WXKWVxJbpHrTOBfw",
     "name": "Canal E",
@@ -38,6 +46,14 @@
     "category": "Business",
     "language": "hin",
     "country": "IN"
+  },
+  {
+    "videoId": "wCvHGHgn1BE",
+    "channelId": "UCqGxkgVnPc7arUR7MdCi99g",
+    "name": "GCNTV Korea",
+    "category": "Business",
+    "language": "kor",
+    "country": "KR"
   },
   {
     "videoId": "Yxq9ThUBsq4",

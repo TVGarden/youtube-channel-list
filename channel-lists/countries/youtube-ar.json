@@ -56,10 +56,10 @@
     "country": "AR"
   },
   {
-    "videoId": "FuUKx_XY5U4",
-    "channelId": "UCUM1n1Cb_cbnYTY45GvtyJw",
-    "name": "Canal Diez Mar del Plata",
-    "category": "Entertainment",
+    "videoId": "h_ZkpazaMus",
+    "channelId": "UCy3MW5Goy1epjhvtjalzbKg",
+    "name": "Extratv",
+    "category": "News",
     "language": "spa",
     "country": "AR"
   },
@@ -72,10 +72,26 @@
     "country": "AR"
   },
   {
+    "videoId": "iAi3lMiH_4s",
+    "channelId": "UCtc_WjDRwCrZSEq2WEwD7XQ",
+    "name": "Pop Radio 101.5",
+    "category": "Music",
+    "language": "spa",
+    "country": "AR"
+  },
+  {
     "videoId": "meJ21sM2yJc",
     "channelId": "UCOV_Vx1baZJY9Tfvgm-UI3w",
     "name": "Canal de la Ciudad",
     "category": "Entertainment",
+    "language": "spa",
+    "country": "AR"
+  },
+  {
+    "videoId": "MNAgWGlxMa4",
+    "channelId": "UC1Oa7gHuqzGHB90FPb0ssPA",
+    "name": "FMVale975",
+    "category": "Music",
     "language": "spa",
     "country": "AR"
   },
@@ -99,6 +115,22 @@
     "videoId": "sFZe_RPnNSo",
     "channelId": "UCiaePeoCqpU8hBHiNrgkzrA",
     "name": "El Doce",
+    "category": "News",
+    "language": "spa",
+    "country": "AR"
+  },
+  {
+    "videoId": "x8pV0qE9ToM",
+    "channelId": "UCYozHHDnLnQs2yc2k3t8cPA",
+    "name": "El Ocho",
+    "category": "Entertainment",
+    "language": "spa",
+    "country": "AR"
+  },
+  {
+    "videoId": "XCZNSPsMCdI",
+    "channelId": "UCy-r-BQ5BQRU6rzGS73-WBQ",
+    "name": "El Once TV",
     "category": "News",
     "language": "spa",
     "country": "AR"

@@ -1,9 +1,25 @@
 [
   {
+    "videoId": "3IgHa6SSLXw",
+    "channelId": "UCbGaZEFvBLMe8eNgoBFDRZg",
+    "name": "GemeindeTV",
+    "category": "General",
+    "language": "deu",
+    "country": "AT"
+  },
+  {
     "videoId": "NIuO6hrFTrg",
     "channelId": "UC9xLSF0SZDbVa70iTpghQBw",
     "name": "Wetter-Panorama",
     "category": "Weather",
+    "language": "deu",
+    "country": "AT"
+  },
+  {
+    "videoId": "XFkCh7SLruI",
+    "channelId": "UC1y1GtNgGiAUBfQz87ltjag",
+    "name": "exxpressTV",
+    "category": "News",
     "language": "deu",
     "country": "AT"
   }

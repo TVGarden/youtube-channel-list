@@ -32,6 +32,14 @@
     "country": "PK"
   },
   {
+    "videoId": "Dp2na0xhqYE",
+    "channelId": "UC0Um3pnZ2WGBEeoA3BX2sKw",
+    "name": "HUM News",
+    "category": "News",
+    "language": "urd",
+    "country": "PK"
+  },
+  {
     "videoId": "EPsQtn2Nf0o",
     "channelId": "UC35KuZBNIj4S5Ls0yjY-UHQ",
     "name": "GNN",
@@ -75,6 +83,22 @@
     "videoId": "qah4pyuH_Jo",
     "channelId": "UCcmpeVbSSQlZRvHfdC-CRwg",
     "name": "24 News HD",
+    "category": "News",
+    "language": "urd",
+    "country": "PK"
+  },
+  {
+    "videoId": "SxzSL8GBJ4A",
+    "channelId": "UCnMBV5Iw4WqKILKue1nP6Hg",
+    "name": "Dunya News",
+    "category": "News",
+    "language": "urd",
+    "country": "PK"
+  },
+  {
+    "videoId": "yVswoIWLq6c",
+    "channelId": "UCTur7oM6mLL0rM2k0znuZpQ",
+    "name": "Express News",
     "category": "News",
     "language": "urd",
     "country": "PK"

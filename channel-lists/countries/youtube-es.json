@@ -1,5 +1,13 @@
 [
   {
+    "videoId": "06e876rxY40",
+    "channelId": "UCQ3h_JrL6nQnF7oNY6t7zIw",
+    "name": "La Oveja Shaun",
+    "category": "Animation",
+    "language": "spa",
+    "country": "ES"
+  },
+  {
     "videoId": "mzdfGCdNSHQ",
     "channelId": "UC7QZIf0dta-XPXsp9Hv4dTw",
     "name": "RTVE Noticias 24H",
@@ -12,6 +20,14 @@
     "channelId": "UChtLgH7ZJLqLGWJpBnzy9Lg",
     "name": "Canal Sur Andalucía",
     "category": "Culture",
+    "language": "spa",
+    "country": "ES"
+  },
+  {
+    "videoId": "ZbNYkVlucEo",
+    "channelId": "UCZSw3jfFZo_8I9BHSMlT2Fg",
+    "name": "El Futuro En tu Mano",
+    "category": "Lifestyle",
     "language": "spa",
     "country": "ES"
   }
