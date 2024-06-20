@@ -8,6 +8,14 @@
     "country": "IN"
   },
   {
+    "videoId": "-6QbFGYKhy0",
+    "channelId": "UCISKj2--Nxrs5s60T3wq5Pg",
+    "name": "India News Haryana",
+    "category": "News",
+    "language": "hin",
+    "country": "IN"
+  },
+  {
     "videoId": "-TkpXa0ZJAI",
     "channelId": "UCKwucPzHZ7zCUIf7If-Wo1g",
     "name": "DD News",
@@ -32,19 +40,27 @@
     "country": "IN"
   },
   {
-    "videoId": "4DPyUQqTxMs",
-    "channelId": "UCu9Fj9QRAg26ZY9DhF8HSrQ",
-    "name": "DD Urdu",
-    "category": "Culture",
-    "language": "urd",
-    "country": "IN"
-  },
-  {
     "videoId": "4PpS_RGUzfQ",
     "channelId": "UCLTZ5y21NnklrxpU5AfWd8w",
     "name": "Prime9 News",
     "category": "News",
     "language": "tel",
+    "country": "IN"
+  },
+  {
+    "videoId": "9M02G5c6x6w",
+    "channelId": "UCYlh4lH762HvHt6mmiecyWQ",
+    "name": "Sun News",
+    "category": "News",
+    "language": "tam",
+    "country": "IN"
+  },
+  {
+    "videoId": "b00Xxk_0JQ0",
+    "channelId": "UCuo69XR8nCP4Ss8ko_5Xbuw",
+    "name": "Kerala Vision News 24x7",
+    "category": "News",
+    "language": "mal",
     "country": "IN"
   },
   {
@@ -56,11 +72,51 @@
     "country": "IN"
   },
   {
+    "videoId": "cEjuoCwX9jU",
+    "channelId": "UCsNdeLwEZf86swPD3qJJ7Dw",
+    "name": "News Nation",
+    "category": "News",
+    "language": "hin",
+    "country": "IN"
+  },
+  {
+    "videoId": "dKzD-sm_e50",
+    "channelId": "UC531MlZA5LUbeGwEN_zcppw",
+    "name": "News18 Bihar Jharkhand",
+    "category": "News",
+    "language": "hin",
+    "country": "IN"
+  },
+  {
+    "videoId": "FeweQREkl44",
+    "channelId": "UC-JFyL0zDFOsPMpuWu39rPA",
+    "name": "Thanthi TV",
+    "category": "News",
+    "language": "tam",
+    "country": "IN"
+  },
+  {
     "videoId": "GI-8sFxRoyw",
     "channelId": "UCJi8M0hRKjz8SLPvJKEVTOg",
     "name": "ETV Andhra Pradesh",
     "category": "News",
     "language": "tel",
+    "country": "IN"
+  },
+  {
+    "videoId": "HBorWH77wPs",
+    "channelId": "UCPP3etACgdUWvizcES1dJ8Q",
+    "name": "News18 India",
+    "category": "News",
+    "language": "hin",
+    "country": "IN"
+  },
+  {
+    "videoId": "HGOiuQUwqEw",
+    "channelId": "UCFx1nseXKTc1Culiu3neeSQ",
+    "name": "REPORTER LIVE",
+    "category": "News",
+    "language": "mal",
     "country": "IN"
   },
   {
@@ -112,11 +168,27 @@
     "country": "IN"
   },
   {
+    "videoId": "kcSH3VwhosQ",
+    "channelId": "UCNVkxRPqsBNejO6B9thG9Xw",
+    "name": "Janam TV",
+    "category": "News",
+    "language": "mal",
+    "country": "IN"
+  },
+  {
     "videoId": "Ko18SgceYX8",
     "channelId": "UCf8w5m0YsRa8MHQ5bwSGmbw",
     "name": "Asianet News",
     "category": "News",
     "language": "mal",
+    "country": "IN"
+  },
+  {
+    "videoId": "KVjPZ1YpaaU",
+    "channelId": "UC7wXt18f2iA3EDXeqAVuKng",
+    "name": "Republic Bharat",
+    "category": "News",
+    "language": "hin",
     "country": "IN"
   },
   {
@@ -136,6 +208,14 @@
     "country": "IN"
   },
   {
+    "videoId": "L42NP9a8paw",
+    "channelId": "UCzxfpzSF7mz8j7bNIXyZWmA",
+    "name": "POWERVISION TV",
+    "category": "Religious",
+    "language": "mal",
+    "country": "IN"
+  },
+  {
     "videoId": "Li1ZA566CIo",
     "channelId": "UCNZOrs1QBt8cJnv9ud96qRA",
     "name": "hmtv News Live",
@@ -144,10 +224,26 @@
     "country": "IN"
   },
   {
+    "videoId": "lnHtG9YLqo4",
+    "channelId": "UCat88i6_rELqI_prwvjspRA",
+    "name": "News18 Tamil Nadu",
+    "category": "News",
+    "language": "tam",
+    "country": "IN"
+  },
+  {
     "videoId": "McYfr4DHk8k",
     "channelId": "UCMnz0yLX3afzFc8y822YO5g",
     "name": "ARADANA TV",
     "category": "Religious",
+    "language": "hin",
+    "country": "IN"
+  },
+  {
+    "videoId": "MN8p-Vrn6G0",
+    "channelId": "UC9CYT9gSNLevX5ey2_6CK0Q",
+    "name": "NDTV India",
+    "category": "News",
     "language": "hin",
     "country": "IN"
   },
@@ -200,11 +296,59 @@
     "country": "IN"
   },
   {
+    "videoId": "q1AW5heNVpU",
+    "channelId": "UCGSqbZNnHNI17N1N-LcRmEg",
+    "name": "Shekinah News Live",
+    "category": "Religious",
+    "language": "mal",
+    "country": "IN"
+  },
+  {
+    "videoId": "RH2rzPjwZN4",
+    "channelId": "UCjmnq35TvJ1J8JZS49OPg-Q",
+    "name": "JAN TV",
+    "category": "News",
+    "language": "hin",
+    "country": "IN"
+  },
+  {
+    "videoId": "RQrLqUxw0U0",
+    "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+    "name": "NDTV",
+    "category": "News",
+    "language": "eng",
+    "country": "IN"
+  },
+  {
+    "videoId": "RUzgphgBRzI",
+    "channelId": "UCmyKnNRH0wH-r8I-ceP-dsg",
+    "name": "PuthiyathalaimuraiTV",
+    "category": "News",
+    "language": "tam",
+    "country": "IN"
+  },
+  {
     "videoId": "RYqewnoTqWQ",
     "channelId": "UCZ8S3qwowiFztAQBRTawWfA",
     "name": "Hare Krsna TV",
     "category": "Entertainment",
     "language": "hin",
+    "country": "IN"
+  },
+  {
+    "videoId": "sr2Ry9JVDtU",
+    "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+    "name": "NDTV",
+    "category": "News",
+    "language": "eng",
+    "country": "IN"
+  },
+  {
+    "videoId": "T81X-Zf5ZO4",
+    "channelId": "UC2ziCMHFPWkFHjocUMXT__Q",
+    "name": "Sathiyam News",
+    "category": "News",
+    "language": "tam",
     "country": "IN"
   },
   {
@@ -216,11 +360,27 @@
     "country": "IN"
   },
   {
+    "videoId": "tgBTspqA5nY",
+    "channelId": "UCP0uG-mcMImgKnJz-VjJZmQ",
+    "name": "Manorama News",
+    "category": "News",
+    "language": "mal",
+    "country": "IN"
+  },
+  {
     "videoId": "TgxzTaXnoO8",
     "channelId": "UC1FKQ3BEs3ctdzHsfb69vkw",
     "name": "FGN Channel",
     "category": "Education",
     "language": "urd",
+    "country": "IN"
+  },
+  {
+    "videoId": "tL5zlzxpYqE",
+    "channelId": "UC90RW5ZmBBqp4r2QIQxfACA",
+    "name": "Kanak News",
+    "category": "News",
+    "language": "ori",
     "country": "IN"
   },
   {
@@ -237,6 +397,70 @@
     "name": "ABN Digital Exclusives",
     "category": "News",
     "language": "tel",
+    "country": "IN"
+  },
+  {
+    "videoId": "wq0ecjkN3G8",
+    "channelId": "UCnEvxaWfVL91XIYuyQRO5QA",
+    "name": "Kairali News",
+    "category": "News",
+    "language": "mal",
+    "country": "IN"
+  },
+  {
+    "videoId": "Xmm3Kr5P1Uw",
+    "channelId": "UCttspZesZIDEwwpVIgoZtWQ",
+    "name": "IndiaTV",
+    "category": "News",
+    "language": "hin",
+    "country": "IN"
+  },
+  {
+    "videoId": "xrE8iIA4Gac",
+    "channelId": "UCvbCPonBNwpRD8e77MPj8cA",
+    "name": "Kartavya TV",
+    "category": "Religious",
+    "language": "guj",
+    "country": "IN"
+  },
+  {
+    "videoId": "ydiWklMUhcQ",
+    "channelId": "UC3uJIdRFTGgLWrUziaHbzrg",
+    "name": "NDTV Profit",
+    "category": "Business",
+    "language": "eng",
+    "country": "IN"
+  },
+  {
+    "videoId": "YG7riZAW1JM",
+    "channelId": "UCCgLMMp4lv7fSD2sBz1Ai6Q",
+    "name": "OTV",
+    "category": "News",
+    "language": "ori",
+    "country": "IN"
+  },
+  {
+    "videoId": "YGEgelAiUf0",
+    "channelId": "UCwXrBBZnIh2ER4lal6WbAHw",
+    "name": "Mathrubhumi News",
+    "category": "News",
+    "language": "mal",
+    "country": "IN"
+  },
+  {
+    "videoId": "yxVo5zANRZw",
+    "channelId": "UCcVF2Fth-qEA4T1Lhn3CgKg",
+    "name": "Kalaignar TV News",
+    "category": "News",
+    "language": "tam",
+    "country": "IN"
+  },
+  {
+    "videoId": "zwObIlkq2QM",
+    "channelId": "UCgJ02VYByDODEIkOlxjg4xg",
+    "name": "India News Rajasthan",
+    "category": "News",
+    "language": "hin",
     "country": "IN"
   }
 ]

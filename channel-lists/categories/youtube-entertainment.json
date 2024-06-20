@@ -24,6 +24,14 @@
     "country": "TW"
   },
   {
+    "videoId": "ARLunzJs-ys",
+    "channelId": "UCtd99m_W5wsyd4YFyQMb7ig",
+    "name": "Glück Auf TV - Kanal 9 Erzgebirge",
+    "category": "Entertainment",
+    "language": "deu",
+    "country": "DE"
+  },
+  {
     "videoId": "Df3g76Y25gs",
     "channelId": "UCKnMcgDLxDeq9HqUgLhtYbQ",
     "name": "DiaTV - AO VIVO 24 HORAS POR DIA",
@@ -54,6 +62,22 @@
     "category": "Entertainment",
     "language": "eng",
     "country": "UK"
+  },
+  {
+    "videoId": "iS3b-6xv7UU",
+    "channelId": "UC9hyY_wWSJnkUKPfrfOP4dQ",
+    "name": "Joy Prime TV",
+    "category": "Entertainment",
+    "language": "eng",
+    "country": "GH"
+  },
+  {
+    "videoId": "iSK3qwUS1m0",
+    "channelId": "UCKlgbbF9wphTKATOWiG5jPQ",
+    "name": "Adom TV",
+    "category": "Entertainment",
+    "language": "eng",
+    "country": "GH"
   },
   {
     "videoId": "IX9FJJTZ-Po",
@@ -90,7 +114,7 @@
   {
     "videoId": "PLR6KdmyTho",
     "channelId": "UCDPk9MG2RexnOMGTD-YnSnA",
-    "name": "Nat Geo Wild | Killer Clashes",
+    "name": "Nat Geo Wild: Killer Clashes",
     "category": "Entertainment",
     "language": "eng",
     "country": "US"
@@ -114,15 +138,23 @@
   {
     "videoId": "SwkLV4Kfdh0",
     "channelId": "UC1X2nRRWPptr88W_N9RWS1g",
-    "name": "A.S TV | أي إس تيفي",
+    "name": "A.S TV: أي إس تيفي",
     "category": "Entertainment",
     "language": "ara",
     "country": "MA"
   },
   {
+    "videoId": "ULyFtKG6e_A",
+    "channelId": "UC2ap9dIslNRf0Rw-FX2SjhA",
+    "name": "Glück Auf TV - Mittel Erzgebirgs Fernsehen",
+    "category": "Entertainment",
+    "language": "deu",
+    "country": "DE"
+  },
+  {
     "videoId": "WFDbJY0eBGI",
     "channelId": "UCw7SNYrYei7F5ttQO3o-rpA",
-    "name": "Disney Channel | Wizards of Waverly Place",
+    "name": "Disney Channel: Wizards of Waverly Place",
     "category": "Entertainment",
     "language": "eng",
     "country": "US"
@@ -138,7 +170,7 @@
   {
     "videoId": "YKHWAb6b48I",
     "channelId": "UCuaMJTqQ_W7qztqZ_zyErJg",
-    "name": "Bee Movies | بث مباشر افلام عربي",
+    "name": "Bee Movies: بث مباشر افلام عربي",
     "category": "Entertainment",
     "language": "ara",
     "country": "AE"

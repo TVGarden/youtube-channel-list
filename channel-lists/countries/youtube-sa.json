@@ -2,7 +2,7 @@
   {
     "videoId": "et0bSUddkn4",
     "channelId": "UCrj5BGAhtWxDfqbza9T9hqA",
-    "name": "AlHadath | الحدث",
+    "name": "AlHadath: الحدث",
     "category": "News",
     "language": "ara",
     "country": "SA"
@@ -16,9 +16,17 @@
     "country": "SA"
   },
   {
+    "videoId": "pJUOUwzhwq4",
+    "channelId": "UCN4HhT7ycBGjbh0FWt54jaw",
+    "name": "Papi Mami - بابي مامي",
+    "category": "Music",
+    "language": "ara",
+    "country": "SA"
+  },
+  {
     "videoId": "uEkmtSHh4MY",
     "channelId": "UCC_xW57yJDW-SiMwa7WzJxA",
-    "name": "Hala Bel3eyal | Shabab Al-Bomb",
+    "name": "Hala Bel3eyal: Shabab Al-Bomb",
     "category": "Series",
     "language": "ara",
     "country": "SA"

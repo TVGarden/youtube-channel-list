@@ -16,6 +16,14 @@
     "country": "CN"
   },
   {
+    "videoId": "-6QbFGYKhy0",
+    "channelId": "UCISKj2--Nxrs5s60T3wq5Pg",
+    "name": "India News Haryana",
+    "category": "News",
+    "language": "hin",
+    "country": "IN"
+  },
+  {
     "videoId": "-C6FE2m7kX8",
     "channelId": "UCWnOKASPkCBEL-_O8odMvtg",
     "name": "Nagoya TV News",
@@ -184,6 +192,22 @@
     "country": "UK"
   },
   {
+    "videoId": "9axAa86Veds",
+    "channelId": "UChd1DEecCRlxaa0-hvPACCw",
+    "name": "JoyNews",
+    "category": "News",
+    "language": "eng",
+    "country": "GH"
+  },
+  {
+    "videoId": "9M02G5c6x6w",
+    "channelId": "UCYlh4lH762HvHt6mmiecyWQ",
+    "name": "Sun News",
+    "category": "News",
+    "language": "tam",
+    "country": "IN"
+  },
+  {
     "videoId": "9NyxcX3rhQs",
     "channelId": "UCvJJ_dzjViJCoLf5uKUTwoA",
     "name": "CNBC",
@@ -206,6 +230,14 @@
     "category": "News",
     "language": "spa",
     "country": "AR"
+  },
+  {
+    "videoId": "b00Xxk_0JQ0",
+    "channelId": "UCuo69XR8nCP4Ss8ko_5Xbuw",
+    "name": "Kerala Vision News 24x7",
+    "category": "News",
+    "language": "mal",
+    "country": "IN"
   },
   {
     "videoId": "b6R9-7KZ8YM",
@@ -240,6 +272,14 @@
     "country": "FR"
   },
   {
+    "videoId": "bklqB6QUBEU",
+    "channelId": "UCN6sm8iHiPd0cnoUardDAnw",
+    "name": "Jamuna TV",
+    "category": "News",
+    "language": "ben",
+    "country": "BD"
+  },
+  {
     "videoId": "BPdou7TEC4g",
     "channelId": "UCUy__zD6aeuZKUXX8kUc4ZQ",
     "name": "Česko-Slovenská regionálna televízia",
@@ -262,6 +302,14 @@
     "category": "News",
     "language": "spa",
     "country": "AR"
+  },
+  {
+    "videoId": "cEjuoCwX9jU",
+    "channelId": "UCsNdeLwEZf86swPD3qJJ7Dw",
+    "name": "News Nation",
+    "category": "News",
+    "language": "hin",
+    "country": "IN"
   },
   {
     "videoId": "coYw-eVU0Ks",
@@ -298,7 +346,7 @@
   {
     "videoId": "DB3ADM87XTM",
     "channelId": "UCH4UNKBHSNwstan99YDoCVg",
-    "name": "Alghad TV | قناة الغد",
+    "name": "Alghad TV: قناة الغد",
     "category": "News",
     "language": "ara",
     "country": "EG"
@@ -310,6 +358,14 @@
     "category": "News",
     "language": "urd",
     "country": "PK"
+  },
+  {
+    "videoId": "dKzD-sm_e50",
+    "channelId": "UC531MlZA5LUbeGwEN_zcppw",
+    "name": "News18 Bihar Jharkhand",
+    "category": "News",
+    "language": "hin",
+    "country": "IN"
   },
   {
     "videoId": "dlSqshkDaPY",
@@ -346,7 +402,7 @@
   {
     "videoId": "e2RgSa1Wt5o",
     "channelId": "UC65i3Fyq91uiUkIS0i5GLNQ",
-    "name": "Alaraby TV | العربي - أخبار",
+    "name": "Alaraby TV: العربي - أخبار",
     "category": "News",
     "language": "ara",
     "country": "QA"
@@ -378,7 +434,7 @@
   {
     "videoId": "et0bSUddkn4",
     "channelId": "UCrj5BGAhtWxDfqbza9T9hqA",
-    "name": "AlHadath | الحدث",
+    "name": "AlHadath: الحدث",
     "category": "News",
     "language": "ara",
     "country": "SA"
@@ -400,9 +456,25 @@
     "country": "AE"
   },
   {
+    "videoId": "FeweQREkl44",
+    "channelId": "UC-JFyL0zDFOsPMpuWu39rPA",
+    "name": "Thanthi TV",
+    "category": "News",
+    "language": "tam",
+    "country": "IN"
+  },
+  {
     "videoId": "GcuWWVOZEi8",
     "channelId": "UChNgvcVZ_ggDdZ0zCcuuzFw",
     "name": "BENGÜ TÜRK",
+    "category": "News",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "videoId": "GDb_j9sn2UQ",
+    "channelId": "UCndsdUW_oPLqpQJY9J8oIRg",
+    "name": "TV100",
     "category": "News",
     "language": "tur",
     "country": "TR"
@@ -440,12 +512,44 @@
     "country": "JP"
   },
   {
+    "videoId": "HBNa9fVrapk",
+    "channelId": "UChBQgieUidXV1CmDxSdRm3g",
+    "name": "Citizen TV Kenya",
+    "category": "News",
+    "language": "eng",
+    "country": "KE"
+  },
+  {
+    "videoId": "HBorWH77wPs",
+    "channelId": "UCPP3etACgdUWvizcES1dJ8Q",
+    "name": "News18 India",
+    "category": "News",
+    "language": "hin",
+    "country": "IN"
+  },
+  {
     "videoId": "HDQEhzQP-c0",
     "channelId": "UCj0TppyxzQWm9JbMg3CP8Rg",
     "name": "CGTN Europe",
     "category": "News",
     "language": "eng",
     "country": "CN"
+  },
+  {
+    "videoId": "HGOiuQUwqEw",
+    "channelId": "UCFx1nseXKTc1Culiu3neeSQ",
+    "name": "REPORTER LIVE",
+    "category": "News",
+    "language": "mal",
+    "country": "IN"
+  },
+  {
+    "videoId": "hJLSPSvO43Q",
+    "channelId": "UCoHnRpOS5rL62jTmSDO5Npw",
+    "name": "Tele1",
+    "category": "News",
+    "language": "tur",
+    "country": "TR"
   },
   {
     "videoId": "HLv-EF57rcY",
@@ -478,6 +582,14 @@
     "category": "News",
     "language": "spa",
     "country": "AR"
+  },
+  {
+    "videoId": "i-1kDXTDcvo",
+    "channelId": "UCAGVKxpAKwXMWdmcHbrvcwQ",
+    "name": "EKOTÜRK TV",
+    "category": "News",
+    "language": "tur",
+    "country": "TR"
   },
   {
     "videoId": "I-qP4xS7vPg",
@@ -584,6 +696,14 @@
     "country": "UA"
   },
   {
+    "videoId": "kcSH3VwhosQ",
+    "channelId": "UCNVkxRPqsBNejO6B9thG9Xw",
+    "name": "Janam TV",
+    "category": "News",
+    "language": "mal",
+    "country": "IN"
+  },
+  {
     "videoId": "kIhw0QLt2Uk",
     "channelId": "UC5dYmq91e5_g54krpO06NJw",
     "name": "Astro Awani",
@@ -597,6 +717,14 @@
     "name": "Asianet News",
     "category": "News",
     "language": "mal",
+    "country": "IN"
+  },
+  {
+    "videoId": "KVjPZ1YpaaU",
+    "channelId": "UC7wXt18f2iA3EDXeqAVuKng",
+    "name": "Republic Bharat",
+    "category": "News",
+    "language": "hin",
     "country": "IN"
   },
   {
@@ -624,6 +752,14 @@
     "country": "IN"
   },
   {
+    "videoId": "lnHtG9YLqo4",
+    "channelId": "UCat88i6_rELqI_prwvjspRA",
+    "name": "News18 Tamil Nadu",
+    "category": "News",
+    "language": "tam",
+    "country": "IN"
+  },
+  {
     "videoId": "lwYzwdBiaho",
     "channelId": "UCFzJjgVicCtFxJ5B0P_ei8A",
     "name": "euronews (Русский)",
@@ -646,6 +782,14 @@
     "category": "News",
     "language": "ara",
     "country": "SA"
+  },
+  {
+    "videoId": "MN8p-Vrn6G0",
+    "channelId": "UC9CYT9gSNLevX5ey2_6CK0Q",
+    "name": "NDTV India",
+    "category": "News",
+    "language": "hin",
+    "country": "IN"
   },
   {
     "videoId": "mVhb_Qnc1ME",
@@ -702,6 +846,14 @@
     "category": "News",
     "language": "eng",
     "country": "FR"
+  },
+  {
+    "videoId": "NUttFOSCAP0",
+    "channelId": "UCdElYqHcat_E_RFG7yRmmwg",
+    "name": "Jawa Pos",
+    "category": "News",
+    "language": "ind",
+    "country": "ID"
   },
   {
     "videoId": "nyd-xznCpJc",
@@ -816,6 +968,14 @@
     "country": "IN"
   },
   {
+    "videoId": "piEd0lEdMJE",
+    "channelId": "UCOuwLct59ZOFrwhDIY6tVxw",
+    "name": "KompasTV Jember",
+    "category": "News",
+    "language": "ind",
+    "country": "ID"
+  },
+  {
     "videoId": "PKwLsAu-z10",
     "channelId": "UCv3rFzn-GHGtqzXiaq3sWNg",
     "name": "ABP Ananda",
@@ -838,6 +998,14 @@
     "category": "News",
     "language": "eng",
     "country": "FR"
+  },
+  {
+    "videoId": "pZvvue1gliw",
+    "channelId": "UC2P5Fd5g41Gtdqf0Uzh8Qaw",
+    "name": "Rtv News",
+    "category": "News",
+    "language": "ben",
+    "country": "BD"
   },
   {
     "videoId": "qah4pyuH_Jo",
@@ -872,6 +1040,22 @@
     "country": "PL"
   },
   {
+    "videoId": "R7z9pg8vfQ4",
+    "channelId": "UC8rh34IlJTN0lDZlTwzWzjg",
+    "name": "TVNET",
+    "category": "News",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "videoId": "RH2rzPjwZN4",
+    "channelId": "UCjmnq35TvJ1J8JZS49OPg-Q",
+    "name": "JAN TV",
+    "category": "News",
+    "language": "hin",
+    "country": "IN"
+  },
+  {
     "videoId": "RKy55PVIxx4",
     "channelId": "UCw77677G3EAODp61b0izs7w",
     "name": "WPVI ABC 6 News (Philadelphia PA)",
@@ -888,12 +1072,28 @@
     "country": "AR"
   },
   {
+    "videoId": "RQrLqUxw0U0",
+    "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+    "name": "NDTV",
+    "category": "News",
+    "language": "eng",
+    "country": "IN"
+  },
+  {
     "videoId": "rTczxU43uSs",
     "channelId": "UCcTiBX8js_djhSSlmJRI99A",
     "name": "DZRH News",
     "category": "News",
     "language": "tgl",
     "country": "PH"
+  },
+  {
+    "videoId": "RUzgphgBRzI",
+    "channelId": "UCmyKnNRH0wH-r8I-ceP-dsg",
+    "name": "PuthiyathalaimuraiTV",
+    "category": "News",
+    "language": "tam",
+    "country": "IN"
   },
   {
     "videoId": "s2waUruqze4",
@@ -936,12 +1136,28 @@
     "country": "NG"
   },
   {
+    "videoId": "sr2Ry9JVDtU",
+    "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
+    "name": "NDTV",
+    "category": "News",
+    "language": "eng",
+    "country": "IN"
+  },
+  {
     "videoId": "SxzSL8GBJ4A",
     "channelId": "UCnMBV5Iw4WqKILKue1nP6Hg",
     "name": "Dunya News",
     "category": "News",
     "language": "urd",
     "country": "PK"
+  },
+  {
+    "videoId": "T81X-Zf5ZO4",
+    "channelId": "UC2ziCMHFPWkFHjocUMXT__Q",
+    "name": "Sathiyam News",
+    "category": "News",
+    "language": "tam",
+    "country": "IN"
   },
   {
     "videoId": "t9Ilev-uk4w",
@@ -960,6 +1176,22 @@
     "country": "TW"
   },
   {
+    "videoId": "tgBTspqA5nY",
+    "channelId": "UCP0uG-mcMImgKnJz-VjJZmQ",
+    "name": "Manorama News",
+    "category": "News",
+    "language": "mal",
+    "country": "IN"
+  },
+  {
+    "videoId": "tgp1Kjtzbmw",
+    "channelId": "UCnGayDD1TlHdczUsPVnbMsA",
+    "name": " Москва 24 | Прямой эфир Москва 24 ",
+    "category": "News",
+    "language": "rus",
+    "country": "RU"
+  },
+  {
     "videoId": "tjZ8i9NM-nU",
     "channelId": "UCjUxj4cyy_F0tVCT8WfmdZQ",
     "name": "Berita RT",
@@ -968,9 +1200,17 @@
     "country": "MY"
   },
   {
+    "videoId": "tL5zlzxpYqE",
+    "channelId": "UC90RW5ZmBBqp4r2QIQxfACA",
+    "name": "Kanak News",
+    "category": "News",
+    "language": "ori",
+    "country": "IN"
+  },
+  {
     "videoId": "twhG7_jvA8g",
     "channelId": "UC4K_LI-Tn3-LshNgG0-YypQ",
-    "name": "Live Now | CCTV 中文国际",
+    "name": "CCTV 中文国际",
     "category": "News",
     "language": "zho",
     "country": "US"
@@ -982,6 +1222,14 @@
     "category": "News",
     "language": "eng",
     "country": "DE"
+  },
+  {
+    "videoId": "u0cvPy_cPnc",
+    "channelId": "UCT1GDGt-pNYZ4E0kanZHUKQ",
+    "name": "Ülke TV",
+    "category": "News",
+    "language": "tur",
+    "country": "TR"
   },
   {
     "videoId": "ueJsgNKeq8c",
@@ -1002,7 +1250,7 @@
   {
     "videoId": "UQ3P8ezZmzg",
     "channelId": "UCwKS2U-DwjPZZvM6mSXPKgA",
-    "name": "Almagharibia TV | المغاربية",
+    "name": "Almagharibia TV: المغاربية",
     "category": "News",
     "language": "ara",
     "country": "DZ"
@@ -1056,9 +1304,17 @@
     "country": "NG"
   },
   {
+    "videoId": "wq0ecjkN3G8",
+    "channelId": "UCnEvxaWfVL91XIYuyQRO5QA",
+    "name": "Kairali News",
+    "category": "News",
+    "language": "mal",
+    "country": "IN"
+  },
+  {
     "videoId": "WY8sDvZdWEA",
     "channelId": "UCXoJ8kY9zpLBEz-8saaT3ew",
-    "name": "ТСН | Єдині новини | 1+1",
+    "name": "ТСН: Єдині новини: 1+1",
     "category": "News",
     "language": "ukr",
     "country": "UA"
@@ -1072,20 +1328,20 @@
     "country": "AR"
   },
   {
-    "videoId": "XFkCh7SLruI",
-    "channelId": "UC1y1GtNgGiAUBfQz87ltjag",
-    "name": "exxpressTV",
-    "category": "News",
-    "language": "deu",
-    "country": "AT"
-  },
-  {
     "videoId": "xLUNoMMBsQA",
     "channelId": "UCyEJX-kSj0kOOCS7Qlq2G7g",
     "name": "Arise News",
     "category": "News",
     "language": "eng",
     "country": "NG"
+  },
+  {
+    "videoId": "Xmm3Kr5P1Uw",
+    "channelId": "UCttspZesZIDEwwpVIgoZtWQ",
+    "name": "IndiaTV",
+    "category": "News",
+    "language": "hin",
+    "country": "IN"
   },
   {
     "videoId": "XuZAl-ZPEcA",
@@ -1160,6 +1416,22 @@
     "country": "US"
   },
   {
+    "videoId": "YG7riZAW1JM",
+    "channelId": "UCCgLMMp4lv7fSD2sBz1Ai6Q",
+    "name": "OTV",
+    "category": "News",
+    "language": "ori",
+    "country": "IN"
+  },
+  {
+    "videoId": "YGEgelAiUf0",
+    "channelId": "UCwXrBBZnIh2ER4lal6WbAHw",
+    "name": "Mathrubhumi News",
+    "category": "News",
+    "language": "mal",
+    "country": "IN"
+  },
+  {
     "videoId": "YJtUDi_JOUw",
     "channelId": "UCTXNz3gjAypWp3EhlIATEJQ",
     "name": "24 Horas - TVN Chile",
@@ -1208,11 +1480,35 @@
     "country": "NG"
   },
   {
+    "videoId": "yxVo5zANRZw",
+    "channelId": "UCcVF2Fth-qEA4T1Lhn3CgKg",
+    "name": "Kalaignar TV News",
+    "category": "News",
+    "language": "tam",
+    "country": "IN"
+  },
+  {
     "videoId": "Z-Nwo-ypKtM",
     "channelId": "UCO6K_kkdP-lnSCiO3tPx7WA",
     "name": "franceinfo",
     "category": "News",
     "language": "fra",
     "country": "FR"
+  },
+  {
+    "videoId": "ztmY_cCtUl0",
+    "channelId": "UCOulx_rep5O4i9y6AyDqVvw",
+    "name": "SÖZCÜ Televizyonu",
+    "category": "News",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "videoId": "zwObIlkq2QM",
+    "channelId": "UCgJ02VYByDODEIkOlxjg4xg",
+    "name": "India News Rajasthan",
+    "category": "News",
+    "language": "hin",
+    "country": "IN"
   }
 ]

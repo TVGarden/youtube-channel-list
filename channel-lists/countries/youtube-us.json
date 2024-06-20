@@ -2,7 +2,7 @@
   {
     "videoId": "_7TLt-Ox7m0",
     "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
-    "name": "Shout! Studios | M.A.S.K.",
+    "name": "Shout! Studios: M.A.S.K.",
     "category": "Animation",
     "language": "eng",
     "country": "US"
@@ -26,7 +26,7 @@
   {
     "videoId": "-g2OvZ9hLgI",
     "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
-    "name": "TokuSHOUTsu | Kamen Rider Zero-One",
+    "name": "TokuSHOUTsu: Kamen Rider Zero-One",
     "category": "Series",
     "language": "jpn",
     "country": "US"
@@ -42,7 +42,7 @@
   {
     "videoId": "0L6EvgWotfI",
     "channelId": "UCNcdbMyA59zE-Vk668bKWOg",
-    "name": "Disney Junior | Me & Mickey",
+    "name": "Disney Junior: Me & Mickey",
     "category": "Kids",
     "language": "eng",
     "country": "US"
@@ -58,7 +58,7 @@
   {
     "videoId": "1nlcSWKi4ZY",
     "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
-    "name": "TokuSHOUTsu | Ultraman Movie Marathon",
+    "name": "TokuSHOUTsu: Ultraman Movie Marathon",
     "category": "Animation",
     "language": "eng",
     "country": "US"
@@ -66,7 +66,7 @@
   {
     "videoId": "2xcyFCfkcpU",
     "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
-    "name": "Shout! Studios | ALF (Français)",
+    "name": "Shout! Studios: ALF (Français)",
     "category": "Series",
     "language": "fra",
     "country": "US"
@@ -74,7 +74,7 @@
   {
     "videoId": "2ZK01S8OlAo",
     "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
-    "name": "Shout! Studios | Fireball XL5",
+    "name": "Shout! Studios: Fireball XL5",
     "category": "Classic",
     "language": "eng",
     "country": "US"
@@ -90,7 +90,7 @@
   {
     "videoId": "3F_EFcjtOVs",
     "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
-    "name": "TokuSHOUTsu | Kamen Rider Ryuki",
+    "name": "TokuSHOUTsu: Kamen Rider Ryuki",
     "category": "Series",
     "language": "jpn",
     "country": "US"
@@ -106,7 +106,7 @@
   {
     "videoId": "5v73CWkelvg",
     "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
-    "name": "TokuSHOUTsu | Super Sentai Gaoranger #1",
+    "name": "TokuSHOUTsu: Super Sentai Gaoranger #1",
     "category": "Series",
     "language": "jpn",
     "country": "US"
@@ -114,7 +114,7 @@
   {
     "videoId": "8ebhviSthXE",
     "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
-    "name": "Shout! Studios | Terrahawks",
+    "name": "Shout! Studios: Terrahawks",
     "category": "Classic",
     "language": "eng",
     "country": "US"
@@ -138,8 +138,16 @@
   {
     "videoId": "aM08YIndoiA",
     "channelId": "UCFzph9x-n9FR52BI94Zfgww",
-    "name": "MYSTERY SCIENCE THEATER 3000 | FOREVER-a-thon",
+    "name": "MYSTERY SCIENCE THEATER 3000: FOREVER-a-thon",
     "category": "Comedy",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "AS_x4uR87Kw",
+    "channelId": "UCwLxgZHR8oDOzJXtXuSB_bA",
+    "name": "Indie Playlists",
+    "category": "Music",
     "language": "eng",
     "country": "US"
   },
@@ -154,7 +162,7 @@
   {
     "videoId": "b3tKeGqCcPg",
     "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
-    "name": "TokuSHOUTsu | Sonny Chiba Movies",
+    "name": "TokuSHOUTsu: Sonny Chiba Movies",
     "category": "Classic",
     "language": "jpn",
     "country": "US"
@@ -162,7 +170,7 @@
   {
     "videoId": "b3WkMYJYIHg",
     "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
-    "name": "TokuSHOUTsu | Kamen Rider Geats",
+    "name": "TokuSHOUTsu: Kamen Rider Geats",
     "category": "Series",
     "language": "jpn",
     "country": "US"
@@ -170,7 +178,7 @@
   {
     "videoId": "BdeRBMTJlR8",
     "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
-    "name": "TokuSHOUTsu | Mach GoGoGo",
+    "name": "TokuSHOUTsu: Mach GoGoGo",
     "category": "Animation",
     "language": "jpn",
     "country": "US"
@@ -178,7 +186,7 @@
   {
     "videoId": "bfUFeaVQnLY",
     "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
-    "name": "TokuSHOUTsu | The Aquabats!",
+    "name": "TokuSHOUTsu: The Aquabats!",
     "category": "Kids",
     "language": "eng",
     "country": "US"
@@ -186,7 +194,7 @@
   {
     "videoId": "BJ3Yv572V1A",
     "channelId": "UCDPk9MG2RexnOMGTD-YnSnA",
-    "name": "Nat Geo Wild | Ultimate Predators",
+    "name": "Nat Geo Wild: Ultimate Predators",
     "category": "Documentary",
     "language": "eng",
     "country": "US"
@@ -194,7 +202,7 @@
   {
     "videoId": "BvfeESeYx50",
     "channelId": "UCxwitsUVNzwS5XBSC5UQV8Q",
-    "name": "Marvel HQ | Marvel's Spider-Man",
+    "name": "Marvel HQ: Marvel's Spider-Man",
     "category": "Animation",
     "language": "eng",
     "country": "US"
@@ -202,7 +210,7 @@
   {
     "videoId": "C2V99wPM1wc",
     "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
-    "name": "Shout! Studios | Space Precinct",
+    "name": "Shout! Studios: Space Precinct",
     "category": "Series",
     "language": "eng",
     "country": "US"
@@ -218,7 +226,7 @@
   {
     "videoId": "ctJdlrtFYjs",
     "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
-    "name": "Shout! Studios | ALF (English)",
+    "name": "Shout! Studios: ALF (English)",
     "category": "Series",
     "language": "eng",
     "country": "US"
@@ -226,7 +234,7 @@
   {
     "videoId": "CYhowtND6i0",
     "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
-    "name": "Shout! Studios | ALF (Japanese)",
+    "name": "Shout! Studios: ALF (Japanese)",
     "category": "Series",
     "language": "jpn",
     "country": "US"
@@ -234,7 +242,7 @@
   {
     "videoId": "dEfEhLh8jXE",
     "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
-    "name": "Shout! Studios | FARSCAPE (English)",
+    "name": "Shout! Studios: Farscape (English)",
     "category": "Series",
     "language": "eng",
     "country": "US"
@@ -242,7 +250,7 @@
   {
     "videoId": "Dkkp4KfdGPY",
     "channelId": "UCNcdbMyA59zE-Vk668bKWOg",
-    "name": "Disney Junior | Mickey Mouse Adventures",
+    "name": "Disney Junior: Mickey Mouse Adventures",
     "category": "Kids",
     "language": "eng",
     "country": "US"
@@ -250,7 +258,7 @@
   {
     "videoId": "DRiiYcG3cyA",
     "channelId": "UC9trsD1jCTXXtN3xIOIU8gg",
-    "name": "WB Kids | Tom & Jerry",
+    "name": "WB Kids: Tom & Jerry",
     "category": "Kids",
     "language": "eng",
     "country": "US"
@@ -258,7 +266,7 @@
   {
     "videoId": "DulkvDhBx08",
     "channelId": "UCNcdbMyA59zE-Vk668bKWOg",
-    "name": "Disney Junior | Marvel's Spidey and his Amazing Friends",
+    "name": "Disney Junior: Marvel's Spidey and his Amazing Friends",
     "category": "Kids",
     "language": "eng",
     "country": "US"
@@ -266,7 +274,7 @@
   {
     "videoId": "dY_67832hnY",
     "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
-    "name": "TokuSHOUTsu | Kung Fu & Karate Movies",
+    "name": "TokuSHOUTsu: Kung Fu & Karate Movies",
     "category": "Movies",
     "language": "eng",
     "country": "US"
@@ -274,7 +282,7 @@
   {
     "videoId": "DZML1mJB_Zw",
     "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
-    "name": "TokuSHOUTsu | Kamen Rider Mix",
+    "name": "TokuSHOUTsu: Kamen Rider Mix",
     "category": "Series",
     "language": "jpn",
     "country": "US"
@@ -282,7 +290,7 @@
   {
     "videoId": "E3NOvf9WNAQ",
     "channelId": "UCrNnk0wFBnCS1awGjq_ijGQ",
-    "name": "PBS Kids | Daniel Tiger",
+    "name": "PBS Kids: Daniel Tiger",
     "category": "Kids",
     "language": "eng",
     "country": "US"
@@ -290,7 +298,7 @@
   {
     "videoId": "escC14zboZE",
     "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
-    "name": "Shout! Studios | The Carol Burnett Show",
+    "name": "Shout! Studios: The Carol Burnett Show",
     "category": "Classic",
     "language": "eng",
     "country": "US"
@@ -298,7 +306,7 @@
   {
     "videoId": "eWvGVftOqgU",
     "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
-    "name": "Shout! Studios | Pee-wee's Playhouse",
+    "name": "Shout! Studios: Pee-wee's Playhouse",
     "category": "Classic",
     "language": "eng",
     "country": "US"
@@ -306,7 +314,7 @@
   {
     "videoId": "ex9QWiQZM-o",
     "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
-    "name": "Shout! Studios | FARSCAPE (Français)",
+    "name": "Shout! Studios: Farscape (Français)",
     "category": "Animation",
     "language": "fra",
     "country": "US"
@@ -322,7 +330,7 @@
   {
     "videoId": "Fjp2TdlTTIU",
     "channelId": "UCktaw9L-f65LzUUdjmCFkbQ",
-    "name": "DisneyXD | Phineas and Ferb",
+    "name": "DisneyXD: Phineas and Ferb",
     "category": "Kids",
     "language": "eng",
     "country": "US"
@@ -338,7 +346,7 @@
   {
     "videoId": "GB3bryKbl2k",
     "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
-    "name": "TokuSHOUTsu | Super Sentai Timeranger",
+    "name": "TokuSHOUTsu: Super Sentai Timeranger",
     "category": "Classic",
     "language": "jpn",
     "country": "US"
@@ -346,7 +354,7 @@
   {
     "videoId": "GEw2q6JiugA",
     "channelId": "UCzuQ_l5TMSd4TuOrWbHYodg",
-    "name": "Antiks Cartoons | Antiks",
+    "name": "Antiks Cartoons: Antiks",
     "category": "Kids",
     "language": "eng",
     "country": "US"
@@ -362,7 +370,7 @@
   {
     "videoId": "HZrsJxkeuuw",
     "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
-    "name": "TokuSHOUTsu | Super Sentai Gaoranger #2",
+    "name": "TokuSHOUTsu: Super Sentai Gaoranger #2",
     "category": "Series",
     "language": "jpn",
     "country": "US"
@@ -378,7 +386,7 @@
   {
     "videoId": "IU9aFQaM-Hw",
     "channelId": "UCMsgXPD3wzzt8RxHJmXH7hQ",
-    "name": "Cartoon Network | The Marvelous Misadventures of Flapjack",
+    "name": "Cartoon Network: The Marvelous Misadventures of Flapjack",
     "category": "Kids",
     "language": "eng",
     "country": "US"
@@ -394,7 +402,7 @@
   {
     "videoId": "JZNO6ewdOnc",
     "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
-    "name": "TokuSHOUTsu | GODZILLA MOVIE MARATHON",
+    "name": "TokuSHOUTsu: Godzilla Movie Marathon",
     "category": "Classic",
     "language": "jpn",
     "country": "US"
@@ -402,7 +410,7 @@
   {
     "videoId": "Kl_R0zQWeZU",
     "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
-    "name": "Shout! Studios | ALF (Deutsch)",
+    "name": "Shout! Studios: ALF (Deutsch)",
     "category": "Series",
     "language": "deu",
     "country": "US"
@@ -410,7 +418,7 @@
   {
     "videoId": "L86tCKYXk7Y",
     "channelId": "UCFzph9x-n9FR52BI94Zfgww",
-    "name": "MYSTERY SCIENCE THEATER 3000 | RiffTrax",
+    "name": "MYSTERY SCIENCE THEATER 3000: RiffTrax",
     "category": "Comedy",
     "language": "eng",
     "country": "US"
@@ -418,7 +426,7 @@
   {
     "videoId": "lGQ03jNe8d8",
     "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
-    "name": "TokuSHOUTsu | tokusatsu",
+    "name": "TokuSHOUTsu: Tokusatsu",
     "category": "Classic",
     "language": "jpn",
     "country": "US"
@@ -432,9 +440,17 @@
     "country": "US"
   },
   {
+    "videoId": "M6mb3SrQ3BY",
+    "channelId": "UCf1y3FvYJYPbgMqHX7ZzeZA",
+    "name": "SonLife Broadcasting Network",
+    "category": "Religious",
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "videoId": "maaYardQm1A",
     "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
-    "name": "Shout! Studios | Joe 90",
+    "name": "Shout! Studios: Joe 90",
     "category": "Classic",
     "language": "eng",
     "country": "US"
@@ -442,7 +458,7 @@
   {
     "videoId": "myXaiAlf2GQ",
     "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
-    "name": "Shout! Studios | Jackie Chan Movie Marathon",
+    "name": "Shout! Studios: Jackie Chan Movie Marathon",
     "category": "Movies",
     "language": "eng",
     "country": "US"
@@ -456,9 +472,17 @@
     "country": "US"
   },
   {
+    "videoId": "nL5H_f37WRE",
+    "channelId": "UCv7IxJXF5EMgzZ77DVSx4IQ",
+    "name": "JTV Live Now",
+    "category": "Shop",
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "videoId": "nRqEkrWQBUI",
     "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
-    "name": "Shout! Studios | ALF (Español de España)",
+    "name": "Shout! Studios: ALF (Español de España)",
     "category": "Series",
     "language": "spa",
     "country": "US"
@@ -474,7 +498,7 @@
   {
     "videoId": "OjlaUkllTss",
     "channelId": "UCNcdbMyA59zE-Vk668bKWOg",
-    "name": "Disney Junior | Minnie's Bow-Toons",
+    "name": "Disney Junior: Minnie's Bow-Toons",
     "category": "Kids",
     "language": "eng",
     "country": "US"
@@ -490,7 +514,7 @@
   {
     "videoId": "PLR6KdmyTho",
     "channelId": "UCDPk9MG2RexnOMGTD-YnSnA",
-    "name": "Nat Geo Wild | Killer Clashes",
+    "name": "Nat Geo Wild: Killer Clashes",
     "category": "Entertainment",
     "language": "eng",
     "country": "US"
@@ -498,7 +522,7 @@
   {
     "videoId": "PLwMPyL1sUE",
     "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
-    "name": "Shout! Studios | The Whitest Kids U' Know",
+    "name": "Shout! Studios: The Whitest Kids U' Know",
     "category": "Comedy",
     "language": "eng",
     "country": "US"
@@ -506,7 +530,7 @@
   {
     "videoId": "pWT0tHoAVuY",
     "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
-    "name": "TokuSHOUTsu | ReBoot",
+    "name": "TokuSHOUTsu: ReBoot",
     "category": "Animation",
     "language": "eng",
     "country": "US"
@@ -514,7 +538,7 @@
   {
     "videoId": "pX8npVgaS98",
     "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
-    "name": "Shout! Studios | ALF (Latino Español)",
+    "name": "Shout! Studios: ALF (Latino Español)",
     "category": "Series",
     "language": "spa",
     "country": "US"
@@ -522,7 +546,7 @@
   {
     "videoId": "qAs3thevnDY",
     "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
-    "name": "Shout! Studios | Thunderbirds",
+    "name": "Shout! Studios: Thunderbirds",
     "category": "Classic",
     "language": "eng",
     "country": "US"
@@ -530,15 +554,23 @@
   {
     "videoId": "qNOVz9sKUMc",
     "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
-    "name": "TokuSHOUTsu | GODZILLA",
+    "name": "TokuSHOUTsu: Godzilla",
     "category": "Classic",
     "language": "jpn",
     "country": "US"
   },
   {
+    "videoId": "qQMwtMpMAa4",
+    "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
+    "name": "Shout! Studios: ALF (Português)",
+    "category": "Series",
+    "language": "por",
+    "country": "US"
+  },
+  {
     "videoId": "rhMqcflrOeQ",
     "channelId": "UCFzph9x-n9FR52BI94Zfgww",
-    "name": "MYSTERY SCIENCE THEATER 3000 | Shorts-a-thon",
+    "name": "MYSTERY SCIENCE THEATER 3000: Shorts-a-thon",
     "category": "Comedy",
     "language": "eng",
     "country": "US"
@@ -546,7 +578,7 @@
   {
     "videoId": "rHZp0WJT-V0",
     "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
-    "name": "TokuSHOUTsu | Digimon Adventure tri.",
+    "name": "TokuSHOUTsu: Digimon Adventure tri.",
     "category": "Animation",
     "language": "eng",
     "country": "US"
@@ -562,7 +594,7 @@
   {
     "videoId": "ro7o3uGcOJc",
     "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
-    "name": "Shout! Studios | Supercar",
+    "name": "Shout! Studios: Supercar",
     "category": "Classic",
     "language": "eng",
     "country": "US"
@@ -570,7 +602,7 @@
   {
     "videoId": "rQX8tV2Z15M",
     "channelId": "UCTsgmnXbWotzbR36vU0YPrA",
-    "name": "Teenage Mutant Ninja Turtles | TMNT",
+    "name": "Teenage Mutant Ninja Turtles: TMNT",
     "category": "Animation",
     "language": "eng",
     "country": "US"
@@ -586,7 +618,7 @@
   {
     "videoId": "sA_QJMQMFZg",
     "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
-    "name": "TokuSHOUTsu | Ultraman ",
+    "name": "TokuSHOUTsu: Ultraman",
     "category": "Series",
     "language": "jpn",
     "country": "US"
@@ -594,7 +626,7 @@
   {
     "videoId": "sBf2Hbt60s8",
     "channelId": "UCrNnk0wFBnCS1awGjq_ijGQ",
-    "name": "PBS Kids | SUPER WHY!",
+    "name": "PBS Kids: SUPER WHY!",
     "category": "Kids",
     "language": "eng",
     "country": "US"
@@ -610,7 +642,7 @@
   {
     "videoId": "TI7ZJaaLsac",
     "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
-    "name": "Shout! Studios | Stingray",
+    "name": "Shout! Studios: Stingray",
     "category": "Classic",
     "language": "eng",
     "country": "US"
@@ -626,7 +658,7 @@
   {
     "videoId": "twhG7_jvA8g",
     "channelId": "UC4K_LI-Tn3-LshNgG0-YypQ",
-    "name": "Live Now | CCTV 中文国际",
+    "name": "CCTV 中文国际",
     "category": "News",
     "language": "zho",
     "country": "US"
@@ -634,15 +666,23 @@
   {
     "videoId": "UAIJhVmaBZo",
     "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
-    "name": "Shout! Studios | Speed Racer",
+    "name": "Shout! Studios: Speed Racer",
     "category": "Animation",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "uC5lqcyBybE",
+    "channelId": "UCvYVGf_JFME9dVe3WtljP1Q",
+    "name": "The Victory Channel",
+    "category": "Religious",
     "language": "eng",
     "country": "US"
   },
   {
     "videoId": "UmdMTatmQTQ",
     "channelId": "UCNcdbMyA59zE-Vk668bKWOg",
-    "name": "Disney Junior | Winnie the Pooh",
+    "name": "Disney Junior: Winnie the Pooh",
     "category": "Kids",
     "language": "eng",
     "country": "US"
@@ -656,9 +696,17 @@
     "country": "US"
   },
   {
+    "videoId": "uxt_sNgthz4",
+    "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
+    "name": "TokuSHOUTsu: Jackie Chan Movie Marathon",
+    "category": "Movies",
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "videoId": "Vk7AMehrHw4",
     "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
-    "name": "Shout! Studios | ReBoot",
+    "name": "Shout! Studios: ReBoot",
     "category": "Animation",
     "language": "eng",
     "country": "US"
@@ -674,7 +722,7 @@
   {
     "videoId": "W9WeTzvwyMw",
     "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
-    "name": "TokuSHOUTsu | Speed Racer",
+    "name": "TokuSHOUTsu: Speed Racer",
     "category": "Animation",
     "language": "eng",
     "country": "US"
@@ -690,7 +738,7 @@
   {
     "videoId": "WFDbJY0eBGI",
     "channelId": "UCw7SNYrYei7F5ttQO3o-rpA",
-    "name": "Disney Channel | Wizards of Waverly Place",
+    "name": "Disney Channel: Wizards of Waverly Place",
     "category": "Entertainment",
     "language": "eng",
     "country": "US"
@@ -698,7 +746,7 @@
   {
     "videoId": "WLROdWOKO_s",
     "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
-    "name": "Shout! Studios | Space: 1999",
+    "name": "Shout! Studios: Space: 1999",
     "category": "Classic",
     "language": "eng",
     "country": "US"
@@ -706,7 +754,7 @@
   {
     "videoId": "Wyw3GNN-Oxo",
     "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
-    "name": "TokuSHOUTsu | Gridman The Hyper Agent",
+    "name": "TokuSHOUTsu: Gridman The Hyper Agent",
     "category": "Classic",
     "language": "jpn",
     "country": "US"
@@ -714,7 +762,7 @@
   {
     "videoId": "x7I9aLJ4hKo",
     "channelId": "UCNcdbMyA59zE-Vk668bKWOg",
-    "name": "Disney Junior | Bluey",
+    "name": "Disney Junior: Bluey",
     "category": "Kids",
     "language": "eng",
     "country": "US"
@@ -722,7 +770,7 @@
   {
     "videoId": "xNnd8Vk6w1Y",
     "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
-    "name": "TokuSHOUTsu | Kamen Rider",
+    "name": "TokuSHOUTsu: Kamen Rider",
     "category": "Classic",
     "language": "jpn",
     "country": "US"

@@ -16,9 +16,33 @@
     "country": "BD"
   },
   {
+    "videoId": "bklqB6QUBEU",
+    "channelId": "UCN6sm8iHiPd0cnoUardDAnw",
+    "name": "Jamuna TV",
+    "category": "News",
+    "language": "ben",
+    "country": "BD"
+  },
+  {
     "videoId": "dlSqshkDaPY",
     "channelId": "UCUvXoiDEKI8VZJrr58g4VAw",
     "name": "DBC NEWS",
+    "category": "News",
+    "language": "ben",
+    "country": "BD"
+  },
+  {
+    "videoId": "J5UjWwkrJUE",
+    "channelId": "UCi-aUVwZR5U8GBNOy0CC4ww",
+    "name": "Rtv Music",
+    "category": "Music",
+    "language": "ben",
+    "country": "BD"
+  },
+  {
+    "videoId": "pZvvue1gliw",
+    "channelId": "UC2P5Fd5g41Gtdqf0Uzh8Qaw",
+    "name": "Rtv News",
     "category": "News",
     "language": "ben",
     "country": "BD"

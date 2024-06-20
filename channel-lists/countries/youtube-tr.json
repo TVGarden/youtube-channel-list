@@ -16,9 +16,17 @@
     "country": "TR"
   },
   {
+    "videoId": "2X5QsM3Z8pQ",
+    "channelId": "UCN2Q-lSzQa7RjrCxQZ8DzbA",
+    "name": "Yalan Dünya",
+    "category": "Series",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
     "videoId": "5Whk9MVTpI4",
     "channelId": "UCehmwSZGPod7JFbHJspmxzQ",
-    "name": "Cartoon Network Türkiye | Kral Şakir",
+    "name": "Cartoon Network Türkiye: Kral Şakir",
     "category": "Kids",
     "language": "tur",
     "country": "TR"
@@ -50,7 +58,7 @@
   {
     "videoId": "a5OTwdV7R08",
     "channelId": "UCk-I0F9R6AqhPFg8hrgmX_A",
-    "name": "Radyo Dinle | Radyo 7",
+    "name": "Radyo Dinle: Radyo 7",
     "category": "Music",
     "language": "tur",
     "country": "TR"
@@ -58,7 +66,7 @@
   {
     "videoId": "AacykI39EFU",
     "channelId": "UCuqE0wyaY7XnYm6QYOa1lLw",
-    "name": "Radyo Dinle | Radyo Arabesk",
+    "name": "Radyo Dinle: Radyo Arabesk",
     "category": "Music",
     "language": "tur",
     "country": "TR"
@@ -66,7 +74,7 @@
   {
     "videoId": "Amb7_Vi8qOw",
     "channelId": "UCuqE0wyaY7XnYm6QYOa1lLw",
-    "name": "Radyo Dinle | Damar FM",
+    "name": "Radyo Dinle: Damar FM",
     "category": "Music",
     "language": "tur",
     "country": "TR"
@@ -98,7 +106,7 @@
   {
     "videoId": "Ds4XXYTWMcc",
     "channelId": "UCuqE0wyaY7XnYm6QYOa1lLw",
-    "name": "Radyo Dinle | Akustik Türküle",
+    "name": "Radyo Dinle: Akustik Türküle",
     "category": "Music",
     "language": "tur",
     "country": "TR"
@@ -114,7 +122,7 @@
   {
     "videoId": "ExlWtnvFm5E",
     "channelId": "UCk-I0F9R6AqhPFg8hrgmX_A",
-    "name": "Radyo Dinle | Best FM",
+    "name": "Radyo Dinle: Best FM",
     "category": "Music",
     "language": "tur",
     "country": "TR"
@@ -138,7 +146,7 @@
   {
     "videoId": "GBMLvut9sxc",
     "channelId": "UC5Hq5hQex9I53tD6UfdUcWQ",
-    "name": "Radyo Dinle | Radyo Pop Time",
+    "name": "Radyo Dinle: Radyo Pop Time",
     "category": "Music",
     "language": "tur",
     "country": "TR"
@@ -152,10 +160,26 @@
     "country": "TR"
   },
   {
+    "videoId": "GDb_j9sn2UQ",
+    "channelId": "UCndsdUW_oPLqpQJY9J8oIRg",
+    "name": "TV100",
+    "category": "News",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
     "videoId": "hfx8H7YrmTw",
     "channelId": "UCHumSHRFQ8skiHTY75sxytQ",
-    "name": "Gülşah Film | Kemal Sunal Filmleri",
+    "name": "Gülşah Film: Kemal Sunal Filmleri",
     "category": "Classic",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "videoId": "hJLSPSvO43Q",
+    "channelId": "UCoHnRpOS5rL62jTmSDO5Npw",
+    "name": "Tele1",
+    "category": "News",
     "language": "tur",
     "country": "TR"
   },
@@ -164,6 +188,14 @@
     "channelId": "UCehmwSZGPod7JFbHJspmxzQ",
     "name": "Cartoon Network Türkiye",
     "category": "Kids",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "videoId": "i-1kDXTDcvo",
+    "channelId": "UCAGVKxpAKwXMWdmcHbrvcwQ",
+    "name": "EKOTÜRK TV",
+    "category": "News",
     "language": "tur",
     "country": "TR"
   },
@@ -178,7 +210,7 @@
   {
     "videoId": "iQt208KYF00",
     "channelId": "UCk-I0F9R6AqhPFg8hrgmX_A",
-    "name": "Radyo Dinle | Türkçe Pop",
+    "name": "Radyo Dinle: Türkçe Pop",
     "category": "Music",
     "language": "tur",
     "country": "TR"
@@ -224,6 +256,14 @@
     "country": "TR"
   },
   {
+    "videoId": "oXAgEcNhxtI",
+    "channelId": "UCUxSoTMNflf9TAlZbml7XMw",
+    "name": "İnci Taneleri",
+    "category": "Series",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
     "videoId": "OypUpUTYAHI",
     "channelId": "UCPe9vNjHF1kEExT5kHwc7aw",
     "name": "beIN SPORTS Türkiye",
@@ -234,15 +274,23 @@
   {
     "videoId": "PTp6hmibGSc",
     "channelId": "UCulg-mlXf314L1pemPqCVng",
-    "name": "Film Atölyesi | Şener Şen Filmleri",
+    "name": "Film Atölyesi: Şener Şen Filmleri",
     "category": "Classic",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "videoId": "R7z9pg8vfQ4",
+    "channelId": "UC8rh34IlJTN0lDZlTwzWzjg",
+    "name": "TVNET",
+    "category": "News",
     "language": "tur",
     "country": "TR"
   },
   {
     "videoId": "T1S5ZKS7NS4",
     "channelId": "UCuqE0wyaY7XnYm6QYOa1lLw",
-    "name": "Radyo Dinle | Radyo Türkü",
+    "name": "Radyo Dinle: Radyo Türkü",
     "category": "Music",
     "language": "tur",
     "country": "TR"
@@ -250,8 +298,16 @@
   {
     "videoId": "TPJ7Q9rWMiM",
     "channelId": "UCk-I0F9R6AqhPFg8hrgmX_A",
-    "name": "Radyo Dinle | Pal Nostalji",
+    "name": "Radyo Dinle: Pal Nostalji",
     "category": "Music",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "videoId": "u0cvPy_cPnc",
+    "channelId": "UCT1GDGt-pNYZ4E0kanZHUKQ",
+    "name": "Ülke TV",
+    "category": "News",
     "language": "tur",
     "country": "TR"
   },
@@ -269,6 +325,14 @@
     "name": "ANews",
     "category": "News",
     "language": "eng",
+    "country": "TR"
+  },
+  {
+    "videoId": "ztmY_cCtUl0",
+    "channelId": "UCOulx_rep5O4i9y6AyDqVvw",
+    "name": "SÖZCÜ Televizyonu",
+    "category": "News",
+    "language": "tur",
     "country": "TR"
   }
 ]

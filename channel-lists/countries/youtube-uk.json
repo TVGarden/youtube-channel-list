@@ -1,8 +1,16 @@
 [
   {
+    "videoId": "6el-GMyskPI",
+    "channelId": "UChUHOEe7zgYmrv7a_LlpNng",
+    "name": "Jungle Beat",
+    "category": "Kids",
+    "language": "eng",
+    "country": "UK"
+  },
+  {
     "videoId": "6LZqtJjU3gA",
     "channelId": "UCqKyIUdsk78t85MxLRSR5kQ",
-    "name": "Soviet Toons | Ну, погоди!",
+    "name": "Soviet Toons: Ну, погоди!",
     "category": "Animation",
     "language": "rus",
     "country": "UK"
@@ -82,7 +90,7 @@
   {
     "videoId": "LXoQVDGeuRc",
     "channelId": "UCmst562fALOY2cKb4IFgqEg",
-    "name": "Boomerang | Tom & Jerry",
+    "name": "Boomerang: Tom & Jerry",
     "category": "Kids",
     "language": "eng",
     "country": "UK"

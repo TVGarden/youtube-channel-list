@@ -48,6 +48,14 @@
     "country": "KR"
   },
   {
+    "videoId": "L42NP9a8paw",
+    "channelId": "UCzxfpzSF7mz8j7bNIXyZWmA",
+    "name": "POWERVISION TV",
+    "category": "Religious",
+    "language": "mal",
+    "country": "IN"
+  },
+  {
     "videoId": "LdaKqBNA3l4",
     "channelId": "UC9Ac9DjBEmNqjAYxf8V1HPA",
     "name": "C채널방송: 실시간 방송",
@@ -59,6 +67,14 @@
     "videoId": "ltIbe_Ulzps",
     "channelId": "UC6VJE6cD8ZPpe6ZOtVtlBTA",
     "name": "Amazing Facts TV",
+    "category": "Religious",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "M6mb3SrQ3BY",
+    "channelId": "UCf1y3FvYJYPbgMqHX7ZzeZA",
+    "name": "SonLife Broadcasting Network",
     "category": "Religious",
     "language": "eng",
     "country": "US"
@@ -88,6 +104,14 @@
     "country": "SN"
   },
   {
+    "videoId": "q1AW5heNVpU",
+    "channelId": "UCGSqbZNnHNI17N1N-LcRmEg",
+    "name": "Shekinah News Live",
+    "category": "Religious",
+    "language": "mal",
+    "country": "IN"
+  },
+  {
     "videoId": "QTqypPXHL_8",
     "channelId": "UC0NOO9jkIj_4ML7IbtTwQHQ",
     "name": "CBSJOY",
@@ -96,12 +120,28 @@
     "country": "KR"
   },
   {
+    "videoId": "uC5lqcyBybE",
+    "channelId": "UCvYVGf_JFME9dVe3WtljP1Q",
+    "name": "The Victory Channel",
+    "category": "Religious",
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "videoId": "uLMeB-ShnEw",
     "channelId": "UCem4zrffr93cp-o8cOPDhdQ",
     "name": "Media Sunnah Aceh TV",
     "category": "Religious",
     "language": "ind",
     "country": "ID"
+  },
+  {
+    "videoId": "xrE8iIA4Gac",
+    "channelId": "UCvbCPonBNwpRD8e77MPj8cA",
+    "name": "Kartavya TV",
+    "category": "Religious",
+    "language": "guj",
+    "country": "IN"
   },
   {
     "videoId": "zr4DTthsOLw",
