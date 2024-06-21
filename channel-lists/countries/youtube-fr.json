@@ -80,6 +80,14 @@
     "country": "FR"
   },
   {
+    "videoId": "DVeiGJYWKBs",
+    "channelId": "UCl-ipFGVotx_Tu5YWMEZgsg",
+    "name": "Kosmo FR",
+    "category": "Science",
+    "language": "fra",
+    "country": "FR"
+  },
+  {
     "videoId": "Z-Nwo-ypKtM",
     "channelId": "UCO6K_kkdP-lnSCiO3tPx7WA",
     "name": "franceinfo",
@@ -93,6 +101,14 @@
     "name": "Euronews English",
     "category": "News",
     "language": "eng",
+    "country": "FR"
+  },
+  {
+    "videoId": "pO_dAyHKgDw",
+    "channelId": "UCT67YOMntJxfRnO_9bXDpvw",
+    "name": "Le Média",
+    "category": "News",
+    "language": "fra",
     "country": "FR"
   },
   {

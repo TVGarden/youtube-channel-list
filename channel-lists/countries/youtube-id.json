@@ -1,5 +1,21 @@
 [
   {
+    "videoId": "mpZaEzcNxFM",
+    "channelId": "UC1QpnGo11epfexw1bIiTHTg",
+    "name": "Liputan6",
+    "category": "News",
+    "language": "ind",
+    "country": "ID"
+  },
+  {
+    "videoId": "DOOrIxw5xOw",
+    "channelId": "UC5BMIWZe9isJXLZZWPWvBlg",
+    "name": "KOMPASTV",
+    "category": "News",
+    "language": "ind",
+    "country": "ID"
+  },
+  {
     "videoId": "NUttFOSCAP0",
     "channelId": "UCdElYqHcat_E_RFG7yRmmwg",
     "name": "Jawa Pos",
@@ -27,6 +43,22 @@
     "videoId": "dPRdBbsBy98",
     "channelId": "UCiTK5pzTj6BMIO14YYLA_jA",
     "name": "Gazwah TV",
+    "category": "Religious",
+    "language": "ind",
+    "country": "ID"
+  },
+  {
+    "videoId": "iJvH76CIyIo",
+    "channelId": "UCiuu1WKCPw8VPasHoRE3NZA",
+    "name": "Leo Si Penjaga Alam",
+    "category": "Kids",
+    "language": "ind",
+    "country": "ID"
+  },
+  {
+    "videoId": "tH-HlZrAKRw",
+    "channelId": "UCJHC3VbFsp7kJ2NxPGltwiw",
+    "name": "Khalid Basalamah",
     "category": "Religious",
     "language": "ind",
     "country": "ID"
@@ -60,6 +92,22 @@
     "channelId": "UCWcErqFw28UlHluawiWLO2g",
     "name": "Fatwa TV Official",
     "category": "Religious",
+    "language": "ind",
+    "country": "ID"
+  },
+  {
+    "videoId": "LE2r7H06du0",
+    "channelId": "UCYNpIdSp5xvvQzgOHtw2RAw",
+    "name": "KOMPASTV JAWA TIMUR",
+    "category": "News",
+    "language": "ind",
+    "country": "ID"
+  },
+  {
+    "videoId": "XKueVSGTk2o",
+    "channelId": "UCzl0OrB3-ehunyotIQvK77A",
+    "name": "METRO TV ",
+    "category": "News",
     "language": "ind",
     "country": "ID"
   }

@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "videoId": "WPODrHs_Fu8",
+    "channelId": "UC3RHl2mbrQbHeXdY15NmXZw",
+    "name": "Kurdistan24",
+    "category": "News",
+    "language": "kur",
+    "country": "IQ"
+  },
+  {
+    "videoId": "YRP3s_UYoOY",
+    "channelId": "UCKHF91NlYF3CqsrboZbFNuA",
+    "name": "Kurdmax Music",
+    "category": "Music",
+    "language": "kur",
+    "country": "IQ"
+  }
+]

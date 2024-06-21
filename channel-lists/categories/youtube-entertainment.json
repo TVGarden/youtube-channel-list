@@ -16,6 +16,14 @@
     "country": "DE"
   },
   {
+    "videoId": "m67gYVnA100",
+    "channelId": "UC4KnMZaxcv1KZDAJsgHXcOA",
+    "name": "LRT Lituanica",
+    "category": "Entertainment",
+    "language": "lit",
+    "country": "LT"
+  },
+  {
     "videoId": "iS3b-6xv7UU",
     "channelId": "UC9hyY_wWSJnkUKPfrfOP4dQ",
     "name": "Joy Prime TV",
@@ -48,6 +56,14 @@
     "country": "US"
   },
   {
+    "videoId": "UAzEvLrcujo",
+    "channelId": "UCIjOAtv53RHerlfl98fZmcQ",
+    "name": "KNR 1",
+    "category": "Entertainment",
+    "language": "kal",
+    "country": "GL"
+  },
+  {
     "videoId": "-L9cBf3oAO0",
     "channelId": "UCkELMMBdy4gPj6ooQwYJ-yg",
     "name": "Hot Door Night 綜藝大熱門",
@@ -70,6 +86,14 @@
     "category": "Entertainment",
     "language": "por",
     "country": "BR"
+  },
+  {
+    "videoId": "NTGaluKrJQM",
+    "channelId": "UCkWr5PLM8hp8M4WNIkjpKsQ",
+    "name": "KTN HOME",
+    "category": "Entertainment",
+    "language": "eng",
+    "country": "KE"
   },
   {
     "videoId": "Ptw692fG_EA",

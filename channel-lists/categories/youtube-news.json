@@ -40,6 +40,14 @@
     "country": "TR"
   },
   {
+    "videoId": "q8RExd2U4zY",
+    "channelId": "UC0CbUVRC1d1RvunYbp3w2qQ",
+    "name": "Lahore News HD",
+    "category": "News",
+    "language": "urd",
+    "country": "PK"
+  },
+  {
     "videoId": "Dp2na0xhqYE",
     "channelId": "UC0Um3pnZ2WGBEeoA3BX2sKw",
     "name": "HUM News",
@@ -78,6 +86,14 @@
     "category": "News",
     "language": "ita",
     "country": "FR"
+  },
+  {
+    "videoId": "mpZaEzcNxFM",
+    "channelId": "UC1QpnGo11epfexw1bIiTHTg",
+    "name": "Liputan6",
+    "category": "News",
+    "language": "ind",
+    "country": "ID"
   },
   {
     "videoId": "i0LqVy0eh24",
@@ -152,6 +168,14 @@
     "country": "PK"
   },
   {
+    "videoId": "WPODrHs_Fu8",
+    "channelId": "UC3RHl2mbrQbHeXdY15NmXZw",
+    "name": "Kurdistan24",
+    "category": "News",
+    "language": "kur",
+    "country": "IQ"
+  },
+  {
     "videoId": "jAn7L2Kt32U",
     "channelId": "UC4Ct8gIf9f0n4mdyGsFiZRA",
     "name": "Euronews Hungarian",
@@ -174,6 +198,14 @@
     "category": "News",
     "language": "hin",
     "country": "IN"
+  },
+  {
+    "videoId": "DOOrIxw5xOw",
+    "channelId": "UC5BMIWZe9isJXLZZWPWvBlg",
+    "name": "KOMPASTV",
+    "category": "News",
+    "language": "ind",
+    "country": "ID"
   },
   {
     "videoId": "kIhw0QLt2Uk",
@@ -672,7 +704,7 @@
     "country": "UA"
   },
   {
-    "videoId": "1Iep_ktr22g",
+    "videoId": "gpAdwW76-5w",
     "channelId": "UChBQgieUidXV1CmDxSdRm3g",
     "name": "Citizen TV Kenya",
     "category": "News",
@@ -784,6 +816,14 @@
     "country": "IN"
   },
   {
+    "videoId": "1JuA1dWBthA",
+    "channelId": "UCjKDdxZM_z4MC-yxEJP0Cow",
+    "name": "ЛДПР-ТВ",
+    "category": "News",
+    "language": "rus",
+    "country": "RU"
+  },
+  {
     "videoId": "RH2rzPjwZN4",
     "channelId": "UCjmnq35TvJ1J8JZS49OPg-Q",
     "name": "JAN TV",
@@ -814,6 +854,14 @@
     "category": "News",
     "language": "tur",
     "country": "TR"
+  },
+  {
+    "videoId": "RTWjNKmBJpY",
+    "channelId": "UCKVsdeoHExltrWMuK0hOWmg",
+    "name": "KTN News Kenya",
+    "category": "News",
+    "language": "swa",
+    "country": "KE"
   },
   {
     "videoId": "g4Qpq8fgOhs",
@@ -1200,6 +1248,14 @@
     "country": "DE"
   },
   {
+    "videoId": "pO_dAyHKgDw",
+    "channelId": "UCT67YOMntJxfRnO_9bXDpvw",
+    "name": "Le Média",
+    "category": "News",
+    "language": "fra",
+    "country": "FR"
+  },
+  {
     "videoId": "avly0uwZzOE",
     "channelId": "UCT7KFGv6s2a-rh2Jq8ZdM1g",
     "name": "Crónica TV",
@@ -1360,6 +1416,14 @@
     "country": "US"
   },
   {
+    "videoId": "1zzKaji_Egw",
+    "channelId": "UCVKWwHoLwUMMa80cu_1uapA",
+    "name": "KRT TV",
+    "category": "News",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
     "videoId": "-E0AHOOGo24",
     "channelId": "UCVxBA3Cbu3pm8w8gEIoMEog",
     "name": "ABC 7 Los Angeles CA (KABC-TV)",
@@ -1488,6 +1552,22 @@
     "country": "IN"
   },
   {
+    "videoId": "jy-3chGcJnc",
+    "channelId": "UCYmUbCx3q38TJo4_qN-_uAA",
+    "name": "KumudamNews",
+    "category": "News",
+    "language": "tam",
+    "country": "IN"
+  },
+  {
+    "videoId": "LE2r7H06du0",
+    "channelId": "UCYNpIdSp5xvvQzgOHtw2RAw",
+    "name": "KOMPASTV JAWA TIMUR",
+    "category": "News",
+    "language": "ind",
+    "country": "ID"
+  },
+  {
     "videoId": "O9mOtdZ-nSk",
     "channelId": "UCyoGb3SMlTlB8CLGVH4c8Rw",
     "name": "Euronews Spanish",
@@ -1558,5 +1638,13 @@
     "category": "News",
     "language": "spa",
     "country": "PA"
+  },
+  {
+    "videoId": "XKueVSGTk2o",
+    "channelId": "UCzl0OrB3-ehunyotIQvK77A",
+    "name": "METRO TV ",
+    "category": "News",
+    "language": "ind",
+    "country": "ID"
   }
 ]

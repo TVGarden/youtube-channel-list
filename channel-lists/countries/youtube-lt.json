@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "videoId": "UaSr72vpj00",
+    "channelId": "UC4KnMZaxcv1KZDAJsgHXcOA",
+    "name": "LRT Radijas",
+    "category": "Music",
+    "language": "lit",
+    "country": "LT"
+  },
+  {
+    "videoId": "EbHYDvg1siE",
+    "channelId": "UC4KnMZaxcv1KZDAJsgHXcOA",
+    "name": "LRT Opus",
+    "category": "Music",
+    "language": "lit",
+    "country": "LT"
+  },
+  {
+    "videoId": "k7Ik8Ls-ZFk",
+    "channelId": "UC4KnMZaxcv1KZDAJsgHXcOA",
+    "name": "LRT Klasika",
+    "category": "Music",
+    "language": "lit",
+    "country": "LT"
+  },
+  {
+    "videoId": "m67gYVnA100",
+    "channelId": "UC4KnMZaxcv1KZDAJsgHXcOA",
+    "name": "LRT Lituanica",
+    "category": "Entertainment",
+    "language": "lit",
+    "country": "LT"
+  }
+]

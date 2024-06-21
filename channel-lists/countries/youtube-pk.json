@@ -1,5 +1,13 @@
 [
   {
+    "videoId": "q8RExd2U4zY",
+    "channelId": "UC0CbUVRC1d1RvunYbp3w2qQ",
+    "name": "Lahore News HD",
+    "category": "News",
+    "language": "urd",
+    "country": "PK"
+  },
+  {
     "videoId": "Dp2na0xhqYE",
     "channelId": "UC0Um3pnZ2WGBEeoA3BX2sKw",
     "name": "HUM News",
@@ -100,6 +108,14 @@
     "channelId": "UCz2yxQJZgiB_5elTzqV7FiQ",
     "name": "BOL NEWS",
     "category": "News",
+    "language": "urd",
+    "country": "PK"
+  },
+  {
+    "videoId": "TVizLxCepUw",
+    "channelId": "UCZMKZS3L9GfhcFkMyBRoVFg",
+    "name": "Kids Land",
+    "category": "Kids",
     "language": "urd",
     "country": "PK"
   }

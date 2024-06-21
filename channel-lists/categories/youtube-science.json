@@ -14,5 +14,21 @@
     "category": "Science",
     "language": "eng",
     "country": "US"
+  },
+  {
+    "videoId": "DVeiGJYWKBs",
+    "channelId": "UCl-ipFGVotx_Tu5YWMEZgsg",
+    "name": "Kosmo FR",
+    "category": "Science",
+    "language": "fra",
+    "country": "FR"
+  },
+  {
+    "videoId": "nA9UZF-SZoQ",
+    "channelId": "UCLA_DiR1FfKNvjuUpBHmylQ",
+    "name": "NASA",
+    "category": "Science",
+    "language": "eng",
+    "country": "US"
   }
 ]

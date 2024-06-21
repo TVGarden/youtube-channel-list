@@ -8,6 +8,14 @@
     "country": "TR"
   },
   {
+    "videoId": "3webn5YqVxc",
+    "channelId": "UC2sr0q_shuQKijWoebuRvcA",
+    "name": "Kuzey Güney",
+    "category": "Series",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
     "videoId": "MkwxgOns4Nw",
     "channelId": "UC4o8w_8iedvUVYp77TdheqA",
     "name": "CAH Medya",
@@ -224,6 +232,14 @@
     "country": "TR"
   },
   {
+    "videoId": "lDI6Lbxhz6Y",
+    "channelId": "UCoIUysIrvGxoDw-GkdOGjRw",
+    "name": "Kemal Sunal | Filmleri ve Sahneleri",
+    "category": "Classic",
+    "language": "eng",
+    "country": "TR"
+  },
+  {
     "videoId": "ztmY_cCtUl0",
     "channelId": "UCOulx_rep5O4i9y6AyDqVvw",
     "name": "SÖZCÜ Televizyonu",
@@ -332,6 +348,14 @@
     "channelId": "UCUxSoTMNflf9TAlZbml7XMw",
     "name": "İnci Taneleri",
     "category": "Series",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "videoId": "1zzKaji_Egw",
+    "channelId": "UCVKWwHoLwUMMa80cu_1uapA",
+    "name": "KRT TV",
+    "category": "News",
     "language": "tur",
     "country": "TR"
   }

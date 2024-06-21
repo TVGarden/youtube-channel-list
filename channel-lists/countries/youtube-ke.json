@@ -1,9 +1,25 @@
 [
   {
-    "videoId": "1Iep_ktr22g",
+    "videoId": "gpAdwW76-5w",
     "channelId": "UChBQgieUidXV1CmDxSdRm3g",
     "name": "Citizen TV Kenya",
     "category": "News",
+    "language": "eng",
+    "country": "KE"
+  },
+  {
+    "videoId": "RTWjNKmBJpY",
+    "channelId": "UCKVsdeoHExltrWMuK0hOWmg",
+    "name": "KTN News Kenya",
+    "category": "News",
+    "language": "swa",
+    "country": "KE"
+  },
+  {
+    "videoId": "NTGaluKrJQM",
+    "channelId": "UCkWr5PLM8hp8M4WNIkjpKsQ",
+    "name": "KTN HOME",
+    "category": "Entertainment",
     "language": "eng",
     "country": "KE"
   }
