@@ -1,13 +1,5 @@
 [
   {
-    "videoId": "snQc830GJzE",
-    "channelId": "UCPLKy4Ypb4mfblbjJI8Aljw",
-    "name": "News Central TV",
-    "category": "News",
-    "language": "eng",
-    "country": "NG"
-  },
-  {
     "videoId": "W8nThq62Vb4",
     "channelId": "UCEXGDNclvmg6RW0vipJYsTQ",
     "name": "Channels Television",
@@ -16,17 +8,25 @@
     "country": "NG"
   },
   {
-    "videoId": "xLUNoMMBsQA",
-    "channelId": "UCyEJX-kSj0kOOCS7Qlq2G7g",
-    "name": "Arise News",
+    "videoId": "yXiCk6HgKkc",
+    "channelId": "UCgp4A6I8LCWrhUzn-5SbKvA",
+    "name": "TVC News",
     "category": "News",
     "language": "eng",
     "country": "NG"
   },
   {
-    "videoId": "yXiCk6HgKkc",
-    "channelId": "UCgp4A6I8LCWrhUzn-5SbKvA",
-    "name": "TVC News",
+    "videoId": "snQc830GJzE",
+    "channelId": "UCPLKy4Ypb4mfblbjJI8Aljw",
+    "name": "News Central TV",
+    "category": "News",
+    "language": "eng",
+    "country": "NG"
+  },
+  {
+    "videoId": "xLUNoMMBsQA",
+    "channelId": "UCyEJX-kSj0kOOCS7Qlq2G7g",
+    "name": "Arise News",
     "category": "News",
     "language": "eng",
     "country": "NG"

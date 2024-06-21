@@ -1,5 +1,13 @@
 [
   {
+    "videoId": "4KOAUNVvxVw",
+    "channelId": "UCeBR3fhWb-Jyt8i7Hy6_mjA",
+    "name": "Assembleia SC: AO VIVO",
+    "category": "Legislative",
+    "language": "por",
+    "country": "BR"
+  },
+  {
     "videoId": "byRjP_T_VG8",
     "channelId": "UCjaWLFTNqLkq3ZY2BJ4NYRg",
     "name": "Canal Gov",
@@ -28,6 +36,14 @@
     "channelId": "UCSQ2vulanpm-UYOzbDdu60A",
     "name": "Igreja Presbiteriana de Pinheiros",
     "category": "Religious",
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "videoId": "UljM_xv6VN8",
+    "channelId": "UCuiLR4p6wQ3xLEm15pEn1Xw",
+    "name": "Record News",
+    "category": "News",
     "language": "por",
     "country": "BR"
   }

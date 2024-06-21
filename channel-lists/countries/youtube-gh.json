@@ -1,13 +1,5 @@
 [
   {
-    "videoId": "9axAa86Veds",
-    "channelId": "UChd1DEecCRlxaa0-hvPACCw",
-    "name": "JoyNews",
-    "category": "News",
-    "language": "eng",
-    "country": "GH"
-  },
-  {
     "videoId": "iS3b-6xv7UU",
     "channelId": "UC9hyY_wWSJnkUKPfrfOP4dQ",
     "name": "Joy Prime TV",
@@ -16,7 +8,15 @@
     "country": "GH"
   },
   {
-    "videoId": "iSK3qwUS1m0",
+    "videoId": "io806mQ1RB4",
+    "channelId": "UChd1DEecCRlxaa0-hvPACCw",
+    "name": "JoyNews",
+    "category": "News",
+    "language": "eng",
+    "country": "GH"
+  },
+  {
+    "videoId": "3LHQwgg8qJw",
     "channelId": "UCKlgbbF9wphTKATOWiG5jPQ",
     "name": "Adom TV",
     "category": "Entertainment",

@@ -1,96 +1,8 @@
 [
   {
-    "videoId": "-C6FE2m7kX8",
-    "channelId": "UCWnOKASPkCBEL-_O8odMvtg",
-    "name": "Nagoya TV News",
-    "category": "News",
-    "language": "jpn",
-    "country": "JP"
-  },
-  {
-    "videoId": "0niffIGZRPc",
-    "channelId": "UCl27leged0PT2kIrRtrFYKA",
-    "name": "RBC News 24",
-    "category": "News",
-    "language": "jpn",
-    "country": "JP"
-  },
-  {
-    "videoId": "4FBW3mkdKOs",
-    "channelId": "UCR61XV4ROXhkcfLO31hTGuw",
-    "name": "Anileap: アニリープ公式",
-    "category": "Music",
-    "language": "jpn",
-    "country": "JP"
-  },
-  {
-    "videoId": "c7_kqMFDE8c",
-    "channelId": "UCUVWoy_rGPdZeUp7jjRHOaQ",
-    "name": "Earthquake Alert Channel",
-    "category": "Education",
-    "language": "jpn",
-    "country": "JP"
-  },
-  {
-    "videoId": "coYw-eVU0Ks",
-    "channelId": "UCGCZAYq5Xxojl_tSXcVJhiQ",
-    "name": "JapaNews24",
-    "category": "News",
-    "language": "jpn",
-    "country": "JP"
-  },
-  {
-    "videoId": "d8CrKBU99Hg",
-    "channelId": "UCSWOnDD1KIriGmyQ7SgNA4A",
-    "name": "HTB北海道ニュース",
-    "category": "News",
-    "language": "jpn",
-    "country": "JP"
-  },
-  {
-    "videoId": "e2pgLUmaxGs",
-    "channelId": "UCRnFGOp_mjaCYEhMzsE2iHA",
-    "name": "Hiroshima News 24",
-    "category": "News",
-    "language": "jpn",
-    "country": "JP"
-  },
-  {
-    "videoId": "EHe_t9ZjDDA",
-    "channelId": "UCgrmHAblzN-QzMMgl2oNRog",
-    "name": "RKB毎日放送NEWS",
-    "category": "News",
-    "language": "jpn",
-    "country": "JP"
-  },
-  {
-    "videoId": "gXvMSjtaMPg",
-    "channelId": "UCATnyu9lou_Lw43gvyoh8uA",
-    "name": "RCC News 24",
-    "category": "News",
-    "language": "jpn",
-    "country": "JP"
-  },
-  {
     "videoId": "hA46WfBYdgo",
     "channelId": "6MiXqJdLpmYtR431Ow",
     "name": "STV News",
-    "category": "News",
-    "language": "jpn",
-    "country": "JP"
-  },
-  {
-    "videoId": "J5qCNuadfLY",
-    "channelId": "UCGCZAYq5Xxojl_tSXcVJhiQ",
-    "name": "ANNnewsCH Ukraine War",
-    "category": "News",
-    "language": "jpn",
-    "country": "JP"
-  },
-  {
-    "videoId": "Jc_MexRxmDM",
-    "channelId": "UCCTpf5c_9HDo_OSu3aX8uFQ",
-    "name": "HBCニュース　北海道放送",
     "category": "News",
     "language": "jpn",
     "country": "JP"
@@ -112,9 +24,81 @@
     "country": "JP"
   },
   {
+    "videoId": "gXvMSjtaMPg",
+    "channelId": "UCATnyu9lou_Lw43gvyoh8uA",
+    "name": "RCC News 24",
+    "category": "News",
+    "language": "jpn",
+    "country": "JP"
+  },
+  {
+    "videoId": "Jc_MexRxmDM",
+    "channelId": "UCCTpf5c_9HDo_OSu3aX8uFQ",
+    "name": "HBCニュース　北海道放送",
+    "category": "News",
+    "language": "jpn",
+    "country": "JP"
+  },
+  {
+    "videoId": "coYw-eVU0Ks",
+    "channelId": "UCGCZAYq5Xxojl_tSXcVJhiQ",
+    "name": "JapaNews24",
+    "category": "News",
+    "language": "jpn",
+    "country": "JP"
+  },
+  {
+    "videoId": "J5qCNuadfLY",
+    "channelId": "UCGCZAYq5Xxojl_tSXcVJhiQ",
+    "name": "ANNnewsCH Ukraine War",
+    "category": "News",
+    "language": "jpn",
+    "country": "JP"
+  },
+  {
+    "videoId": "EHe_t9ZjDDA",
+    "channelId": "UCgrmHAblzN-QzMMgl2oNRog",
+    "name": "RKB毎日放送NEWS",
+    "category": "News",
+    "language": "jpn",
+    "country": "JP"
+  },
+  {
+    "videoId": "0niffIGZRPc",
+    "channelId": "UCl27leged0PT2kIrRtrFYKA",
+    "name": "RBC News 24",
+    "category": "News",
+    "language": "jpn",
+    "country": "JP"
+  },
+  {
     "videoId": "PCccV7cCW8M",
     "channelId": "UCqPDZgcJtyPFhJM4qx-PuKg",
     "name": "鹿児島ニュースKTS",
+    "category": "News",
+    "language": "jpn",
+    "country": "JP"
+  },
+  {
+    "videoId": "4FBW3mkdKOs",
+    "channelId": "UCR61XV4ROXhkcfLO31hTGuw",
+    "name": "Anileap: アニリープ公式",
+    "category": "Music",
+    "language": "jpn",
+    "country": "JP"
+  },
+  {
+    "videoId": "e2pgLUmaxGs",
+    "channelId": "UCRnFGOp_mjaCYEhMzsE2iHA",
+    "name": "Hiroshima News 24",
+    "category": "News",
+    "language": "jpn",
+    "country": "JP"
+  },
+  {
+    "videoId": "d8CrKBU99Hg",
+    "channelId": "UCSWOnDD1KIriGmyQ7SgNA4A",
+    "name": "HTB北海道ニュース",
     "category": "News",
     "language": "jpn",
     "country": "JP"
@@ -131,6 +115,22 @@
     "videoId": "VDhPBOOSDlw",
     "channelId": "UCuTAXTexrhetbOe3zgskJBQ",
     "name": "日テレNEWS",
+    "category": "News",
+    "language": "jpn",
+    "country": "JP"
+  },
+  {
+    "videoId": "c7_kqMFDE8c",
+    "channelId": "UCUVWoy_rGPdZeUp7jjRHOaQ",
+    "name": "Earthquake Alert Channel",
+    "category": "Education",
+    "language": "jpn",
+    "country": "JP"
+  },
+  {
+    "videoId": "-C6FE2m7kX8",
+    "channelId": "UCWnOKASPkCBEL-_O8odMvtg",
+    "name": "Nagoya TV News",
     "category": "News",
     "language": "jpn",
     "country": "JP"

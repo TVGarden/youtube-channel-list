@@ -1,10 +1,10 @@
 [
   {
-    "videoId": "7heWRN252pQ",
-    "channelId": "UCXoJ8kY9zpLBEz-8saaT3ew",
-    "name": "FREEDOM",
+    "videoId": "JpTL53Su4U8",
+    "channelId": "UCH9H_b9oJtSHBovh94yB5HA",
+    "name": "Телеканал Прямий",
     "category": "News",
-    "language": "rus",
+    "language": "ukr",
     "country": "UA"
   },
   {
@@ -16,15 +16,7 @@
     "country": "UA"
   },
   {
-    "videoId": "JpTL53Su4U8",
-    "channelId": "UCH9H_b9oJtSHBovh94yB5HA",
-    "name": "Телеканал Прямий",
-    "category": "News",
-    "language": "ukr",
-    "country": "UA"
-  },
-  {
-    "videoId": "oTqU3FpI5Js",
+    "videoId": "nKAqngUWP0Y",
     "channelId": "UCkyrSWEcjZKpIwMxiPfOcgg",
     "name": "5 канал",
     "category": "News",
@@ -40,18 +32,26 @@
     "country": "UA"
   },
   {
-    "videoId": "WY8sDvZdWEA",
-    "channelId": "UCXoJ8kY9zpLBEz-8saaT3ew",
-    "name": "ТСН: Єдині новини: 1+1",
-    "category": "News",
-    "language": "ukr",
-    "country": "UA"
-  },
-  {
     "videoId": "zqTea30wgak",
     "channelId": "UCnm_kOhhQZOkc0TvltTsfcg",
     "name": "BTQ - Телеканал",
     "category": "Shop",
+    "language": "ukr",
+    "country": "UA"
+  },
+  {
+    "videoId": "7heWRN252pQ",
+    "channelId": "UCXoJ8kY9zpLBEz-8saaT3ew",
+    "name": "FREEDOM",
+    "category": "News",
+    "language": "rus",
+    "country": "UA"
+  },
+  {
+    "videoId": "WY8sDvZdWEA",
+    "channelId": "UCXoJ8kY9zpLBEz-8saaT3ew",
+    "name": "ТСН: Єдині новини: 1+1",
+    "category": "News",
     "language": "ukr",
     "country": "UA"
   }

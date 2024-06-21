@@ -1,17 +1,17 @@
 [
   {
-    "videoId": "-L9cBf3oAO0",
-    "channelId": "UCkELMMBdy4gPj6ooQwYJ-yg",
-    "name": "Hot Door Night 綜藝大熱門",
-    "category": "Entertainment",
+    "videoId": "oZdzzvxTfUY",
+    "channelId": "UC2TuODJhC03pLgd6MpWP0iw",
+    "name": "Taiwan SETNEWS",
+    "category": "News",
     "language": "zho",
     "country": "TW"
   },
   {
-    "videoId": "A98LJq71BZg",
-    "channelId": "UCriy3vlLtiBov3nLdPLadUg",
-    "name": "飢餓遊戲 Hunger Games",
-    "category": "Entertainment",
+    "videoId": "ylYJSBUgaMA",
+    "channelId": "UC2VmWn8dAqkzlQqvy02E1PA",
+    "name": "民視新聞網 Formosa TV",
+    "category": "News",
     "language": "zho",
     "country": "TW"
   },
@@ -24,18 +24,10 @@
     "country": "TW"
   },
   {
-    "videoId": "oZdzzvxTfUY",
-    "channelId": "UC2TuODJhC03pLgd6MpWP0iw",
-    "name": "Taiwan SETNEWS",
-    "category": "News",
-    "language": "zho",
-    "country": "TW"
-  },
-  {
-    "videoId": "s2waUruqze4",
-    "channelId": "UCys6fpFsyUIHMVhn9g10trQ",
-    "name": "CTIASIA 中天亞洲台",
-    "category": "News",
+    "videoId": "-L9cBf3oAO0",
+    "channelId": "UCkELMMBdy4gPj6ooQwYJ-yg",
+    "name": "Hot Door Night 綜藝大熱門",
+    "category": "Entertainment",
     "language": "zho",
     "country": "TW"
   },
@@ -48,9 +40,17 @@
     "country": "TW"
   },
   {
-    "videoId": "ylYJSBUgaMA",
-    "channelId": "UC2VmWn8dAqkzlQqvy02E1PA",
-    "name": "民視新聞網 Formosa TV",
+    "videoId": "A98LJq71BZg",
+    "channelId": "UCriy3vlLtiBov3nLdPLadUg",
+    "name": "飢餓遊戲 Hunger Games",
+    "category": "Entertainment",
+    "language": "zho",
+    "country": "TW"
+  },
+  {
+    "videoId": "s2waUruqze4",
+    "channelId": "UCys6fpFsyUIHMVhn9g10trQ",
+    "name": "CTIASIA 中天亞洲台",
     "category": "News",
     "language": "zho",
     "country": "TW"

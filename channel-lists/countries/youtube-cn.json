@@ -1,13 +1,5 @@
 [
   {
-    "videoId": "-527PXkCtZw",
-    "channelId": "UCQmJk0ErE_FiorcLBsDKORA",
-    "name": "CGTN Arabic",
-    "category": "News",
-    "language": "ara",
-    "country": "CN"
-  },
-  {
     "videoId": "DxhwEQjegYw",
     "channelId": "UCcfLuU0NFT0ZRoQy4jk6GdA",
     "name": "CGTN Français",
@@ -21,14 +13,6 @@
     "name": "CGTN Europe",
     "category": "News",
     "language": "eng",
-    "country": "CN"
-  },
-  {
-    "videoId": "yqipQw_Vgic",
-    "channelId": "UCd94YCD7yp6d-YZSRYWyeFA",
-    "name": "CGTN Español",
-    "category": "News",
-    "language": "spa",
     "country": "CN"
   }
 ]

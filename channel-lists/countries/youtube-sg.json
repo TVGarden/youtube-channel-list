@@ -8,18 +8,18 @@
     "country": "SG"
   },
   {
-    "videoId": "vkWe-Oc2sb8",
-    "channelId": "UC9hVEGaTpAYMVd-bRsOYKwA",
-    "name": "Cartoon Network Asia YT",
-    "category": "Kids",
-    "language": "eng",
-    "country": "SG"
-  },
-  {
     "videoId": "XWq5kBlakcQ",
     "channelId": "UC83jt4dlz1Gjl58fzQrrKZg",
     "name": "CNA International",
     "category": "News",
+    "language": "eng",
+    "country": "SG"
+  },
+  {
+    "videoId": "vkWe-Oc2sb8",
+    "channelId": "UC9hVEGaTpAYMVd-bRsOYKwA",
+    "name": "Cartoon Network Asia YT",
+    "category": "Kids",
     "language": "eng",
     "country": "SG"
   }

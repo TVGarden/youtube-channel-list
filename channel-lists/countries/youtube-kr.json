@@ -1,9 +1,9 @@
 [
   {
-    "videoId": "G3NX_hzCuFM",
-    "channelId": "UCPde4guD9yFBRzkxk2PatoA",
-    "name": "All the K-POP",
-    "category": "Music",
+    "videoId": "QTqypPXHL_8",
+    "channelId": "UC0NOO9jkIj_4ML7IbtTwQHQ",
+    "name": "CBSJOY",
+    "category": "Religious",
     "language": "kor",
     "country": "KR"
   },
@@ -11,6 +11,14 @@
     "videoId": "gGEP9Vd0u34",
     "channelId": "UC9Ac9DjBEmNqjAYxf8V1HPA",
     "name": "C채널방송: 성지가좋다",
+    "category": "Religious",
+    "language": "kor",
+    "country": "KR"
+  },
+  {
+    "videoId": "LdaKqBNA3l4",
+    "channelId": "UC9Ac9DjBEmNqjAYxf8V1HPA",
+    "name": "C채널방송: 실시간 방송",
     "category": "Religious",
     "language": "kor",
     "country": "KR"
@@ -24,26 +32,10 @@
     "country": "KR"
   },
   {
-    "videoId": "LdaKqBNA3l4",
-    "channelId": "UC9Ac9DjBEmNqjAYxf8V1HPA",
-    "name": "C채널방송: 실시간 방송",
-    "category": "Religious",
-    "language": "kor",
-    "country": "KR"
-  },
-  {
-    "videoId": "P1fX2GGdVS0",
-    "channelId": "UCUSSnoEQ8DSRK-gnWS0vfyA",
-    "name": "Arirang Radio K-Pop",
+    "videoId": "G3NX_hzCuFM",
+    "channelId": "UCPde4guD9yFBRzkxk2PatoA",
+    "name": "All the K-POP",
     "category": "Music",
-    "language": "kor",
-    "country": "KR"
-  },
-  {
-    "videoId": "QTqypPXHL_8",
-    "channelId": "UC0NOO9jkIj_4ML7IbtTwQHQ",
-    "name": "CBSJOY",
-    "category": "Religious",
     "language": "kor",
     "country": "KR"
   },
@@ -52,6 +44,14 @@
     "channelId": "UCqGxkgVnPc7arUR7MdCi99g",
     "name": "GCNTV Korea",
     "category": "Business",
+    "language": "kor",
+    "country": "KR"
+  },
+  {
+    "videoId": "P1fX2GGdVS0",
+    "channelId": "UCUSSnoEQ8DSRK-gnWS0vfyA",
+    "name": "Arirang Radio K-Pop",
+    "category": "Music",
     "language": "kor",
     "country": "KR"
   }

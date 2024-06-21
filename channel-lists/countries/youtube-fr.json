@@ -1,5 +1,21 @@
 [
   {
+    "videoId": "NQjabLGdP5g",
+    "channelId": "UC1_E8NeF5QHY2dtdLRBCCLA",
+    "name": "Africanews English",
+    "category": "News",
+    "language": "eng",
+    "country": "FR"
+  },
+  {
+    "videoId": "pUcmpyynASM",
+    "channelId": "UC1mX9vuLOYf8fhaXS_KcDRg",
+    "name": "Euronews Italian",
+    "category": "News",
+    "language": "ita",
+    "country": "FR"
+  },
+  {
     "videoId": "b6R9-7KZ8YM",
     "channelId": "UC25EuGAePOPvPrUA5cmu3dQ",
     "name": "Africanews French",
@@ -8,17 +24,25 @@
     "country": "FR"
   },
   {
-    "videoId": "biqpPMEVJrk",
-    "channelId": "UCHKib3PFscrSEFOINC2ZJCQ",
-    "name": "B SMART - En direct",
+    "videoId": "jAn7L2Kt32U",
+    "channelId": "UC4Ct8gIf9f0n4mdyGsFiZRA",
+    "name": "Euronews Hungarian",
     "category": "News",
-    "language": "fra",
+    "language": "hun",
+    "country": "FR"
+  },
+  {
+    "videoId": "uWIhV9gQClg",
+    "channelId": "UC8HJZNfDPoySgW9DN3YGNaA",
+    "name": "Euronews Greek",
+    "category": "News",
+    "language": "ell",
     "country": "FR"
   },
   {
     "videoId": "CQ3KsEbsYHs",
     "channelId": "UCACdxU3VrJIJc7ujxtHWs1w",
-    "name": "euronews (Deutsch)",
+    "name": "Euronews German",
     "category": "News",
     "language": "deu",
     "country": "FR"
@@ -26,17 +50,9 @@
   {
     "videoId": "cx0LcJBpnbA",
     "channelId": "UCbATDExtWstHnwWELZnXNZA",
-    "name": "euronews (România)",
+    "name": "Euronews Romanian",
     "category": "News",
     "language": "ron",
-    "country": "FR"
-  },
-  {
-    "videoId": "jAn7L2Kt32U",
-    "channelId": "UC4Ct8gIf9f0n4mdyGsFiZRA",
-    "name": "euronews (Magyarul)",
-    "category": "News",
-    "language": "hun",
     "country": "FR"
   },
   {
@@ -50,65 +66,33 @@
   {
     "videoId": "lwYzwdBiaho",
     "channelId": "UCFzJjgVicCtFxJ5B0P_ei8A",
-    "name": "euronews (Русский)",
+    "name": "Euronews Russian",
     "category": "News",
     "language": "rus",
     "country": "FR"
   },
   {
-    "videoId": "NiRIbKwAejk",
-    "channelId": "UCW2QcKZiU8aUGg4yxCIditg",
-    "name": "euronews (Français)",
+    "videoId": "biqpPMEVJrk",
+    "channelId": "UCHKib3PFscrSEFOINC2ZJCQ",
+    "name": "B SMART - En direct",
     "category": "News",
     "language": "fra",
     "country": "FR"
   },
   {
-    "videoId": "NQjabLGdP5g",
-    "channelId": "UC1_E8NeF5QHY2dtdLRBCCLA",
-    "name": "Africanews English",
+    "videoId": "Z-Nwo-ypKtM",
+    "channelId": "UCO6K_kkdP-lnSCiO3tPx7WA",
+    "name": "franceinfo",
     "category": "News",
-    "language": "eng",
-    "country": "FR"
-  },
-  {
-    "videoId": "O9mOtdZ-nSk",
-    "channelId": "UCyoGb3SMlTlB8CLGVH4c8Rw",
-    "name": "euronews (Español)",
-    "category": "News",
-    "language": "spa",
-    "country": "FR"
-  },
-  {
-    "videoId": "pUcmpyynASM",
-    "channelId": "UC1mX9vuLOYf8fhaXS_KcDRg",
-    "name": "euronews (Italiano)",
-    "category": "News",
-    "language": "ita",
+    "language": "fra",
     "country": "FR"
   },
   {
     "videoId": "pykpO5kQJ98",
     "channelId": "UCSrZ3UV4jOidv8ppoVuvW9Q",
-    "name": "euronews (English)",
+    "name": "Euronews English",
     "category": "News",
     "language": "eng",
-    "country": "FR"
-  },
-  {
-    "videoId": "uWIhV9gQClg",
-    "channelId": "UC8HJZNfDPoySgW9DN3YGNaA",
-    "name": "euronews (Ελληνικά)",
-    "category": "News",
-    "language": "ell",
-    "country": "FR"
-  },
-  {
-    "videoId": "XuZAl-ZPEcA",
-    "channelId": "UCUmEPYxmnyQDeRUcFkslmQw",
-    "name": "euronews (Português)",
-    "category": "News",
-    "language": "por",
     "country": "FR"
   },
   {
@@ -120,11 +104,27 @@
     "country": "FR"
   },
   {
-    "videoId": "Z-Nwo-ypKtM",
-    "channelId": "UCO6K_kkdP-lnSCiO3tPx7WA",
-    "name": "franceinfo",
+    "videoId": "XuZAl-ZPEcA",
+    "channelId": "UCUmEPYxmnyQDeRUcFkslmQw",
+    "name": "Euronews Portuguese",
+    "category": "News",
+    "language": "por",
+    "country": "FR"
+  },
+  {
+    "videoId": "NiRIbKwAejk",
+    "channelId": "UCW2QcKZiU8aUGg4yxCIditg",
+    "name": "Euronews French",
     "category": "News",
     "language": "fra",
+    "country": "FR"
+  },
+  {
+    "videoId": "O9mOtdZ-nSk",
+    "channelId": "UCyoGb3SMlTlB8CLGVH4c8Rw",
+    "name": "Euronews Spanish",
+    "category": "News",
+    "language": "spa",
     "country": "FR"
   }
 ]
