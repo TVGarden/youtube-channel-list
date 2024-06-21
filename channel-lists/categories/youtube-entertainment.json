@@ -1,5 +1,13 @@
 [
   {
+    "videoId": "-GsWegfz6I4",
+    "channelId": "UC-VbFgagk6GJGDJgRQIMpZw",
+    "name": "MBC every1",
+    "category": "Entertainment",
+    "language": "kor",
+    "country": "KR"
+  },
+  {
     "videoId": "SwkLV4Kfdh0",
     "channelId": "UC1X2nRRWPptr88W_N9RWS1g",
     "name": "A.S TV: أي إس تيفي",
@@ -32,6 +40,14 @@
     "country": "GH"
   },
   {
+    "videoId": "ADDSmXoPDY8",
+    "channelId": "UCcpJdrLttBz5bDBormbgwiw",
+    "name": "中視經典綜藝",
+    "category": "Entertainment",
+    "language": "zho",
+    "country": "TW"
+  },
+  {
     "videoId": "iCpJ43WWL5w",
     "channelId": "UCdjslyNQupPSFxK_mSPcG-g",
     "name": "Cold Case Detective",
@@ -56,12 +72,12 @@
     "country": "US"
   },
   {
-    "videoId": "UAzEvLrcujo",
-    "channelId": "UCIjOAtv53RHerlfl98fZmcQ",
-    "name": "KNR 1",
+    "videoId": "9Dob4g9nvkk",
+    "channelId": "UCjwXjnO3BGePtB7gSKEpoqA",
+    "name": "Televisa Tijuana",
     "category": "Entertainment",
-    "language": "kal",
-    "country": "GL"
+    "language": "spa",
+    "country": "MX"
   },
   {
     "videoId": "-L9cBf3oAO0",
@@ -112,6 +128,14 @@
     "country": "BR"
   },
   {
+    "videoId": "qv6GUruu2eU",
+    "channelId": "UCo1nfa1JKNqtcUyLjLwTiIw",
+    "name": "MULTIMEDIOS",
+    "category": "Entertainment",
+    "language": "spa",
+    "country": "MX"
+  },
+  {
     "videoId": "meJ21sM2yJc",
     "channelId": "UCOV_Vx1baZJY9Tfvgm-UI3w",
     "name": "Canal de la Ciudad",
@@ -120,9 +144,33 @@
     "country": "AR"
   },
   {
+    "videoId": "sg7kF5tpUMk",
+    "channelId": "UCpVm7bg6pXKo1Pr6k5kxG9A",
+    "name": "National Geographic: Culinary Delicacies",
+    "category": "Entertainment",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "CvdS4biecPk",
+    "channelId": "UCpVm7bg6pXKo1Pr6k5kxG9A",
+    "name": "National Geographic: To Catch a Smuggler",
+    "category": "Entertainment",
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "videoId": "fwGSqHvUyyQ",
     "channelId": "UCQ08tNTPiBn44c975S81ftg",
     "name": "Televisa Del Golfo",
+    "category": "Entertainment",
+    "language": "spa",
+    "country": "MX"
+  },
+  {
+    "videoId": "rHjbPu_cyzw",
+    "channelId": "UCR1aiCpU4PdNg-wCDiuDCcg",
+    "name": "Multimedios Laguna",
     "category": "Entertainment",
     "language": "spa",
     "country": "MX"

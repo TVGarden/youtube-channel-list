@@ -354,7 +354,31 @@
   {
     "videoId": "nA9UZF-SZoQ",
     "channelId": "UCLA_DiR1FfKNvjuUpBHmylQ",
-    "name": "NASA",
+    "name": "NASA: Media Channel",
+    "category": "Science",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "21X5lGlDOfg",
+    "channelId": "UCLA_DiR1FfKNvjuUpBHmylQ",
+    "name": "NASA: NASA TV",
+    "category": "Science",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "jPTD2gnZFUw",
+    "channelId": "UCLA_DiR1FfKNvjuUpBHmylQ",
+    "name": "NASA: ISS",
+    "category": "Science",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "P9C25Un7xaM",
+    "channelId": "UCLA_DiR1FfKNvjuUpBHmylQ",
+    "name": "NASA: ISS HD",
     "category": "Science",
     "language": "eng",
     "country": "US"
@@ -380,6 +404,14 @@
     "channelId": "UCMsgXPD3wzzt8RxHJmXH7hQ",
     "name": "Cartoon Network: The Marvelous Misadventures of Flapjack",
     "category": "Kids",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "W__NeSAD0lM",
+    "channelId": "UCmzIkIsRhfIwuQaju_YhZfA",
+    "name": "National Quartet Convention",
+    "category": "Music",
     "language": "eng",
     "country": "US"
   },
@@ -640,6 +672,22 @@
     "country": "US"
   },
   {
+    "videoId": "sg7kF5tpUMk",
+    "channelId": "UCpVm7bg6pXKo1Pr6k5kxG9A",
+    "name": "National Geographic: Culinary Delicacies",
+    "category": "Entertainment",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "CvdS4biecPk",
+    "channelId": "UCpVm7bg6pXKo1Pr6k5kxG9A",
+    "name": "National Geographic: To Catch a Smuggler",
+    "category": "Entertainment",
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "videoId": "eXZ4-qp16nI",
     "channelId": "UCq9e_hCv2jvgck8WowW1NXg",
     "name": "ABC 7 SWFL",
@@ -780,6 +828,14 @@
     "channelId": "UCwLxgZHR8oDOzJXtXuSB_bA",
     "name": "Indie Playlists",
     "category": "Music",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "zuy5N_mhVDc",
+    "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
+    "name": "Nat Geo Kids",
+    "category": "Education",
     "language": "eng",
     "country": "US"
   },

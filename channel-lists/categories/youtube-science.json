@@ -26,7 +26,31 @@
   {
     "videoId": "nA9UZF-SZoQ",
     "channelId": "UCLA_DiR1FfKNvjuUpBHmylQ",
-    "name": "NASA",
+    "name": "NASA: Media Channel",
+    "category": "Science",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "21X5lGlDOfg",
+    "channelId": "UCLA_DiR1FfKNvjuUpBHmylQ",
+    "name": "NASA: NASA TV",
+    "category": "Science",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "jPTD2gnZFUw",
+    "channelId": "UCLA_DiR1FfKNvjuUpBHmylQ",
+    "name": "NASA: ISS",
+    "category": "Science",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "P9C25Un7xaM",
+    "channelId": "UCLA_DiR1FfKNvjuUpBHmylQ",
+    "name": "NASA: ISS HD",
     "category": "Science",
     "language": "eng",
     "country": "US"

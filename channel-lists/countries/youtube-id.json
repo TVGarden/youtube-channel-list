@@ -16,6 +16,14 @@
     "country": "ID"
   },
   {
+    "videoId": "Bsu5xg9suBg",
+    "channelId": "UC7ijSJ_SyRqg_MqoGedoZTA",
+    "name": "Marhaban TV",
+    "category": "Religious",
+    "language": "ind",
+    "country": "ID"
+  },
+  {
     "videoId": "NUttFOSCAP0",
     "channelId": "UCdElYqHcat_E_RFG7yRmmwg",
     "name": "Jawa Pos",
@@ -36,6 +44,14 @@
     "channelId": "UCER4rvDnRBPr_ncYW4UCZjg",
     "name": "tvOneNews",
     "category": "News",
+    "language": "ind",
+    "country": "ID"
+  },
+  {
+    "videoId": "67DDLHFfsjc",
+    "channelId": "UCIrj7gqiu8uUfgMitYFzkNg",
+    "name": "MTATV",
+    "category": "Religious",
     "language": "ind",
     "country": "ID"
   },
@@ -83,6 +99,14 @@
     "videoId": "y6kKW2mDgS8",
     "channelId": "UCpJRmMTfdv0iPbnjo6qBw_g",
     "name": "Aquarius Musikindo",
+    "category": "Music",
+    "language": "ind",
+    "country": "ID"
+  },
+  {
+    "videoId": "NYoNORroe3o",
+    "channelId": "UCw9QaspFztufNcEBFlwb5iw",
+    "name": "NAGASWARA RADIOTEMEN",
     "category": "Music",
     "language": "ind",
     "country": "ID"

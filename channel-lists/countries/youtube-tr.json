@@ -1,5 +1,13 @@
 [
   {
+    "videoId": "Qi6qHKk7aoA",
+    "channelId": "UC_KlNwS1QQ9QMPRg9dGNHNw",
+    "name": "Medya Haber",
+    "category": "News",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
     "videoId": "Y8re9iEbrkA",
     "channelId": "UC-LRBEUet4xX2fRB3JitFxg",
     "name": "ANews",
@@ -48,7 +56,7 @@
     "country": "TR"
   },
   {
-    "videoId": "i-1kDXTDcvo",
+    "videoId": "m_DULjZ6g5U",
     "channelId": "UCAGVKxpAKwXMWdmcHbrvcwQ",
     "name": "EKOTÜRK TV",
     "category": "News",
@@ -292,6 +300,14 @@
     "channelId": "UCtjNs0q_cz-RdHy-HW2q8Cw",
     "name": "Çocuklar Duymasın",
     "category": "Entertainment",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "videoId": "PhaflkRneLg",
+    "channelId": "UCTr00Butm_gEZmbUz_KI9gg",
+    "name": "MPL TV",
+    "category": "Religious",
     "language": "tur",
     "country": "TR"
   },

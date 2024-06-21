@@ -8,10 +8,26 @@
     "country": "MX"
   },
   {
+    "videoId": "G7kcDeBFiKE",
+    "channelId": "UCevif8Yk47cJKrq4-0EmwIA",
+    "name": "Imagen Multicast",
+    "category": "News",
+    "language": "spa",
+    "country": "MX"
+  },
+  {
     "videoId": "ABWJSa_6FWw",
     "channelId": "UCgu4v4HAioB0N5K6aq_H-WQ",
     "name": "Canal 66 Mexicali",
     "category": "News",
+    "language": "spa",
+    "country": "MX"
+  },
+  {
+    "videoId": "9Dob4g9nvkk",
+    "channelId": "UCjwXjnO3BGePtB7gSKEpoqA",
+    "name": "Televisa Tijuana",
+    "category": "Entertainment",
     "language": "spa",
     "country": "MX"
   },
@@ -24,10 +40,34 @@
     "country": "MX"
   },
   {
+    "videoId": "qv6GUruu2eU",
+    "channelId": "UCo1nfa1JKNqtcUyLjLwTiIw",
+    "name": "MULTIMEDIOS",
+    "category": "Entertainment",
+    "language": "spa",
+    "country": "MX"
+  },
+  {
     "videoId": "fwGSqHvUyyQ",
     "channelId": "UCQ08tNTPiBn44c975S81ftg",
     "name": "Televisa Del Golfo",
     "category": "Entertainment",
+    "language": "spa",
+    "country": "MX"
+  },
+  {
+    "videoId": "rHjbPu_cyzw",
+    "channelId": "UCR1aiCpU4PdNg-wCDiuDCcg",
+    "name": "Multimedios Laguna",
+    "category": "Entertainment",
+    "language": "spa",
+    "country": "MX"
+  },
+  {
+    "videoId": "raHVI7v0Dtg",
+    "channelId": "UCRujF_YxVVFmTRWURQH-Cww",
+    "name": "Televisa Guadalajara",
+    "category": "General",
     "language": "spa",
     "country": "MX"
   }

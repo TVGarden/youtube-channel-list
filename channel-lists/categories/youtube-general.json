@@ -16,11 +16,27 @@
     "country": "AT"
   },
   {
+    "videoId": "raHVI7v0Dtg",
+    "channelId": "UCRujF_YxVVFmTRWURQH-Cww",
+    "name": "Televisa Guadalajara",
+    "category": "General",
+    "language": "spa",
+    "country": "MX"
+  },
+  {
     "videoId": "N-UGU17tJss",
     "channelId": "UCtKY2DeY9GkBr35opV7E2Lg",
     "name": "BTV",
     "category": "General",
     "language": "eng",
     "country": "US"
+  },
+  {
+    "videoId": "5ARTNKq49WY",
+    "channelId": "UCva-htH2wvmKsG6SkcEJ4Vw",
+    "name": "Maurienne TV",
+    "category": "General",
+    "language": "fra",
+    "country": "FR"
   }
 ]

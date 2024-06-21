@@ -1,5 +1,13 @@
 [
   {
+    "videoId": "wMFD7e58iAU",
+    "channelId": "UC0AMtPKwU61uDs--L04_kfQ",
+    "name": "Madani Channel Bangla",
+    "category": "Religious",
+    "language": "ben",
+    "country": "BD"
+  },
+  {
     "videoId": "QTqypPXHL_8",
     "channelId": "UC0NOO9jkIj_4ML7IbtTwQHQ",
     "name": "CBSJOY",
@@ -22,6 +30,14 @@
     "category": "Religious",
     "language": "eng",
     "country": "US"
+  },
+  {
+    "videoId": "Bsu5xg9suBg",
+    "channelId": "UC7ijSJ_SyRqg_MqoGedoZTA",
+    "name": "Marhaban TV",
+    "category": "Religious",
+    "language": "ind",
+    "country": "ID"
   },
   {
     "videoId": "gGEP9Vd0u34",
@@ -56,6 +72,14 @@
     "country": "US"
   },
   {
+    "videoId": "yNuxgTRjNrU",
+    "channelId": "UCfxZ4ukHXzWqZnI9brMONXw",
+    "name": "MTA 3 Al-Arabia",
+    "category": "Religious",
+    "language": "eng",
+    "country": "UK"
+  },
+  {
     "videoId": "q1AW5heNVpU",
     "channelId": "UCGSqbZNnHNI17N1N-LcRmEg",
     "name": "Shekinah News Live",
@@ -70,6 +94,14 @@
     "category": "Religious",
     "language": "ell",
     "country": "GR"
+  },
+  {
+    "videoId": "67DDLHFfsjc",
+    "channelId": "UCIrj7gqiu8uUfgMitYFzkNg",
+    "name": "MTATV",
+    "category": "Religious",
+    "language": "ind",
+    "country": "ID"
   },
   {
     "videoId": "dPRdBbsBy98",
@@ -160,6 +192,22 @@
     "country": "BR"
   },
   {
+    "videoId": "PhaflkRneLg",
+    "channelId": "UCTr00Butm_gEZmbUz_KI9gg",
+    "name": "MPL TV",
+    "category": "Religious",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "videoId": "akPB_7-Xv5o",
+    "channelId": "UCuUocUAnPTUkwGtC8GuNKow",
+    "name": "Madani Channel Urdu",
+    "category": "Religious",
+    "language": "urd",
+    "country": "PK"
+  },
+  {
     "videoId": "xrE8iIA4Gac",
     "channelId": "UCvbCPonBNwpRD8e77MPj8cA",
     "name": "Kartavya TV",
@@ -174,6 +222,30 @@
     "category": "Religious",
     "language": "eng",
     "country": "US"
+  },
+  {
+    "videoId": "xk8Tm0ZnhXM",
+    "channelId": "UCW4QTka08QOHRNxKcJLEuUA",
+    "name": "MTA8 America",
+    "category": "Religious",
+    "language": "eng",
+    "country": "UK"
+  },
+  {
+    "videoId": "Oq5CeKvMBwI",
+    "channelId": "UCW4QTka08QOHRNxKcJLEuUA",
+    "name": "MTA6 Asia",
+    "category": "Religious",
+    "language": "eng",
+    "country": "UK"
+  },
+  {
+    "videoId": "lU-R0q7ADCw",
+    "channelId": "UCW4QTka08QOHRNxKcJLEuUA",
+    "name": "MTA2 Europe",
+    "category": "Religious",
+    "language": "eng",
+    "country": "UK"
   },
   {
     "videoId": "ZsSYbpIes9A",

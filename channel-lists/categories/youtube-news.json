@@ -16,12 +16,28 @@
     "country": "IN"
   },
   {
+    "videoId": "Qi6qHKk7aoA",
+    "channelId": "UC_KlNwS1QQ9QMPRg9dGNHNw",
+    "name": "Medya Haber",
+    "category": "News",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
     "videoId": "y8JcLOL4yiQ",
     "channelId": "UC_yXEx3-Gk5drg9qhPzSQSg",
     "name": "Al Jazeera Balkans",
     "category": "News",
     "language": "bos",
     "country": "QA"
+  },
+  {
+    "videoId": "GIT1lX0NdHo",
+    "channelId": "UC-f7r46JhYv78q5pGrO6ivA",
+    "name": "MediaoneTV Live",
+    "category": "News",
+    "language": "mal",
+    "country": "IN"
   },
   {
     "videoId": "FeweQREkl44",
@@ -101,6 +117,14 @@
     "name": "CTVN AKD PLUS",
     "category": "News",
     "language": "ben",
+    "country": "IN"
+  },
+  {
+    "videoId": "SbRORbMo4vY",
+    "channelId": "UC1vOCYEu3DfoI4fYcfWKmWA",
+    "name": "Kalinga TV",
+    "category": "News",
+    "language": "ori",
     "country": "IN"
   },
   {
@@ -352,7 +376,7 @@
     "country": "FR"
   },
   {
-    "videoId": "i-1kDXTDcvo",
+    "videoId": "m_DULjZ6g5U",
     "channelId": "UCAGVKxpAKwXMWdmcHbrvcwQ",
     "name": "EKOTÜRK TV",
     "category": "News",
@@ -480,6 +504,14 @@
     "country": "JP"
   },
   {
+    "videoId": "KevNAkchbvk",
+    "channelId": "UCCTrqrHKqdS915K-TpMG6pg",
+    "name": "Nandighosha TV",
+    "category": "News",
+    "language": "ori",
+    "country": "IN"
+  },
+  {
     "videoId": "fkCbtqZ7L0Y",
     "channelId": "UCcu3RolEOalAMef4Lt3uZLg",
     "name": "AlQahera News",
@@ -536,7 +568,7 @@
     "country": "UK"
   },
   {
-    "videoId": "keqOwySypMM",
+    "videoId": "YfxRw2kDlm8",
     "channelId": "UCENo4wEDe_59Bb8rGGMZl_w",
     "name": "HORYZONT TV",
     "category": "News",
@@ -558,6 +590,14 @@
     "category": "News",
     "language": "eng",
     "country": "US"
+  },
+  {
+    "videoId": "G7kcDeBFiKE",
+    "channelId": "UCevif8Yk47cJKrq4-0EmwIA",
+    "name": "Imagen Multicast",
+    "category": "News",
+    "language": "spa",
+    "country": "MX"
   },
   {
     "videoId": "W8nThq62Vb4",
@@ -720,6 +760,14 @@
     "country": "GH"
   },
   {
+    "videoId": "xoQYyvuffBY",
+    "channelId": "UCHJ8gW2vKH5R3VohymtBCrQ",
+    "name": "M1 - Híradó",
+    "category": "News",
+    "language": "hun",
+    "country": "HU"
+  },
+  {
     "videoId": "biqpPMEVJrk",
     "channelId": "UCHKib3PFscrSEFOINC2ZJCQ",
     "name": "B SMART - En direct",
@@ -758,6 +806,14 @@
     "category": "News",
     "language": "ara",
     "country": "AE"
+  },
+  {
+    "videoId": "NOJf0umMvi4",
+    "channelId": "UCILU2ghO8GrOeB-zo93eYdA",
+    "name": "Multimedios Costa Rica",
+    "category": "News",
+    "language": "spa",
+    "country": "CR"
   },
   {
     "videoId": "-6QbFGYKhy0",
@@ -838,6 +894,14 @@
     "category": "News",
     "language": "msa",
     "country": "MY"
+  },
+  {
+    "videoId": "tyrUZE9pOK8",
+    "channelId": "UCkccyEbqhhM3uKOI6Shm-4Q",
+    "name": "Meganoticias",
+    "category": "News",
+    "language": "spa",
+    "country": "CL"
   },
   {
     "videoId": "tZT2MCYu6Zw",
@@ -1112,6 +1176,14 @@
     "country": "US"
   },
   {
+    "videoId": "6ZkhUSb1WuY",
+    "channelId": "UCQC0xLG_W0QpqAXQ4-yhwBA",
+    "name": "Mosaïk Cristal",
+    "category": "News",
+    "language": "fra",
+    "country": "FR"
+  },
+  {
     "videoId": "PCccV7cCW8M",
     "channelId": "UCqPDZgcJtyPFhJM4qx-PuKg",
     "name": "鹿児島ニュースKTS",
@@ -1384,7 +1456,7 @@
     "country": "BD"
   },
   {
-    "videoId": "8VeGZXWbLdc",
+    "videoId": "jYmO6CPrVZs",
     "channelId": "UCUy__zD6aeuZKUXX8kUc4ZQ",
     "name": "Česko-Slovenská regionálna televízia",
     "category": "News",
@@ -1456,6 +1528,14 @@
     "country": "US"
   },
   {
+    "videoId": "fNf_-Atym-U",
+    "channelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
+    "name": "MIRROR NOW",
+    "category": "News",
+    "language": "eng",
+    "country": "IN"
+  },
+  {
     "videoId": "UQ3P8ezZmzg",
     "channelId": "UCwKS2U-DwjPZZvM6mSXPKgA",
     "name": "Almagharibia TV: المغاربية",
@@ -1496,6 +1576,14 @@
     "country": "YE"
   },
   {
+    "videoId": "2i1Mt0gkhLY",
+    "channelId": "UCXbufH95DIUqyAWSzeDI0JQ",
+    "name": "Malaimurasu Tv 24X7",
+    "category": "News",
+    "language": "tam",
+    "country": "IN"
+  },
+  {
     "videoId": "7heWRN252pQ",
     "channelId": "UCXoJ8kY9zpLBEz-8saaT3ew",
     "name": "FREEDOM",
@@ -1515,14 +1603,6 @@
     "videoId": "XCZNSPsMCdI",
     "channelId": "UCy-r-BQ5BQRU6rzGS73-WBQ",
     "name": "El Once TV",
-    "category": "News",
-    "language": "spa",
-    "country": "AR"
-  },
-  {
-    "videoId": "h_ZkpazaMus",
-    "channelId": "UCy3MW5Goy1epjhvtjalzbKg",
-    "name": "Extratv",
     "category": "News",
     "language": "spa",
     "country": "AR"

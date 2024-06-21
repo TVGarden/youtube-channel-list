@@ -8,6 +8,14 @@
     "country": "IN"
   },
   {
+    "videoId": "GIT1lX0NdHo",
+    "channelId": "UC-f7r46JhYv78q5pGrO6ivA",
+    "name": "MediaoneTV Live",
+    "category": "News",
+    "language": "mal",
+    "country": "IN"
+  },
+  {
     "videoId": "FeweQREkl44",
     "channelId": "UC-JFyL0zDFOsPMpuWu39rPA",
     "name": "Thanthi TV",
@@ -29,6 +37,14 @@
     "name": "CTVN AKD PLUS",
     "category": "News",
     "language": "ben",
+    "country": "IN"
+  },
+  {
+    "videoId": "SbRORbMo4vY",
+    "channelId": "UC1vOCYEu3DfoI4fYcfWKmWA",
+    "name": "Kalinga TV",
+    "category": "News",
+    "language": "ori",
     "country": "IN"
   },
   {
@@ -107,6 +123,14 @@
     "videoId": "YG7riZAW1JM",
     "channelId": "UCCgLMMp4lv7fSD2sBz1Ai6Q",
     "name": "OTV",
+    "category": "News",
+    "language": "ori",
+    "country": "IN"
+  },
+  {
+    "videoId": "KevNAkchbvk",
+    "channelId": "UCCTrqrHKqdS915K-TpMG6pg",
+    "name": "Nandighosha TV",
     "category": "News",
     "language": "ori",
     "country": "IN"
@@ -440,11 +464,27 @@
     "country": "IN"
   },
   {
+    "videoId": "fNf_-Atym-U",
+    "channelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
+    "name": "MIRROR NOW",
+    "category": "News",
+    "language": "eng",
+    "country": "IN"
+  },
+  {
     "videoId": "YGEgelAiUf0",
     "channelId": "UCwXrBBZnIh2ER4lal6WbAHw",
     "name": "Mathrubhumi News",
     "category": "News",
     "language": "mal",
+    "country": "IN"
+  },
+  {
+    "videoId": "2i1Mt0gkhLY",
+    "channelId": "UCXbufH95DIUqyAWSzeDI0JQ",
+    "name": "Malaimurasu Tv 24X7",
+    "category": "News",
+    "language": "tam",
     "country": "IN"
   },
   {
