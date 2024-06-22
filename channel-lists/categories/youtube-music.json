@@ -1,5 +1,29 @@
 [
   {
+    "videoId": "HQtFR3mhzOY",
+    "channelId": "UC0f4WJAjYdwl4XYHz-6FhyQ",
+    "name": "Hits Radio 1",
+    "category": "Music",
+    "language": "eng",
+    "country": "DE"
+  },
+  {
+    "videoId": "pimq2OvTovY",
+    "channelId": "UC0f4WJAjYdwl4XYHz-6FhyQ",
+    "name": "Hits Radio 1: Pop",
+    "category": "Music",
+    "language": "eng",
+    "country": "DE"
+  },
+  {
+    "videoId": "uNd5kvrGHjk",
+    "channelId": "UC0f4WJAjYdwl4XYHz-6FhyQ",
+    "name": "Hits Radio 1: Top Songs",
+    "category": "Music",
+    "language": "eng",
+    "country": "DE"
+  },
+  {
     "videoId": "MNAgWGlxMa4",
     "channelId": "UC1Oa7gHuqzGHB90FPb0ssPA",
     "name": "FMVale975",
@@ -120,6 +144,38 @@
     "country": "MY"
   },
   {
+    "videoId": "8zRR2_6aRNE",
+    "channelId": "UClRJcsRS9YETAAj0nG_pX6g",
+    "name": "frequenzy: Acoustic/Folk",
+    "category": "Music",
+    "language": "eng",
+    "country": "NL"
+  },
+  {
+    "videoId": "tWTPGVIw1es",
+    "channelId": "UClRJcsRS9YETAAj0nG_pX6g",
+    "name": "frequenzy: Alternative/Rock",
+    "category": "Music",
+    "language": "eng",
+    "country": "NL"
+  },
+  {
+    "videoId": "e7CM2kGoqXg",
+    "channelId": "UClRJcsRS9YETAAj0nG_pX6g",
+    "name": "frequenzy: Jazz/Funk/Soul",
+    "category": "Music",
+    "language": "eng",
+    "country": "NL"
+  },
+  {
+    "videoId": "uRImXboQnzE",
+    "channelId": "UClRJcsRS9YETAAj0nG_pX6g",
+    "name": "frequenzy: Indie/Pop/Rock",
+    "category": "Music",
+    "language": "eng",
+    "country": "NL"
+  },
+  {
     "videoId": "W__NeSAD0lM",
     "channelId": "UCmzIkIsRhfIwuQaju_YhZfA",
     "name": "National Quartet Convention",
@@ -235,6 +291,70 @@
     "videoId": "rv_0_luKpgA",
     "channelId": "UCSx0CKSPK_jUE2REJtgHIPA",
     "name": "Best of Mix: Pop mix",
+    "category": "Music",
+    "language": "eng",
+    "country": "DE"
+  },
+  {
+    "videoId": "gpsqz2kseiY",
+    "channelId": "UCSx0CKSPK_jUE2REJtgHIPA",
+    "name": "Best of Mix: 70s 80s Mix",
+    "category": "Music",
+    "language": "eng",
+    "country": "DE"
+  },
+  {
+    "videoId": "rq21ksnOLeg",
+    "channelId": "UCSx0CKSPK_jUE2REJtgHIPA",
+    "name": "Best of Mix: Dance Mix",
+    "category": "Music",
+    "language": "eng",
+    "country": "DE"
+  },
+  {
+    "videoId": "t-9hwSYnS58",
+    "channelId": "UCSx0CKSPK_jUE2REJtgHIPA",
+    "name": "Best of Mix: 2000s Mix",
+    "category": "Music",
+    "language": "eng",
+    "country": "DE"
+  },
+  {
+    "videoId": "ONvuDFw7_nI",
+    "channelId": "UCSx0CKSPK_jUE2REJtgHIPA",
+    "name": "Best of Mix: Pop Rock Mix",
+    "category": "Music",
+    "language": "eng",
+    "country": "DE"
+  },
+  {
+    "videoId": "t1P1emxwzCE",
+    "channelId": "UCSx0CKSPK_jUE2REJtgHIPA",
+    "name": "Best of Mix: 90s Mix",
+    "category": "Music",
+    "language": "eng",
+    "country": "DE"
+  },
+  {
+    "videoId": "urikT3Act8w",
+    "channelId": "UCSx0CKSPK_jUE2REJtgHIPA",
+    "name": "Best of Mix: Hip Hop Mix",
+    "category": "Music",
+    "language": "eng",
+    "country": "DE"
+  },
+  {
+    "videoId": "HZmdY3TOtS0",
+    "channelId": "UCSx0CKSPK_jUE2REJtgHIPA",
+    "name": "Best of Mix: Pop Mix",
+    "category": "Music",
+    "language": "eng",
+    "country": "DE"
+  },
+  {
+    "videoId": "Nq_6zyW6x3E",
+    "channelId": "UCSx0CKSPK_jUE2REJtgHIPA",
+    "name": "Best of Mix: Rock Classics Mix",
     "category": "Music",
     "language": "eng",
     "country": "DE"

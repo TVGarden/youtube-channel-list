@@ -256,6 +256,14 @@
     "country": "TW"
   },
   {
+    "videoId": "YGjD4PpCmdU",
+    "channelId": "UC5UKMEIoqvNDMSDz2_6Sn9g",
+    "name": "Canal 8 San Juan",
+    "category": "News",
+    "language": "spa",
+    "country": "AR"
+  },
+  {
     "videoId": "24fNiXu0cL0",
     "channelId": "UC65F33K2cXk9hGDbOQYhTOw",
     "name": "eXtra news Live Stream",
@@ -366,6 +374,14 @@
     "category": "News",
     "language": "tur",
     "country": "TR"
+  },
+  {
+    "videoId": "btkaMOu07Ro",
+    "channelId": "UC8Z-VjXBtDJTvq6aqkIskPg",
+    "name": "Polimer News",
+    "category": "News",
+    "language": "tam",
+    "country": "IN"
   },
   {
     "videoId": "tL5zlzxpYqE",
@@ -886,6 +902,14 @@
     "category": "News",
     "language": "spa",
     "country": "AR"
+  },
+  {
+    "videoId": "IdnTOsEow0Q",
+    "channelId": "UCHZk9MrT3DGWmVqdsj5y0EA",
+    "name": "BBC Persian",
+    "category": "News",
+    "language": "fas",
+    "country": "UK"
   },
   {
     "videoId": "sFZe_RPnNSo",

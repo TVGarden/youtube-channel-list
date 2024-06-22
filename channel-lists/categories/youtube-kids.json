@@ -1,5 +1,13 @@
 [
   {
+    "videoId": "t-YPOCwhBTQ",
+    "channelId": "UC0pHdbHRCREJJQhGSUDH61g",
+    "name": "Pocoyo",
+    "category": "Kids",
+    "language": "fra",
+    "country": "FR"
+  },
+  {
     "videoId": "wGxyxTSRwcM",
     "channelId": "UC2T2eP7aoOqTDssupevArfA",
     "name": "Jetix",
@@ -102,6 +110,14 @@
     "category": "Kids",
     "language": "eng",
     "country": "US"
+  },
+  {
+    "videoId": "obU_wAUuDUQ",
+    "channelId": "UCgbfG5HoczHIkpzxLYH-8Ww",
+    "name": "Pokémon Kids TV",
+    "category": "Kids",
+    "language": "eng",
+    "country": "JP"
   },
   {
     "videoId": "HUF0wYndwOs",
