@@ -1,5 +1,13 @@
 [
   {
+    "videoId": "CJVBX7KI5nU",
+    "channelId": "UC-PHIZjV-oX8H7zD1cCN2NQ",
+    "name": "Arirang TV",
+    "category": "General",
+    "language": "kor",
+    "country": "KR"
+  },
+  {
     "videoId": "-GsWegfz6I4",
     "channelId": "UC-VbFgagk6GJGDJgRQIMpZw",
     "name": "MBC every1",
@@ -44,6 +52,14 @@
     "channelId": "UCPde4guD9yFBRzkxk2PatoA",
     "name": "All the K-POP",
     "category": "Music",
+    "language": "kor",
+    "country": "KR"
+  },
+  {
+    "videoId": "AZEL28mnDtw",
+    "channelId": "UCPUeGC_AL-OnDQORKhRm6iA",
+    "name": "Pororo 뽀로로",
+    "category": "Kids",
     "language": "kor",
     "country": "KR"
   },

@@ -16,18 +16,18 @@
     "country": "US"
   },
   {
-    "videoId": "twhG7_jvA8g",
-    "channelId": "UC4K_LI-Tn3-LshNgG0-YypQ",
-    "name": "CCTV 中文国际",
-    "category": "News",
-    "language": "zho",
-    "country": "US"
-  },
-  {
     "videoId": "ltIbe_Ulzps",
     "channelId": "UC6VJE6cD8ZPpe6ZOtVtlBTA",
     "name": "Amazing Facts TV",
     "category": "Religious",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "JkuhZo2xO-E",
+    "channelId": "UC74bcC7aGRNz4KoRpJsJNEw",
+    "name": "Nicktoons: The Loud House",
+    "category": "Kids",
     "language": "eng",
     "country": "US"
   },
@@ -264,6 +264,14 @@
     "country": "US"
   },
   {
+    "videoId": "Dgls_hR7hQI",
+    "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
+    "name": "NBC News Now",
+    "category": "News",
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "videoId": "ay6xaygH16E",
     "channelId": "UCeY4C8Sbx8B4bIyREPSvORQ",
     "name": "The Smurfs",
@@ -336,6 +344,14 @@
     "country": "US"
   },
   {
+    "videoId": "4QDdhJaWtjU",
+    "channelId": "UCJNBZaQWMIHACqvHT_k2cWw",
+    "name": "PAW Patrol (Español)",
+    "category": "Kids",
+    "language": "spa",
+    "country": "US"
+  },
+  {
     "videoId": "3Ct8cGvwo6g",
     "channelId": "UCJUtNZBqoY0aSdcpTRMUA2Q",
     "name": "Hubble",
@@ -347,6 +363,22 @@
     "videoId": "Fjp2TdlTTIU",
     "channelId": "UCktaw9L-f65LzUUdjmCFkbQ",
     "name": "DisneyXD: Phineas and Ferb",
+    "category": "Kids",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "TxxsIxLJjjs",
+    "channelId": "UCKtfozhWfwvXUTnR7PV3t5g",
+    "name": "Peacock jr: Curious George",
+    "category": "Kids",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "Cn8ZOGkLvYc",
+    "channelId": "UCKtfozhWfwvXUTnR7PV3t5g",
+    "name": "Peacock jr: Caillou",
     "category": "Kids",
     "language": "eng",
     "country": "US"
@@ -468,6 +500,14 @@
     "channelId": "UCNZS3IEQaAfwofwltbEBwuw",
     "name": "Genesis Science Network",
     "category": "Religious",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "eO2WsO6D44g",
+    "channelId": "UCoookXUzPciGrEZEXmh4Jjg",
+    "name": "Sesame Street",
+    "category": "Kids",
     "language": "eng",
     "country": "US"
   },
@@ -688,6 +728,30 @@
     "country": "US"
   },
   {
+    "videoId": "AJfAKlPUj4o",
+    "channelId": "UCPvNTD1GuxPR8LXCuD-cbTw",
+    "name": "Rainbow Junior: 44 Cats | Buffycats and Granny Pina",
+    "category": "Kids",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "lhnSxUAJqcU",
+    "channelId": "UCPvNTD1GuxPR8LXCuD-cbTw",
+    "name": "Rainbow Junior: 44 Cats | Isotta's Surprise Party",
+    "category": "Kids",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "lWWIfMOFOcA",
+    "channelId": "UCPvNTD1GuxPR8LXCuD-cbTw",
+    "name": "Rainbow Junior: 44 Cats | Pilou and Meatball",
+    "category": "Kids",
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "videoId": "eXZ4-qp16nI",
     "channelId": "UCq9e_hCv2jvgck8WowW1NXg",
     "name": "ABC 7 SWFL",
@@ -736,9 +800,17 @@
     "country": "US"
   },
   {
+    "videoId": "7hG1t5XG5ms",
+    "channelId": "UCSGeXKPLsXkSCIwaG2cCjLA",
+    "name": "News 9 YouTube",
+    "category": "News",
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "videoId": "rVG8URc9e-E",
     "channelId": "UCSVSJ1OCSv5ClFgKFTHIDew",
-    "name": "PAW Patrol Official & Friends",
+    "name": "PAW Patrol (English)",
     "category": "Kids",
     "language": "eng",
     "country": "US"
@@ -748,6 +820,14 @@
     "channelId": "UCtKY2DeY9GkBr35opV7E2Lg",
     "name": "BTV",
     "category": "General",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "Gn5hYxI9DCc",
+    "channelId": "UCtlth0w7_mYqpHPViMhQ99Q",
+    "name": "Oddbods",
+    "category": "Kids",
     "language": "eng",
     "country": "US"
   },
@@ -828,6 +908,14 @@
     "channelId": "UCwLxgZHR8oDOzJXtXuSB_bA",
     "name": "Indie Playlists",
     "category": "Music",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "vZ0YOm__YJc",
+    "channelId": "UCx6h-dWzJ5NpAlja1YsApdg",
+    "name": "Newsmax",
+    "category": "News",
     "language": "eng",
     "country": "US"
   },

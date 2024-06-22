@@ -8,6 +8,14 @@
     "country": "IN"
   },
   {
+    "videoId": "KMWcefrAKLg",
+    "channelId": "UC-crZTQNRzZgzyighTKF0nQ",
+    "name": "News18 Punjab/Haryana/Himachal",
+    "category": "News",
+    "language": "pan",
+    "country": "IN"
+  },
+  {
     "videoId": "GIT1lX0NdHo",
     "channelId": "UC-f7r46JhYv78q5pGrO6ivA",
     "name": "MediaoneTV Live",
@@ -21,6 +29,14 @@
     "name": "Thanthi TV",
     "category": "News",
     "language": "tam",
+    "country": "IN"
+  },
+  {
+    "videoId": "Oy0JGa3SIqg",
+    "channelId": "UC-mMi78WJST4N5o8_i1FoXw",
+    "name": "News18 Kerala",
+    "category": "News",
+    "language": "mal",
     "country": "IN"
   },
   {
@@ -72,6 +88,14 @@
     "country": "IN"
   },
   {
+    "videoId": "m4q1q_M_Qv4",
+    "channelId": "UC6E1pvhGa55AaZ-svF70ViA",
+    "name": "Paras TV",
+    "category": "Religious",
+    "language": "hin",
+    "country": "IN"
+  },
+  {
     "videoId": "oWnkRvZb5fE",
     "channelId": "UC6ickpgDIsltU_-8CbZaksQ",
     "name": "ETV Telangana",
@@ -80,11 +104,27 @@
     "country": "IN"
   },
   {
+    "videoId": "YgY1oQ-CJUs",
+    "channelId": "UC7FlLbNo66YsCEAPuJITiNg",
+    "name": "News18 Rajasthan",
+    "category": "News",
+    "language": "hin",
+    "country": "IN"
+  },
+  {
     "videoId": "KVjPZ1YpaaU",
     "channelId": "UC7wXt18f2iA3EDXeqAVuKng",
     "name": "Republic Bharat",
     "category": "News",
     "language": "hin",
+    "country": "IN"
+  },
+  {
+    "videoId": "jdJoOhqCipA",
+    "channelId": "UC8dnBi4WUErqYQHZ4PfsLTg",
+    "name": "Tv9 Kannada",
+    "category": "News",
+    "language": "kan",
     "country": "IN"
   },
   {
@@ -104,6 +144,46 @@
     "country": "IN"
   },
   {
+    "videoId": "doXPWWFxil4",
+    "channelId": "UC9CYT9gSNLevX5ey2_6CK0Q",
+    "name": "NDTV India",
+    "category": "News",
+    "language": "hin",
+    "country": "IN"
+  },
+  {
+    "videoId": "bDIyW1K61A4",
+    "channelId": "UC9IQhNgS43lmUdU-KdGyb0A",
+    "name": "News18 Urdu",
+    "category": "News",
+    "language": "urd",
+    "country": "IN"
+  },
+  {
+    "videoId": "ztw2nX78cMw",
+    "channelId": "UCa-vioGhe2btBcZneaPonKA",
+    "name": "News18 Kannada",
+    "category": "News",
+    "language": "kan",
+    "country": "IN"
+  },
+  {
+    "videoId": "ro1IGURiJEk",
+    "channelId": "UCafYgzpyw7aIUYOLjjADu7w",
+    "name": "News18 UP Uttarakhand",
+    "category": "News",
+    "language": "hin",
+    "country": "IN"
+  },
+  {
+    "videoId": "AP1FRAy3tqU",
+    "channelId": "UCAjBd-r8JWfnRjfhg23nqLQ",
+    "name": "News18 Assam/Northeast",
+    "category": "News",
+    "language": "asm",
+    "country": "IN"
+  },
+  {
     "videoId": "j_XjJmh0BXk",
     "channelId": "UCAR3h_9fLV82N2FH4cE4RKw",
     "name": "TV5 News",
@@ -117,6 +197,14 @@
     "name": "News18 Tamil Nadu",
     "category": "News",
     "language": "tam",
+    "country": "IN"
+  },
+  {
+    "videoId": "6Ec7bnQVO44",
+    "channelId": "UCbf0XHULBkTfv2hBjaaDw9Q",
+    "name": "News18 Bangla",
+    "category": "News",
+    "language": "ben",
     "country": "IN"
   },
   {
@@ -152,11 +240,35 @@
     "country": "IN"
   },
   {
+    "videoId": "04y0H01GTg0",
+    "channelId": "UCdOSeEq9Cs2Pco7OCn2_i5w",
+    "name": "TV9 Marathi",
+    "category": "News",
+    "language": "mar",
+    "country": "IN"
+  },
+  {
+    "videoId": "m1yzYKBUooQ",
+    "channelId": "UCeNP3dAy9_A32IWYZq_PZMQ",
+    "name": "News State",
+    "category": "News",
+    "language": "hin",
+    "country": "IN"
+  },
+  {
     "videoId": "Ko18SgceYX8",
     "channelId": "UCf8w5m0YsRa8MHQ5bwSGmbw",
     "name": "Asianet News",
     "category": "News",
     "language": "mal",
+    "country": "IN"
+  },
+  {
+    "videoId": "WuZRd6P6Srk",
+    "channelId": "UCFRlIV1mX-traJb5fd7S3nw",
+    "name": "NewsFirst Kannada",
+    "category": "News",
+    "language": "kan",
     "country": "IN"
   },
   {
@@ -224,7 +336,7 @@
     "country": "IN"
   },
   {
-    "videoId": "RH2rzPjwZN4",
+    "videoId": "pvmy8TtrHwI",
     "channelId": "UCjmnq35TvJ1J8JZS49OPg-Q",
     "name": "JAN TV",
     "category": "News",
@@ -248,7 +360,7 @@
     "country": "IN"
   },
   {
-    "videoId": "3t6U7Mx6jMc",
+    "videoId": "VJuAC9GvxEk",
     "channelId": "UClOK2dPmq8k8Xwii_4TjRnQ",
     "name": "Agamvani Channel",
     "category": "Religious",
@@ -376,11 +488,27 @@
     "country": "IN"
   },
   {
+    "videoId": "oURmdbfbhgM",
+    "channelId": "UCqfX_f4rBbPhq_KESE4saCA",
+    "name": "News18 Gujarati",
+    "category": "News",
+    "language": "guj",
+    "country": "IN"
+  },
+  {
     "videoId": "TD0A7fHAxKw",
     "channelId": "UCQIycDaLsBpMKjOCeaKUYVg",
     "name": "CNBC Awaaz",
     "category": "Business",
     "language": "hin",
+    "country": "IN"
+  },
+  {
+    "videoId": "UQ64XobiT0Y",
+    "channelId": "UCrcpw88HvKJ0skdsHniCJtQ",
+    "name": "News18 Lokmat",
+    "category": "News",
+    "language": "mar",
     "country": "IN"
   },
   {
@@ -392,11 +520,35 @@
     "country": "IN"
   },
   {
+    "videoId": "KYINF5qGRso",
+    "channelId": "UCsfh2Zb7-m4qzT8jLhK_Fzw",
+    "name": "NewsJ",
+    "category": "News",
+    "language": "tam",
+    "country": "IN"
+  },
+  {
     "videoId": "cEjuoCwX9jU",
     "channelId": "UCsNdeLwEZf86swPD3qJJ7Dw",
     "name": "News Nation",
     "category": "News",
     "language": "hin",
+    "country": "IN"
+  },
+  {
+    "videoId": "d0dB3kSCMmM",
+    "channelId": "UCSzOZ97LOpU-_AVlGfmD4rQ",
+    "name": "Bhakthi TV",
+    "category": "Religious",
+    "language": "tel",
+    "country": "IN"
+  },
+  {
+    "videoId": "jueJiFeTjR4",
+    "channelId": "UCtbo6_eDG7zEtaOtcSltJkA",
+    "name": "NewsTamil 24X7",
+    "category": "News",
+    "language": "tam",
     "country": "IN"
   },
   {
@@ -424,6 +576,14 @@
     "country": "IN"
   },
   {
+    "videoId": "wpbxyW1YpqQ",
+    "channelId": "UCUK49UvmYWYLiB7_bZFuFZQ",
+    "name": "News18 Odia",
+    "category": "News",
+    "language": "ori",
+    "country": "IN"
+  },
+  {
     "videoId": "L0RktSIM980",
     "channelId": "UCumtYpCY26F6Jr3satUgMvA",
     "name": "NTV Telugu",
@@ -445,6 +605,14 @@
     "name": "24 News",
     "category": "News",
     "language": "mal",
+    "country": "IN"
+  },
+  {
+    "videoId": "cypBrJzVaKY",
+    "channelId": "UCuzS3rPQAYqHcLWqOFuY0pw",
+    "name": "News 24",
+    "category": "News",
+    "language": "hin",
     "country": "IN"
   },
   {

@@ -88,11 +88,27 @@
     "country": "UA"
   },
   {
+    "videoId": "Ou6XkR1tGE4",
+    "channelId": "UCp0urejlDaYz4G8xpTxdIvw",
+    "name": "PEARL TV",
+    "category": "Shop",
+    "language": "deu",
+    "country": "DE"
+  },
+  {
     "videoId": "nL5H_f37WRE",
     "channelId": "UCv7IxJXF5EMgzZ77DVSx4IQ",
     "name": "JTV Live Now",
     "category": "Shop",
     "language": "eng",
     "country": "US"
+  },
+  {
+    "videoId": "ppr3oY6r7pk",
+    "channelId": "UCvpCjGQASCazC-Vxcp9tgPA",
+    "name": "Pearl Diffusion",
+    "category": "Shop",
+    "language": "fra",
+    "country": "FR"
   }
 ]

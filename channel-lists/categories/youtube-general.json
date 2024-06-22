@@ -1,8 +1,24 @@
 [
   {
+    "videoId": "CJVBX7KI5nU",
+    "channelId": "UC-PHIZjV-oX8H7zD1cCN2NQ",
+    "name": "Arirang TV",
+    "category": "General",
+    "language": "kor",
+    "country": "KR"
+  },
+  {
+    "videoId": "VTzYFfYFgkg",
+    "channelId": "UC0V3IJCnr6ZNjB9t_GLhFFA",
+    "name": "NTV Live ",
+    "category": "General",
+    "language": "ben",
+    "country": "BD"
+  },
+  {
     "videoId": "twhG7_jvA8g",
     "channelId": "UC4K_LI-Tn3-LshNgG0-YypQ",
-    "name": "CCTV 中文国际",
+    "name": "CCTV-4中文国际",
     "category": "General",
     "language": "zh-Hans",
     "country": "CN"
@@ -16,7 +32,7 @@
     "country": "AT"
   },
   {
-    "videoId": "raHVI7v0Dtg",
+    "videoId": "xfMdKFzE0yo",
     "channelId": "UCRujF_YxVVFmTRWURQH-Cww",
     "name": "Televisa Guadalajara",
     "category": "General",
@@ -38,5 +54,13 @@
     "category": "General",
     "language": "fra",
     "country": "FR"
+  },
+  {
+    "videoId": "2PlVlH7_mIk",
+    "channelId": "UCYxbE-WoPqKq26sSeQ6eD1w",
+    "name": "NewTv",
+    "category": "General",
+    "language": "pol",
+    "country": "PL"
   }
 ]

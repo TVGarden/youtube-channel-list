@@ -8,6 +8,14 @@
     "country": "RU"
   },
   {
+    "videoId": "JkuhZo2xO-E",
+    "channelId": "UC74bcC7aGRNz4KoRpJsJNEw",
+    "name": "Nicktoons: The Loud House",
+    "category": "Kids",
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "videoId": "bfUFeaVQnLY",
     "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
     "name": "TokuSHOUTsu: The Aquabats!",
@@ -18,7 +26,7 @@
   {
     "videoId": "vkWe-Oc2sb8",
     "channelId": "UC9hVEGaTpAYMVd-bRsOYKwA",
-    "name": "Cartoon Network Asia YT",
+    "name": "Cartoon Network Asia",
     "category": "Kids",
     "language": "eng",
     "country": "SG"
@@ -120,9 +128,33 @@
     "country": "ID"
   },
   {
+    "videoId": "4QDdhJaWtjU",
+    "channelId": "UCJNBZaQWMIHACqvHT_k2cWw",
+    "name": "PAW Patrol (Español)",
+    "category": "Kids",
+    "language": "spa",
+    "country": "US"
+  },
+  {
     "videoId": "Fjp2TdlTTIU",
     "channelId": "UCktaw9L-f65LzUUdjmCFkbQ",
     "name": "DisneyXD: Phineas and Ferb",
+    "category": "Kids",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "TxxsIxLJjjs",
+    "channelId": "UCKtfozhWfwvXUTnR7PV3t5g",
+    "name": "Peacock jr: Curious George",
+    "category": "Kids",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "Cn8ZOGkLvYc",
+    "channelId": "UCKtfozhWfwvXUTnR7PV3t5g",
+    "name": "Peacock jr: Caillou",
     "category": "Kids",
     "language": "eng",
     "country": "US"
@@ -208,6 +240,46 @@
     "country": "US"
   },
   {
+    "videoId": "eO2WsO6D44g",
+    "channelId": "UCoookXUzPciGrEZEXmh4Jjg",
+    "name": "Sesame Street",
+    "category": "Kids",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "AZEL28mnDtw",
+    "channelId": "UCPUeGC_AL-OnDQORKhRm6iA",
+    "name": "Pororo 뽀로로",
+    "category": "Kids",
+    "language": "kor",
+    "country": "KR"
+  },
+  {
+    "videoId": "AJfAKlPUj4o",
+    "channelId": "UCPvNTD1GuxPR8LXCuD-cbTw",
+    "name": "Rainbow Junior: 44 Cats | Buffycats and Granny Pina",
+    "category": "Kids",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "lhnSxUAJqcU",
+    "channelId": "UCPvNTD1GuxPR8LXCuD-cbTw",
+    "name": "Rainbow Junior: 44 Cats | Isotta's Surprise Party",
+    "category": "Kids",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "lWWIfMOFOcA",
+    "channelId": "UCPvNTD1GuxPR8LXCuD-cbTw",
+    "name": "Rainbow Junior: 44 Cats | Pilou and Meatball",
+    "category": "Kids",
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "videoId": "E3NOvf9WNAQ",
     "channelId": "UCrNnk0wFBnCS1awGjq_ijGQ",
     "name": "PBS Kids: Daniel Tiger",
@@ -226,7 +298,15 @@
   {
     "videoId": "rVG8URc9e-E",
     "channelId": "UCSVSJ1OCSv5ClFgKFTHIDew",
-    "name": "PAW Patrol Official & Friends",
+    "name": "PAW Patrol (English)",
+    "category": "Kids",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "Gn5hYxI9DCc",
+    "channelId": "UCtlth0w7_mYqpHPViMhQ99Q",
+    "name": "Oddbods",
     "category": "Kids",
     "language": "eng",
     "country": "US"
@@ -240,7 +320,7 @@
     "country": "US"
   },
   {
-    "videoId": "TVizLxCepUw",
+    "videoId": "oakfFGnnZEk",
     "channelId": "UCZMKZS3L9GfhcFkMyBRoVFg",
     "name": "Kids Land",
     "category": "Kids",

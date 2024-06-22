@@ -8,6 +8,22 @@
     "country": "BD"
   },
   {
+    "videoId": "VTzYFfYFgkg",
+    "channelId": "UC0V3IJCnr6ZNjB9t_GLhFFA",
+    "name": "NTV Live ",
+    "category": "General",
+    "language": "ben",
+    "country": "BD"
+  },
+  {
+    "videoId": "39URsEY4_7g",
+    "channelId": "UC200cnk8CCEkNAIubWtDsLw",
+    "name": "Nexus Television",
+    "category": "Entertainment",
+    "language": "ben",
+    "country": "BD"
+  },
+  {
     "videoId": "pZvvue1gliw",
     "channelId": "UC2P5Fd5g41Gtdqf0Uzh8Qaw",
     "name": "Rtv News",
@@ -24,9 +40,9 @@
     "country": "BD"
   },
   {
-    "videoId": "vVEpSqd033o",
-    "channelId": "UCDj9HHrRUzlsTuPQN0PHxjw",
-    "name": "Jamuna TV Plus",
+    "videoId": "nXjuy8xE468",
+    "channelId": "UCHKvg7FqyEqmOkYx0y4KtlA",
+    "name": "News24 Daily",
     "category": "News",
     "language": "ben",
     "country": "BD"
@@ -40,7 +56,7 @@
     "country": "BD"
   },
   {
-    "videoId": "sGpzqTt6U0M",
+    "videoId": "KuHTg1STzvA",
     "channelId": "UCN6sm8iHiPd0cnoUardDAnw",
     "name": "Jamuna TV",
     "category": "News",
@@ -48,7 +64,7 @@
     "country": "BD"
   },
   {
-    "videoId": "Mqujv4w8SFw",
+    "videoId": "1acPCnmvJdI",
     "channelId": "UCqyt55f3byoK8rjgO0LBe4Q",
     "name": "Desh TV",
     "category": "News",
@@ -68,6 +84,14 @@
     "channelId": "UCWVqdPTigfQ-cSNwG7O9MeA",
     "name": "EKHON TV",
     "category": "Business",
+    "language": "ben",
+    "country": "BD"
+  },
+  {
+    "videoId": "mF6zTmiFaAs",
+    "channelId": "UCxHoBXkY88Tb8z1Ssj6CWsQ",
+    "name": "SOMOY TV",
+    "category": "News",
     "language": "ben",
     "country": "BD"
   }
