@@ -88,6 +88,14 @@
     "country": "IN"
   },
   {
+    "videoId": "zPbvl14dPCo",
+    "channelId": "UC6cxTsUnfSZrj96KNHhRTHQ",
+    "name": "Saam TV News",
+    "category": "News",
+    "language": "mar",
+    "country": "IN"
+  },
+  {
     "videoId": "m4q1q_M_Qv4",
     "channelId": "UC6E1pvhGa55AaZ-svF70ViA",
     "name": "Paras TV",
@@ -256,7 +264,7 @@
     "country": "IN"
   },
   {
-    "videoId": "m1yzYKBUooQ",
+    "videoId": "RxwtTWtGbYA",
     "channelId": "UCeNP3dAy9_A32IWYZq_PZMQ",
     "name": "News State",
     "category": "News",
@@ -296,6 +304,14 @@
     "country": "IN"
   },
   {
+    "videoId": "nnChdbkC3iE",
+    "channelId": "UCGa1p3XE8IRtpkPXOe0nFdw",
+    "name": "SVBC TTD: SVBC3",
+    "category": "Religious",
+    "language": "kan",
+    "country": "IN"
+  },
+  {
     "videoId": "phReZqihpAI",
     "channelId": "UCGDQNvybfDDeGTf4GtigXaw",
     "name": "DD India",
@@ -317,6 +333,14 @@
     "name": "Shekinah News Live",
     "category": "Religious",
     "language": "mal",
+    "country": "IN"
+  },
+  {
+    "videoId": "rlIcPUbgTdA",
+    "channelId": "UCgZxM9BVOWr1w9Edi79Wg5w",
+    "name": "Tamil Janam ",
+    "category": "News",
+    "language": "tam",
     "country": "IN"
   },
   {
@@ -349,6 +373,14 @@
     "name": "JAN TV",
     "category": "News",
     "language": "hin",
+    "country": "IN"
+  },
+  {
+    "videoId": "A6-tfPLn32w",
+    "channelId": "UCkcClukVA92272XoJdei8Xw",
+    "name": "Swatantra TV",
+    "category": "News",
+    "language": "tel",
     "country": "IN"
   },
   {
@@ -400,6 +432,14 @@
     "country": "IN"
   },
   {
+    "videoId": "-72ex_Qd72w",
+    "channelId": "UCMk9Tdc-d1BIcAFaSppiVkw",
+    "name": "TIMES NOW Navbharat",
+    "category": "News",
+    "language": "hin",
+    "country": "IN"
+  },
+  {
     "videoId": "McYfr4DHk8k",
     "channelId": "UCMnz0yLX3afzFc8y822YO5g",
     "name": "ARADANA TV",
@@ -437,6 +477,14 @@
     "name": "Kairali News",
     "category": "News",
     "language": "mal",
+    "country": "IN"
+  },
+  {
+    "videoId": "LR3fTjxtkSU",
+    "channelId": "UCNIzL2dT2gZxQae2LHXvl0A",
+    "name": "Srisaila Tv",
+    "category": "Religious",
+    "language": "tel",
     "country": "IN"
   },
   {
@@ -488,6 +536,14 @@
     "country": "IN"
   },
   {
+    "videoId": "8McTsOqeueE",
+    "channelId": "UCQ_FATLW83q-4xJ2fsi8qAw",
+    "name": "Sakshi TV Live",
+    "category": "News",
+    "language": "tel",
+    "country": "IN"
+  },
+  {
     "videoId": "BBnYZte_9oI",
     "channelId": "UCQ8kxAu_on_YzVPMjB03rqA",
     "name": "Awakening TV",
@@ -512,6 +568,14 @@
     "country": "IN"
   },
   {
+    "videoId": "DTuhoG7tpTc",
+    "channelId": "UCQLEbraENUGWh6p1Rv664rQ",
+    "name": "PTC NEWS",
+    "category": "News",
+    "language": "pan",
+    "country": "IN"
+  },
+  {
     "videoId": "UQ64XobiT0Y",
     "channelId": "UCrcpw88HvKJ0skdsHniCJtQ",
     "name": "News18 Lokmat",
@@ -525,6 +589,14 @@
     "name": "ABP NEWS",
     "category": "News",
     "language": "hin",
+    "country": "IN"
+  },
+  {
+    "videoId": "tM5oL9aRJ7M",
+    "channelId": "UCS2Y83GD-fc7qqgNW5uj41g",
+    "name": "SVBC TTD: SVBC1",
+    "category": "Religious",
+    "language": "tel",
     "country": "IN"
   },
   {
@@ -556,6 +628,14 @@
     "channelId": "UCtbo6_eDG7zEtaOtcSltJkA",
     "name": "NewsTamil 24X7",
     "category": "News",
+    "language": "tam",
+    "country": "IN"
+  },
+  {
+    "videoId": "9XP6A4OBjDg",
+    "channelId": "UCTboTRX74UydvU_cBdm_cCQ",
+    "name": "SVBC TTD: SVBC2",
+    "category": "Religious",
     "language": "tam",
     "country": "IN"
   },
@@ -645,6 +725,14 @@
     "name": "MIRROR NOW",
     "category": "News",
     "language": "eng",
+    "country": "IN"
+  },
+  {
+    "videoId": "UvJnmM7R2kY",
+    "channelId": "UCWk-7Yosyvzln9ZzJg8BvVg",
+    "name": "Rajasthan Patrika",
+    "category": "News",
+    "language": "hin",
     "country": "IN"
   },
   {

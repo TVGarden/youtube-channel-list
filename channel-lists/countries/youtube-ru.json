@@ -24,7 +24,7 @@
     "country": "RU"
   },
   {
-    "videoId": "HUF0wYndwOs",
+    "videoId": "2WokOiDF4SA",
     "channelId": "UCHS2LM1n3f5cyL-ebgkqyLw",
     "name": "Союзмультфильм: Простоквашино",
     "category": "Kids",
@@ -32,7 +32,7 @@
     "country": "RU"
   },
   {
-    "videoId": "iiEwnKxG12c",
+    "videoId": "-SMCJZ4g9_Y",
     "channelId": "UCHS2LM1n3f5cyL-ebgkqyLw",
     "name": "Союзмультфильм: Ну, погоди!",
     "category": "Animation",
@@ -76,6 +76,14 @@
     "channelId": "UCsKvfB78bHCGkB0RbDFOSCA",
     "name": "Душевное Кино ТВ: Сваты",
     "category": "Series",
+    "language": "rus",
+    "country": "RU"
+  },
+  {
+    "videoId": "LH9dcmaHCYg",
+    "channelId": "UCWPZ5yM8i_QUUkLvCSDz7ZA",
+    "name": "TaronaMusic",
+    "category": "Music",
     "language": "rus",
     "country": "RU"
   }

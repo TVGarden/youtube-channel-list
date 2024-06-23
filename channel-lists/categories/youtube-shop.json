@@ -8,6 +8,14 @@
     "country": "TW"
   },
   {
+    "videoId": "ZbcWG9iQ8-0",
+    "channelId": "UC5qZij2dwUDuF2KAILgj3Qg",
+    "name": "QVC Italia",
+    "category": "Shop",
+    "language": "ita",
+    "country": "IT"
+  },
+  {
     "videoId": "hpQyzyGW9wk",
     "channelId": "UC6dB-iYVw8Lcs5_uFWUZCOQ",
     "name": "Create & Craft TV UK",
@@ -72,12 +80,28 @@
     "country": "UK"
   },
   {
+    "videoId": "b98L78Q1dxQ",
+    "channelId": "UCKrzHQD9zTLLhBAR8w4zaxA",
+    "name": "SHOP CH Thailand",
+    "category": "Shop",
+    "language": "tha",
+    "country": "TH"
+  },
+  {
     "videoId": "lDnlfbYo4Vg",
     "channelId": "UCMeyWH1vyb1TT6Vimp4MqLA",
     "name": "AAC Television",
     "category": "Shop",
     "language": "eng",
     "country": "US"
+  },
+  {
+    "videoId": "XLQfmh_zQYE",
+    "channelId": "UCnbH2TcrFH3uoWoY4duHJDQ",
+    "name": "Shoppster Srbija",
+    "category": "Shop",
+    "language": "srp",
+    "country": "RS"
   },
   {
     "videoId": "zqTea30wgak",
@@ -96,19 +120,19 @@
     "country": "DE"
   },
   {
+    "videoId": "I2mWqNL0IsY",
+    "channelId": "UCU7r0DqO0cGc5qeHXrXufYA",
+    "name": "SONATA TV",
+    "category": "Shop",
+    "language": "ukr",
+    "country": "UA"
+  },
+  {
     "videoId": "nL5H_f37WRE",
     "channelId": "UCv7IxJXF5EMgzZ77DVSx4IQ",
     "name": "JTV Live Now",
     "category": "Shop",
     "language": "eng",
     "country": "US"
-  },
-  {
-    "videoId": "ppr3oY6r7pk",
-    "channelId": "UCvpCjGQASCazC-Vxcp9tgPA",
-    "name": "Pearl Diffusion",
-    "category": "Shop",
-    "language": "fra",
-    "country": "FR"
   }
 ]

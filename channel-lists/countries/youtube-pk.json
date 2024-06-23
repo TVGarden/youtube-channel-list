@@ -24,14 +24,6 @@
     "country": "PK"
   },
   {
-    "videoId": "nzlK3NZw31w",
-    "channelId": "UC6UW8OOQQBGdwmnaYLh-qdw",
-    "name": "City 41",
-    "category": "News",
-    "language": "urd",
-    "country": "PK"
-  },
-  {
     "videoId": "DIAqkChREn8",
     "channelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
     "name": "Dawn News",
@@ -48,10 +40,26 @@
     "country": "PK"
   },
   {
+    "videoId": "_e_TfvxkxP4",
+    "channelId": "UCB82Zom1MYh8VV4q7wXkfGA",
+    "name": "SUNO NEWS HD",
+    "category": "News",
+    "language": "urd",
+    "country": "PK"
+  },
+  {
     "videoId": "qah4pyuH_Jo",
     "channelId": "UCcmpeVbSSQlZRvHfdC-CRwg",
     "name": "24 News HD",
     "category": "News",
+    "language": "urd",
+    "country": "PK"
+  },
+  {
+    "videoId": "rUDUvceYVMc",
+    "channelId": "UCdLLxVWeJbtOCZ6s7-YZVKA",
+    "name": "PTV Home",
+    "category": "General",
     "language": "urd",
     "country": "PK"
   },
@@ -64,11 +72,27 @@
     "country": "PK"
   },
   {
+    "videoId": "l4a6FSq6QyU",
+    "channelId": "UCElJZvY_RVra6qjD8WSQYog",
+    "name": "Public News",
+    "category": "News",
+    "language": "urd",
+    "country": "PK"
+  },
+  {
     "videoId": "j59_Y6QWFwc",
     "channelId": "UCgBAPAcLsh_MAPvJprIz89w",
     "name": "Aaj TV",
     "category": "News",
     "language": "urd",
+    "country": "PK"
+  },
+  {
+    "videoId": "smfLvMqcXQM",
+    "channelId": "UCj-e7yp2_-qE-TPritppZGQ",
+    "name": "PTV World",
+    "category": "News",
+    "language": "eng",
     "country": "PK"
   },
   {

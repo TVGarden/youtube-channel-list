@@ -16,10 +16,26 @@
     "country": "KR"
   },
   {
+    "videoId": "CMnAakQCEdM",
+    "channelId": "UC0iasYSy_hhIOlQiGDSQKmA",
+    "name": "THE 트롯 보라고",
+    "category": "Music",
+    "language": "kor",
+    "country": "KR"
+  },
+  {
     "videoId": "QTqypPXHL_8",
     "channelId": "UC0NOO9jkIj_4ML7IbtTwQHQ",
     "name": "CBSJOY",
     "category": "Religious",
+    "language": "kor",
+    "country": "KR"
+  },
+  {
+    "videoId": "AEN1Pcm8hOg",
+    "channelId": "UC33yEDM8q3N8BeMpZMdP66Q",
+    "name": "TVCHOSUN MUSIC",
+    "category": "Music",
     "language": "kor",
     "country": "KR"
   },
@@ -37,6 +53,30 @@
     "name": "C채널방송: 실시간 방송",
     "category": "Religious",
     "language": "kor",
+    "country": "KR"
+  },
+  {
+    "videoId": "91ei4xm8LO8",
+    "channelId": "UCITH7URIRpb8yoshUwGE9jg",
+    "name": "THE K-POP2",
+    "category": "Music",
+    "language": "kor",
+    "country": "KR"
+  },
+  {
+    "videoId": "lqiSo4IxqJ0",
+    "channelId": "UCNE1pYj5_Hmnaz1xnnJi_dQ",
+    "name": "헬로tv  X  더라이프",
+    "category": "Entertainment",
+    "language": "eng",
+    "country": "KR"
+  },
+  {
+    "videoId": "1PHBkF0IFrM",
+    "channelId": "UCNE1pYj5_Hmnaz1xnnJi_dQ",
+    "name": "헬로tv  X  더라이프",
+    "category": "Music",
+    "language": "eng",
     "country": "KR"
   },
   {
@@ -75,6 +115,14 @@
     "videoId": "P1fX2GGdVS0",
     "channelId": "UCUSSnoEQ8DSRK-gnWS0vfyA",
     "name": "Arirang Radio K-Pop",
+    "category": "Music",
+    "language": "kor",
+    "country": "KR"
+  },
+  {
+    "videoId": "_cE6vBCUnpA",
+    "channelId": "UCYeeEwH_s9yD9HQe4e2JuBw",
+    "name": "TVCHOSUN JOY",
     "category": "Music",
     "language": "kor",
     "country": "KR"

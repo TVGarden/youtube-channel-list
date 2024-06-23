@@ -1,11 +1,43 @@
 [
   {
+    "videoId": "UekXV1gNXBQ",
+    "channelId": "UC6yPLxBTg8TodC2KPrGDTjA",
+    "name": "TEC",
+    "category": "Science",
+    "language": "spa",
+    "country": "AR"
+  },
+  {
     "videoId": "JolbQAP5Ffw",
     "channelId": "UC84LQh_S7n3Hxt6K-bSKdUQ",
     "name": "Force Thirteen Earthquakes",
     "category": "Science",
     "language": "eng",
     "country": "AU"
+  },
+  {
+    "videoId": "kneTQocOtNo",
+    "channelId": "UCakgsb0w7QB0VHdnCc-OVEA",
+    "name": "Space Videos: View from ISS",
+    "category": "Science",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "lx2CNP7kwhI",
+    "channelId": "UCakgsb0w7QB0VHdnCc-OVEA",
+    "name": "Space Videos: Earth From Space",
+    "category": "Science",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "glOZt1bM2n8",
+    "channelId": "UCArz15aqhp4UXuUVYYEY43g",
+    "name": "Su_Root: Earthquake Monitoring",
+    "category": "Science",
+    "language": "jpn",
+    "country": "JP"
   },
   {
     "videoId": "3Ct8cGvwo6g",

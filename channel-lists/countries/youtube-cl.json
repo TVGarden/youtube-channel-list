@@ -1,8 +1,24 @@
 [
   {
+    "videoId": "KXNJ8nOZCpw",
+    "channelId": "UC4GJ43VNn4AYfiYa0RBCHQg",
+    "name": "Televisión del Senado",
+    "category": "General",
+    "language": "spa",
+    "country": "CL"
+  },
+  {
     "videoId": "tyrUZE9pOK8",
     "channelId": "UCkccyEbqhhM3uKOI6Shm-4Q",
     "name": "Meganoticias",
+    "category": "News",
+    "language": "spa",
+    "country": "CL"
+  },
+  {
+    "videoId": "HhEKHN0RYkA",
+    "channelId": "UCsRnhjcUCR78Q3Ud6OXCTNg",
+    "name": "T13",
     "category": "News",
     "language": "spa",
     "country": "CL"

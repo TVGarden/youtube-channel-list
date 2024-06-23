@@ -1,9 +1,73 @@
 [
   {
+    "videoId": "Vwn1NwpMikc",
+    "channelId": "UC_OaSsAydgSIjUtjYn9qLog",
+    "name": "Rede Novo Tempo de Comunicação",
+    "category": "Religious",
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "videoId": "RZgxuQ0e5zc",
+    "channelId": "UC-kzuB1mP2LnmaXMPniKeyg",
+    "name": "SBT CENTRAL",
+    "category": "News",
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "videoId": "8fRVDvZ_Lic",
+    "channelId": "UC0qlZ5jxxueKNzUERcrllNw",
+    "name": "Rádio e TV Justiça",
+    "category": "Legislative",
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "videoId": "Dm95Hj4xPxc",
+    "channelId": "UC1pXFbM6hPRkUUTeO3txrtw",
+    "name": "TV Nordestina",
+    "category": "General",
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "videoId": "At7GH5DJhso",
+    "channelId": "UC4KNxcKmxgVPTIrNmuwYLtw",
+    "name": "Acústico Imaginar",
+    "category": "Music",
+    "language": "por",
+    "country": "BR"
+  },
+  {
     "videoId": "4KOAUNVvxVw",
     "channelId": "UCeBR3fhWb-Jyt8i7Hy6_mjA",
     "name": "Assembleia SC: AO VIVO",
     "category": "Legislative",
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "videoId": "ha-Ag0lQmN0",
+    "channelId": "UCfYrK5JU5EznsnK3wQE7iIg",
+    "name": "TV Aparecida",
+    "category": "Religious",
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "videoId": "MWiwnZmsrFs",
+    "channelId": "UCH1a8t5cikU9cYa69BLVfbQ",
+    "name": "TV ALERJ",
+    "category": "Entertainment",
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "videoId": "T-7Mhcz_7tM",
+    "channelId": "UCHDfPYXReWt5EVIzBA6TzOQ",
+    "name": "SBT RS",
+    "category": "News",
     "language": "por",
     "country": "BR"
   },
@@ -24,10 +88,26 @@
     "country": "BR"
   },
   {
+    "videoId": "YzvHZOVSEXU",
+    "channelId": "UCmkgkpuRbUGzwLSpnV2nevQ",
+    "name": "Rio TV Câmara",
+    "category": "News",
+    "language": "por",
+    "country": "BR"
+  },
+  {
     "videoId": "IX9FJJTZ-Po",
     "channelId": "UCMpWpGXG8tlWA6Xban2m6oA",
     "name": "Diva Depressão",
     "category": "Entertainment",
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "videoId": "DZWpAaKx2_o",
+    "channelId": "UCsAJCP5sbCczdRifNnaynuQ",
+    "name": "TV Notícia",
+    "category": "General",
     "language": "por",
     "country": "BR"
   },
@@ -40,10 +120,34 @@
     "country": "BR"
   },
   {
+    "videoId": "TBKM387h1DY",
+    "channelId": "UCsRfBAspa72ExrsN347W2xg",
+    "name": "SBT Rio",
+    "category": "News",
+    "language": "por",
+    "country": "BR"
+  },
+  {
     "videoId": "hnKwbj3Qjcg",
     "channelId": "UCuiLR4p6wQ3xLEm15pEn1Xw",
     "name": "Record News",
     "category": "News",
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "videoId": "juUt-rN5CVo",
+    "channelId": "UCuSeVCzI21lPeKnIzZehFPQ",
+    "name": "Santuário Nacional de Aparecida",
+    "category": "Religious",
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "videoId": "HPeOcSfDrKo",
+    "channelId": "UCVrKQMmA2ew9LFzeIDaOFgw",
+    "name": "TV Canção Nova",
+    "category": "Religious",
     "language": "por",
     "country": "BR"
   }

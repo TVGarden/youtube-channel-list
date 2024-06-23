@@ -40,10 +40,26 @@
     "country": "TR"
   },
   {
+    "videoId": "5VF4aor94gw",
+    "channelId": "UC7fWeaHhqgM4Ry-RMpM2YYw",
+    "name": "TRT World",
+    "category": "News",
+    "language": "eng",
+    "country": "TR"
+  },
+  {
     "videoId": "KI-ikwFqEfI",
     "channelId": "UC8rh34IlJTN0lDZlTwzWzjg",
     "name": "TVNET",
     "category": "News",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "videoId": "LvhySblBScg",
+    "channelId": "UC8rnNIpGh8n6ZpWVqOBaKUQ",
+    "name": "Sihirli Annem",
+    "category": "Series",
     "language": "tur",
     "country": "TR"
   },
@@ -59,6 +75,14 @@
     "videoId": "m_DULjZ6g5U",
     "channelId": "UCAGVKxpAKwXMWdmcHbrvcwQ",
     "name": "EKOTÜRK TV",
+    "category": "News",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "videoId": "QpSmeCqRbbw",
+    "channelId": "UCBgTP2LOFVPmq15W-RH-WXA",
+    "name": "TRT Haber",
     "category": "News",
     "language": "tur",
     "country": "TR"
@@ -240,7 +264,7 @@
     "country": "TR"
   },
   {
-    "videoId": "hJLSPSvO43Q",
+    "videoId": "unz2OFK5dIc",
     "channelId": "UCoHnRpOS5rL62jTmSDO5Npw",
     "name": "Tele1",
     "category": "News",
@@ -280,6 +304,14 @@
     "country": "TR"
   },
   {
+    "videoId": "Td7FuoN8KuM",
+    "channelId": "UCqdRRlw5iWCwV0kF7K3o-vQ",
+    "name": "Poyraz Karayel",
+    "category": "Series",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
     "videoId": "G01VzjfaSRI",
     "channelId": "UCQgq6bnp3N_ZlyNq5dHmkNw",
     "name": "BYHORSES TV",
@@ -304,6 +336,14 @@
     "country": "TR"
   },
   {
+    "videoId": "ZfZcoQdfh9Q",
+    "channelId": "UCtc-a9ZUIg0_5HpsPxEO7Qg",
+    "name": "Haber Global",
+    "category": "News",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
     "videoId": "EVZmJPw-7hY",
     "channelId": "UCtjNs0q_cz-RdHy-HW2q8Cw",
     "name": "Çocuklar Duymasın",
@@ -320,7 +360,7 @@
     "country": "TR"
   },
   {
-    "videoId": "CEkP-MmEPM0",
+    "videoId": "JbTdsn-6Dis",
     "channelId": "UCtzcebnk0sLhCBtJy7GJaCg",
     "name": "Çiftçi TV",
     "category": "Education",
@@ -379,6 +419,14 @@
     "videoId": "1zzKaji_Egw",
     "channelId": "UCVKWwHoLwUMMa80cu_1uapA",
     "name": "KRT TV",
+    "category": "News",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "videoId": "2-PxQVVcr6A",
+    "channelId": "UCzgrZ-CndOoylh2_e72nSBQ",
+    "name": "TGRT Haber TV",
     "category": "News",
     "language": "tur",
     "country": "TR"

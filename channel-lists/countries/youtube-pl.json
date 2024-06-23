@@ -1,5 +1,29 @@
 [
   {
+    "videoId": "9Hw3VYJ8JlI",
+    "channelId": "UC0vwjMGoZpwG_lLBuF6_ALA",
+    "name": "Telewizja Olsztyn",
+    "category": "General",
+    "language": "pol",
+    "country": "PL"
+  },
+  {
+    "videoId": "OYwDecVzgho",
+    "channelId": "UC29dc_mBUWW4mz5h754v88w",
+    "name": "Telewizja Żary",
+    "category": "News",
+    "language": "pol",
+    "country": "PL"
+  },
+  {
+    "videoId": "dzntyCTgJMQ",
+    "channelId": "UCc282c_TN8xIba_Z6GaDnQw",
+    "name": "Telewizja Republika",
+    "category": "News",
+    "language": "pol",
+    "country": "PL"
+  },
+  {
     "videoId": "BY5zAruHYwM",
     "channelId": "UCciOOtgCargNFJw2BzR12Qw",
     "name": "Arche TV",
@@ -8,9 +32,33 @@
     "country": "PL"
   },
   {
+    "videoId": "__99KTHLOYY",
+    "channelId": "UCdBYAZdagaQcr-Fe15ifMPQ",
+    "name": "Telewizja Narew",
+    "category": "General",
+    "language": "pol",
+    "country": "PL"
+  },
+  {
     "videoId": "YfxRw2kDlm8",
     "channelId": "UCENo4wEDe_59Bb8rGGMZl_w",
     "name": "HORYZONT TV",
+    "category": "News",
+    "language": "pol",
+    "country": "PL"
+  },
+  {
+    "videoId": "3OzJJ5OPUbo",
+    "channelId": "UCfhlZKevccETBEcAIL-D0yw",
+    "name": "Śpiewanki.tv",
+    "category": "Kids",
+    "language": "pol",
+    "country": "PL"
+  },
+  {
+    "videoId": "X0OGvIcr8p8",
+    "channelId": "UCL1u3cY7_nPjbZmKljCy_Cw",
+    "name": "Telewizja Dami Radom",
     "category": "News",
     "language": "pol",
     "country": "PL"
@@ -32,9 +80,33 @@
     "country": "PL"
   },
   {
+    "videoId": "y9ElXRAmidI",
+    "channelId": "UCt5sVDyzu0NhrjR-d_b-lhg",
+    "name": "Telewizja Gorzów",
+    "category": "General",
+    "language": "pol",
+    "country": "PL"
+  },
+  {
+    "videoId": "Y1S0XulxqMA",
+    "channelId": "UCyQL0IjtptnQ9PxmAfH3fKQ",
+    "name": "Telewizja Zabrze",
+    "category": "General",
+    "language": "pol",
+    "country": "PL"
+  },
+  {
     "videoId": "2PlVlH7_mIk",
     "channelId": "UCYxbE-WoPqKq26sSeQ6eD1w",
     "name": "NewTv",
+    "category": "General",
+    "language": "pol",
+    "country": "PL"
+  },
+  {
+    "videoId": "1953t-wSwE0",
+    "channelId": "UCZvmZep3wknWdBPcKnwsPHA",
+    "name": "TV Relax",
     "category": "General",
     "language": "pol",
     "country": "PL"

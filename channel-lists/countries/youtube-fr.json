@@ -40,6 +40,14 @@
     "country": "FR"
   },
   {
+    "videoId": "MGJWPha7rJw",
+    "channelId": "UC6ghlxmJNMd8BE_u1HR-bTg",
+    "name": "The '80s Guy: Darksynth FM",
+    "category": "Music",
+    "language": "eng",
+    "country": "FR"
+  },
+  {
     "videoId": "uWIhV9gQClg",
     "channelId": "UC8HJZNfDPoySgW9DN3YGNaA",
     "name": "Euronews Greek",
@@ -56,7 +64,15 @@
     "country": "FR"
   },
   {
-    "videoId": "cx0LcJBpnbA",
+    "videoId": "GPx53UMigSQ",
+    "channelId": "UCaEqMbRYYOmI3WrALMhxuIg",
+    "name": "SQOOL TV",
+    "category": "Education",
+    "language": "fra",
+    "country": "FR"
+  },
+  {
+    "videoId": "E_MoTN6xK4g",
     "channelId": "UCbATDExtWstHnwWELZnXNZA",
     "name": "Euronews Romanian",
     "category": "News",
@@ -92,6 +108,14 @@
     "channelId": "UCl-ipFGVotx_Tu5YWMEZgsg",
     "name": "Kosmo FR",
     "category": "Science",
+    "language": "fra",
+    "country": "FR"
+  },
+  {
+    "videoId": "7xDycqogWmY",
+    "channelId": "UCm4fSpMpPIZ9z6KHoezLUAg",
+    "name": "RFI",
+    "category": "News",
     "language": "fra",
     "country": "FR"
   },
@@ -152,17 +176,17 @@
     "country": "FR"
   },
   {
-    "videoId": "ppr3oY6r7pk",
-    "channelId": "UCvpCjGQASCazC-Vxcp9tgPA",
-    "name": "Pearl Diffusion",
-    "category": "Shop",
+    "videoId": "NiRIbKwAejk",
+    "channelId": "UCW2QcKZiU8aUGg4yxCIditg",
+    "name": "Euronews French",
+    "category": "News",
     "language": "fra",
     "country": "FR"
   },
   {
-    "videoId": "NiRIbKwAejk",
-    "channelId": "UCW2QcKZiU8aUGg4yxCIditg",
-    "name": "Euronews French",
+    "videoId": "1a8mVYWZQRs",
+    "channelId": "UCxSUslP_JMH3Bb50oXd1Nnw",
+    "name": "Puissance Télévision",
     "category": "News",
     "language": "fra",
     "country": "FR"

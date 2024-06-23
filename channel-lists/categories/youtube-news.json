@@ -56,6 +56,14 @@
     "country": "IN"
   },
   {
+    "videoId": "RZgxuQ0e5zc",
+    "channelId": "UC-kzuB1mP2LnmaXMPniKeyg",
+    "name": "SBT CENTRAL",
+    "category": "News",
+    "language": "por",
+    "country": "BR"
+  },
+  {
     "videoId": "Y8re9iEbrkA",
     "channelId": "UC-LRBEUet4xX2fRB3JitFxg",
     "name": "ANews",
@@ -112,6 +120,14 @@
     "country": "US"
   },
   {
+    "videoId": "PLqOXeFTnMY",
+    "channelId": "UC1h8_HKc5wScqeRw1HV6a6w",
+    "name": "Diputados TV",
+    "category": "News",
+    "language": "spa",
+    "country": "AR"
+  },
+  {
     "videoId": "pUcmpyynASM",
     "channelId": "UC1mX9vuLOYf8fhaXS_KcDRg",
     "name": "Euronews Italian",
@@ -144,12 +160,12 @@
     "country": "IN"
   },
   {
-    "videoId": "ivcb_7eHCXs",
-    "channelId": "UC1y1GtNgGiAUBfQz87ltjag",
-    "name": "exxpressTV",
+    "videoId": "4yRwf_4DqVY",
+    "channelId": "UC1yBKRuGpC1tSM73A0ZjYjQ",
+    "name": "The Young Turks",
     "category": "News",
-    "language": "deu",
-    "country": "AT"
+    "language": "eng",
+    "country": "US"
   },
   {
     "videoId": "b6R9-7KZ8YM",
@@ -160,7 +176,15 @@
     "country": "FR"
   },
   {
-    "videoId": "pZvvue1gliw",
+    "videoId": "OYwDecVzgho",
+    "channelId": "UC29dc_mBUWW4mz5h754v88w",
+    "name": "Telewizja Żary",
+    "category": "News",
+    "language": "pol",
+    "country": "PL"
+  },
+  {
+    "videoId": "0_Tn02wHDHw",
     "channelId": "UC2P5Fd5g41Gtdqf0Uzh8Qaw",
     "name": "Rtv News",
     "category": "News",
@@ -282,10 +306,18 @@
   {
     "videoId": "ohI356mwBp8",
     "channelId": "UC6AG81pAkf6Lbi_1VC5NmPA",
-    "name": "TBS NEWS DIG Powered by JNN",
+    "name": "TBS NEWS DIG",
     "category": "News",
     "language": "jpn",
     "country": "JP"
+  },
+  {
+    "videoId": "zPbvl14dPCo",
+    "channelId": "UC6cxTsUnfSZrj96KNHhRTHQ",
+    "name": "Saam TV News",
+    "category": "News",
+    "language": "mar",
+    "country": "IN"
   },
   {
     "videoId": "oWnkRvZb5fE",
@@ -296,12 +328,12 @@
     "country": "IN"
   },
   {
-    "videoId": "nzlK3NZw31w",
-    "channelId": "UC6UW8OOQQBGdwmnaYLh-qdw",
-    "name": "City 41",
+    "videoId": "Smy2zVGK9x0",
+    "channelId": "UC7c6rvyAZLpKGk8ttVnpnLA",
+    "name": "TaiwanPlus",
     "category": "News",
-    "language": "urd",
-    "country": "PK"
+    "language": "eng",
+    "country": "TW"
   },
   {
     "videoId": "YgY1oQ-CJUs",
@@ -310,6 +342,14 @@
     "category": "News",
     "language": "hin",
     "country": "IN"
+  },
+  {
+    "videoId": "5VF4aor94gw",
+    "channelId": "UC7fWeaHhqgM4Ry-RMpM2YYw",
+    "name": "TRT World",
+    "category": "News",
+    "language": "eng",
+    "country": "TR"
   },
   {
     "videoId": "EIEmDM7h-cM",
@@ -504,6 +544,22 @@
     "country": "PK"
   },
   {
+    "videoId": "5TIY2VfRDFI",
+    "channelId": "UCB0NxICFmGabAalD46J2i4A",
+    "name": "RTD WEB TV",
+    "category": "News",
+    "language": "unknown",
+    "country": "FR"
+  },
+  {
+    "videoId": "_e_TfvxkxP4",
+    "channelId": "UCB82Zom1MYh8VV4q7wXkfGA",
+    "name": "SUNO NEWS HD",
+    "category": "News",
+    "language": "urd",
+    "country": "PK"
+  },
+  {
     "videoId": "ocFG3yor--M",
     "channelId": "UCba3hpU7EFBSk817y9qZkiA",
     "name": "LN+",
@@ -512,7 +568,7 @@
     "country": "AR"
   },
   {
-    "videoId": "cx0LcJBpnbA",
+    "videoId": "E_MoTN6xK4g",
     "channelId": "UCbATDExtWstHnwWELZnXNZA",
     "name": "Euronews Romanian",
     "category": "News",
@@ -534,6 +590,22 @@
     "category": "News",
     "language": "rus",
     "country": "US"
+  },
+  {
+    "videoId": "QpSmeCqRbbw",
+    "channelId": "UCBgTP2LOFVPmq15W-RH-WXA",
+    "name": "TRT Haber",
+    "category": "News",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "videoId": "dzntyCTgJMQ",
+    "channelId": "UCc282c_TN8xIba_Z6GaDnQw",
+    "name": "Telewizja Republika",
+    "category": "News",
+    "language": "pol",
+    "country": "PL"
   },
   {
     "videoId": "l8PMl7tUDIE",
@@ -640,6 +712,14 @@
     "country": "PK"
   },
   {
+    "videoId": "l4a6FSq6QyU",
+    "channelId": "UCElJZvY_RVra6qjD8WSQYog",
+    "name": "Public News",
+    "category": "News",
+    "language": "urd",
+    "country": "PK"
+  },
+  {
     "videoId": "6smlpd2BS5k",
     "channelId": "UCelk6aHijZq-GJBBB9YpReA",
     "name": "BBC News عربي",
@@ -656,7 +736,7 @@
     "country": "PL"
   },
   {
-    "videoId": "m1yzYKBUooQ",
+    "videoId": "RxwtTWtGbYA",
     "channelId": "UCeNP3dAy9_A32IWYZq_PZMQ",
     "name": "News State",
     "category": "News",
@@ -832,6 +912,14 @@
     "country": "MX"
   },
   {
+    "videoId": "rlIcPUbgTdA",
+    "channelId": "UCgZxM9BVOWr1w9Edi79Wg5w",
+    "name": "Tamil Janam ",
+    "category": "News",
+    "language": "tam",
+    "country": "IN"
+  },
+  {
     "videoId": "DB3ADM87XTM",
     "channelId": "UCH4UNKBHSNwstan99YDoCVg",
     "name": "Alghad TV: قناة الغد",
@@ -848,7 +936,7 @@
     "country": "UA"
   },
   {
-    "videoId": "gpAdwW76-5w",
+    "videoId": "q-TFYJ0p_0c",
     "channelId": "UChBQgieUidXV1CmDxSdRm3g",
     "name": "Citizen TV Kenya",
     "category": "News",
@@ -862,6 +950,14 @@
     "category": "News",
     "language": "eng",
     "country": "GH"
+  },
+  {
+    "videoId": "T-7Mhcz_7tM",
+    "channelId": "UCHDfPYXReWt5EVIzBA6TzOQ",
+    "name": "SBT RS",
+    "category": "News",
+    "language": "por",
+    "country": "BR"
   },
   {
     "videoId": "xoQYyvuffBY",
@@ -896,6 +992,14 @@
     "country": "TR"
   },
   {
+    "videoId": "TwuXl6m0EHI",
+    "channelId": "UChx_y6aLWNkifSDUt2TVAzg",
+    "name": "TOS News",
+    "category": "News",
+    "language": "jpn",
+    "country": "JP"
+  },
+  {
     "videoId": "8gs-9lsfVQU",
     "channelId": "UChxGASjdNEYHhVKpl667Huw",
     "name": "Telefe Noticias",
@@ -918,6 +1022,14 @@
     "category": "News",
     "language": "spa",
     "country": "AR"
+  },
+  {
+    "videoId": "qowVBqGn2jE",
+    "channelId": "UCijOX8ka7E2cBsULVgY50QA",
+    "name": "televize FILMpro",
+    "category": "News",
+    "language": "ces",
+    "country": "CZ"
   },
   {
     "videoId": "me1fBxx9wJY",
@@ -950,6 +1062,14 @@
     "category": "News",
     "language": "eng",
     "country": "US"
+  },
+  {
+    "videoId": "smfLvMqcXQM",
+    "channelId": "UCj-e7yp2_-qE-TPritppZGQ",
+    "name": "PTV World",
+    "category": "News",
+    "language": "eng",
+    "country": "PK"
   },
   {
     "videoId": "HDQEhzQP-c0",
@@ -1010,10 +1130,18 @@
   {
     "videoId": "tjZ8i9NM-nU",
     "channelId": "UCjUxj4cyy_F0tVCT8WfmdZQ",
-    "name": "Berita RT",
+    "name": "Berita RTM",
     "category": "News",
     "language": "msa",
     "country": "MY"
+  },
+  {
+    "videoId": "A6-tfPLn32w",
+    "channelId": "UCkcClukVA92272XoJdei8Xw",
+    "name": "Swatantra TV",
+    "category": "News",
+    "language": "tel",
+    "country": "IN"
   },
   {
     "videoId": "tyrUZE9pOK8",
@@ -1056,6 +1184,14 @@
     "country": "UA"
   },
   {
+    "videoId": "X0OGvIcr8p8",
+    "channelId": "UCL1u3cY7_nPjbZmKljCy_Cw",
+    "name": "Telewizja Dami Radom",
+    "category": "News",
+    "language": "pol",
+    "country": "PL"
+  },
+  {
     "videoId": "0niffIGZRPc",
     "channelId": "UCl27leged0PT2kIrRtrFYKA",
     "name": "RBC News 24",
@@ -1078,6 +1214,14 @@
     "category": "News",
     "language": "tel",
     "country": "IN"
+  },
+  {
+    "videoId": "7xDycqogWmY",
+    "channelId": "UCm4fSpMpPIZ9z6KHoezLUAg",
+    "name": "RFI",
+    "category": "News",
+    "language": "fra",
+    "country": "FR"
   },
   {
     "videoId": "ScdUZNkwcYc",
@@ -1104,6 +1248,22 @@
     "country": "IN"
   },
   {
+    "videoId": "-72ex_Qd72w",
+    "channelId": "UCMk9Tdc-d1BIcAFaSppiVkw",
+    "name": "TIMES NOW Navbharat",
+    "category": "News",
+    "language": "hin",
+    "country": "IN"
+  },
+  {
+    "videoId": "YzvHZOVSEXU",
+    "channelId": "UCmkgkpuRbUGzwLSpnV2nevQ",
+    "name": "Rio TV Câmara",
+    "category": "News",
+    "language": "por",
+    "country": "BR"
+  },
+  {
     "videoId": "RUzgphgBRzI",
     "channelId": "UCmyKnNRH0wH-r8I-ceP-dsg",
     "name": "PuthiyathalaimuraiTV",
@@ -1120,7 +1280,7 @@
     "country": "IN"
   },
   {
-    "videoId": "KuHTg1STzvA",
+    "videoId": "ktnfElEr_Z4",
     "channelId": "UCN6sm8iHiPd0cnoUardDAnw",
     "name": "Jamuna TV",
     "category": "News",
@@ -1200,12 +1360,20 @@
     "country": "FR"
   },
   {
-    "videoId": "hJLSPSvO43Q",
+    "videoId": "unz2OFK5dIc",
     "channelId": "UCoHnRpOS5rL62jTmSDO5Npw",
     "name": "Tele1",
     "category": "News",
     "language": "tur",
     "country": "TR"
+  },
+  {
+    "videoId": "oJUvTVdTMyY",
+    "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
+    "name": "Sky News",
+    "category": "News",
+    "language": "eng",
+    "country": "UK"
   },
   {
     "videoId": "53UByQBzuLw",
@@ -1280,6 +1448,14 @@
     "country": "IN"
   },
   {
+    "videoId": "8McTsOqeueE",
+    "channelId": "UCQ_FATLW83q-4xJ2fsi8qAw",
+    "name": "Sakshi TV Live",
+    "category": "News",
+    "language": "tel",
+    "country": "IN"
+  },
+  {
     "videoId": "eXZ4-qp16nI",
     "channelId": "UCq9e_hCv2jvgck8WowW1NXg",
     "name": "ABC 7 SWFL",
@@ -1304,6 +1480,14 @@
     "country": "IN"
   },
   {
+    "videoId": "DTuhoG7tpTc",
+    "channelId": "UCQLEbraENUGWh6p1Rv664rQ",
+    "name": "PTC NEWS",
+    "category": "News",
+    "language": "pan",
+    "country": "IN"
+  },
+  {
     "videoId": "PCccV7cCW8M",
     "channelId": "UCqPDZgcJtyPFhJM4qx-PuKg",
     "name": "鹿児島ニュースKTS",
@@ -1312,7 +1496,7 @@
     "country": "JP"
   },
   {
-    "videoId": "1acPCnmvJdI",
+    "videoId": "-uzykfsB_mc",
     "channelId": "UCqyt55f3byoK8rjgO0LBe4Q",
     "name": "Desh TV",
     "category": "News",
@@ -1432,6 +1616,22 @@
     "country": "IN"
   },
   {
+    "videoId": "TBKM387h1DY",
+    "channelId": "UCsRfBAspa72ExrsN347W2xg",
+    "name": "SBT Rio",
+    "category": "News",
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "videoId": "HhEKHN0RYkA",
+    "channelId": "UCsRnhjcUCR78Q3Ud6OXCTNg",
+    "name": "T13",
+    "category": "News",
+    "language": "spa",
+    "country": "CL"
+  },
+  {
     "videoId": "pykpO5kQJ98",
     "channelId": "UCSrZ3UV4jOidv8ppoVuvW9Q",
     "name": "Euronews English",
@@ -1496,12 +1696,28 @@
     "country": "TR"
   },
   {
+    "videoId": "ZfZcoQdfh9Q",
+    "channelId": "UCtc-a9ZUIg0_5HpsPxEO7Qg",
+    "name": "Haber Global",
+    "category": "News",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
     "videoId": "SM5ukgrbamY",
     "channelId": "UCtf-aWCCwZPep5woQd9lAIQ",
     "name": "サンテレビニュース",
     "category": "News",
     "language": "jpn",
     "country": "JP"
+  },
+  {
+    "videoId": "v6bCO9gdV2s",
+    "channelId": "UCTlqstA2Wrt4fimd_VWKr8g",
+    "name": "TrustTV News",
+    "category": "News",
+    "language": "eng",
+    "country": "NG"
   },
   {
     "videoId": "Xmm3Kr5P1Uw",
@@ -1688,6 +1904,14 @@
     "country": "FR"
   },
   {
+    "videoId": "_BUdsqiJmLU",
+    "channelId": "UCW33LPZQ1SA7ByUW6GeKRGw",
+    "name": "TV Morava",
+    "category": "News",
+    "language": "ces",
+    "country": "CZ"
+  },
+  {
     "videoId": "RKy55PVIxx4",
     "channelId": "UCw77677G3EAODp61b0izs7w",
     "name": "WPVI ABC 6 News (Philadelphia PA)",
@@ -1701,6 +1925,14 @@
     "name": "MIRROR NOW",
     "category": "News",
     "language": "eng",
+    "country": "IN"
+  },
+  {
+    "videoId": "UvJnmM7R2kY",
+    "channelId": "UCWk-7Yosyvzln9ZzJg8BvVg",
+    "name": "Rajasthan Patrika",
+    "category": "News",
+    "language": "hin",
     "country": "IN"
   },
   {
@@ -1782,6 +2014,14 @@
     "category": "News",
     "language": "ukr",
     "country": "UA"
+  },
+  {
+    "videoId": "1a8mVYWZQRs",
+    "channelId": "UCxSUslP_JMH3Bb50oXd1Nnw",
+    "name": "Puissance Télévision",
+    "category": "News",
+    "language": "fra",
+    "country": "FR"
   },
   {
     "videoId": "XCZNSPsMCdI",
@@ -1902,6 +2142,14 @@
     "category": "News",
     "language": "eng",
     "country": "IN"
+  },
+  {
+    "videoId": "2-PxQVVcr6A",
+    "channelId": "UCzgrZ-CndOoylh2_e72nSBQ",
+    "name": "TGRT Haber TV",
+    "category": "News",
+    "language": "tur",
+    "country": "TR"
   },
   {
     "videoId": "jm43IyjUv9E",

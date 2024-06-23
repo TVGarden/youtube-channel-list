@@ -1,5 +1,21 @@
 [
   {
+    "videoId": "8Mw0YdKN2XY",
+    "channelId": "UC_-fqnv3Rp8k9VJ06_aDIHg",
+    "name": "Quiero Música TV",
+    "category": "Music",
+    "language": "spa",
+    "country": "AR"
+  },
+  {
+    "videoId": "PLqOXeFTnMY",
+    "channelId": "UC1h8_HKc5wScqeRw1HV6a6w",
+    "name": "Diputados TV",
+    "category": "News",
+    "language": "spa",
+    "country": "AR"
+  },
+  {
     "videoId": "MNAgWGlxMa4",
     "channelId": "UC1Oa7gHuqzGHB90FPb0ssPA",
     "name": "FMVale975",
@@ -12,6 +28,22 @@
     "channelId": "UC5UKMEIoqvNDMSDz2_6Sn9g",
     "name": "Canal 8 San Juan",
     "category": "News",
+    "language": "spa",
+    "country": "AR"
+  },
+  {
+    "videoId": "UekXV1gNXBQ",
+    "channelId": "UC6yPLxBTg8TodC2KPrGDTjA",
+    "name": "TEC",
+    "category": "Science",
+    "language": "spa",
+    "country": "AR"
+  },
+  {
+    "videoId": "hJaiDg9-AaM",
+    "channelId": "UC8XExQXrgutNTcwfACp1Miw",
+    "name": "Radio One 103.7",
+    "category": "Music",
     "language": "spa",
     "country": "AR"
   },
@@ -72,10 +104,26 @@
     "country": "AR"
   },
   {
+    "videoId": "uQbtCn6lLuM",
+    "channelId": "UCPmnk6gpje7qhq2eaAwtsMQ",
+    "name": "Somos Uno",
+    "category": "General",
+    "language": "spa",
+    "country": "AR"
+  },
+  {
     "videoId": "RnTmtVFTSf0",
     "channelId": "UCrpMfcQNog595v5gAS-oUsQ",
     "name": "Canal 26",
     "category": "News",
+    "language": "spa",
+    "country": "AR"
+  },
+  {
+    "videoId": "AkjfpPxVX-o",
+    "channelId": "UCs231K71Bnu5295_x0MB5Pg",
+    "name": "Televisión Pública",
+    "category": "General",
     "language": "spa",
     "country": "AR"
   },

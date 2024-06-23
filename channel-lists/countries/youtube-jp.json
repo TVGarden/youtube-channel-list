@@ -18,8 +18,16 @@
   {
     "videoId": "ohI356mwBp8",
     "channelId": "UC6AG81pAkf6Lbi_1VC5NmPA",
-    "name": "TBS NEWS DIG Powered by JNN",
+    "name": "TBS NEWS DIG",
     "category": "News",
+    "language": "jpn",
+    "country": "JP"
+  },
+  {
+    "videoId": "glOZt1bM2n8",
+    "channelId": "UCArz15aqhp4UXuUVYYEY43g",
+    "name": "Su_Root: Earthquake Monitoring",
+    "category": "Science",
     "language": "jpn",
     "country": "JP"
   },
@@ -75,6 +83,14 @@
     "videoId": "EHe_t9ZjDDA",
     "channelId": "UCgrmHAblzN-QzMMgl2oNRog",
     "name": "RKB毎日放送NEWS",
+    "category": "News",
+    "language": "jpn",
+    "country": "JP"
+  },
+  {
+    "videoId": "TwuXl6m0EHI",
+    "channelId": "UChx_y6aLWNkifSDUt2TVAzg",
+    "name": "TOS News",
     "category": "News",
     "language": "jpn",
     "country": "JP"
