@@ -208,6 +208,14 @@
     "country": "TW"
   },
   {
+    "videoId": "vCF14lNFwcc",
+    "channelId": "UC2vPjreaN9Jpan45p66H7hA",
+    "name": "TVSUDECKA PL",
+    "category": "News",
+    "language": "pol",
+    "country": "PL"
+  },
+  {
     "videoId": "T81X-Zf5ZO4",
     "channelId": "UC2ziCMHFPWkFHjocUMXT__Q",
     "name": "Sathiyam News",
@@ -712,6 +720,14 @@
     "country": "PK"
   },
   {
+    "videoId": "-lzRnfB2CWA",
+    "channelId": "UCeJWZgSMlzqYEDytDnvzHnw",
+    "name": "TV9 Gujarati",
+    "category": "News",
+    "language": "eng",
+    "country": "IN"
+  },
+  {
     "videoId": "l4a6FSq6QyU",
     "channelId": "UCElJZvY_RVra6qjD8WSQYog",
     "name": "Public News",
@@ -776,7 +792,7 @@
     "country": "NG"
   },
   {
-    "videoId": "Dgls_hR7hQI",
+    "videoId": "IPAVUN-MoMs",
     "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
     "name": "NBC News Now",
     "category": "News",
@@ -896,6 +912,14 @@
     "country": "NG"
   },
   {
+    "videoId": "KnChSzhYGb8",
+    "channelId": "UCgp4A6I8LCWrhUzn-5SbKvA",
+    "name": "TVC News Nigeria",
+    "category": "News",
+    "language": "eng",
+    "country": "NG"
+  },
+  {
     "videoId": "EHe_t9ZjDDA",
     "channelId": "UCgrmHAblzN-QzMMgl2oNRog",
     "name": "RKB毎日放送NEWS",
@@ -944,6 +968,14 @@
     "country": "KE"
   },
   {
+    "videoId": "F4nH4PeX_7w",
+    "channelId": "UCHCR4UFsGwd_VcDa0-a4haw",
+    "name": "TV9 Bangla",
+    "category": "News",
+    "language": "ben",
+    "country": "IN"
+  },
+  {
     "videoId": "io806mQ1RB4",
     "channelId": "UChd1DEecCRlxaa0-hvPACCw",
     "name": "JoyNews",
@@ -968,7 +1000,7 @@
     "country": "HU"
   },
   {
-    "videoId": "biqpPMEVJrk",
+    "videoId": "I6KjJ71KoE8",
     "channelId": "UCHKib3PFscrSEFOINC2ZJCQ",
     "name": "B SMART - En direct",
     "category": "News",
@@ -1160,7 +1192,7 @@
     "country": "DE"
   },
   {
-    "videoId": "RTWjNKmBJpY",
+    "videoId": "BrB4Z3B01iA",
     "channelId": "UCKVsdeoHExltrWMuK0hOWmg",
     "name": "KTN News Kenya",
     "category": "News",
@@ -1392,6 +1424,14 @@
     "country": "TR"
   },
   {
+    "videoId": "nSpwwcHVp80",
+    "channelId": "UCOutOIcn_oho8pyVN3Ng-Pg",
+    "name": "TV9 Bharatvarsh",
+    "category": "News",
+    "language": "hin",
+    "country": "IN"
+  },
+  {
     "videoId": "piEd0lEdMJE",
     "channelId": "UCOuwLct59ZOFrwhDIY6tVxw",
     "name": "KompasTV Jember",
@@ -1445,6 +1485,14 @@
     "name": "TV9 Telugu News",
     "category": "News",
     "language": "tel",
+    "country": "IN"
+  },
+  {
+    "videoId": "EodrnhcYYkw",
+    "channelId": "UCpzsmNuUEmod64DGgBDPO-Q",
+    "name": "TV5 Kannada",
+    "category": "News",
+    "language": "kan",
     "country": "IN"
   },
   {
@@ -1918,14 +1966,6 @@
     "category": "News",
     "language": "eng",
     "country": "US"
-  },
-  {
-    "videoId": "fNf_-Atym-U",
-    "channelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
-    "name": "MIRROR NOW",
-    "category": "News",
-    "language": "eng",
-    "country": "IN"
   },
   {
     "videoId": "UvJnmM7R2kY",

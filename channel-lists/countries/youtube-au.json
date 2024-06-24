@@ -14,5 +14,37 @@
     "category": "Sports",
     "language": "eng",
     "country": "AU"
+  },
+  {
+    "videoId": "7ayf1_uKiy0",
+    "channelId": "UCo4sch-fwKIeyzyPIWRXjdw",
+    "name": "TVSN",
+    "category": "Shop",
+    "language": "eng",
+    "country": "AU"
+  },
+  {
+    "videoId": "LxHRO8cutBI",
+    "channelId": "UCo4sch-fwKIeyzyPIWRXjdw",
+    "name": "TVSN: Beauty",
+    "category": "Shop",
+    "language": "eng",
+    "country": "AU"
+  },
+  {
+    "videoId": "B7gTPLmr9Q8",
+    "channelId": "UCo4sch-fwKIeyzyPIWRXjdw",
+    "name": "TVSN: Style",
+    "category": "Shop",
+    "language": "eng",
+    "country": "AU"
+  },
+  {
+    "videoId": "a1fA3lTiGTw",
+    "channelId": "UCo4sch-fwKIeyzyPIWRXjdw",
+    "name": "TVSN: Jewellery",
+    "category": "Shop",
+    "language": "eng",
+    "country": "AU"
   }
 ]

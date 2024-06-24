@@ -8,6 +8,38 @@
     "country": "UK"
   },
   {
+    "videoId": "Q4VQVVRVTXM",
+    "channelId": "UC1crftYZ4qJlKmXxp3JLOcQ",
+    "name": "QVCUK: Main",
+    "category": "Shop",
+    "language": "eng",
+    "country": "UK"
+  },
+  {
+    "videoId": "bql3HNmYh1Q",
+    "channelId": "UC1crftYZ4qJlKmXxp3JLOcQ",
+    "name": "QVCUK: Extra",
+    "category": "Shop",
+    "language": "eng",
+    "country": "UK"
+  },
+  {
+    "videoId": "eWwHYPOilEQ",
+    "channelId": "UC1crftYZ4qJlKmXxp3JLOcQ",
+    "name": "QVCUK: Style",
+    "category": "Shop",
+    "language": "eng",
+    "country": "UK"
+  },
+  {
+    "videoId": "98InJ_zpU2Y",
+    "channelId": "UC1crftYZ4qJlKmXxp3JLOcQ",
+    "name": "QVCUK: Beauty",
+    "category": "Shop",
+    "language": "eng",
+    "country": "UK"
+  },
+  {
     "videoId": "hpQyzyGW9wk",
     "channelId": "UC6dB-iYVw8Lcs5_uFWUZCOQ",
     "name": "Create & Craft TV UK",
@@ -27,6 +59,14 @@
     "videoId": "HxIK6f2CYXI",
     "channelId": "UC6dB-iYVw8Lcs5_uFWUZCOQ",
     "name": "Create & Craft TV Extra",
+    "category": "Shop",
+    "language": "eng",
+    "country": "UK"
+  },
+  {
+    "videoId": "Zswxn5QW_54",
+    "channelId": "UC8dXdHZshMmgDmvFVzjl55Q",
+    "name": "TJC Style",
     "category": "Shop",
     "language": "eng",
     "country": "UK"

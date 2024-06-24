@@ -32,7 +32,7 @@
     "country": "KR"
   },
   {
-    "videoId": "AEN1Pcm8hOg",
+    "videoId": "8i2FoDkBn8Q",
     "channelId": "UC33yEDM8q3N8BeMpZMdP66Q",
     "name": "TVCHOSUN MUSIC",
     "category": "Music",
@@ -109,6 +109,14 @@
     "name": "GCNTV Korea",
     "category": "Business",
     "language": "kor",
+    "country": "KR"
+  },
+  {
+    "videoId": "IB7zflbICFM",
+    "channelId": "UCsRIHt5FkbGc6cQtCxt-ufA",
+    "name": "tvN D ENT: 스트리트 푸드 파이터",
+    "category": "Cooking",
+    "language": "eng",
     "country": "KR"
   },
   {

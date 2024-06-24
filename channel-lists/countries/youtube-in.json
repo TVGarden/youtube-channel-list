@@ -264,6 +264,14 @@
     "country": "IN"
   },
   {
+    "videoId": "-lzRnfB2CWA",
+    "channelId": "UCeJWZgSMlzqYEDytDnvzHnw",
+    "name": "TV9 Gujarati",
+    "category": "News",
+    "language": "eng",
+    "country": "IN"
+  },
+  {
     "videoId": "RxwtTWtGbYA",
     "channelId": "UCeNP3dAy9_A32IWYZq_PZMQ",
     "name": "News State",
@@ -341,6 +349,14 @@
     "name": "Tamil Janam ",
     "category": "News",
     "language": "tam",
+    "country": "IN"
+  },
+  {
+    "videoId": "F4nH4PeX_7w",
+    "channelId": "UCHCR4UFsGwd_VcDa0-a4haw",
+    "name": "TV9 Bangla",
+    "category": "News",
+    "language": "ben",
     "country": "IN"
   },
   {
@@ -512,6 +528,14 @@
     "country": "IN"
   },
   {
+    "videoId": "nSpwwcHVp80",
+    "channelId": "UCOutOIcn_oho8pyVN3Ng-Pg",
+    "name": "TV9 Bharatvarsh",
+    "category": "News",
+    "language": "hin",
+    "country": "IN"
+  },
+  {
     "videoId": "tgBTspqA5nY",
     "channelId": "UCP0uG-mcMImgKnJz-VjJZmQ",
     "name": "Manorama News",
@@ -533,6 +557,14 @@
     "name": "TV9 Telugu News",
     "category": "News",
     "language": "tel",
+    "country": "IN"
+  },
+  {
+    "videoId": "EodrnhcYYkw",
+    "channelId": "UCpzsmNuUEmod64DGgBDPO-Q",
+    "name": "TV5 Kannada",
+    "category": "News",
+    "language": "kan",
     "country": "IN"
   },
   {
@@ -717,14 +749,6 @@
     "name": "Kartavya TV",
     "category": "Religious",
     "language": "guj",
-    "country": "IN"
-  },
-  {
-    "videoId": "fNf_-Atym-U",
-    "channelId": "UCWCEYVwSqr7Epo6sSCfUgiw",
-    "name": "MIRROR NOW",
-    "category": "News",
-    "language": "eng",
     "country": "IN"
   },
   {

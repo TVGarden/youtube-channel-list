@@ -96,7 +96,7 @@
     "country": "FR"
   },
   {
-    "videoId": "biqpPMEVJrk",
+    "videoId": "I6KjJ71KoE8",
     "channelId": "UCHKib3PFscrSEFOINC2ZJCQ",
     "name": "B SMART - En direct",
     "category": "News",
@@ -180,6 +180,14 @@
     "channelId": "UCW2QcKZiU8aUGg4yxCIditg",
     "name": "Euronews French",
     "category": "News",
+    "language": "fra",
+    "country": "FR"
+  },
+  {
+    "videoId": "UrHgkAtEOL4",
+    "channelId": "UCwVQAPo6tjC5w5yBBh0WEdA",
+    "name": "TVPI Officiel",
+    "category": "General",
     "language": "fra",
     "country": "FR"
   },

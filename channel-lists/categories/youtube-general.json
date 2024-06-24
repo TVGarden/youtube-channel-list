@@ -80,14 +80,6 @@
     "country": "MX"
   },
   {
-    "videoId": "Mjycco8duMg",
-    "channelId": "UC9QNz6VS3gGz55dzxAQtgtA",
-    "name": "Televisa Querétaro",
-    "category": "General",
-    "language": "spa",
-    "country": "MX"
-  },
-  {
     "videoId": "3IgHa6SSLXw",
     "channelId": "UCbGaZEFvBLMe8eNgoBFDRZg",
     "name": "GemeindeTV",
@@ -112,12 +104,28 @@
     "country": "PL"
   },
   {
+    "videoId": "4wjPtq07YjY",
+    "channelId": "UCdFKGMlvchusRx1u3mBUwrQ",
+    "name": "TV Tambaú",
+    "category": "General",
+    "language": "por",
+    "country": "BR"
+  },
+  {
     "videoId": "rUDUvceYVMc",
     "channelId": "UCdLLxVWeJbtOCZ6s7-YZVKA",
     "name": "PTV Home",
     "category": "General",
     "language": "urd",
     "country": "PK"
+  },
+  {
+    "videoId": "AqO-ZytvnzM",
+    "channelId": "UCdppqXtvbns2vdI-eWlbQpw",
+    "name": "TV Témis",
+    "category": "General",
+    "language": "fra",
+    "country": "CA"
   },
   {
     "videoId": "7I5xb-oIF4g",
@@ -131,14 +139,6 @@
     "videoId": "4GEaqWV5pdU",
     "channelId": "UCIqGddpV4flOlK3b-hgu9pQ",
     "name": "Televisa Victoria",
-    "category": "General",
-    "language": "spa",
-    "country": "MX"
-  },
-  {
-    "videoId": "9Dob4g9nvkk",
-    "channelId": "UCjwXjnO3BGePtB7gSKEpoqA",
-    "name": "Televisa Tijuana",
     "category": "General",
     "language": "spa",
     "country": "MX"
@@ -160,14 +160,6 @@
     "country": "MX"
   },
   {
-    "videoId": "zm8fR8rygCQ",
-    "channelId": "UCO_HcwAMD_XcZWfqidMtfgw",
-    "name": "Televisió Sant Cugat",
-    "category": "General",
-    "language": "spa",
-    "country": "MX"
-  },
-  {
     "videoId": "ETlEmbH_x2Q",
     "channelId": "UCot4t8PVKz8TT5xVM8Eb00w",
     "name": "Televisa Ciudad Juarez",
@@ -184,20 +176,12 @@
     "country": "MX"
   },
   {
-    "videoId": "uQbtCn6lLuM",
+    "videoId": "S5aTEJaqUcI",
     "channelId": "UCPmnk6gpje7qhq2eaAwtsMQ",
     "name": "Somos Uno",
     "category": "General",
     "language": "spa",
     "country": "AR"
-  },
-  {
-    "videoId": "fwGSqHvUyyQ",
-    "channelId": "UCQ08tNTPiBn44c975S81ftg",
-    "name": "Televisa Del Golfo",
-    "category": "General",
-    "language": "spa",
-    "country": "MX"
   },
   {
     "videoId": "wQ3Hm00VeI8",
@@ -267,6 +251,14 @@
     "videoId": "5ARTNKq49WY",
     "channelId": "UCva-htH2wvmKsG6SkcEJ4Vw",
     "name": "Maurienne TV",
+    "category": "General",
+    "language": "fra",
+    "country": "FR"
+  },
+  {
+    "videoId": "UrHgkAtEOL4",
+    "channelId": "UCwVQAPo6tjC5w5yBBh0WEdA",
+    "name": "TVPI Officiel",
     "category": "General",
     "language": "fra",
     "country": "FR"

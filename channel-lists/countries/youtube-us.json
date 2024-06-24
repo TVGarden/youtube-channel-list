@@ -248,6 +248,30 @@
     "country": "US"
   },
   {
+    "videoId": "c728BwxpS5s",
+    "channelId": "UCAnkR-OElaj62XI5bTIGwDw",
+    "name": "QVC+ HSN+: Outdoor Escape",
+    "category": "Shop",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "hwsW280SX_8",
+    "channelId": "UCAnkR-OElaj62XI5bTIGwDw",
+    "name": "QVC+ HSN+: In The Kitchen",
+    "category": "Shop",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "RwZYu_c13kA",
+    "channelId": "UCAnkR-OElaj62XI5bTIGwDw",
+    "name": "QVC+ HSN+: Fashion Finds",
+    "category": "Shop",
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "videoId": "t9Ilev-uk4w",
     "channelId": "UCBG57608Hukev3d0d-gvLhQ",
     "name": "Current Time",
@@ -260,6 +284,14 @@
     "channelId": "UCBiuljj5uaUVHbnTAzfvutg",
     "name": "HGTV",
     "category": "Lifestyle",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "DYL-xhhV5Lc",
+    "channelId": "UCBROhZBlBQTxRW_3h6H-rlg",
+    "name": "Gem Shopping",
+    "category": "Shop",
     "language": "eng",
     "country": "US"
   },
@@ -296,7 +328,7 @@
     "country": "US"
   },
   {
-    "videoId": "Dgls_hR7hQI",
+    "videoId": "IPAVUN-MoMs",
     "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
     "name": "NBC News Now",
     "category": "News",
@@ -328,14 +360,6 @@
     "country": "US"
   },
   {
-    "videoId": "H3UMbcOnstc",
-    "channelId": "UCFqRy7pWgY3Yii43GyjtAuA",
-    "name": "SUMtv Latino",
-    "category": "Religious",
-    "language": "spa",
-    "country": "US"
-  },
-  {
     "videoId": "rhMqcflrOeQ",
     "channelId": "UCFzph9x-n9FR52BI94Zfgww",
     "name": "MYSTERY SCIENCE THEATER 3000: Shorts-a-thon",
@@ -356,6 +380,14 @@
     "channelId": "UCFzph9x-n9FR52BI94Zfgww",
     "name": "MYSTERY SCIENCE THEATER 3000: RiffTrax",
     "category": "Comedy",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "5YvQ9WR19VY",
+    "channelId": "UCGbjb7FYYmj0z3_9iJ7dMPQ",
+    "name": "CoinVaultTV",
+    "category": "Shop",
     "language": "eng",
     "country": "US"
   },
@@ -444,6 +476,22 @@
     "channelId": "UCKtfozhWfwvXUTnR7PV3t5g",
     "name": "Peacock jr: Caillou",
     "category": "Kids",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "1ph8qQnjXts",
+    "channelId": "UCKV0PostOmPjnXEbDgDYSFg",
+    "name": "HSNtv: HSN1",
+    "category": "Shop",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "q-BvtDrTnxc",
+    "channelId": "UCKV0PostOmPjnXEbDgDYSFg",
+    "name": "HSNtv: HSN2",
+    "category": "Shop",
     "language": "eng",
     "country": "US"
   },
@@ -984,6 +1032,30 @@
     "country": "US"
   },
   {
+    "videoId": "UqFzfqlb60g",
+    "channelId": "UCW4gXUEypFeI3xgoQ27LFBA",
+    "name": "QVCtv: QVC 1",
+    "category": "Shop",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "Qt2c93O1p_c",
+    "channelId": "UCW4gXUEypFeI3xgoQ27LFBA",
+    "name": "QVCtv: QVC 3",
+    "category": "Shop",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "_v_wMS-uACE",
+    "channelId": "UCW4gXUEypFeI3xgoQ27LFBA",
+    "name": "QVCtv: QVC 2",
+    "category": "Shop",
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "videoId": "RKy55PVIxx4",
     "channelId": "UCw77677G3EAODp61b0izs7w",
     "name": "WPVI ABC 6 News (Philadelphia PA)",
@@ -1036,6 +1108,14 @@
     "channelId": "UCxwitsUVNzwS5XBSC5UQV8Q",
     "name": "Marvel HQ: Marvel's Spider-Man",
     "category": "Animation",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "Elyzy1CUQ1k",
+    "channelId": "UCyCljI7PbGR7zOIHJXQSK2w",
+    "name": "ShopHQ",
+    "category": "Shop",
     "language": "eng",
     "country": "US"
   },
