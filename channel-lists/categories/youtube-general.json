@@ -40,7 +40,7 @@
     "country": "BD"
   },
   {
-    "videoId": "9Hw3VYJ8JlI",
+    "videoId": "R0EA5kguiJo",
     "channelId": "UC0vwjMGoZpwG_lLBuF6_ALA",
     "name": "Telewizja Olsztyn",
     "category": "General",
@@ -75,6 +75,14 @@
     "videoId": "PV8vPbZvpV8",
     "channelId": "UC5EnLdE7ASjYzWt7wvT-QSg",
     "name": "Televisa Veracruz",
+    "category": "General",
+    "language": "spa",
+    "country": "MX"
+  },
+  {
+    "videoId": "hAiIY3vttN0",
+    "channelId": "UC9QNz6VS3gGz55dzxAQtgtA",
+    "name": "Televisa Querétaro",
     "category": "General",
     "language": "spa",
     "country": "MX"
@@ -152,7 +160,7 @@
     "country": "SK"
   },
   {
-    "videoId": "E8TopFkBypI",
+    "videoId": "IlGQeDUaCYs",
     "channelId": "UCnxTRk2K1iNsQkgpWXxyj4w",
     "name": "Televisa Guerrero",
     "category": "General",
