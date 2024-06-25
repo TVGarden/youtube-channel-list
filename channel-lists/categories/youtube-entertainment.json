@@ -32,6 +32,14 @@
     "country": "DE"
   },
   {
+    "videoId": "DZCD3X2op2w",
+    "channelId": "UC4i1qf8CUH93DLSbD9efqig",
+    "name": "어서와 한국은 처음이지",
+    "category": "Entertainment",
+    "language": "kor",
+    "country": "KR"
+  },
+  {
     "videoId": "m67gYVnA100",
     "channelId": "UC4KnMZaxcv1KZDAJsgHXcOA",
     "name": "LRT Lituanica",
@@ -46,6 +54,22 @@
     "category": "Entertainment",
     "language": "eng",
     "country": "GH"
+  },
+  {
+    "videoId": "CsTHvxP2fsg",
+    "channelId": "UCaWd5_7JhbQBe4dknZhsHJg",
+    "name": "WatchMojo.com",
+    "category": "Entertainment",
+    "language": "eng",
+    "country": "CA"
+  },
+  {
+    "videoId": "qFtLxeGElo0",
+    "channelId": "UCb3vKSPkWFWiFljsSGoeyoQ",
+    "name": "WasebTV",
+    "category": "Entertainment",
+    "language": "pan",
+    "country": "PK"
   },
   {
     "videoId": "ADDSmXoPDY8",
@@ -96,6 +120,14 @@
     "country": "BR"
   },
   {
+    "videoId": "M36NAQpWsqs",
+    "channelId": "UCJW9gatYczI191TunQxMGbA",
+    "name": "Watania2 Replay",
+    "category": "Entertainment",
+    "language": "ara",
+    "country": "TN"
+  },
+  {
     "videoId": "9Dob4g9nvkk",
     "channelId": "UCjwXjnO3BGePtB7gSKEpoqA",
     "name": "Televisa Tijuana",
@@ -136,6 +168,22 @@
     "country": "MX"
   },
   {
+    "videoId": "MIqUplvSRWA",
+    "channelId": "UClrEYreVkBee7ZQYei_6Jqg",
+    "name": "大愛電視 Tzu Chi DaAiVideo 1",
+    "category": "Entertainment",
+    "language": "zho",
+    "country": "TW"
+  },
+  {
+    "videoId": "DTNkEm6jaqQ",
+    "channelId": "UClrEYreVkBee7ZQYei_6Jqg",
+    "name": "大愛電視 Tzu Chi DaAiVideo 2",
+    "category": "Entertainment",
+    "language": "zho",
+    "country": "TW"
+  },
+  {
     "videoId": "IX9FJJTZ-Po",
     "channelId": "UCMpWpGXG8tlWA6Xban2m6oA",
     "name": "Diva Depressão",
@@ -166,6 +214,14 @@
     "category": "Entertainment",
     "language": "spa",
     "country": "AR"
+  },
+  {
+    "videoId": "Oey9-UCpnvg",
+    "channelId": "UCpf7-LhTbmKk11p4nqw5LYA",
+    "name": "TPA 1",
+    "category": "Entertainment",
+    "language": "por",
+    "country": "AO"
   },
   {
     "videoId": "sg7kF5tpUMk",
@@ -238,6 +294,14 @@
     "category": "Entertainment",
     "language": "eng",
     "country": "US"
+  },
+  {
+    "videoId": "tnMkR5Nfq0s",
+    "channelId": "UCXT91vDi7HDSjcdOwN77ktg",
+    "name": "Telediario Guadalajara",
+    "category": "Entertainment",
+    "language": "spa",
+    "country": "MX"
   },
   {
     "videoId": "j0VCM4CPOVA",

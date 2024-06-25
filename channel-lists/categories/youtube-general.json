@@ -136,12 +136,28 @@
     "country": "CA"
   },
   {
+    "videoId": "-pNzY54AjXE",
+    "channelId": "UCdvWVsmQBROkgcGzVep73oA",
+    "name": "Watania Replay",
+    "category": "General",
+    "language": "ara",
+    "country": "TN"
+  },
+  {
     "videoId": "7I5xb-oIF4g",
     "channelId": "UCGDJLLphnP0zQQaE3kgo5Wg",
     "name": "Televisa Monterrey",
     "category": "General",
     "language": "spa",
     "country": "MX"
+  },
+  {
+    "videoId": "Iu5B88n6V8M",
+    "channelId": "UCHBdSwb_Kj3KXQ1Rjm1WnGg",
+    "name": "שלנו",
+    "category": "General",
+    "language": "heb",
+    "country": "IL"
   },
   {
     "videoId": "4GEaqWV5pdU",

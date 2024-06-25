@@ -1,5 +1,29 @@
 [
   {
+    "videoId": "CwQl49tDPTk",
+    "channelId": "UC5V8mErVFOpcQXEb3y9IMZw",
+    "name": "Телеканал Рада",
+    "category": "News",
+    "language": "ukr",
+    "country": "UA"
+  },
+  {
+    "videoId": "F6zmgewC9QM",
+    "channelId": "UC7eTa1b57wOoboFKH2hVdMQ",
+    "name": "Телеканал Конкурент TV",
+    "category": "News",
+    "language": "ukr",
+    "country": "UA"
+  },
+  {
+    "videoId": "Mv6PEi0hRmg",
+    "channelId": "UCEduOt4TK8TtOaznB45TrhA",
+    "name": "Ми - Україна",
+    "category": "News",
+    "language": "ukr",
+    "country": "UA"
+  },
+  {
     "videoId": "JpTL53Su4U8",
     "channelId": "UCH9H_b9oJtSHBovh94yB5HA",
     "name": "Телеканал Прямий",
@@ -24,6 +48,14 @@
     "country": "UA"
   },
   {
+    "videoId": "oTqU3FpI5Js",
+    "channelId": "UCkyrSWEcjZKpIwMxiPfOcgg",
+    "name": "5 канал",
+    "category": "News",
+    "language": "ukr",
+    "country": "UA"
+  },
+  {
     "videoId": "ScdUZNkwcYc",
     "channelId": "UCMEiyV8N2J93GdPNltPYM6w",
     "name": "Espreso.TV",
@@ -40,11 +72,43 @@
     "country": "UA"
   },
   {
+    "videoId": "XlqgRPGypmA",
+    "channelId": "UCPY6gj8G7dqwPxg9KwHrj5Q",
+    "name": "Суспільне Новини",
+    "category": "News",
+    "language": "ukr",
+    "country": "UA"
+  },
+  {
+    "videoId": "jxOv0nFjIBU",
+    "channelId": "UCQeGq915GhiFlOE-fuoXGKQ",
+    "name": "ЦЕНТР",
+    "category": "News",
+    "language": "ukr",
+    "country": "UA"
+  },
+  {
     "videoId": "I2mWqNL0IsY",
     "channelId": "UCU7r0DqO0cGc5qeHXrXufYA",
     "name": "SONATA TV",
     "category": "Shop",
     "language": "ukr",
+    "country": "UA"
+  },
+  {
+    "videoId": "ASndlvhI8p0",
+    "channelId": "UCVEaAWKfv7fE1c-ZuBs7TKQ",
+    "name": "Телеканал 1+1: FREEДОМ ",
+    "category": "News",
+    "language": "rus",
+    "country": "UA"
+  },
+  {
+    "videoId": "j5TqaWCCdUg",
+    "channelId": "UCVEaAWKfv7fE1c-ZuBs7TKQ",
+    "name": "Телеканал 1+1: UAразом",
+    "category": "News",
+    "language": "rus",
     "country": "UA"
   },
   {
@@ -59,6 +123,14 @@
     "videoId": "WY8sDvZdWEA",
     "channelId": "UCXoJ8kY9zpLBEz-8saaT3ew",
     "name": "ТСН: Єдині новини: 1+1",
+    "category": "News",
+    "language": "ukr",
+    "country": "UA"
+  },
+  {
+    "videoId": "kA5EvhyCugE",
+    "channelId": "UCXoJ8kY9zpLBEz-8saaT3ew",
+    "name": "ТСН: Марафон новин",
     "category": "News",
     "language": "ukr",
     "country": "UA"

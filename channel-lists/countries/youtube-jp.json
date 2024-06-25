@@ -32,6 +32,14 @@
     "country": "JP"
   },
   {
+    "videoId": "fGsTTMU4Wg0",
+    "channelId": "UC8iN-WKPu820ve-4t9NxHRw",
+    "name": "Niigata News",
+    "category": "News",
+    "language": "jpn",
+    "country": "JP"
+  },
+  {
     "videoId": "glOZt1bM2n8",
     "channelId": "UCArz15aqhp4UXuUVYYEY43g",
     "name": "Su_Root: Earthquake Monitoring",
@@ -52,6 +60,14 @@
     "channelId": "UCCTpf5c_9HDo_OSu3aX8uFQ",
     "name": "HBCニュース　北海道放送",
     "category": "News",
+    "language": "jpn",
+    "country": "JP"
+  },
+  {
+    "videoId": "UZpe1PiykAI",
+    "channelId": "UCe3uJZIjfYwNNR0S6W3GvEA",
+    "name": "アイドルマスターチャンネル",
+    "category": "Music",
     "language": "jpn",
     "country": "JP"
   },
@@ -112,6 +128,14 @@
     "country": "JP"
   },
   {
+    "videoId": "ZdWCI3a9fMk",
+    "channelId": "UCMKvT0YVLufHMdGLH89J1oA",
+    "name": "朝日新聞デジタル",
+    "category": "News",
+    "language": "jpn",
+    "country": "JP"
+  },
+  {
     "videoId": "AhdRJMSKse4",
     "channelId": "UCppDP4y1L-5TWttVOkBDm7A",
     "name": "Luiger: Japanese City Pop Radio",
@@ -139,6 +163,14 @@
     "videoId": "e2pgLUmaxGs",
     "channelId": "UCRnFGOp_mjaCYEhMzsE2iHA",
     "name": "Hiroshima News 24",
+    "category": "News",
+    "language": "jpn",
+    "country": "JP"
+  },
+  {
+    "videoId": "j0qAjKS4vLg",
+    "channelId": "UCS8ZQejq2CL-nZcnRWZCA5Q",
+    "name": "福岡・佐賀 KBC NEWS",
     "category": "News",
     "language": "jpn",
     "country": "JP"
@@ -172,6 +204,22 @@
     "channelId": "UCUVWoy_rGPdZeUp7jjRHOaQ",
     "name": "Earthquake Alert Channel",
     "category": "Education",
+    "language": "jpn",
+    "country": "JP"
+  },
+  {
+    "videoId": "tYlIXaEP7DE",
+    "channelId": "UCv7_krlrre3GQi79d4guxHQ",
+    "name": "読売テレビニュース",
+    "category": "News",
+    "language": "jpn",
+    "country": "JP"
+  },
+  {
+    "videoId": "SyvBMGh0AvY",
+    "channelId": "UCvF5vIejmf-H_XSluaBldfg",
+    "name": "静岡朝日テレビニュース",
+    "category": "News",
     "language": "jpn",
     "country": "JP"
   },

@@ -96,6 +96,14 @@
     "country": "UK"
   },
   {
+    "videoId": "2o0r7hUJU8o",
+    "channelId": "UC9EiviH5eXBgoeaqijMMUFw",
+    "name": "ЮВЕЛИРТРЕЙД",
+    "category": "Shop",
+    "language": "rus",
+    "country": "RU"
+  },
+  {
     "videoId": "LTHVmGbYBo8",
     "channelId": "UC9r76Tzp5HxeQG7SqZwV3OA",
     "name": "Cruise1st TV",
@@ -144,12 +152,28 @@
     "country": "TW"
   },
   {
-    "videoId": "5YvQ9WR19VY",
+    "videoId": "ZpWyhjUC88g",
+    "channelId": "UCfTH3xssFINXKnah4YXLoBg",
+    "name": "LEOMAX: удобный формат шопинга",
+    "category": "Shop",
+    "language": "rus",
+    "country": "RU"
+  },
+  {
+    "videoId": "LThU6kM5N-o",
     "channelId": "UCGbjb7FYYmj0z3_9iJ7dMPQ",
     "name": "CoinVaultTV",
     "category": "Shop",
     "language": "eng",
     "country": "US"
+  },
+  {
+    "videoId": "B84TM-Dk8DU",
+    "channelId": "UCi-9MVefprR3LmfSgpQMHJg",
+    "name": "Телеканал Ювелирия",
+    "category": "Shop",
+    "language": "rus",
+    "country": "RU"
   },
   {
     "videoId": "FXV4Cb3KyOY",
@@ -254,6 +278,14 @@
     "category": "Shop",
     "language": "deu",
     "country": "DE"
+  },
+  {
+    "videoId": "04VJGMPpxrg",
+    "channelId": "UCsxo83jFFZNC9woLRVG7d4w",
+    "name": "Ювелирочка",
+    "category": "Shop",
+    "language": "rus",
+    "country": "RU"
   },
   {
     "videoId": "I2mWqNL0IsY",

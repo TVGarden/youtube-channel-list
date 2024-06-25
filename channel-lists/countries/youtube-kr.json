@@ -1,5 +1,13 @@
 [
   {
+    "videoId": "b5UeAVqz4cI",
+    "channelId": "UC-9RQCJ0gS_Kgt7J0SVrE8w",
+    "name": "사피엔스 스튜디오",
+    "category": "Education",
+    "language": "kor",
+    "country": "KR"
+  },
+  {
     "videoId": "CJVBX7KI5nU",
     "channelId": "UC-PHIZjV-oX8H7zD1cCN2NQ",
     "name": "Arirang TV",
@@ -32,6 +40,54 @@
     "country": "KR"
   },
   {
+    "videoId": "VRXXpZ-JnN4",
+    "channelId": "UC0OGisUcF1mAwL4pqjLCmhg",
+    "name": "토마토집통",
+    "category": "News",
+    "language": "kor",
+    "country": "KR"
+  },
+  {
+    "videoId": "kRQqTjjNTZA",
+    "channelId": "UC33yEDM8q3N8BeMpZMdP66Q",
+    "name": "TVCHOSUN MUSIC",
+    "category": "Music",
+    "language": "kor",
+    "country": "KR"
+  },
+  {
+    "videoId": "e_olyqRma64",
+    "channelId": "UC3p-0EWA8OXko2EUDUXAy5w",
+    "name": "서울경제TV",
+    "category": "Business",
+    "language": "kor",
+    "country": "KR"
+  },
+  {
+    "videoId": "DZCD3X2op2w",
+    "channelId": "UC4i1qf8CUH93DLSbD9efqig",
+    "name": "어서와 한국은 처음이지",
+    "category": "Entertainment",
+    "language": "kor",
+    "country": "KR"
+  },
+  {
+    "videoId": "46sFF47-Ef8",
+    "channelId": "UC6kZpTl39-_SqfBrF1-N2oQ",
+    "name": "연합뉴스경제TV",
+    "category": "News",
+    "language": "kor",
+    "country": "KR"
+  },
+  {
+    "videoId": "5cFoz90FUMk",
+    "channelId": "UC8Sv6O3Ux8ePVqorx8aOBMg",
+    "name": "이데일리TV",
+    "category": "News",
+    "language": "kor",
+    "country": "KR"
+  },
+  {
     "videoId": "gGEP9Vd0u34",
     "channelId": "UC9Ac9DjBEmNqjAYxf8V1HPA",
     "name": "C채널방송: 성지가좋다",
@@ -44,6 +100,22 @@
     "channelId": "UC9Ac9DjBEmNqjAYxf8V1HPA",
     "name": "C채널방송: 실시간 방송",
     "category": "Religious",
+    "language": "kor",
+    "country": "KR"
+  },
+  {
+    "videoId": "NJUjU9ALj4A",
+    "channelId": "UCF8AeLlUbEpKju6v1H6p8Eg",
+    "name": "한국경제TV",
+    "category": "Business",
+    "language": "kor",
+    "country": "KR"
+  },
+  {
+    "videoId": "uoDgZuMvXW8",
+    "channelId": "UCgJ5pT6S2NuTVP-6-AlLZew",
+    "name": "토마토증권통",
+    "category": "Business",
     "language": "kor",
     "country": "KR"
   },
@@ -69,6 +141,14 @@
     "name": "헬로tv  X  더라이프",
     "category": "Music",
     "language": "eng",
+    "country": "KR"
+  },
+  {
+    "videoId": "s9xL1DpBsfQ",
+    "channelId": "UCnfwIKyFYRuqZzzKBDt6JOA",
+    "name": "매일경제TV",
+    "category": "News",
+    "language": "kor",
     "country": "KR"
   },
   {
@@ -100,6 +180,14 @@
     "channelId": "UCqGxkgVnPc7arUR7MdCi99g",
     "name": "GCNTV Korea",
     "category": "Business",
+    "language": "kor",
+    "country": "KR"
+  },
+  {
+    "videoId": "H3uur6g_9CA",
+    "channelId": "UCRMA_Nb5VF-YoWApSVeXPVA",
+    "name": "디글 클래식 :Diggle Classic",
+    "category": "Series",
     "language": "kor",
     "country": "KR"
   },

@@ -8,6 +8,14 @@
     "country": "TW"
   },
   {
+    "videoId": "FoBfXvlOR6I",
+    "channelId": "UC2TuODJhC03pLgd6MpWP0iw",
+    "name": "三立LIVE新聞 (SET Live NEWS)",
+    "category": "News",
+    "language": "zho",
+    "country": "TW"
+  },
+  {
     "videoId": "ylYJSBUgaMA",
     "channelId": "UC2VmWn8dAqkzlQqvy02E1PA",
     "name": "民視新聞網 Formosa TV",
@@ -20,6 +28,14 @@
     "channelId": "UC4_WjgHnlKssNxWo0uFzEcw",
     "name": "momo購物一台 CH48",
     "category": "Shop",
+    "language": "zho",
+    "country": "TW"
+  },
+  {
+    "videoId": "5n0y6b0Q25o",
+    "channelId": "UC4LjkybVKXCDlneVXlKAbmw",
+    "name": "鏡新聞",
+    "category": "News",
     "language": "zho",
     "country": "TW"
   },
@@ -80,9 +96,41 @@
     "country": "TW"
   },
   {
+    "videoId": "WIhgU_mc05A",
+    "channelId": "UCi4AGjvmSMB9Nn6oyFPYPeQ",
+    "name": "新唐人亞太電視台NTDAPTV",
+    "category": "News",
+    "language": "zho",
+    "country": "TW"
+  },
+  {
     "videoId": "-L9cBf3oAO0",
     "channelId": "UCkELMMBdy4gPj6ooQwYJ-yg",
     "name": "Hot Door Night 綜藝大熱門",
+    "category": "Entertainment",
+    "language": "zho",
+    "country": "TW"
+  },
+  {
+    "videoId": "9d4ggywa01w",
+    "channelId": "UCKRjODp1ZYOSYNH5IA32g3Q",
+    "name": "MIT台灣誌",
+    "category": "Travel",
+    "language": "zho",
+    "country": "TW"
+  },
+  {
+    "videoId": "MIqUplvSRWA",
+    "channelId": "UClrEYreVkBee7ZQYei_6Jqg",
+    "name": "大愛電視 Tzu Chi DaAiVideo 1",
+    "category": "Entertainment",
+    "language": "zho",
+    "country": "TW"
+  },
+  {
+    "videoId": "DTNkEm6jaqQ",
+    "channelId": "UClrEYreVkBee7ZQYei_6Jqg",
+    "name": "大愛電視 Tzu Chi DaAiVideo 2",
     "category": "Entertainment",
     "language": "zho",
     "country": "TW"
@@ -112,10 +160,34 @@
     "country": "TW"
   },
   {
+    "videoId": "CKjSm5ZeehE",
+    "channelId": "UCoNYj9OFHZn3ACmmeRCPwbA",
+    "name": "三立iNEWS",
+    "category": "News",
+    "language": "zho",
+    "country": "TW"
+  },
+  {
     "videoId": "A98LJq71BZg",
     "channelId": "UCriy3vlLtiBov3nLdPLadUg",
     "name": "飢餓遊戲 Hunger Games",
     "category": "Entertainment",
+    "language": "zho",
+    "country": "TW"
+  },
+  {
+    "videoId": "WPfPjbOLNfE",
+    "channelId": "UCwbtZdhuhANYFNRPa99-16Q",
+    "name": "CTI+ | 中天2台",
+    "category": "News",
+    "language": "zho",
+    "country": "TW"
+  },
+  {
+    "videoId": "fl1iFkAWcVU",
+    "channelId": "UCXyzhBy7PVhd3JKyIB6ebEw",
+    "name": "大陸尋奇",
+    "category": "Travel",
     "language": "zho",
     "country": "TW"
   },

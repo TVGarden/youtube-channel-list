@@ -88,10 +88,26 @@
     "country": "PL"
   },
   {
+    "videoId": "54jNgGbWQ3U",
+    "channelId": "UCseu7OBsXzSg3sW1_Lfek9Q",
+    "name": "ZTV live",
+    "category": "News",
+    "language": "pol",
+    "country": "PL"
+  },
+  {
     "videoId": "y9ElXRAmidI",
     "channelId": "UCt5sVDyzu0NhrjR-d_b-lhg",
     "name": "Telewizja Gorzów",
     "category": "General",
+    "language": "pol",
+    "country": "PL"
+  },
+  {
+    "videoId": "LduOqjUirOM",
+    "channelId": "UCYG4JRAdsBM6BiuF5-UL9DQ",
+    "name": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+    "category": "Education",
     "language": "pol",
     "country": "PL"
   },

@@ -1,5 +1,13 @@
 [
   {
+    "videoId": "b5UeAVqz4cI",
+    "channelId": "UC-9RQCJ0gS_Kgt7J0SVrE8w",
+    "name": "사피엔스 스튜디오",
+    "category": "Education",
+    "language": "kor",
+    "country": "KR"
+  },
+  {
     "videoId": "TgxzTaXnoO8",
     "channelId": "UC1FKQ3BEs3ctdzHsfb69vkw",
     "name": "FGN Channel",
@@ -70,5 +78,13 @@
     "category": "Education",
     "language": "eng",
     "country": "US"
+  },
+  {
+    "videoId": "LduOqjUirOM",
+    "channelId": "UCYG4JRAdsBM6BiuF5-UL9DQ",
+    "name": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+    "category": "Education",
+    "language": "pol",
+    "country": "PL"
   }
 ]

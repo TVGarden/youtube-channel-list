@@ -8,12 +8,44 @@
     "country": "AE"
   },
   {
+    "videoId": "e_olyqRma64",
+    "channelId": "UC3p-0EWA8OXko2EUDUXAy5w",
+    "name": "서울경제TV",
+    "category": "Business",
+    "language": "kor",
+    "country": "KR"
+  },
+  {
     "videoId": "ydiWklMUhcQ",
     "channelId": "UC3uJIdRFTGgLWrUziaHbzrg",
     "name": "NDTV Profit",
     "category": "Business",
     "language": "eng",
     "country": "IN"
+  },
+  {
+    "videoId": "OAHHA27td-A",
+    "channelId": "UCEAZeUIeJs0IjQiqTCdVSIg",
+    "name": "Yahoo Finance",
+    "category": "Business",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "NJUjU9ALj4A",
+    "channelId": "UCF8AeLlUbEpKju6v1H6p8Eg",
+    "name": "한국경제TV",
+    "category": "Business",
+    "language": "kor",
+    "country": "KR"
+  },
+  {
+    "videoId": "uoDgZuMvXW8",
+    "channelId": "UCgJ5pT6S2NuTVP-6-AlLZew",
+    "name": "토마토증권통",
+    "category": "Business",
+    "language": "kor",
+    "country": "KR"
   },
   {
     "videoId": "iyOq8DhaMYw",

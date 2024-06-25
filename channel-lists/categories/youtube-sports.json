@@ -10,7 +10,15 @@
   {
     "videoId": "TnN__8AAlaM",
     "channelId": "UCEUGxpG2rkyJlCvr46PBr6g",
-    "name": "World Poker Tour",
+    "name": "World Poker Tour 1",
+    "category": "Sports",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "qiGtEIoHlBc",
+    "channelId": "UCEUGxpG2rkyJlCvr46PBr6g",
+    "name": "World Poker Tour 2",
     "category": "Sports",
     "language": "eng",
     "country": "US"
@@ -30,6 +38,14 @@
     "category": "Sports",
     "language": "eng",
     "country": "AU"
+  },
+  {
+    "videoId": "Q4NeVWkMWzM",
+    "channelId": "UCLo2xigvxv9ksxp78AyCBTw",
+    "name": "KSA Sports",
+    "category": "Sports",
+    "language": "ara",
+    "country": "SA"
   },
   {
     "videoId": "kDvc4MSsnyI",

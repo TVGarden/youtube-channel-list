@@ -1,5 +1,13 @@
 [
   {
+    "videoId": "Hy70bhfIWKs",
+    "channelId": "UC__2_0RJ8XnHt2angfw6S1Q",
+    "name": "KOMO News",
+    "category": "News",
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "videoId": "iesPl7zRbVY",
     "channelId": "UC1FbPiXx59_ltnFVx7IxWow",
     "name": "FOX Weather",
@@ -24,6 +32,14 @@
     "country": "US"
   },
   {
+    "videoId": "wfAa1GiNdgM",
+    "channelId": "UC5O114-PQNYkurlTg6hekZw",
+    "name": "United Nations",
+    "category": "News",
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "videoId": "c-uUH1FDuWw",
     "channelId": "UC5yaRAqKKYYApdr326HQnsg",
     "name": "Cartoon Network: Steven Universe",
@@ -36,14 +52,6 @@
     "channelId": "UC6VJE6cD8ZPpe6ZOtVtlBTA",
     "name": "Amazing Facts TV",
     "category": "Religious",
-    "language": "eng",
-    "country": "US"
-  },
-  {
-    "videoId": "JkuhZo2xO-E",
-    "channelId": "UC74bcC7aGRNz4KoRpJsJNEw",
-    "name": "Nicktoons: The Loud House",
-    "category": "Kids",
     "language": "eng",
     "country": "US"
   },
@@ -312,6 +320,14 @@
     "country": "US"
   },
   {
+    "videoId": "OAHHA27td-A",
+    "channelId": "UCEAZeUIeJs0IjQiqTCdVSIg",
+    "name": "Yahoo Finance",
+    "category": "Business",
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "videoId": "xvnAGbGs_o4",
     "channelId": "UCEs-K_xio8n6PKKbTCZpaSA",
     "name": "ABC 30 Fresno and Central Valley News (KFSN-DT1)",
@@ -322,7 +338,15 @@
   {
     "videoId": "TnN__8AAlaM",
     "channelId": "UCEUGxpG2rkyJlCvr46PBr6g",
-    "name": "World Poker Tour",
+    "name": "World Poker Tour 1",
+    "category": "Sports",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "qiGtEIoHlBc",
+    "channelId": "UCEUGxpG2rkyJlCvr46PBr6g",
+    "name": "World Poker Tour 2",
     "category": "Sports",
     "language": "eng",
     "country": "US"
@@ -384,10 +408,18 @@
     "country": "US"
   },
   {
-    "videoId": "5YvQ9WR19VY",
+    "videoId": "LThU6kM5N-o",
     "channelId": "UCGbjb7FYYmj0z3_9iJ7dMPQ",
     "name": "CoinVaultTV",
     "category": "Shop",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "1Ypv0ebfGBo",
+    "channelId": "UCgVZ0mrM3liHNhRYC5Mchgg",
+    "name": "WPLG Local 10",
+    "category": "News",
     "language": "eng",
     "country": "US"
   },
@@ -528,6 +560,14 @@
     "country": "US"
   },
   {
+    "videoId": "1-wpz2e4ap0",
+    "channelId": "UClaHV2T--jGhJfHUL1gYwOA",
+    "name": "Vineyard Worship",
+    "category": "Music",
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "videoId": "7mz65SX9PnY",
     "channelId": "UClPzMXh4d5baHqR_tSeiagw",
     "name": "The Loud House",
@@ -620,6 +660,14 @@
     "channelId": "UCNcdbMyA59zE-Vk668bKWOg",
     "name": "Disney Junior: Me & Mickey",
     "category": "Kids",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "Xve0QT1RaEY",
+    "channelId": "UCNiL-iKqn4I1bQh7JM9rSKg",
+    "name": "Vintage Highway",
+    "category": "Music",
     "language": "eng",
     "country": "US"
   },
@@ -984,6 +1032,14 @@
     "country": "US"
   },
   {
+    "videoId": "xs4ujp6dHt0",
+    "channelId": "UCU9iHFmrNgFp1gP75lSkIdA",
+    "name": "Unicorn Academy",
+    "category": "Kids",
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "videoId": "OlUMDZchivQ",
     "channelId": "UCUMZ7gohGI9HcU9VNsr2FJQ",
     "name": "Bloomberg Originals",
@@ -1117,6 +1173,14 @@
     "name": "ShopHQ",
     "category": "Shop",
     "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "5a5-L7VWzNU",
+    "channelId": "UCyscVWiJELkATSuU-RF2NLg",
+    "name": "قناة الحرة - Alhurra",
+    "category": "News",
+    "language": "ara",
     "country": "US"
   },
   {

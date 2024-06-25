@@ -8,6 +8,22 @@
     "country": "SA"
   },
   {
+    "videoId": "VF8fwSxV0E4",
+    "channelId": "UCGjgAGxGWZXWLTHTlTVZXaw",
+    "name": "أفلام تركية مدبلجة للعربية - Turkish Movies",
+    "category": "Movies",
+    "language": "ara",
+    "country": "SA"
+  },
+  {
+    "videoId": "Q4NeVWkMWzM",
+    "channelId": "UCLo2xigvxv9ksxp78AyCBTw",
+    "name": "KSA Sports",
+    "category": "Sports",
+    "language": "ara",
+    "country": "SA"
+  },
+  {
     "videoId": "pJUOUwzhwq4",
     "channelId": "UCN4HhT7ycBGjbh0FWt54jaw",
     "name": "Papi Mami - بابي مامي",
@@ -19,6 +35,14 @@
     "videoId": "et0bSUddkn4",
     "channelId": "UCrj5BGAhtWxDfqbza9T9hqA",
     "name": "AlHadath: الحدث",
+    "category": "News",
+    "language": "ara",
+    "country": "SA"
+  },
+  {
+    "videoId": "qJ-0Fcf12X8",
+    "channelId": "UCTOvu90eQGG8pmTyqDW33uQ",
+    "name": "العربية إف إم Alarabiya FM",
     "category": "News",
     "language": "ara",
     "country": "SA"

@@ -32,10 +32,26 @@
     "country": "TR"
   },
   {
+    "videoId": "Qkim2xt_cwY",
+    "channelId": "UC5GvVahlgulCyo4cshSmbcg",
+    "name": "عربي TRT",
+    "category": "News",
+    "language": "ara",
+    "country": "TR"
+  },
+  {
     "videoId": "GBMLvut9sxc",
     "channelId": "UC5Hq5hQex9I53tD6UfdUcWQ",
     "name": "Radyo Dinle: Radyo Pop Time",
     "category": "Music",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "videoId": "hZPIqA6hXKY",
+    "channelId": "UC6T0L26KS1NHMPbTwI1L4Eg",
+    "name": "Ulusal Kanal",
+    "category": "News",
     "language": "tur",
     "country": "TR"
   },
@@ -152,6 +168,14 @@
     "country": "TR"
   },
   {
+    "videoId": "1cwPseUonT0",
+    "channelId": "UCi-nK74pBX9Ou66z1j7KYPQ",
+    "name": "Yaprak Dökümü",
+    "category": "Series",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
     "videoId": "7v-M9z6PmXI",
     "channelId": "UCJ5bBXls09z7Cjwg-qBzAZQ",
     "name": "Aşk-ı Nevâ",
@@ -196,6 +220,14 @@
     "channelId": "UCk-I0F9R6AqhPFg8hrgmX_A",
     "name": "Radyo Dinle: Pal Nostalji",
     "category": "Music",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "videoId": "RCNA0H-e1s4",
+    "channelId": "UCKQhfw-lzz0uKnE1fY1PsAA",
+    "name": "A Haber",
+    "category": "News",
     "language": "tur",
     "country": "TR"
   },
