@@ -128,6 +128,14 @@
     "country": "JP"
   },
   {
+    "videoId": "EE4n-1Czt_o",
+    "channelId": "UCHS2LM1n3f5cyL-ebgkqyLw",
+    "name": "Союзмультфильм: Ну, погоди!",
+    "category": "Kids",
+    "language": "rus",
+    "country": "RU"
+  },
+  {
     "videoId": "2WokOiDF4SA",
     "channelId": "UCHS2LM1n3f5cyL-ebgkqyLw",
     "name": "Союзмультфильм: Простоквашино",
@@ -408,15 +416,7 @@
     "country": "AE"
   },
   {
-    "videoId": "1gUrVDan5mQ",
-    "channelId": "UCsklwaoSWVr87jTQi-b4fvg",
-    "name": "Super Simple: Noodle and Pals",
-    "category": "Kids",
-    "language": "eng",
-    "country": "CA"
-  },
-  {
-    "videoId": "pzNp2u5X6WU",
+    "videoId": "a5tSzRFvG-E",
     "channelId": "UCsklwaoSWVr87jTQi-b4fvg",
     "name": "Super Simple: Super Simple Songs",
     "category": "Kids",
@@ -424,9 +424,17 @@
     "country": "CA"
   },
   {
-    "videoId": "RolkJ9Ono4I",
+    "videoId": "VKpxOPbXpc4",
     "channelId": "UCsklwaoSWVr87jTQi-b4fvg",
-    "name": "Super Simple: Bedtime",
+    "name": "Super Simple: Noodle and Pals",
+    "category": "Kids",
+    "language": "eng",
+    "country": "CA"
+  },
+  {
+    "videoId": "owo2StzbFtc",
+    "channelId": "UCsklwaoSWVr87jTQi-b4fvg",
+    "name": "Super Simple: Bedtime Songs",
     "category": "Kids",
     "language": "eng",
     "country": "CA"

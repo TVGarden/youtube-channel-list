@@ -24,14 +24,6 @@
     "country": "BD"
   },
   {
-    "videoId": "0_Tn02wHDHw",
-    "channelId": "UC2P5Fd5g41Gtdqf0Uzh8Qaw",
-    "name": "Rtv News",
-    "category": "News",
-    "language": "ben",
-    "country": "BD"
-  },
-  {
     "videoId": "8tvpdpYqSwg",
     "channelId": "UC8NcXMG3A3f2aFQyGTpSNww",
     "name": "Channel i News",
@@ -48,14 +40,6 @@
     "country": "BD"
   },
   {
-    "videoId": "J5UjWwkrJUE",
-    "channelId": "UCi-aUVwZR5U8GBNOy0CC4ww",
-    "name": "Rtv Music",
-    "category": "Music",
-    "language": "ben",
-    "country": "BD"
-  },
-  {
     "videoId": "J2tSnE_XSrw",
     "channelId": "UCN6sm8iHiPd0cnoUardDAnw",
     "name": "Jamuna TV",
@@ -64,9 +48,17 @@
     "country": "BD"
   },
   {
-    "videoId": "-uzykfsB_mc",
+    "videoId": "sByjuN4Gr-g",
     "channelId": "UCqyt55f3byoK8rjgO0LBe4Q",
     "name": "Desh TV",
+    "category": "News",
+    "language": "ben",
+    "country": "BD"
+  },
+  {
+    "videoId": "MYVi_NKphds",
+    "channelId": "UCUvXoiDEKI8VZJrr58g4VAw",
+    "name": "DBC NEWS",
     "category": "News",
     "language": "ben",
     "country": "BD"

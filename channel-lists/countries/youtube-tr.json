@@ -1,13 +1,5 @@
 [
   {
-    "videoId": "Qi6qHKk7aoA",
-    "channelId": "UC_KlNwS1QQ9QMPRg9dGNHNw",
-    "name": "Medya Haber",
-    "category": "News",
-    "language": "tur",
-    "country": "TR"
-  },
-  {
     "videoId": "Y8re9iEbrkA",
     "channelId": "UC-LRBEUet4xX2fRB3JitFxg",
     "name": "ANews",
@@ -75,6 +67,14 @@
     "videoId": "LvhySblBScg",
     "channelId": "UC8rnNIpGh8n6ZpWVqOBaKUQ",
     "name": "Sihirli Annem",
+    "category": "Series",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "videoId": "uji1HdaH3QI",
+    "channelId": "UCABzirZ6FyebIf8YSptKMwQ",
+    "name": "Kurtlar Vadisi",
     "category": "Series",
     "language": "tur",
     "country": "TR"
@@ -224,7 +224,7 @@
     "country": "TR"
   },
   {
-    "videoId": "RCNA0H-e1s4",
+    "videoId": "yQT12rzZ-zw",
     "channelId": "UCKQhfw-lzz0uKnE1fY1PsAA",
     "name": "A Haber",
     "category": "News",
