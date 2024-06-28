@@ -144,6 +144,14 @@
     "country": "US"
   },
   {
+    "videoId": "FFEKjB4PafQ",
+    "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
+    "name": "Shout! Studios: Elvira's Movie Macabre",
+    "category": "Classic",
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "videoId": "eWvGVftOqgU",
     "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
     "name": "Shout! Studios: Pee-wee's Playhouse",
@@ -166,13 +174,5 @@
     "category": "Classic",
     "language": "tur",
     "country": "TR"
-  },
-  {
-    "videoId": "AEFI8wt0m-4",
-    "channelId": "UCW17klvo2VzdVdHRE5ywPsA",
-    "name": "I Dream of Jeannie",
-    "category": "Classic",
-    "language": "eng",
-    "country": "US"
   }
 ]

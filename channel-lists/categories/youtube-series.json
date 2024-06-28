@@ -152,6 +152,22 @@
     "country": "US"
   },
   {
+    "videoId": "ex9QWiQZM-o",
+    "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
+    "name": "Shout! Studios: Farscape (Français)",
+    "category": "Series",
+    "language": "fra",
+    "country": "US"
+  },
+  {
+    "videoId": "t4y-Lb4Fuks",
+    "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
+    "name": "Shout! Studios: Farscape (Deutsch)",
+    "category": "Series",
+    "language": "deu",
+    "country": "US"
+  },
+  {
     "videoId": "C2V99wPM1wc",
     "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
     "name": "Shout! Studios: Space Precinct",
@@ -171,14 +187,6 @@
     "videoId": "pX8npVgaS98",
     "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
     "name": "Shout! Studios: ALF (Latino Español)",
-    "category": "Series",
-    "language": "spa",
-    "country": "US"
-  },
-  {
-    "videoId": "nRqEkrWQBUI",
-    "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
-    "name": "Shout! Studios: ALF (Español de España)",
     "category": "Series",
     "language": "spa",
     "country": "US"

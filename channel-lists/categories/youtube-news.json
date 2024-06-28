@@ -152,6 +152,14 @@
     "country": "ID"
   },
   {
+    "videoId": "az1EeKIOW-M",
+    "channelId": "UC1UOne4B9wIrMe0KMwe-7_g",
+    "name": "CTVN AKD PLUS",
+    "category": "News",
+    "language": "ben",
+    "country": "IN"
+  },
+  {
     "videoId": "SbRORbMo4vY",
     "channelId": "UC1vOCYEu3DfoI4fYcfWKmWA",
     "name": "Kalinga TV",
@@ -438,6 +446,14 @@
     "category": "News",
     "language": "spa",
     "country": "MX"
+  },
+  {
+    "videoId": "NqRP08sCG_w",
+    "channelId": "UC7QZIf0dta-XPXsp9Hv4dTw",
+    "name": "RTVE Noticias 24H",
+    "category": "News",
+    "language": "spa",
+    "country": "ES"
   },
   {
     "videoId": "ZwD3-hUQ3rk",
@@ -824,7 +840,7 @@
     "country": "IN"
   },
   {
-    "videoId": "5elT5pwzY5c",
+    "videoId": "BmAkMqksnEA",
     "channelId": "UCElJZvY_RVra6qjD8WSQYog",
     "name": "Public News",
     "category": "News",
@@ -840,7 +856,7 @@
     "country": "UK"
   },
   {
-    "videoId": "5dwy1I7V54c",
+    "videoId": "UvlgcL7Qy3M",
     "channelId": "UCENo4wEDe_59Bb8rGGMZl_w",
     "name": "HORYZONT TV",
     "category": "News",
@@ -1632,7 +1648,7 @@
     "country": "PL"
   },
   {
-    "videoId": "snQc830GJzE",
+    "videoId": "4b3KBQAwUbw",
     "channelId": "UCPLKy4Ypb4mfblbjJI8Aljw",
     "name": "News Central TV",
     "category": "News",
@@ -1686,14 +1702,6 @@
     "category": "News",
     "language": "eng",
     "country": "US"
-  },
-  {
-    "videoId": "6ZkhUSb1WuY",
-    "channelId": "UCQC0xLG_W0QpqAXQ4-yhwBA",
-    "name": "Mosaïk Cristal",
-    "category": "News",
-    "language": "fra",
-    "country": "FR"
   },
   {
     "videoId": "jxOv0nFjIBU",
@@ -1872,6 +1880,14 @@
     "country": "BR"
   },
   {
+    "videoId": "HhEKHN0RYkA",
+    "channelId": "UCsRnhjcUCR78Q3Ud6OXCTNg",
+    "name": "T13",
+    "category": "News",
+    "language": "spa",
+    "country": "CL"
+  },
+  {
     "videoId": "pykpO5kQJ98",
     "channelId": "UCSrZ3UV4jOidv8ppoVuvW9Q",
     "name": "Euronews English",
@@ -2032,7 +2048,7 @@
     "country": "FR"
   },
   {
-    "videoId": "vFwXynKgYpw",
+    "videoId": "tctmsuassS0",
     "channelId": "UCuiLR4p6wQ3xLEm15pEn1Xw",
     "name": "Record News",
     "category": "News",
@@ -2128,7 +2144,7 @@
     "country": "IN"
   },
   {
-    "videoId": "hN4ABiMniDM",
+    "videoId": "Q5cYb58rBKw",
     "channelId": "UCv7_krlrre3GQi79d4guxHQ",
     "name": "読売テレビニュース",
     "category": "News",

@@ -488,14 +488,6 @@
     "country": "US"
   },
   {
-    "videoId": "0HUlWfe5zd0",
-    "channelId": "UCkqaNJOo0l3DMNiwYfEWViQ",
-    "name": "Throw Back TV: The Steve Harvey Show!",
-    "category": "Comedy",
-    "language": "eng",
-    "country": "US"
-  },
-  {
     "videoId": "Fjp2TdlTTIU",
     "channelId": "UCktaw9L-f65LzUUdjmCFkbQ",
     "name": "DisneyXD: Phineas and Ferb",
@@ -795,8 +787,16 @@
     "videoId": "ex9QWiQZM-o",
     "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
     "name": "Shout! Studios: Farscape (Français)",
-    "category": "Animation",
+    "category": "Series",
     "language": "fra",
+    "country": "US"
+  },
+  {
+    "videoId": "t4y-Lb4Fuks",
+    "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
+    "name": "Shout! Studios: Farscape (Deutsch)",
+    "category": "Series",
+    "language": "deu",
     "country": "US"
   },
   {
@@ -840,18 +840,18 @@
     "country": "US"
   },
   {
-    "videoId": "nRqEkrWQBUI",
-    "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
-    "name": "Shout! Studios: ALF (Español de España)",
-    "category": "Series",
-    "language": "spa",
-    "country": "US"
-  },
-  {
     "videoId": "PLwMPyL1sUE",
     "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
     "name": "Shout! Studios: The Whitest Kids U' Know",
     "category": "Comedy",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "FFEKjB4PafQ",
+    "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
+    "name": "Shout! Studios: Elvira's Movie Macabre",
+    "category": "Classic",
     "language": "eng",
     "country": "US"
   },
@@ -1068,14 +1068,6 @@
     "channelId": "UCvYVGf_JFME9dVe3WtljP1Q",
     "name": "The Victory Channel",
     "category": "Religious",
-    "language": "eng",
-    "country": "US"
-  },
-  {
-    "videoId": "AEFI8wt0m-4",
-    "channelId": "UCW17klvo2VzdVdHRE5ywPsA",
-    "name": "I Dream of Jeannie",
-    "category": "Classic",
     "language": "eng",
     "country": "US"
   },

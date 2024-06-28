@@ -1,6 +1,6 @@
 [
   {
-    "videoId": "JG1qxuzqkNs",
+    "videoId": "IIoXSr8nHls",
     "channelId": "UC_mwCcsKDJLSWjply5s0h8w",
     "name": "Televisa Laguna",
     "category": "General",
@@ -38,6 +38,14 @@
     "category": "General",
     "language": "ben",
     "country": "BD"
+  },
+  {
+    "videoId": "LwvvXuyDRG8",
+    "channelId": "UC0vwjMGoZpwG_lLBuF6_ALA",
+    "name": "Telewizja Olsztyn",
+    "category": "General",
+    "language": "pol",
+    "country": "PL"
   },
   {
     "videoId": "Dm95Hj4xPxc",
@@ -160,7 +168,7 @@
     "country": "MX"
   },
   {
-    "videoId": "xme1l1fbddg",
+    "videoId": "uwYlAVaMvQE",
     "channelId": "UCnEQCNDsMtPlrVwCrRViaeQ",
     "name": "TV Nitra",
     "category": "General",
@@ -179,6 +187,14 @@
     "videoId": "97J01vHKucI",
     "channelId": "UCot4t8PVKz8TT5xVM8Eb00w",
     "name": "Televisa Ciudad Juarez",
+    "category": "General",
+    "language": "spa",
+    "country": "MX"
+  },
+  {
+    "videoId": "SZ7g0MQvNlM",
+    "channelId": "UCpeD73Gb4KjKUL2gyoJ4gLw",
+    "name": "Televisa Univision Saltillo",
     "category": "General",
     "language": "spa",
     "country": "MX"
@@ -259,14 +275,6 @@
     "videoId": "5ARTNKq49WY",
     "channelId": "UCva-htH2wvmKsG6SkcEJ4Vw",
     "name": "Maurienne TV",
-    "category": "General",
-    "language": "fra",
-    "country": "FR"
-  },
-  {
-    "videoId": "K8JBx30bRk0",
-    "channelId": "UCwVQAPo6tjC5w5yBBh0WEdA",
-    "name": "TVPI Officiel",
     "category": "General",
     "language": "fra",
     "country": "FR"
