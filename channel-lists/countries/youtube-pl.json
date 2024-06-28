@@ -1,13 +1,5 @@
 [
   {
-    "videoId": "R0EA5kguiJo",
-    "channelId": "UC0vwjMGoZpwG_lLBuF6_ALA",
-    "name": "Telewizja Olsztyn",
-    "category": "General",
-    "language": "pol",
-    "country": "PL"
-  },
-  {
     "videoId": "OYwDecVzgho",
     "channelId": "UC29dc_mBUWW4mz5h754v88w",
     "name": "Telewizja Żary",
@@ -36,6 +28,14 @@
     "channelId": "UCciOOtgCargNFJw2BzR12Qw",
     "name": "Arche TV",
     "category": "Education",
+    "language": "pol",
+    "country": "PL"
+  },
+  {
+    "videoId": "MrIOJSsSZYM",
+    "channelId": "UCdBYAZdagaQcr-Fe15ifMPQ",
+    "name": "Telewizja Narew",
+    "category": "General",
     "language": "pol",
     "country": "PL"
   },
@@ -92,14 +92,6 @@
     "channelId": "UCt5sVDyzu0NhrjR-d_b-lhg",
     "name": "Telewizja Gorzów",
     "category": "General",
-    "language": "pol",
-    "country": "PL"
-  },
-  {
-    "videoId": "LduOqjUirOM",
-    "channelId": "UCYG4JRAdsBM6BiuF5-UL9DQ",
-    "name": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
-    "category": "Education",
     "language": "pol",
     "country": "PL"
   },

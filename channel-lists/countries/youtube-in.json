@@ -48,14 +48,6 @@
     "country": "IN"
   },
   {
-    "videoId": "i0LqVy0eh24",
-    "channelId": "UC1UOne4B9wIrMe0KMwe-7_g",
-    "name": "CTVN AKD PLUS",
-    "category": "News",
-    "language": "ben",
-    "country": "IN"
-  },
-  {
     "videoId": "SbRORbMo4vY",
     "channelId": "UC1vOCYEu3DfoI4fYcfWKmWA",
     "name": "Kalinga TV",
@@ -96,7 +88,7 @@
     "country": "IN"
   },
   {
-    "videoId": "m4q1q_M_Qv4",
+    "videoId": "qX8aZ2TG7Sk",
     "channelId": "UC6E1pvhGa55AaZ-svF70ViA",
     "name": "Paras TV",
     "category": "Religious",
@@ -272,7 +264,7 @@
     "country": "IN"
   },
   {
-    "videoId": "RxwtTWtGbYA",
+    "videoId": "IlTuHpWnY5I",
     "channelId": "UCeNP3dAy9_A32IWYZq_PZMQ",
     "name": "News State",
     "category": "News",
@@ -413,6 +405,14 @@
     "name": "99TV Telugu",
     "category": "News",
     "language": "tel",
+    "country": "IN"
+  },
+  {
+    "videoId": "Da7jjG4hrJY",
+    "channelId": "UClOK2dPmq8k8Xwii_4TjRnQ",
+    "name": "Agamvani Channel",
+    "category": "Religious",
+    "language": "hin",
     "country": "IN"
   },
   {
@@ -568,7 +568,7 @@
     "country": "IN"
   },
   {
-    "videoId": "BBnYZte_9oI",
+    "videoId": "urbWKDToXLU",
     "channelId": "UCQ8kxAu_on_YzVPMjB03rqA",
     "name": "Awakening TV",
     "category": "Religious",
@@ -656,7 +656,7 @@
     "country": "IN"
   },
   {
-    "videoId": "9XP6A4OBjDg",
+    "videoId": "lX1cyzxAsYA",
     "channelId": "UCTboTRX74UydvU_cBdm_cCQ",
     "name": "SVBC TTD: SVBC2",
     "category": "Religious",
@@ -680,7 +680,7 @@
     "country": "IN"
   },
   {
-    "videoId": "CvFEApSF1TM",
+    "videoId": "wcMHO2A-94E",
     "channelId": "UCu9Fj9QRAg26ZY9DhF8HSrQ",
     "name": "DD Urdu",
     "category": "Culture",

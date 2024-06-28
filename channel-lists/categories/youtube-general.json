@@ -8,7 +8,7 @@
     "country": "MX"
   },
   {
-    "videoId": "wb1K6lki4tY",
+    "videoId": "UNdtkc7w80A",
     "channelId": "UC-HNztluSQSffhIWJTL-LUw",
     "name": "Televisa Puebla",
     "category": "General",
@@ -24,7 +24,7 @@
     "country": "KR"
   },
   {
-    "videoId": "N0_01Ux6SRE",
+    "videoId": "faN-riPOzAw",
     "channelId": "UC-uYy4_jIvDoJ4wigEv1S5A",
     "name": "Televisa Del Bajio",
     "category": "General",
@@ -38,14 +38,6 @@
     "category": "General",
     "language": "ben",
     "country": "BD"
-  },
-  {
-    "videoId": "R0EA5kguiJo",
-    "channelId": "UC0vwjMGoZpwG_lLBuF6_ALA",
-    "name": "Telewizja Olsztyn",
-    "category": "General",
-    "language": "pol",
-    "country": "PL"
   },
   {
     "videoId": "Dm95Hj4xPxc",
@@ -72,7 +64,7 @@
     "country": "CN"
   },
   {
-    "videoId": "PV8vPbZvpV8",
+    "videoId": "e2Q_jDwGDcs",
     "channelId": "UC5EnLdE7ASjYzWt7wvT-QSg",
     "name": "Televisa Veracruz",
     "category": "General",
@@ -96,12 +88,20 @@
     "country": "AT"
   },
   {
-    "videoId": "NyQpKNZUaa4",
+    "videoId": "bW4AqfnrMFU",
     "channelId": "UCcmuFsMIIIHO3LBqeBVfm8Q",
     "name": "Televisa Mexicali",
     "category": "General",
     "language": "spa",
     "country": "MX"
+  },
+  {
+    "videoId": "MrIOJSsSZYM",
+    "channelId": "UCdBYAZdagaQcr-Fe15ifMPQ",
+    "name": "Telewizja Narew",
+    "category": "General",
+    "language": "pol",
+    "country": "PL"
   },
   {
     "videoId": "4wjPtq07YjY",
@@ -176,7 +176,7 @@
     "country": "MX"
   },
   {
-    "videoId": "dwLnDVcCsGg",
+    "videoId": "97J01vHKucI",
     "channelId": "UCot4t8PVKz8TT5xVM8Eb00w",
     "name": "Televisa Ciudad Juarez",
     "category": "General",
@@ -184,15 +184,7 @@
     "country": "MX"
   },
   {
-    "videoId": "ftlXo5_UutI",
-    "channelId": "UCpeD73Gb4KjKUL2gyoJ4gLw",
-    "name": "Televisa Univision Saltillo",
-    "category": "General",
-    "language": "spa",
-    "country": "MX"
-  },
-  {
-    "videoId": "ptt1EB50K0A",
+    "videoId": "7QdUCkyXO-I",
     "channelId": "UCPmnk6gpje7qhq2eaAwtsMQ",
     "name": "Somos Uno",
     "category": "General",
@@ -272,7 +264,7 @@
     "country": "FR"
   },
   {
-    "videoId": "UrHgkAtEOL4",
+    "videoId": "K8JBx30bRk0",
     "channelId": "UCwVQAPo6tjC5w5yBBh0WEdA",
     "name": "TVPI Officiel",
     "category": "General",

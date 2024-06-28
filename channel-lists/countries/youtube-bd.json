@@ -16,10 +16,18 @@
     "country": "BD"
   },
   {
-    "videoId": "39URsEY4_7g",
+    "videoId": "LFYE4S6wxSQ",
     "channelId": "UC200cnk8CCEkNAIubWtDsLw",
     "name": "Nexus Television",
     "category": "Entertainment",
+    "language": "ben",
+    "country": "BD"
+  },
+  {
+    "videoId": "2-WjxLR-75Y",
+    "channelId": "UC2P5Fd5g41Gtdqf0Uzh8Qaw",
+    "name": "Rtv News",
+    "category": "News",
     "language": "ben",
     "country": "BD"
   },
@@ -40,6 +48,14 @@
     "country": "BD"
   },
   {
+    "videoId": "kHgam3HvIbc",
+    "channelId": "UCi-aUVwZR5U8GBNOy0CC4ww",
+    "name": "Rtv Music",
+    "category": "Music",
+    "language": "ben",
+    "country": "BD"
+  },
+  {
     "videoId": "J2tSnE_XSrw",
     "channelId": "UCN6sm8iHiPd0cnoUardDAnw",
     "name": "Jamuna TV",
@@ -48,7 +64,7 @@
     "country": "BD"
   },
   {
-    "videoId": "sByjuN4Gr-g",
+    "videoId": "JJzCRaeUZLI",
     "channelId": "UCqyt55f3byoK8rjgO0LBe4Q",
     "name": "Desh TV",
     "category": "News",
