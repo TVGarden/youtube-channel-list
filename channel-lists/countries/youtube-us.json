@@ -192,9 +192,33 @@
     "country": "US"
   },
   {
+    "videoId": "SfMhpy5a9qw",
+    "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
+    "name": "TokuSHOUTsu: Chōjin Sentai Jetman",
+    "category": "Series",
+    "language": "jpn",
+    "country": "US"
+  },
+  {
+    "videoId": "7zGMVvIR4Ts",
+    "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
+    "name": "TokuSHOUTsu: ALF (日本語)",
+    "category": "Series",
+    "language": "jpn",
+    "country": "US"
+  },
+  {
     "videoId": "DZML1mJB_Zw",
     "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
     "name": "TokuSHOUTsu: Kamen Rider Mix",
+    "category": "Series",
+    "language": "jpn",
+    "country": "US"
+  },
+  {
+    "videoId": "0SOfjGGZ7fE",
+    "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
+    "name": "TokuSHOUTsu: Taiki Matsuno",
     "category": "Series",
     "language": "jpn",
     "country": "US"
@@ -866,7 +890,7 @@
   {
     "videoId": "CYhowtND6i0",
     "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
-    "name": "Shout! Studios: ALF (Japanese)",
+    "name": "Shout! Studios: ALF (日本語)",
     "category": "Series",
     "language": "jpn",
     "country": "US"

@@ -754,7 +754,7 @@
   {
     "videoId": "Jc_MexRxmDM",
     "channelId": "UCCTpf5c_9HDo_OSu3aX8uFQ",
-    "name": "HBCニュース　北海道放送",
+    "name": "HBC News 北海道放送",
     "category": "News",
     "language": "jpn",
     "country": "JP"
@@ -1730,7 +1730,7 @@
   {
     "videoId": "PCccV7cCW8M",
     "channelId": "UCqPDZgcJtyPFhJM4qx-PuKg",
-    "name": "鹿児島ニュースKTS",
+    "name": "KTS News 鹿児島",
     "category": "News",
     "language": "jpn",
     "country": "JP"
@@ -1810,7 +1810,7 @@
   {
     "videoId": "j0qAjKS4vLg",
     "channelId": "UCS8ZQejq2CL-nZcnRWZCA5Q",
-    "name": "福岡・佐賀 KBC NEWS",
+    "name": "KBC NEWS 福岡・佐賀",
     "category": "News",
     "language": "jpn",
     "country": "JP"
@@ -1898,7 +1898,7 @@
   {
     "videoId": "d8CrKBU99Hg",
     "channelId": "UCSWOnDD1KIriGmyQ7SgNA4A",
-    "name": "HTB北海道ニュース",
+    "name": "HTB 北海道ニュース",
     "category": "News",
     "language": "jpn",
     "country": "JP"
@@ -1962,7 +1962,7 @@
   {
     "videoId": "SM5ukgrbamY",
     "channelId": "UCtf-aWCCwZPep5woQd9lAIQ",
-    "name": "サンテレビニュース",
+    "name": "SUNTV News",
     "category": "News",
     "language": "jpn",
     "country": "JP"
@@ -2146,7 +2146,7 @@
   {
     "videoId": "Q5cYb58rBKw",
     "channelId": "UCv7_krlrre3GQi79d4guxHQ",
-    "name": "読売テレビニュース",
+    "name": "YTV News",
     "category": "News",
     "language": "jpn",
     "country": "JP"
@@ -2170,7 +2170,7 @@
   {
     "videoId": "SyvBMGh0AvY",
     "channelId": "UCvF5vIejmf-H_XSluaBldfg",
-    "name": "静岡朝日テレビニュース",
+    "name": "SATV News",
     "category": "News",
     "language": "jpn",
     "country": "JP"
