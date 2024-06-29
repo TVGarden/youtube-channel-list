@@ -6,5 +6,13 @@
     "category": "Weather",
     "language": "deu",
     "country": "AT"
+  },
+  {
+    "videoId": "T73dfgLpkn0",
+    "channelId": "UCme7pPv6AZoSMsFbSYK0esg",
+    "name": "MeteoTV",
+    "category": "Weather",
+    "language": "ron",
+    "country": "RO"
   }
 ]
