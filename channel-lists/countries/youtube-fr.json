@@ -128,6 +128,14 @@
     "country": "FR"
   },
   {
+    "videoId": "loO_jUvZFzc",
+    "channelId": "UCQC0xLG_W0QpqAXQ4-yhwBA",
+    "name": "Mosaïk Cristal",
+    "category": "News",
+    "language": "fra",
+    "country": "FR"
+  },
+  {
     "videoId": "pykpO5kQJ98",
     "channelId": "UCSrZ3UV4jOidv8ppoVuvW9Q",
     "name": "Euronews English",
@@ -139,6 +147,14 @@
     "videoId": "pO_dAyHKgDw",
     "channelId": "UCT67YOMntJxfRnO_9bXDpvw",
     "name": "Le Média",
+    "category": "News",
+    "language": "fra",
+    "country": "FR"
+  },
+  {
+    "videoId": "tBogvOwzskg",
+    "channelId": "UCUaHJ0fTA-1theR8A8Polmw",
+    "name": "Tech & Co",
     "category": "News",
     "language": "fra",
     "country": "FR"
@@ -172,6 +188,14 @@
     "channelId": "UCW2QcKZiU8aUGg4yxCIditg",
     "name": "Euronews French",
     "category": "News",
+    "language": "fra",
+    "country": "FR"
+  },
+  {
+    "videoId": "QEIxAP-6bwk",
+    "channelId": "UCwVQAPo6tjC5w5yBBh0WEdA",
+    "name": "TVPI Officiel",
+    "category": "General",
     "language": "fra",
     "country": "FR"
   },

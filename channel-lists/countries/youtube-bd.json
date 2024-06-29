@@ -24,7 +24,7 @@
     "country": "BD"
   },
   {
-    "videoId": "2-WjxLR-75Y",
+    "videoId": "DHT8D_KhqHU",
     "channelId": "UC2P5Fd5g41Gtdqf0Uzh8Qaw",
     "name": "Rtv News",
     "category": "News",
@@ -35,6 +35,14 @@
     "videoId": "8tvpdpYqSwg",
     "channelId": "UC8NcXMG3A3f2aFQyGTpSNww",
     "name": "Channel i News",
+    "category": "News",
+    "language": "ben",
+    "country": "BD"
+  },
+  {
+    "videoId": "fFuNOwOmCxw",
+    "channelId": "UCATUkaOHwO9EP_W87zCiPbA",
+    "name": "Independent Television",
     "category": "News",
     "language": "ben",
     "country": "BD"
@@ -67,6 +75,14 @@
     "videoId": "iZKf27HQvKE",
     "channelId": "UCqyt55f3byoK8rjgO0LBe4Q",
     "name": "Desh TV",
+    "category": "News",
+    "language": "ben",
+    "country": "BD"
+  },
+  {
+    "videoId": "iRvM9kJQ1qY",
+    "channelId": "UCtqvtAVmad5zywaziN6CbfA",
+    "name": "Ekattor TV",
     "category": "News",
     "language": "ben",
     "country": "BD"

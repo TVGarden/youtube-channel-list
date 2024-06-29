@@ -192,7 +192,7 @@
     "country": "PL"
   },
   {
-    "videoId": "2-WjxLR-75Y",
+    "videoId": "DHT8D_KhqHU",
     "channelId": "UC2P5Fd5g41Gtdqf0Uzh8Qaw",
     "name": "Rtv News",
     "category": "News",
@@ -302,14 +302,6 @@
     "category": "News",
     "language": "ind",
     "country": "ID"
-  },
-  {
-    "videoId": "kIhw0QLt2Uk",
-    "channelId": "UC5dYmq91e5_g54krpO06NJw",
-    "name": "Astro Awani",
-    "category": "News",
-    "language": "msa",
-    "country": "MY"
   },
   {
     "videoId": "Qkim2xt_cwY",
@@ -632,6 +624,14 @@
     "country": "JP"
   },
   {
+    "videoId": "fFuNOwOmCxw",
+    "channelId": "UCATUkaOHwO9EP_W87zCiPbA",
+    "name": "Independent Television",
+    "category": "News",
+    "language": "ben",
+    "country": "BD"
+  },
+  {
     "videoId": "DIAqkChREn8",
     "channelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
     "name": "Dawn News",
@@ -646,14 +646,6 @@
     "category": "News",
     "language": "urd",
     "country": "PK"
-  },
-  {
-    "videoId": "5TIY2VfRDFI",
-    "channelId": "UCB0NxICFmGabAalD46J2i4A",
-    "name": "RTD WEB TV",
-    "category": "News",
-    "language": "unknown",
-    "country": "FR"
   },
   {
     "videoId": "KYsZCF4chkM",
@@ -1080,7 +1072,7 @@
     "country": "UA"
   },
   {
-    "videoId": "B2BZ5AstZG8",
+    "videoId": "37h3mmtPOkI",
     "channelId": "UChBQgieUidXV1CmDxSdRm3g",
     "name": "Citizen TV Kenya",
     "category": "News",
@@ -1704,6 +1696,14 @@
     "country": "US"
   },
   {
+    "videoId": "loO_jUvZFzc",
+    "channelId": "UCQC0xLG_W0QpqAXQ4-yhwBA",
+    "name": "Mosaïk Cristal",
+    "category": "News",
+    "language": "fra",
+    "country": "FR"
+  },
+  {
     "videoId": "jxOv0nFjIBU",
     "channelId": "UCQeGq915GhiFlOE-fuoXGKQ",
     "name": "ЦЕНТР",
@@ -1840,7 +1840,7 @@
     "country": "PL"
   },
   {
-    "videoId": "L0a177kCMvo",
+    "videoId": "jdtQ0Ij0o68",
     "channelId": "UCsfh2Zb7-m4qzT8jLhK_Fzw",
     "name": "NewsJ",
     "category": "News",
@@ -1984,6 +1984,14 @@
     "country": "SA"
   },
   {
+    "videoId": "iRvM9kJQ1qY",
+    "channelId": "UCtqvtAVmad5zywaziN6CbfA",
+    "name": "Ekattor TV",
+    "category": "News",
+    "language": "ben",
+    "country": "BD"
+  },
+  {
     "videoId": "Xmm3Kr5P1Uw",
     "channelId": "UCttspZesZIDEwwpVIgoZtWQ",
     "name": "IndiaTV",
@@ -1993,6 +2001,14 @@
   },
   {
     "videoId": "yVswoIWLq6c",
+    "channelId": "UCTur7oM6mLL0rM2k0znuZpQ",
+    "name": "Express News",
+    "category": "News",
+    "language": "urd",
+    "country": "PK"
+  },
+  {
+    "videoId": "sbzNnGFeVwk",
     "channelId": "UCTur7oM6mLL0rM2k0znuZpQ",
     "name": "Express News",
     "category": "News",
@@ -2032,6 +2048,14 @@
     "country": "IN"
   },
   {
+    "videoId": "tBogvOwzskg",
+    "channelId": "UCUaHJ0fTA-1theR8A8Polmw",
+    "name": "Tech & Co",
+    "category": "News",
+    "language": "fra",
+    "country": "FR"
+  },
+  {
     "videoId": "pS_5gvMSMXk",
     "channelId": "UCucu9XccNzF4BPOweW0RD5w",
     "name": "Live Z101",
@@ -2048,7 +2072,7 @@
     "country": "FR"
   },
   {
-    "videoId": "tctmsuassS0",
+    "videoId": "MOBZR5b5yQs",
     "channelId": "UCuiLR4p6wQ3xLEm15pEn1Xw",
     "name": "Record News",
     "category": "News",
