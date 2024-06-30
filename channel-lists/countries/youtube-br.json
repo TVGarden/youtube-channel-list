@@ -32,6 +32,14 @@
     "country": "BR"
   },
   {
+    "videoId": "RL7aSa0ZOHU",
+    "channelId": "UC2ydN1037lNBPkB67CsT-nA",
+    "name": "Santa Cruz Feira Digital: Chaves",
+    "category": "Comedy",
+    "language": "por",
+    "country": "BR"
+  },
+  {
     "videoId": "At7GH5DJhso",
     "channelId": "UC4KNxcKmxgVPTIrNmuwYLtw",
     "name": "Acústico Imaginar",
@@ -52,6 +60,14 @@
     "channelId": "UCeBR3fhWb-Jyt8i7Hy6_mjA",
     "name": "Assembleia SC: AO VIVO",
     "category": "Legislative",
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "videoId": "7XhPnGz82VA",
+    "channelId": "UCfbg-zJ9uZ-WInaLy_dWcQA",
+    "name": "SBT RIBEIRÃO PRETO",
+    "category": "News",
     "language": "por",
     "country": "BR"
   },
@@ -112,7 +128,7 @@
     "country": "BR"
   },
   {
-    "videoId": "zr4DTthsOLw",
+    "videoId": "SuW160v9kfQ",
     "channelId": "UCSQ2vulanpm-UYOzbDdu60A",
     "name": "Igreja Presbiteriana de Pinheiros",
     "category": "Religious",
@@ -120,7 +136,7 @@
     "country": "BR"
   },
   {
-    "videoId": "kBCfpwxP400",
+    "videoId": "CMUEMhe0XTU",
     "channelId": "UCsRfBAspa72ExrsN347W2xg",
     "name": "SBT Rio",
     "category": "News",
@@ -128,7 +144,7 @@
     "country": "BR"
   },
   {
-    "videoId": "MOBZR5b5yQs",
+    "videoId": "1B3r2K1PBMI",
     "channelId": "UCuiLR4p6wQ3xLEm15pEn1Xw",
     "name": "Record News",
     "category": "News",
@@ -148,6 +164,14 @@
     "channelId": "UCVrKQMmA2ew9LFzeIDaOFgw",
     "name": "TV Canção Nova",
     "category": "Religious",
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "videoId": "aTVO-wuMnIw",
+    "channelId": "UCyXRmWbmyB7TSJekXsPCZKQ",
+    "name": "TV Thathi SBT",
+    "category": "News",
     "language": "por",
     "country": "BR"
   }
