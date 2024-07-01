@@ -88,14 +88,6 @@
     "country": "US"
   },
   {
-    "videoId": "pWT0tHoAVuY",
-    "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
-    "name": "TokuSHOUTsu: ReBoot",
-    "category": "Animation",
-    "language": "eng",
-    "country": "US"
-  },
-  {
     "videoId": "rHZp0WJT-V0",
     "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
     "name": "TokuSHOUTsu: Digimon Adventure tri.",
@@ -264,10 +256,10 @@
     "country": "US"
   },
   {
-    "videoId": "DRiiYcG3cyA",
-    "channelId": "UC9trsD1jCTXXtN3xIOIU8gg",
-    "name": "WB Kids: Tom & Jerry",
-    "category": "Kids",
+    "videoId": "c9AO5EzdfO8",
+    "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
+    "name": "TokuSHOUTsu: ReBoot",
+    "category": "Animation",
     "language": "eng",
     "country": "US"
   },
@@ -418,7 +410,7 @@
   {
     "videoId": "aM08YIndoiA",
     "channelId": "UCFzph9x-n9FR52BI94Zfgww",
-    "name": "MYSTERY SCIENCE THEATER 3000: SUMMER-a-thon",
+    "name": "MYSTERY SCIENCE THEATER 3000: FOREVER-a-thon",
     "category": "Comedy",
     "language": "eng",
     "country": "US"
@@ -436,6 +428,14 @@
     "channelId": "UCGbjb7FYYmj0z3_9iJ7dMPQ",
     "name": "CoinVaultTV",
     "category": "Shop",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "_cZhpYLI7ZA",
+    "channelId": "UCgVZ0mrM3liHNhRYC5Mchgg",
+    "name": "WPLG Local 10",
+    "category": "News",
     "language": "eng",
     "country": "US"
   },
@@ -768,14 +768,6 @@
     "country": "US"
   },
   {
-    "videoId": "Vk7AMehrHw4",
-    "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
-    "name": "Shout! Studios: ReBoot",
-    "category": "Animation",
-    "language": "eng",
-    "country": "US"
-  },
-  {
     "videoId": "_7TLt-Ox7m0",
     "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
     "name": "Shout! Studios: M.A.S.K.",
@@ -820,14 +812,6 @@
     "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
     "name": "Shout! Studios: Jackie Chan Movie Marathon",
     "category": "Movies",
-    "language": "eng",
-    "country": "US"
-  },
-  {
-    "videoId": "WRVt-ArC3dw",
-    "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
-    "name": "Shout! Studios: The Carol Burnett Show",
-    "category": "Classic",
     "language": "eng",
     "country": "US"
   },
@@ -899,6 +883,22 @@
     "videoId": "eWvGVftOqgU",
     "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
     "name": "Shout! Studios: Pee-wee's Playhouse",
+    "category": "Classic",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "Sa21BNj2mW8",
+    "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
+    "name": "Shout! Studios: ReBoot",
+    "category": "Animation",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "WRVt-ArC3dw",
+    "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
+    "name": "Shout! Studios: The Carol Burnett Show",
     "category": "Classic",
     "language": "eng",
     "country": "US"

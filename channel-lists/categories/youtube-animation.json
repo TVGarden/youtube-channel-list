@@ -16,14 +16,6 @@
     "country": "US"
   },
   {
-    "videoId": "pWT0tHoAVuY",
-    "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
-    "name": "TokuSHOUTsu: ReBoot",
-    "category": "Animation",
-    "language": "eng",
-    "country": "US"
-  },
-  {
     "videoId": "rHZp0WJT-V0",
     "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
     "name": "TokuSHOUTsu: Digimon Adventure tri.",
@@ -48,6 +40,14 @@
     "country": "US"
   },
   {
+    "videoId": "c9AO5EzdfO8",
+    "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
+    "name": "TokuSHOUTsu: ReBoot",
+    "category": "Animation",
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "videoId": "cOLQACygN5A",
     "channelId": "UCoBpC9J2EcbAMprw7YjC93A",
     "name": "Amazing World of Gumball",
@@ -64,17 +64,17 @@
     "country": "US"
   },
   {
-    "videoId": "Vk7AMehrHw4",
+    "videoId": "_7TLt-Ox7m0",
     "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
-    "name": "Shout! Studios: ReBoot",
+    "name": "Shout! Studios: M.A.S.K.",
     "category": "Animation",
     "language": "eng",
     "country": "US"
   },
   {
-    "videoId": "_7TLt-Ox7m0",
+    "videoId": "Sa21BNj2mW8",
     "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
-    "name": "Shout! Studios: M.A.S.K.",
+    "name": "Shout! Studios: ReBoot",
     "category": "Animation",
     "language": "eng",
     "country": "US"

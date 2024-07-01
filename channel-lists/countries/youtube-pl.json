@@ -1,5 +1,13 @@
 [
   {
+    "videoId": "otzSZWYZkOc",
+    "channelId": "UC0vwjMGoZpwG_lLBuF6_ALA",
+    "name": "Telewizja Olsztyn",
+    "category": "General",
+    "language": "pol",
+    "country": "PL"
+  },
+  {
     "videoId": "OYwDecVzgho",
     "channelId": "UC29dc_mBUWW4mz5h754v88w",
     "name": "Telewizja Żary",
@@ -40,7 +48,7 @@
     "country": "PL"
   },
   {
-    "videoId": "UvlgcL7Qy3M",
+    "videoId": "p-iDKsn2Vts",
     "channelId": "UCENo4wEDe_59Bb8rGGMZl_w",
     "name": "HORYZONT TV",
     "category": "News",
@@ -88,9 +96,9 @@
     "country": "PL"
   },
   {
-    "videoId": "y9ElXRAmidI",
-    "channelId": "UCt5sVDyzu0NhrjR-d_b-lhg",
-    "name": "Telewizja Gorzów",
+    "videoId": "S0rWBUpVA1g",
+    "channelId": "UCyQL0IjtptnQ9PxmAfH3fKQ",
+    "name": "Telewizja Zabrze",
     "category": "General",
     "language": "pol",
     "country": "PL"

@@ -144,14 +144,6 @@
     "country": "FR"
   },
   {
-    "videoId": "mpZaEzcNxFM",
-    "channelId": "UC1QpnGo11epfexw1bIiTHTg",
-    "name": "Liputan6",
-    "category": "News",
-    "language": "ind",
-    "country": "ID"
-  },
-  {
     "videoId": "az1EeKIOW-M",
     "channelId": "UC1UOne4B9wIrMe0KMwe-7_g",
     "name": "CTVN AKD PLUS",
@@ -280,14 +272,6 @@
     "country": "TW"
   },
   {
-    "videoId": "a3WZVssKlAI",
-    "channelId": "UC4vnLYInDvXtLKGOZieMeMw",
-    "name": "鳳凰資訊 PhoenixTVNews",
-    "category": "News",
-    "language": "zho",
-    "country": "HK"
-  },
-  {
     "videoId": "dKzD-sm_e50",
     "channelId": "UC531MlZA5LUbeGwEN_zcppw",
     "name": "News18 Bihar Jharkhand",
@@ -302,6 +286,14 @@
     "category": "News",
     "language": "ind",
     "country": "ID"
+  },
+  {
+    "videoId": "1R7SH0gcmWs",
+    "channelId": "UC5dYmq91e5_g54krpO06NJw",
+    "name": "Astro Awani",
+    "category": "News",
+    "language": "msa",
+    "country": "MY"
   },
   {
     "videoId": "Qkim2xt_cwY",
@@ -480,14 +472,6 @@
     "country": "FR"
   },
   {
-    "videoId": "fGsTTMU4Wg0",
-    "channelId": "UC8iN-WKPu820ve-4t9NxHRw",
-    "name": "Niigata News",
-    "category": "News",
-    "language": "jpn",
-    "country": "JP"
-  },
-  {
     "videoId": "8tvpdpYqSwg",
     "channelId": "UC8NcXMG3A3f2aFQyGTpSNww",
     "name": "Channel i News",
@@ -528,7 +512,7 @@
     "country": "IN"
   },
   {
-    "videoId": "eqm_P6RdYSU",
+    "videoId": "8IM-6mpUv-s",
     "channelId": "UC9CYT9gSNLevX5ey2_6CK0Q",
     "name": "NDTV India",
     "category": "News",
@@ -840,7 +824,7 @@
     "country": "IN"
   },
   {
-    "videoId": "BmAkMqksnEA",
+    "videoId": "olcU6ru7p7s",
     "channelId": "UCElJZvY_RVra6qjD8WSQYog",
     "name": "Public News",
     "category": "News",
@@ -856,7 +840,7 @@
     "country": "UK"
   },
   {
-    "videoId": "UvlgcL7Qy3M",
+    "videoId": "p-iDKsn2Vts",
     "channelId": "UCENo4wEDe_59Bb8rGGMZl_w",
     "name": "HORYZONT TV",
     "category": "News",
@@ -864,7 +848,7 @@
     "country": "PL"
   },
   {
-    "videoId": "IlTuHpWnY5I",
+    "videoId": "JsitacmEifI",
     "channelId": "UCeNP3dAy9_A32IWYZq_PZMQ",
     "name": "News State",
     "category": "News",
@@ -1054,6 +1038,14 @@
     "category": "News",
     "language": "spa",
     "country": "MX"
+  },
+  {
+    "videoId": "_cZhpYLI7ZA",
+    "channelId": "UCgVZ0mrM3liHNhRYC5Mchgg",
+    "name": "WPLG Local 10",
+    "category": "News",
+    "language": "eng",
+    "country": "US"
   },
   {
     "videoId": "rlIcPUbgTdA",
@@ -1584,7 +1576,7 @@
     "country": "TW"
   },
   {
-    "videoId": "9GDx7FA3y6I",
+    "videoId": "ORTqlnTUO7Q",
     "channelId": "UCoSkllfpgmFHtbVK835QaQg",
     "name": "Official iNews",
     "category": "News",
@@ -1880,14 +1872,6 @@
     "country": "IN"
   },
   {
-    "videoId": "CMUEMhe0XTU",
-    "channelId": "UCsRfBAspa72ExrsN347W2xg",
-    "name": "SBT Rio",
-    "category": "News",
-    "language": "por",
-    "country": "BR"
-  },
-  {
     "videoId": "HhEKHN0RYkA",
     "channelId": "UCsRnhjcUCR78Q3Ud6OXCTNg",
     "name": "T13",
@@ -1992,7 +1976,7 @@
     "country": "SA"
   },
   {
-    "videoId": "LIJbtzL2qLs",
+    "videoId": "Vs5Z2CI3LRw",
     "channelId": "UCtqvtAVmad5zywaziN6CbfA",
     "name": "Ekattor TV",
     "category": "News",
@@ -2064,7 +2048,7 @@
     "country": "FR"
   },
   {
-    "videoId": "pS_5gvMSMXk",
+    "videoId": "4pZ0-MAFgu4",
     "channelId": "UCucu9XccNzF4BPOweW0RD5w",
     "name": "Live Z101",
     "category": "News",
@@ -2176,7 +2160,7 @@
     "country": "IN"
   },
   {
-    "videoId": "Q5cYb58rBKw",
+    "videoId": "9c9Go5Qc6KA",
     "channelId": "UCv7_krlrre3GQi79d4guxHQ",
     "name": "YTV News",
     "category": "News",
@@ -2472,20 +2456,20 @@
     "country": "AR"
   },
   {
-    "videoId": "aTVO-wuMnIw",
-    "channelId": "UCyXRmWbmyB7TSJekXsPCZKQ",
-    "name": "TV Thathi SBT",
-    "category": "News",
-    "language": "por",
-    "country": "BR"
-  },
-  {
     "videoId": "1mYzBgRV6-k",
     "channelId": "UCz2yxQJZgiB_5elTzqV7FiQ",
     "name": "BOL NEWS",
     "category": "News",
     "language": "urd",
     "country": "PK"
+  },
+  {
+    "videoId": "Y_gsJrefyRQ",
+    "channelId": "UCz6E3lF72mb6uoJ-mOlNo2A",
+    "name": "Sky tg24",
+    "category": "News",
+    "language": "ita",
+    "country": "IT"
   },
   {
     "videoId": "sr2Ry9JVDtU",

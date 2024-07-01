@@ -40,6 +40,14 @@
     "country": "BD"
   },
   {
+    "videoId": "otzSZWYZkOc",
+    "channelId": "UC0vwjMGoZpwG_lLBuF6_ALA",
+    "name": "Telewizja Olsztyn",
+    "category": "General",
+    "language": "pol",
+    "country": "PL"
+  },
+  {
     "videoId": "Dm95Hj4xPxc",
     "channelId": "UC1pXFbM6hPRkUUTeO3txrtw",
     "name": "TV Nordestina",
@@ -192,6 +200,14 @@
     "country": "MX"
   },
   {
+    "videoId": "URwON5qA9eg",
+    "channelId": "UCPmnk6gpje7qhq2eaAwtsMQ",
+    "name": "Somos Uno",
+    "category": "General",
+    "language": "spa",
+    "country": "AR"
+  },
+  {
     "videoId": "wQ3Hm00VeI8",
     "channelId": "UCQb3i7gu9J8A4zzQU7j6C1Q",
     "name": "Televisa Zacatecas",
@@ -222,14 +238,6 @@
     "category": "General",
     "language": "por",
     "country": "BR"
-  },
-  {
-    "videoId": "y9ElXRAmidI",
-    "channelId": "UCt5sVDyzu0NhrjR-d_b-lhg",
-    "name": "Telewizja Gorzów",
-    "category": "General",
-    "language": "pol",
-    "country": "PL"
   },
   {
     "videoId": "N-UGU17tJss",
@@ -264,20 +272,20 @@
     "country": "FR"
   },
   {
-    "videoId": "QEIxAP-6bwk",
-    "channelId": "UCwVQAPo6tjC5w5yBBh0WEdA",
-    "name": "TVPI Officiel",
-    "category": "General",
-    "language": "fra",
-    "country": "FR"
-  },
-  {
     "videoId": "P_GnRn66HRo",
     "channelId": "UCxK8C1E8UZ5RipNXIBYEvTA",
     "name": "Televisa Piedras Negras",
     "category": "General",
     "language": "spa",
     "country": "MX"
+  },
+  {
+    "videoId": "S0rWBUpVA1g",
+    "channelId": "UCyQL0IjtptnQ9PxmAfH3fKQ",
+    "name": "Telewizja Zabrze",
+    "category": "General",
+    "language": "pol",
+    "country": "PL"
   },
   {
     "videoId": "2PlVlH7_mIk",
