@@ -176,7 +176,7 @@
     "country": "SK"
   },
   {
-    "videoId": "JXlHDUXpy0g",
+    "videoId": "l2i05qrif40",
     "channelId": "UCnxTRk2K1iNsQkgpWXxyj4w",
     "name": "Televisa Guerrero",
     "category": "General",
@@ -184,7 +184,7 @@
     "country": "MX"
   },
   {
-    "videoId": "97J01vHKucI",
+    "videoId": "9Sk3Q4Nq048",
     "channelId": "UCot4t8PVKz8TT5xVM8Eb00w",
     "name": "Televisa Ciudad Juarez",
     "category": "General",
@@ -267,6 +267,14 @@
     "videoId": "5ARTNKq49WY",
     "channelId": "UCva-htH2wvmKsG6SkcEJ4Vw",
     "name": "Maurienne TV",
+    "category": "General",
+    "language": "fra",
+    "country": "FR"
+  },
+  {
+    "videoId": "gsWszeivgz4",
+    "channelId": "UCwVQAPo6tjC5w5yBBh0WEdA",
+    "name": "TVPI Officiel",
     "category": "General",
     "language": "fra",
     "country": "FR"

@@ -112,7 +112,7 @@
     "country": "MX"
   },
   {
-    "videoId": "JXlHDUXpy0g",
+    "videoId": "l2i05qrif40",
     "channelId": "UCnxTRk2K1iNsQkgpWXxyj4w",
     "name": "Televisa Guerrero",
     "category": "General",
@@ -120,7 +120,7 @@
     "country": "MX"
   },
   {
-    "videoId": "GiyJPDpU_TY",
+    "videoId": "X5wn16Ls_PI",
     "channelId": "UCo1nfa1JKNqtcUyLjLwTiIw",
     "name": "MULTIMEDIOS",
     "category": "Entertainment",
@@ -128,7 +128,7 @@
     "country": "MX"
   },
   {
-    "videoId": "97J01vHKucI",
+    "videoId": "9Sk3Q4Nq048",
     "channelId": "UCot4t8PVKz8TT5xVM8Eb00w",
     "name": "Televisa Ciudad Juarez",
     "category": "General",
@@ -140,6 +140,14 @@
     "channelId": "UCpeD73Gb4KjKUL2gyoJ4gLw",
     "name": "Televisa Univision Saltillo",
     "category": "General",
+    "language": "spa",
+    "country": "MX"
+  },
+  {
+    "videoId": "jo5anuZuHeA",
+    "channelId": "UCQ08tNTPiBn44c975S81ftg",
+    "name": "Televisa Del Golfo",
+    "category": "Entertainment",
     "language": "spa",
     "country": "MX"
   },

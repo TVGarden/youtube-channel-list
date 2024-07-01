@@ -608,14 +608,6 @@
     "country": "JP"
   },
   {
-    "videoId": "fFuNOwOmCxw",
-    "channelId": "UCATUkaOHwO9EP_W87zCiPbA",
-    "name": "Independent Television",
-    "category": "News",
-    "language": "ben",
-    "country": "BD"
-  },
-  {
     "videoId": "DIAqkChREn8",
     "channelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
     "name": "Dawn News",
@@ -784,14 +776,6 @@
     "country": "IN"
   },
   {
-    "videoId": "NUttFOSCAP0",
-    "channelId": "UCdElYqHcat_E_RFG7yRmmwg",
-    "name": "Jawa Pos",
-    "category": "News",
-    "language": "ind",
-    "country": "ID"
-  },
-  {
     "videoId": "04y0H01GTg0",
     "channelId": "UCdOSeEq9Cs2Pco7OCn2_i5w",
     "name": "TV9 Marathi",
@@ -912,7 +896,7 @@
     "country": "IN"
   },
   {
-    "videoId": "7XhPnGz82VA",
+    "videoId": "yTUz37NLEK8",
     "channelId": "UCfbg-zJ9uZ-WInaLy_dWcQA",
     "name": "SBT RIBEIRÃO PRETO",
     "category": "News",
@@ -1632,7 +1616,7 @@
     "country": "AO"
   },
   {
-    "videoId": "QRL70-ntH9A",
+    "videoId": "1QYzjxvod_0",
     "channelId": "UCPiu4CZlknkTworskK79CPg",
     "name": "Telewizja wPolsce",
     "category": "News",
@@ -1872,6 +1856,14 @@
     "country": "IN"
   },
   {
+    "videoId": "rOkKn_RpV6Q",
+    "channelId": "UCsRfBAspa72ExrsN347W2xg",
+    "name": "SBT Rio",
+    "category": "News",
+    "language": "por",
+    "country": "BR"
+  },
+  {
     "videoId": "HhEKHN0RYkA",
     "channelId": "UCsRnhjcUCR78Q3Ud6OXCTNg",
     "name": "T13",
@@ -1976,7 +1968,7 @@
     "country": "SA"
   },
   {
-    "videoId": "Vs5Z2CI3LRw",
+    "videoId": "YyWRlzdVQTY",
     "channelId": "UCtqvtAVmad5zywaziN6CbfA",
     "name": "Ekattor TV",
     "category": "News",
@@ -2448,12 +2440,20 @@
     "country": "US"
   },
   {
-    "videoId": "0RaAMC2O8So",
+    "videoId": "wiX1noplt8Y",
     "channelId": "UCYvINPByAdCcpA0sWrF3I_w",
     "name": "Radio Mitre",
     "category": "News",
     "language": "spa",
     "country": "AR"
+  },
+  {
+    "videoId": "_l5g9TP77Vc",
+    "channelId": "UCyXRmWbmyB7TSJekXsPCZKQ",
+    "name": "TV Thathi SBT",
+    "category": "News",
+    "language": "por",
+    "country": "BR"
   },
   {
     "videoId": "1mYzBgRV6-k",

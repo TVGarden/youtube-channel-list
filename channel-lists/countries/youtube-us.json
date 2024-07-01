@@ -88,6 +88,14 @@
     "country": "US"
   },
   {
+    "videoId": "c9AO5EzdfO8",
+    "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
+    "name": "TokuSHOUTsu: ReBoot",
+    "category": "Animation",
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "videoId": "rHZp0WJT-V0",
     "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
     "name": "TokuSHOUTsu: Digimon Adventure tri.",
@@ -256,14 +264,6 @@
     "country": "US"
   },
   {
-    "videoId": "c9AO5EzdfO8",
-    "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
-    "name": "TokuSHOUTsu: ReBoot",
-    "category": "Animation",
-    "language": "eng",
-    "country": "US"
-  },
-  {
     "videoId": "kneTQocOtNo",
     "channelId": "UCakgsb0w7QB0VHdnCc-OVEA",
     "name": "Space Videos: View from ISS",
@@ -396,14 +396,6 @@
     "channelId": "UCf1y3FvYJYPbgMqHX7ZzeZA",
     "name": "SonLife Broadcasting Network",
     "category": "Religious",
-    "language": "eng",
-    "country": "US"
-  },
-  {
-    "videoId": "_Rsm6cWgis8",
-    "channelId": "UCfJsOa7m1zKMS9T2dvIljfQ",
-    "name": "Cops",
-    "category": "Entertainment",
     "language": "eng",
     "country": "US"
   },
@@ -576,7 +568,7 @@
     "country": "US"
   },
   {
-    "videoId": "7mz65SX9PnY",
+    "videoId": "21TCA2ysAsc",
     "channelId": "UClPzMXh4d5baHqR_tSeiagw",
     "name": "The Loud House",
     "category": "Kids",
@@ -768,6 +760,14 @@
     "country": "US"
   },
   {
+    "videoId": "Sa21BNj2mW8",
+    "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
+    "name": "Shout! Studios: ReBoot",
+    "category": "Animation",
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "videoId": "_7TLt-Ox7m0",
     "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
     "name": "Shout! Studios: M.A.S.K.",
@@ -816,6 +816,14 @@
     "country": "US"
   },
   {
+    "videoId": "WRVt-ArC3dw",
+    "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
+    "name": "Shout! Studios: The Carol Burnett Show",
+    "category": "Classic",
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "videoId": "ctJdlrtFYjs",
     "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
     "name": "Shout! Studios: ALF (English)",
@@ -827,6 +835,14 @@
     "videoId": "pX8npVgaS98",
     "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
     "name": "Shout! Studios: ALF (Latino Español)",
+    "category": "Series",
+    "language": "spa",
+    "country": "US"
+  },
+  {
+    "videoId": "Ad1v60pRWTM",
+    "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
+    "name": "Shout! Studios: ALF (Español de España)",
     "category": "Series",
     "language": "spa",
     "country": "US"
@@ -888,25 +904,9 @@
     "country": "US"
   },
   {
-    "videoId": "Sa21BNj2mW8",
-    "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
-    "name": "Shout! Studios: ReBoot",
-    "category": "Animation",
-    "language": "eng",
-    "country": "US"
-  },
-  {
-    "videoId": "WRVt-ArC3dw",
-    "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
-    "name": "Shout! Studios: The Carol Burnett Show",
-    "category": "Classic",
-    "language": "eng",
-    "country": "US"
-  },
-  {
-    "videoId": "sg7kF5tpUMk",
+    "videoId": "rqWJkyLuMyc",
     "channelId": "UCpVm7bg6pXKo1Pr6k5kxG9A",
-    "name": "National Geographic: Culinary Delicacies",
+    "name": "National Geographic: Sharkfest!",
     "category": "Entertainment",
     "language": "eng",
     "country": "US"
@@ -996,14 +996,6 @@
     "channelId": "UCRuyAVeVd7oUwh0LWmxxBBQ",
     "name": "earthTV Showcase",
     "category": "Travel",
-    "language": "eng",
-    "country": "US"
-  },
-  {
-    "videoId": "HJgIz7eV_5c",
-    "channelId": "UCry6nxAo2tfVyO6lEboiU3w",
-    "name": "The Carol Burnett Show",
-    "category": "Classic",
     "language": "eng",
     "country": "US"
   },
@@ -1144,7 +1136,7 @@
     "country": "US"
   },
   {
-    "videoId": "zuy5N_mhVDc",
+    "videoId": "Dds1R3OwoeE",
     "channelId": "UCXVCgDuD_QCkI7gTKU7-tpg",
     "name": "Nat Geo Kids",
     "category": "Education",

@@ -64,14 +64,6 @@
     "country": "CA"
   },
   {
-    "videoId": "qFtLxeGElo0",
-    "channelId": "UCb3vKSPkWFWiFljsSGoeyoQ",
-    "name": "WasebTV",
-    "category": "Entertainment",
-    "language": "pan",
-    "country": "PK"
-  },
-  {
     "videoId": "ADDSmXoPDY8",
     "channelId": "UCcpJdrLttBz5bDBormbgwiw",
     "name": "中視經典綜藝",
@@ -83,14 +75,6 @@
     "videoId": "PLR6KdmyTho",
     "channelId": "UCDPk9MG2RexnOMGTD-YnSnA",
     "name": "Nat Geo Wild: Killer Clashes",
-    "category": "Entertainment",
-    "language": "eng",
-    "country": "US"
-  },
-  {
-    "videoId": "_Rsm6cWgis8",
-    "channelId": "UCfJsOa7m1zKMS9T2dvIljfQ",
-    "name": "Cops",
     "category": "Entertainment",
     "language": "eng",
     "country": "US"
@@ -192,7 +176,7 @@
     "country": "KR"
   },
   {
-    "videoId": "GiyJPDpU_TY",
+    "videoId": "X5wn16Ls_PI",
     "channelId": "UCo1nfa1JKNqtcUyLjLwTiIw",
     "name": "MULTIMEDIOS",
     "category": "Entertainment",
@@ -216,9 +200,9 @@
     "country": "AO"
   },
   {
-    "videoId": "sg7kF5tpUMk",
+    "videoId": "rqWJkyLuMyc",
     "channelId": "UCpVm7bg6pXKo1Pr6k5kxG9A",
-    "name": "National Geographic: Culinary Delicacies",
+    "name": "National Geographic: Sharkfest!",
     "category": "Entertainment",
     "language": "eng",
     "country": "US"
@@ -230,6 +214,14 @@
     "category": "Entertainment",
     "language": "eng",
     "country": "US"
+  },
+  {
+    "videoId": "jo5anuZuHeA",
+    "channelId": "UCQ08tNTPiBn44c975S81ftg",
+    "name": "Televisa Del Golfo",
+    "category": "Entertainment",
+    "language": "spa",
+    "country": "MX"
   },
   {
     "videoId": "A98LJq71BZg",

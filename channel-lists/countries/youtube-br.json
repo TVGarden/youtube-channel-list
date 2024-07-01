@@ -56,7 +56,7 @@
     "country": "BR"
   },
   {
-    "videoId": "7XhPnGz82VA",
+    "videoId": "yTUz37NLEK8",
     "channelId": "UCfbg-zJ9uZ-WInaLy_dWcQA",
     "name": "SBT RIBEIRÃO PRETO",
     "category": "News",
@@ -128,6 +128,14 @@
     "country": "BR"
   },
   {
+    "videoId": "rOkKn_RpV6Q",
+    "channelId": "UCsRfBAspa72ExrsN347W2xg",
+    "name": "SBT Rio",
+    "category": "News",
+    "language": "por",
+    "country": "BR"
+  },
+  {
     "videoId": "1B3r2K1PBMI",
     "channelId": "UCuiLR4p6wQ3xLEm15pEn1Xw",
     "name": "Record News",
@@ -148,6 +156,14 @@
     "channelId": "UCVrKQMmA2ew9LFzeIDaOFgw",
     "name": "TV Canção Nova",
     "category": "Religious",
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "videoId": "_l5g9TP77Vc",
+    "channelId": "UCyXRmWbmyB7TSJekXsPCZKQ",
+    "name": "TV Thathi SBT",
+    "category": "News",
     "language": "por",
     "country": "BR"
   }
