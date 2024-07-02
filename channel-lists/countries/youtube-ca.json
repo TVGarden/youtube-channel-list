@@ -32,9 +32,25 @@
     "country": "CA"
   },
   {
-    "videoId": "j6ThkluyUoo",
+    "videoId": "i1_PfPy-1EE",
     "channelId": "UCsklwaoSWVr87jTQi-b4fvg",
     "name": "Super Simple: Bedtime Songs",
+    "category": "Kids",
+    "language": "eng",
+    "country": "CA"
+  },
+  {
+    "videoId": "jYDKY6fBvVo",
+    "channelId": "UCsklwaoSWVr87jTQi-b4fvg",
+    "name": "Super Simple: Noodle and Pals",
+    "category": "Kids",
+    "language": "eng",
+    "country": "CA"
+  },
+  {
+    "videoId": "8s1ToIeKcrQ",
+    "channelId": "UCsklwaoSWVr87jTQi-b4fvg",
+    "name": "Super Simple: Simple Songs",
     "category": "Kids",
     "language": "eng",
     "country": "CA"

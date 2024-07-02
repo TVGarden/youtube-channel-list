@@ -1,5 +1,13 @@
 [
   {
+    "videoId": "AcfUwC4PCSM",
+    "channelId": "UC0pHdbHRCREJJQhGSUDH61g",
+    "name": "Pocoyo",
+    "category": "Kids",
+    "language": "fra",
+    "country": "FR"
+  },
+  {
     "videoId": "wGxyxTSRwcM",
     "channelId": "UC2T2eP7aoOqTDssupevArfA",
     "name": "Jetix",
@@ -392,7 +400,7 @@
     "country": "AE"
   },
   {
-    "videoId": "a221hWQL8r8",
+    "videoId": "odAiPMOtzXk",
     "channelId": "UCS0B3UT8eyVA_Cbgh5hXzpg",
     "name": "اوكو ليلي القناة الرسمية 2",
     "category": "Kids",
@@ -400,7 +408,7 @@
     "country": "AE"
   },
   {
-    "videoId": "j6ThkluyUoo",
+    "videoId": "i1_PfPy-1EE",
     "channelId": "UCsklwaoSWVr87jTQi-b4fvg",
     "name": "Super Simple: Bedtime Songs",
     "category": "Kids",
@@ -408,7 +416,23 @@
     "country": "CA"
   },
   {
-    "videoId": "vEEpNs8pkHg",
+    "videoId": "jYDKY6fBvVo",
+    "channelId": "UCsklwaoSWVr87jTQi-b4fvg",
+    "name": "Super Simple: Noodle and Pals",
+    "category": "Kids",
+    "language": "eng",
+    "country": "CA"
+  },
+  {
+    "videoId": "8s1ToIeKcrQ",
+    "channelId": "UCsklwaoSWVr87jTQi-b4fvg",
+    "name": "Super Simple: Simple Songs",
+    "category": "Kids",
+    "language": "eng",
+    "country": "CA"
+  },
+  {
+    "videoId": "3vDCp45e4BA",
     "channelId": "UCSVSJ1OCSv5ClFgKFTHIDew",
     "name": "PAW Patrol (English)",
     "category": "Kids",
