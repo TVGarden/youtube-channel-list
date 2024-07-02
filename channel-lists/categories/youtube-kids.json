@@ -1,13 +1,5 @@
 [
   {
-    "videoId": "t-YPOCwhBTQ",
-    "channelId": "UC0pHdbHRCREJJQhGSUDH61g",
-    "name": "Pocoyo",
-    "category": "Kids",
-    "language": "fra",
-    "country": "FR"
-  },
-  {
     "videoId": "wGxyxTSRwcM",
     "channelId": "UC2T2eP7aoOqTDssupevArfA",
     "name": "Jetix",
@@ -46,6 +38,22 @@
     "category": "Kids",
     "language": "eng",
     "country": "SG"
+  },
+  {
+    "videoId": "E4pdH5jL5sg",
+    "channelId": "UCadtap8RYMNy8w4K9lXhzpQ",
+    "name": "Barbie: Barbie Marathon",
+    "category": "Kids",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "eRlPOJh90Nk",
+    "channelId": "UCadtap8RYMNy8w4K9lXhzpQ",
+    "name": "Barbie: Dance Marathon",
+    "category": "Kids",
+    "language": "eng",
+    "country": "US"
   },
   {
     "videoId": "cuzuDUlH7P4",

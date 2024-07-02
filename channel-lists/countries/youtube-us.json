@@ -264,6 +264,22 @@
     "country": "US"
   },
   {
+    "videoId": "E4pdH5jL5sg",
+    "channelId": "UCadtap8RYMNy8w4K9lXhzpQ",
+    "name": "Barbie: Barbie Marathon",
+    "category": "Kids",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "eRlPOJh90Nk",
+    "channelId": "UCadtap8RYMNy8w4K9lXhzpQ",
+    "name": "Barbie: Dance Marathon",
+    "category": "Kids",
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "videoId": "kneTQocOtNo",
     "channelId": "UCakgsb0w7QB0VHdnCc-OVEA",
     "name": "Space Videos: View from ISS",
@@ -416,7 +432,7 @@
     "country": "US"
   },
   {
-    "videoId": "aBelNUB_1GE",
+    "videoId": "V-c9QLxh5Gw",
     "channelId": "UCGbjb7FYYmj0z3_9iJ7dMPQ",
     "name": "CoinVaultTV",
     "category": "Shop",
@@ -1156,6 +1172,14 @@
     "channelId": "UCyCljI7PbGR7zOIHJXQSK2w",
     "name": "ShopHQ",
     "category": "Shop",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "CG2XDTgvZPo",
+    "channelId": "UCYI_ychRnL7sJrG6PUSBpQA",
+    "name": "CBN News",
+    "category": "News",
     "language": "eng",
     "country": "US"
   },

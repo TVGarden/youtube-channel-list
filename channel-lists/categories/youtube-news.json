@@ -144,6 +144,14 @@
     "country": "FR"
   },
   {
+    "videoId": "TAQ6sdQ4NmY",
+    "channelId": "UC1QpnGo11epfexw1bIiTHTg",
+    "name": "Liputan6",
+    "category": "News",
+    "language": "ind",
+    "country": "ID"
+  },
+  {
     "videoId": "az1EeKIOW-M",
     "channelId": "UC1UOne4B9wIrMe0KMwe-7_g",
     "name": "CTVN AKD PLUS",
@@ -270,6 +278,14 @@
     "category": "News",
     "language": "zho",
     "country": "TW"
+  },
+  {
+    "videoId": "XqstiwkAcDU",
+    "channelId": "UC4vnLYInDvXtLKGOZieMeMw",
+    "name": "鳳凰資訊 PhoenixTVNews",
+    "category": "News",
+    "language": "zho",
+    "country": "HK"
   },
   {
     "videoId": "dKzD-sm_e50",
@@ -472,6 +488,14 @@
     "country": "FR"
   },
   {
+    "videoId": "fGsTTMU4Wg0",
+    "channelId": "UC8iN-WKPu820ve-4t9NxHRw",
+    "name": "Niigata News",
+    "category": "News",
+    "language": "jpn",
+    "country": "JP"
+  },
+  {
     "videoId": "8tvpdpYqSwg",
     "channelId": "UC8NcXMG3A3f2aFQyGTpSNww",
     "name": "Channel i News",
@@ -512,7 +536,7 @@
     "country": "IN"
   },
   {
-    "videoId": "8IM-6mpUv-s",
+    "videoId": "VD3KZJ_4xAE",
     "channelId": "UC9CYT9gSNLevX5ey2_6CK0Q",
     "name": "NDTV India",
     "category": "News",
@@ -606,6 +630,14 @@
     "category": "News",
     "language": "jpn",
     "country": "JP"
+  },
+  {
+    "videoId": "ssM6i5UVkdA",
+    "channelId": "UCATUkaOHwO9EP_W87zCiPbA",
+    "name": "Independent Television",
+    "category": "News",
+    "language": "ben",
+    "country": "BD"
   },
   {
     "videoId": "DIAqkChREn8",
@@ -832,7 +864,7 @@
     "country": "PL"
   },
   {
-    "videoId": "JsitacmEifI",
+    "videoId": "7foALv-PVW0",
     "channelId": "UCeNP3dAy9_A32IWYZq_PZMQ",
     "name": "News State",
     "category": "News",
@@ -1120,7 +1152,7 @@
     "country": "TR"
   },
   {
-    "videoId": "-_aCNKl1tu4",
+    "videoId": "7yWjVMmdcWI",
     "channelId": "UChx_y6aLWNkifSDUt2TVAzg",
     "name": "TOS News",
     "category": "News",
@@ -2056,7 +2088,7 @@
     "country": "FR"
   },
   {
-    "videoId": "1B3r2K1PBMI",
+    "videoId": "MD-31xFVzlI",
     "channelId": "UCuiLR4p6wQ3xLEm15pEn1Xw",
     "name": "Record News",
     "category": "News",
@@ -2368,6 +2400,14 @@
     "country": "NG"
   },
   {
+    "videoId": "CG2XDTgvZPo",
+    "channelId": "UCYI_ychRnL7sJrG6PUSBpQA",
+    "name": "CBN News",
+    "category": "News",
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "videoId": "DhKEZRVPNnQ",
     "channelId": "UCyky9PDwU5cClLPYSLVhQmQ",
     "name": "A1TV NEWS",
@@ -2462,14 +2502,6 @@
     "category": "News",
     "language": "urd",
     "country": "PK"
-  },
-  {
-    "videoId": "Y_gsJrefyRQ",
-    "channelId": "UCz6E3lF72mb6uoJ-mOlNo2A",
-    "name": "Sky tg24",
-    "category": "News",
-    "language": "ita",
-    "country": "IT"
   },
   {
     "videoId": "sr2Ry9JVDtU",
