@@ -160,14 +160,6 @@
     "country": "IN"
   },
   {
-    "videoId": "SbRORbMo4vY",
-    "channelId": "UC1vOCYEu3DfoI4fYcfWKmWA",
-    "name": "Kalinga TV",
-    "category": "News",
-    "language": "ori",
-    "country": "IN"
-  },
-  {
     "videoId": "4yRwf_4DqVY",
     "channelId": "UC1yBKRuGpC1tSM73A0ZjYjQ",
     "name": "The Young Turks",
@@ -302,6 +294,14 @@
     "category": "News",
     "language": "ind",
     "country": "ID"
+  },
+  {
+    "videoId": "UWjOI-FZwag",
+    "channelId": "UC5dYmq91e5_g54krpO06NJw",
+    "name": "Astro Awani",
+    "category": "News",
+    "language": "msa",
+    "country": "MY"
   },
   {
     "videoId": "Qkim2xt_cwY",
@@ -528,7 +528,7 @@
     "country": "IN"
   },
   {
-    "videoId": "VD3KZJ_4xAE",
+    "videoId": "ysECF2RBVow",
     "channelId": "UC9CYT9gSNLevX5ey2_6CK0Q",
     "name": "NDTV India",
     "category": "News",
@@ -632,14 +632,6 @@
     "country": "BD"
   },
   {
-    "videoId": "DIAqkChREn8",
-    "channelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
-    "name": "Dawn News",
-    "category": "News",
-    "language": "urd",
-    "country": "PK"
-  },
-  {
     "videoId": "b6sRM0kuTP8",
     "channelId": "UCB-8E662xOk1I3-wdhTMNiw",
     "name": "City 21 News",
@@ -696,7 +688,7 @@
     "country": "US"
   },
   {
-    "videoId": "xt8gXq5wGyU",
+    "videoId": "4CghYc8W55A",
     "channelId": "UCBgTP2LOFVPmq15W-RH-WXA",
     "name": "TRT Haber",
     "category": "News",
@@ -1040,14 +1032,6 @@
     "country": "JP"
   },
   {
-    "videoId": "ABWJSa_6FWw",
-    "channelId": "UCgu4v4HAioB0N5K6aq_H-WQ",
-    "name": "Canal 66 Mexicali",
-    "category": "News",
-    "language": "spa",
-    "country": "MX"
-  },
-  {
     "videoId": "_cZhpYLI7ZA",
     "channelId": "UCgVZ0mrM3liHNhRYC5Mchgg",
     "name": "WPLG Local 10",
@@ -1080,7 +1064,7 @@
     "country": "UA"
   },
   {
-    "videoId": "VYNuQ0GeOyw",
+    "videoId": "3rdgOroL06M",
     "channelId": "UChBQgieUidXV1CmDxSdRm3g",
     "name": "Citizen TV Kenya",
     "category": "News",
@@ -1320,14 +1304,6 @@
     "country": "DE"
   },
   {
-    "videoId": "yQT12rzZ-zw",
-    "channelId": "UCKQhfw-lzz0uKnE1fY1PsAA",
-    "name": "A Haber",
-    "category": "News",
-    "language": "tur",
-    "country": "TR"
-  },
-  {
     "videoId": "tS6-7WcYwk0",
     "channelId": "UCKVsdeoHExltrWMuK0hOWmg",
     "name": "KTN News Kenya",
@@ -1352,7 +1328,7 @@
     "country": "UA"
   },
   {
-    "videoId": "oTqU3FpI5Js",
+    "videoId": "Iv6gZbMz4Qg",
     "channelId": "UCkyrSWEcjZKpIwMxiPfOcgg",
     "name": "5 канал",
     "category": "News",
@@ -1480,7 +1456,7 @@
     "country": "TR"
   },
   {
-    "videoId": "4-JPgEpgfAM",
+    "videoId": "oXFLRIWSF2A",
     "channelId": "UCnAFKvDuqBGkIfV8Vn0J_CQ",
     "name": "Телеканал 24kz",
     "category": "News",
@@ -1520,14 +1496,6 @@
     "country": "RU"
   },
   {
-    "videoId": "54pcZr_yenQ",
-    "channelId": "UCnh5Faqn_r9HxeNd_dsvGHQ",
-    "name": "Halab Today TV",
-    "category": "News",
-    "language": "ara",
-    "country": "SY"
-  },
-  {
     "videoId": "SxzSL8GBJ4A",
     "channelId": "UCnMBV5Iw4WqKILKue1nP6Hg",
     "name": "Dunya News",
@@ -1536,7 +1504,7 @@
     "country": "PK"
   },
   {
-    "videoId": "8EnMJGbRlPI",
+    "videoId": "ukfgQWgrUWs",
     "channelId": "UCNVkxRPqsBNejO6B9thG9Xw",
     "name": "Janam TV",
     "category": "News",
@@ -1582,14 +1550,6 @@
     "category": "News",
     "language": "zho",
     "country": "TW"
-  },
-  {
-    "videoId": "ORTqlnTUO7Q",
-    "channelId": "UCoSkllfpgmFHtbVK835QaQg",
-    "name": "Official iNews",
-    "category": "News",
-    "language": "ind",
-    "country": "ID"
   },
   {
     "videoId": "ztmY_cCtUl0",
@@ -1992,7 +1952,7 @@
     "country": "SA"
   },
   {
-    "videoId": "NtL-iNuZnz4",
+    "videoId": "L0PZFv_CM7o",
     "channelId": "UCtqvtAVmad5zywaziN6CbfA",
     "name": "Ekattor TV",
     "category": "News",
@@ -2080,7 +2040,7 @@
     "country": "FR"
   },
   {
-    "videoId": "MD-31xFVzlI",
+    "videoId": "CJ50sAAvzpY",
     "channelId": "UCuiLR4p6wQ3xLEm15pEn1Xw",
     "name": "Record News",
     "category": "News",
@@ -2456,7 +2416,7 @@
     "country": "TW"
   },
   {
-    "videoId": "zn7wbRrWcCo",
+    "videoId": "hDuQm5EpFuA",
     "channelId": "UCyscVWiJELkATSuU-RF2NLg",
     "name": "قناة الحرة - Alhurra",
     "category": "News",

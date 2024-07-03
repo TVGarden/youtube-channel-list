@@ -56,14 +56,6 @@
     "country": "IN"
   },
   {
-    "videoId": "SbRORbMo4vY",
-    "channelId": "UC1vOCYEu3DfoI4fYcfWKmWA",
-    "name": "Kalinga TV",
-    "category": "News",
-    "language": "ori",
-    "country": "IN"
-  },
-  {
     "videoId": "T81X-Zf5ZO4",
     "channelId": "UC2ziCMHFPWkFHjocUMXT__Q",
     "name": "Sathiyam News",
@@ -152,7 +144,7 @@
     "country": "IN"
   },
   {
-    "videoId": "VD3KZJ_4xAE",
+    "videoId": "ysECF2RBVow",
     "channelId": "UC9CYT9gSNLevX5ey2_6CK0Q",
     "name": "NDTV India",
     "category": "News",
@@ -504,7 +496,7 @@
     "country": "IN"
   },
   {
-    "videoId": "8EnMJGbRlPI",
+    "videoId": "ukfgQWgrUWs",
     "channelId": "UCNVkxRPqsBNejO6B9thG9Xw",
     "name": "Janam TV",
     "category": "News",
@@ -685,6 +677,14 @@
     "name": "T News Telugu",
     "category": "News",
     "language": "tel",
+    "country": "IN"
+  },
+  {
+    "videoId": "rjap_zCtiz8",
+    "channelId": "UCu9Fj9QRAg26ZY9DhF8HSrQ",
+    "name": "DD Urdu",
+    "category": "Culture",
+    "language": "urd",
     "country": "IN"
   },
   {
