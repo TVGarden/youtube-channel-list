@@ -64,10 +64,26 @@
     "country": "ID"
   },
   {
+    "videoId": "9AmOS1XilO0",
+    "channelId": "UCiuu1WKCPw8VPasHoRE3NZA",
+    "name": "Leo Si Penjaga Alam",
+    "category": "Kids",
+    "language": "ind",
+    "country": "ID"
+  },
+  {
     "videoId": "tH-HlZrAKRw",
     "channelId": "UCJHC3VbFsp7kJ2NxPGltwiw",
     "name": "Khalid Basalamah",
     "category": "Religious",
+    "language": "ind",
+    "country": "ID"
+  },
+  {
+    "videoId": "hA9o-VGHxa8",
+    "channelId": "UCoSkllfpgmFHtbVK835QaQg",
+    "name": "Official iNews",
+    "category": "News",
     "language": "ind",
     "country": "ID"
   },

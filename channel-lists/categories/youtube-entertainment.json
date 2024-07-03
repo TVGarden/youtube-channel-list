@@ -112,14 +112,6 @@
     "country": "BR"
   },
   {
-    "videoId": "5d_q9x8Omoo",
-    "channelId": "UCJW9gatYczI191TunQxMGbA",
-    "name": "Watania2 Replay",
-    "category": "Entertainment",
-    "language": "ara",
-    "country": "TN"
-  },
-  {
     "videoId": "gyulzwexW1w",
     "channelId": "UCjwXjnO3BGePtB7gSKEpoqA",
     "name": "Televisa Tijuana",
@@ -232,14 +224,6 @@
     "country": "US"
   },
   {
-    "videoId": "jo5anuZuHeA",
-    "channelId": "UCQ08tNTPiBn44c975S81ftg",
-    "name": "Televisa Del Golfo",
-    "category": "Entertainment",
-    "language": "spa",
-    "country": "MX"
-  },
-  {
     "videoId": "A98LJq71BZg",
     "channelId": "UCriy3vlLtiBov3nLdPLadUg",
     "name": "飢餓遊戲 Hunger Games",
@@ -272,7 +256,7 @@
     "country": "AE"
   },
   {
-    "videoId": "zUPlMGRu3mY",
+    "videoId": "XShg6AjTFPc",
     "channelId": "UCUM1n1Cb_cbnYTY45GvtyJw",
     "name": "Canal Diez Mar del Plata",
     "category": "Entertainment",
@@ -294,6 +278,14 @@
     "category": "Entertainment",
     "language": "spa",
     "country": "MX"
+  },
+  {
+    "videoId": "ELMpIyHEYhI",
+    "channelId": "UCxZ7Z0-z9EnTZAyKmeP2_MQ",
+    "name": "Raquel Daruech TV",
+    "category": "Entertainment",
+    "language": "spa",
+    "country": "UY"
   },
   {
     "videoId": "x8pV0qE9ToM",

@@ -120,7 +120,7 @@
     "country": "FR"
   },
   {
-    "videoId": "Lie_JBLh-k8",
+    "videoId": "wt6SIE7BXS8",
     "channelId": "UC1FbPiXx59_ltnFVx7IxWow",
     "name": "FOX Weather",
     "category": "News",
@@ -157,6 +157,14 @@
     "name": "CTVN AKD PLUS",
     "category": "News",
     "language": "ben",
+    "country": "IN"
+  },
+  {
+    "videoId": "ITuIylx6Sf0",
+    "channelId": "UC1vOCYEu3DfoI4fYcfWKmWA",
+    "name": "Kalinga TV",
+    "category": "News",
+    "language": "ori",
     "country": "IN"
   },
   {
@@ -632,6 +640,14 @@
     "country": "BD"
   },
   {
+    "videoId": "2B-FXxrr8F8",
+    "channelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+    "name": "Dawn News",
+    "category": "News",
+    "language": "urd",
+    "country": "PK"
+  },
+  {
     "videoId": "b6sRM0kuTP8",
     "channelId": "UCB-8E662xOk1I3-wdhTMNiw",
     "name": "City 21 News",
@@ -840,7 +856,7 @@
     "country": "UK"
   },
   {
-    "videoId": "p-iDKsn2Vts",
+    "videoId": "sgLwo9rexW4",
     "channelId": "UCENo4wEDe_59Bb8rGGMZl_w",
     "name": "HORYZONT TV",
     "category": "News",
@@ -848,7 +864,7 @@
     "country": "PL"
   },
   {
-    "videoId": "7foALv-PVW0",
+    "videoId": "UDHW7KaULw8",
     "channelId": "UCeNP3dAy9_A32IWYZq_PZMQ",
     "name": "News State",
     "category": "News",
@@ -992,7 +1008,7 @@
     "country": "IN"
   },
   {
-    "videoId": "uSBjB6Z6UTg",
+    "videoId": "uUMwQGV9c0Y",
     "channelId": "UCgH3Vo5DVMsrbDSUoSecm0Q",
     "name": "Lider Haber",
     "category": "News",
@@ -1064,7 +1080,7 @@
     "country": "UA"
   },
   {
-    "videoId": "3rdgOroL06M",
+    "videoId": "Qcy1tVBsgY0",
     "channelId": "UChBQgieUidXV1CmDxSdRm3g",
     "name": "Citizen TV Kenya",
     "category": "News",
@@ -1280,7 +1296,7 @@
     "country": "MY"
   },
   {
-    "videoId": "A6-tfPLn32w",
+    "videoId": "__6_UATUQAI",
     "channelId": "UCkcClukVA92272XoJdei8Xw",
     "name": "Swatantra TV",
     "category": "News",
@@ -1302,6 +1318,14 @@
     "category": "News",
     "language": "eng",
     "country": "DE"
+  },
+  {
+    "videoId": "yQT12rzZ-zw",
+    "channelId": "UCKQhfw-lzz0uKnE1fY1PsAA",
+    "name": "A Haber",
+    "category": "News",
+    "language": "tur",
+    "country": "TR"
   },
   {
     "videoId": "tS6-7WcYwk0",
@@ -1456,14 +1480,6 @@
     "country": "TR"
   },
   {
-    "videoId": "oXFLRIWSF2A",
-    "channelId": "UCnAFKvDuqBGkIfV8Vn0J_CQ",
-    "name": "Телеканал 24kz",
-    "category": "News",
-    "language": "rus",
-    "country": "KZ"
-  },
-  {
     "videoId": "GDb_j9sn2UQ",
     "channelId": "UCndsdUW_oPLqpQJY9J8oIRg",
     "name": "TV100",
@@ -1552,6 +1568,14 @@
     "country": "TW"
   },
   {
+    "videoId": "hA9o-VGHxa8",
+    "channelId": "UCoSkllfpgmFHtbVK835QaQg",
+    "name": "Official iNews",
+    "category": "News",
+    "language": "ind",
+    "country": "ID"
+  },
+  {
     "videoId": "ztmY_cCtUl0",
     "channelId": "UCOulx_rep5O4i9y6AyDqVvw",
     "name": "SÖZCÜ Televizyonu",
@@ -1592,7 +1616,7 @@
     "country": "US"
   },
   {
-    "videoId": "J15VQPEloP4",
+    "videoId": "q7jR1j-2dEA",
     "channelId": "UCpf7-LhTbmKk11p4nqw5LYA",
     "name": "TPA Notícias",
     "category": "news",
@@ -1822,6 +1846,14 @@
     "category": "News",
     "language": "urd",
     "country": "PK"
+  },
+  {
+    "videoId": "gyPrdKh8A8w",
+    "channelId": "UCSGeXKPLsXkSCIwaG2cCjLA",
+    "name": "News 9 YouTube",
+    "category": "News",
+    "language": "eng",
+    "country": "US"
   },
   {
     "videoId": "I-qP4xS7vPg",
@@ -2406,14 +2438,6 @@
     "category": "News",
     "language": "deu",
     "country": "AT"
-  },
-  {
-    "videoId": "s2waUruqze4",
-    "channelId": "UCys6fpFsyUIHMVhn9g10trQ",
-    "name": "CTIASIA 中天亞洲台",
-    "category": "News",
-    "language": "zho",
-    "country": "TW"
   },
   {
     "videoId": "hDuQm5EpFuA",

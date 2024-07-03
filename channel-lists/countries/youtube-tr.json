@@ -72,14 +72,6 @@
     "country": "TR"
   },
   {
-    "videoId": "rJHYgDTCj-I",
-    "channelId": "UCABzirZ6FyebIf8YSptKMwQ",
-    "name": "Kurtlar Vadisi",
-    "category": "Series",
-    "language": "tur",
-    "country": "TR"
-  },
-  {
     "videoId": "Y4Tq7h1jk-Y",
     "channelId": "UCAGVKxpAKwXMWdmcHbrvcwQ",
     "name": "EKOTÜRK TV",
@@ -136,7 +128,7 @@
     "country": "TR"
   },
   {
-    "videoId": "uSBjB6Z6UTg",
+    "videoId": "uUMwQGV9c0Y",
     "channelId": "UCgH3Vo5DVMsrbDSUoSecm0Q",
     "name": "Lider Haber",
     "category": "News",
@@ -220,6 +212,14 @@
     "channelId": "UCk-I0F9R6AqhPFg8hrgmX_A",
     "name": "Radyo Dinle: Pal Nostalji",
     "category": "Music",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "videoId": "yQT12rzZ-zw",
+    "channelId": "UCKQhfw-lzz0uKnE1fY1PsAA",
+    "name": "A Haber",
+    "category": "News",
     "language": "tur",
     "country": "TR"
   },

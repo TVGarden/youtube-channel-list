@@ -8,7 +8,7 @@
     "country": "US"
   },
   {
-    "videoId": "Lie_JBLh-k8",
+    "videoId": "wt6SIE7BXS8",
     "channelId": "UC1FbPiXx59_ltnFVx7IxWow",
     "name": "FOX Weather",
     "category": "News",
@@ -40,18 +40,18 @@
     "country": "US"
   },
   {
-    "videoId": "c-uUH1FDuWw",
-    "channelId": "UC5yaRAqKKYYApdr326HQnsg",
-    "name": "Cartoon Network: Steven Universe",
-    "category": "Kids",
-    "language": "eng",
-    "country": "US"
-  },
-  {
     "videoId": "ltIbe_Ulzps",
     "channelId": "UC6VJE6cD8ZPpe6ZOtVtlBTA",
     "name": "Amazing Facts TV",
     "category": "Religious",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "oUTtf9VRjtw",
+    "channelId": "UC74bcC7aGRNz4KoRpJsJNEw",
+    "name": "Nicktoons: The Fairly OddParents",
+    "category": "Kids",
     "language": "eng",
     "country": "US"
   },
@@ -504,7 +504,7 @@
     "country": "US"
   },
   {
-    "videoId": "TxxsIxLJjjs",
+    "videoId": "lyg9pFIgsQo",
     "channelId": "UCKtfozhWfwvXUTnR7PV3t5g",
     "name": "Peacock jr: Curious George",
     "category": "Kids",
@@ -512,7 +512,7 @@
     "country": "US"
   },
   {
-    "videoId": "Cn8ZOGkLvYc",
+    "videoId": "0lovDZXVlCc",
     "channelId": "UCKtfozhWfwvXUTnR7PV3t5g",
     "name": "Peacock jr: Caillou",
     "category": "Kids",
@@ -564,14 +564,6 @@
     "channelId": "UCLA_DiR1FfKNvjuUpBHmylQ",
     "name": "NASA: ISS HD",
     "category": "Science",
-    "language": "eng",
-    "country": "US"
-  },
-  {
-    "videoId": "1-wpz2e4ap0",
-    "channelId": "UClaHV2T--jGhJfHUL1gYwOA",
-    "name": "Vineyard Worship",
-    "category": "Music",
     "language": "eng",
     "country": "US"
   },
@@ -704,6 +696,14 @@
     "country": "US"
   },
   {
+    "videoId": "T-1USum62D8",
+    "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
+    "name": "Shout! Studios: Thunderbirds",
+    "category": "Classic",
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "videoId": "jiYYFKO0wkU",
     "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
     "name": "Shout! Studios: Speed Racer",
@@ -720,6 +720,14 @@
     "country": "US"
   },
   {
+    "videoId": "8L30Rbt47i4",
+    "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
+    "name": "Shout! Studios: Stingray",
+    "category": "Classic",
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "videoId": "maaYardQm1A",
     "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
     "name": "Shout! Studios: Joe 90",
@@ -728,10 +736,10 @@
     "country": "US"
   },
   {
-    "videoId": "ro7o3uGcOJc",
+    "videoId": "uYmu-2pMcQU",
     "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
-    "name": "Shout! Studios: Supercar",
-    "category": "Classic",
+    "name": "Shout! Studios: Mach GoGoGo",
+    "category": "Animation",
     "language": "eng",
     "country": "US"
   },
@@ -816,7 +824,23 @@
     "country": "US"
   },
   {
-    "videoId": "PLwMPyL1sUE",
+    "videoId": "YXkyiCQwMEg",
+    "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
+    "name": "Shout! Studios: ALF (Latino Español)",
+    "category": "Series",
+    "language": "spa",
+    "country": "US"
+  },
+  {
+    "videoId": "4Ci11_3zcVA",
+    "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
+    "name": "Shout! Studios: ALF (Español de España)",
+    "category": "Series",
+    "language": "spa",
+    "country": "US"
+  },
+  {
+    "videoId": "b5SZiMxeuLI",
     "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
     "name": "Shout! Studios: The Whitest Kids U' Know",
     "category": "Comedy",
@@ -869,22 +893,6 @@
     "name": "Shout! Studios: Pee-wee's Playhouse",
     "category": "Classic",
     "language": "eng",
-    "country": "US"
-  },
-  {
-    "videoId": "YXkyiCQwMEg",
-    "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
-    "name": "Shout! Studios: ALF (Latino Español)",
-    "category": "Series",
-    "language": "spa",
-    "country": "US"
-  },
-  {
-    "videoId": "4Ci11_3zcVA",
-    "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
-    "name": "Shout! Studios: ALF (Español de España)",
-    "category": "Series",
-    "language": "spa",
     "country": "US"
   },
   {
@@ -980,6 +988,14 @@
     "channelId": "UCRuyAVeVd7oUwh0LWmxxBBQ",
     "name": "earthTV Showcase",
     "category": "Travel",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "gyPrdKh8A8w",
+    "channelId": "UCSGeXKPLsXkSCIwaG2cCjLA",
+    "name": "News 9 YouTube",
+    "category": "News",
     "language": "eng",
     "country": "US"
   },
