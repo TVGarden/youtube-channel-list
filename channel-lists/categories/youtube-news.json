@@ -864,14 +864,6 @@
     "country": "UK"
   },
   {
-    "videoId": "sgLwo9rexW4",
-    "channelId": "UCENo4wEDe_59Bb8rGGMZl_w",
-    "name": "HORYZONT TV",
-    "category": "News",
-    "language": "pol",
-    "country": "PL"
-  },
-  {
     "videoId": "UDHW7KaULw8",
     "channelId": "UCeNP3dAy9_A32IWYZq_PZMQ",
     "name": "News State",
@@ -1558,6 +1550,14 @@
     "category": "News",
     "language": "rus",
     "country": "RU"
+  },
+  {
+    "videoId": "gQ16h_V-k64",
+    "channelId": "UCnh5Faqn_r9HxeNd_dsvGHQ",
+    "name": "Halab Today TV",
+    "category": "News",
+    "language": "ara",
+    "country": "SY"
   },
   {
     "videoId": "SxzSL8GBJ4A",
