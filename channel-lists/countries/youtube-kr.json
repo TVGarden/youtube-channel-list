@@ -104,6 +104,14 @@
     "country": "KR"
   },
   {
+    "videoId": "lDcWeklf6DI",
+    "channelId": "UCaKod3X1Tn4c7Ci0iUKcvzQ",
+    "name": "SBS Running Man",
+    "category": "Entertainment",
+    "language": "kor",
+    "country": "KR"
+  },
+  {
     "videoId": "NJUjU9ALj4A",
     "channelId": "UCF8AeLlUbEpKju6v1H6p8Eg",
     "name": "한국경제TV",
@@ -172,14 +180,6 @@
     "channelId": "UCPUeGC_AL-OnDQORKhRm6iA",
     "name": "Pororo 뽀로로",
     "category": "Kids",
-    "language": "kor",
-    "country": "KR"
-  },
-  {
-    "videoId": "9wqlxswMZrQ",
-    "channelId": "UCqGxkgVnPc7arUR7MdCi99g",
-    "name": "GCNTV Korea",
-    "category": "Business",
     "language": "kor",
     "country": "KR"
   },

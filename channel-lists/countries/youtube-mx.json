@@ -80,6 +80,14 @@
     "country": "MX"
   },
   {
+    "videoId": "ABWJSa_6FWw",
+    "channelId": "UCgu4v4HAioB0N5K6aq_H-WQ",
+    "name": "Canal 66 Mexicali",
+    "category": "News",
+    "language": "spa",
+    "country": "MX"
+  },
+  {
     "videoId": "4GEaqWV5pdU",
     "channelId": "UCIqGddpV4flOlK3b-hgu9pQ",
     "name": "Televisa Victoria",
@@ -120,7 +128,7 @@
     "country": "MX"
   },
   {
-    "videoId": "5TzglfZXeFA",
+    "videoId": "L5zvSu0_9xk",
     "channelId": "UCot4t8PVKz8TT5xVM8Eb00w",
     "name": "Televisa Ciudad Juarez",
     "category": "General",
@@ -155,14 +163,6 @@
     "videoId": "PA2UOztSoYk",
     "channelId": "UCtm1LvYEIQ_NrfOUVJ08YhQ",
     "name": "Televisa Sinaloa",
-    "category": "General",
-    "language": "spa",
-    "country": "MX"
-  },
-  {
-    "videoId": "P_GnRn66HRo",
-    "channelId": "UCxK8C1E8UZ5RipNXIBYEvTA",
-    "name": "Televisa Piedras Negras",
     "category": "General",
     "language": "spa",
     "country": "MX"

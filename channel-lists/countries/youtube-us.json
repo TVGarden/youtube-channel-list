@@ -64,6 +64,14 @@
     "country": "US"
   },
   {
+    "videoId": "d0-8ipE6TeQ",
+    "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
+    "name": "TokuSHOUTsu: M.A.S.K.",
+    "category": "Animation",
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "videoId": "5v73CWkelvg",
     "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
     "name": "TokuSHOUTsu: Super Sentai Gaoranger #1",
@@ -256,6 +264,14 @@
     "country": "US"
   },
   {
+    "videoId": "DFi8WM4VsQs",
+    "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
+    "name": "CBS News",
+    "category": "News",
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "videoId": "E4pdH5jL5sg",
     "channelId": "UCadtap8RYMNy8w4K9lXhzpQ",
     "name": "Barbie: Barbie Marathon",
@@ -392,6 +408,14 @@
     "country": "US"
   },
   {
+    "videoId": "MGaNfzZgq1I",
+    "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
+    "name": "NBC News Now",
+    "category": "News",
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "videoId": "ay6xaygH16E",
     "channelId": "UCeY4C8Sbx8B4bIyREPSvORQ",
     "name": "The Smurfs",
@@ -480,19 +504,19 @@
     "country": "US"
   },
   {
+    "videoId": "YDfiTGGPYCk",
+    "channelId": "UCJg9wBPyKMNA5sRDnvzmkdg",
+    "name": "LiveNOW from FOX",
+    "category": "News",
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "videoId": "4QDdhJaWtjU",
     "channelId": "UCJNBZaQWMIHACqvHT_k2cWw",
     "name": "PAW Patrol (Español)",
     "category": "Kids",
     "language": "spa",
-    "country": "US"
-  },
-  {
-    "videoId": "3Ct8cGvwo6g",
-    "channelId": "UCJUtNZBqoY0aSdcpTRMUA2Q",
-    "name": "Hubble",
-    "category": "Science",
-    "language": "eng",
     "country": "US"
   },
   {
@@ -704,10 +728,34 @@
     "country": "US"
   },
   {
+    "videoId": "ZnJtY_B14tM",
+    "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
+    "name": "Shout! Studios: Supercar",
+    "category": "Classic",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "BmMVrDXGxwY",
+    "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
+    "name": "Shout! Studios: Captain Scarlet and the Mysterons",
+    "category": "Classic",
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "videoId": "jiYYFKO0wkU",
     "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
     "name": "Shout! Studios: Speed Racer",
     "category": "Animation",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "cIa2H3Jkzbs",
+    "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
+    "name": "Shout! Studios: Terrahawks",
+    "category": "Classic",
     "language": "eng",
     "country": "US"
   },

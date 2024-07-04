@@ -16,7 +16,7 @@
     "country": "MA"
   },
   {
-    "videoId": "LFYE4S6wxSQ",
+    "videoId": "WO61Gw9y-ls",
     "channelId": "UC200cnk8CCEkNAIubWtDsLw",
     "name": "Nexus Television",
     "category": "Entertainment",
@@ -54,6 +54,14 @@
     "category": "Entertainment",
     "language": "eng",
     "country": "GH"
+  },
+  {
+    "videoId": "lDcWeklf6DI",
+    "channelId": "UCaKod3X1Tn4c7Ci0iUKcvzQ",
+    "name": "SBS Running Man",
+    "category": "Entertainment",
+    "language": "kor",
+    "country": "KR"
   },
   {
     "videoId": "CsTHvxP2fsg",
@@ -110,6 +118,14 @@
     "category": "Entertainment",
     "language": "por",
     "country": "BR"
+  },
+  {
+    "videoId": "zdVdq6vdCtQ",
+    "channelId": "UCJW9gatYczI191TunQxMGbA",
+    "name": "Watania2 Replay",
+    "category": "Entertainment",
+    "language": "ara",
+    "country": "TN"
   },
   {
     "videoId": "gyulzwexW1w",
