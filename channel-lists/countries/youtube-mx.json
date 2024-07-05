@@ -120,7 +120,7 @@
     "country": "MX"
   },
   {
-    "videoId": "X5wn16Ls_PI",
+    "videoId": "QiP1tpc4yY4",
     "channelId": "UCo1nfa1JKNqtcUyLjLwTiIw",
     "name": "MULTIMEDIOS",
     "category": "Entertainment",
@@ -140,6 +140,14 @@
     "channelId": "UCpeD73Gb4KjKUL2gyoJ4gLw",
     "name": "Televisa Univision Saltillo",
     "category": "General",
+    "language": "spa",
+    "country": "MX"
+  },
+  {
+    "videoId": "HoSnidr1P-Y",
+    "channelId": "UCQ08tNTPiBn44c975S81ftg",
+    "name": "Televisa Del Golfo",
+    "category": "Entertainment",
     "language": "spa",
     "country": "MX"
   },
@@ -176,7 +184,7 @@
     "country": "MX"
   },
   {
-    "videoId": "r6mUNLW-SS8",
+    "videoId": "4xvCBja5zy8",
     "channelId": "UCXT91vDi7HDSjcdOwN77ktg",
     "name": "Telediario Guadalajara",
     "category": "Entertainment",
