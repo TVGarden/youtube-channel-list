@@ -520,6 +520,14 @@
     "country": "US"
   },
   {
+    "videoId": "-hOosrf77tU",
+    "channelId": "UCJUtNZBqoY0aSdcpTRMUA2Q",
+    "name": "Hubble",
+    "category": "Science",
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "videoId": "Fjp2TdlTTIU",
     "channelId": "UCktaw9L-f65LzUUdjmCFkbQ",
     "name": "DisneyXD: Phineas and Ferb",
@@ -571,14 +579,6 @@
     "videoId": "21X5lGlDOfg",
     "channelId": "UCLA_DiR1FfKNvjuUpBHmylQ",
     "name": "NASA: NASA TV",
-    "category": "Science",
-    "language": "eng",
-    "country": "US"
-  },
-  {
-    "videoId": "jPTD2gnZFUw",
-    "channelId": "UCLA_DiR1FfKNvjuUpBHmylQ",
-    "name": "NASA: ISS",
     "category": "Science",
     "language": "eng",
     "country": "US"
@@ -1164,14 +1164,6 @@
     "channelId": "UCwLxgZHR8oDOzJXtXuSB_bA",
     "name": "Indie Playlists",
     "category": "Music",
-    "language": "eng",
-    "country": "US"
-  },
-  {
-    "videoId": "PV5iAiSzQG4",
-    "channelId": "UCx27Pkk8plpiosF14qXq-VA",
-    "name": "SpongeBob SquarePants Official",
-    "category": "Kids",
     "language": "eng",
     "country": "US"
   },

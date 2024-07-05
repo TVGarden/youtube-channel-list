@@ -32,6 +32,14 @@
     "country": "JP"
   },
   {
+    "videoId": "-hOosrf77tU",
+    "channelId": "UCJUtNZBqoY0aSdcpTRMUA2Q",
+    "name": "Hubble",
+    "category": "Science",
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "videoId": "DVeiGJYWKBs",
     "channelId": "UCl-ipFGVotx_Tu5YWMEZgsg",
     "name": "Kosmo FR",
@@ -51,14 +59,6 @@
     "videoId": "21X5lGlDOfg",
     "channelId": "UCLA_DiR1FfKNvjuUpBHmylQ",
     "name": "NASA: NASA TV",
-    "category": "Science",
-    "language": "eng",
-    "country": "US"
-  },
-  {
-    "videoId": "jPTD2gnZFUw",
-    "channelId": "UCLA_DiR1FfKNvjuUpBHmylQ",
-    "name": "NASA: ISS",
     "category": "Science",
     "language": "eng",
     "country": "US"
