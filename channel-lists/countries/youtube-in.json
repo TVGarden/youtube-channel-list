@@ -56,14 +56,6 @@
     "country": "IN"
   },
   {
-    "videoId": "ITuIylx6Sf0",
-    "channelId": "UC1vOCYEu3DfoI4fYcfWKmWA",
-    "name": "Kalinga TV",
-    "category": "News",
-    "language": "ori",
-    "country": "IN"
-  },
-  {
     "videoId": "T81X-Zf5ZO4",
     "channelId": "UC2ziCMHFPWkFHjocUMXT__Q",
     "name": "Sathiyam News",
@@ -152,7 +144,7 @@
     "country": "IN"
   },
   {
-    "videoId": "RbwGMQbHLgs",
+    "videoId": "H6nxSwqFTV4",
     "channelId": "UC9CYT9gSNLevX5ey2_6CK0Q",
     "name": "NDTV India",
     "category": "News",
@@ -336,7 +328,7 @@
     "country": "IN"
   },
   {
-    "videoId": "rlIcPUbgTdA",
+    "videoId": "HHtIeJ4X0_Q",
     "channelId": "UCgZxM9BVOWr1w9Edi79Wg5w",
     "name": "Tamil Janam ",
     "category": "News",
@@ -517,6 +509,14 @@
     "name": "hmtv News Live",
     "category": "News",
     "language": "tel",
+    "country": "IN"
+  },
+  {
+    "videoId": "8U6RWKi9JXQ",
+    "channelId": "UCOqU-HfQxoyImaCW2tCDxJA",
+    "name": "DD Kashir",
+    "category": "Culture",
+    "language": "ksm",
     "country": "IN"
   },
   {
