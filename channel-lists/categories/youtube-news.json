@@ -872,7 +872,7 @@
     "country": "PL"
   },
   {
-    "videoId": "wx-KnVrcXro",
+    "videoId": "jp7EZAWCFCw",
     "channelId": "UCeNP3dAy9_A32IWYZq_PZMQ",
     "name": "News State",
     "category": "News",
@@ -1128,6 +1128,14 @@
     "country": "GH"
   },
   {
+    "videoId": "angcW4iOo40",
+    "channelId": "UCHDfPYXReWt5EVIzBA6TzOQ",
+    "name": "SBT RS",
+    "category": "News",
+    "language": "por",
+    "country": "BR"
+  },
+  {
     "videoId": "xoQYyvuffBY",
     "channelId": "UCHJ8gW2vKH5R3VohymtBCrQ",
     "name": "M1 - Híradó",
@@ -1328,7 +1336,7 @@
     "country": "IN"
   },
   {
-    "videoId": "tyrUZE9pOK8",
+    "videoId": "aNtLSmFmLN8",
     "channelId": "UCkccyEbqhhM3uKOI6Shm-4Q",
     "name": "Meganoticias",
     "category": "News",
@@ -1782,6 +1790,14 @@
     "category": "News",
     "language": "jpn",
     "country": "JP"
+  },
+  {
+    "videoId": "397TgLKA9S8",
+    "channelId": "UCqyt55f3byoK8rjgO0LBe4Q",
+    "name": "Desh TV",
+    "category": "News",
+    "language": "ben",
+    "country": "BD"
   },
   {
     "videoId": "UQ64XobiT0Y",
