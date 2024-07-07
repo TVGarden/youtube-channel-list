@@ -160,6 +160,14 @@
     "country": "IN"
   },
   {
+    "videoId": "RLwpbcNdhXE",
+    "channelId": "UC1vOCYEu3DfoI4fYcfWKmWA",
+    "name": "Kalinga TV",
+    "category": "News",
+    "language": "ori",
+    "country": "IN"
+  },
+  {
     "videoId": "4yRwf_4DqVY",
     "channelId": "UC1yBKRuGpC1tSM73A0ZjYjQ",
     "name": "The Young Turks",
@@ -582,14 +590,6 @@
     "category": "News",
     "language": "hin",
     "country": "IN"
-  },
-  {
-    "videoId": "Y4Tq7h1jk-Y",
-    "channelId": "UCAGVKxpAKwXMWdmcHbrvcwQ",
-    "name": "EKOTÜRK TV",
-    "category": "News",
-    "language": "tur",
-    "country": "TR"
   },
   {
     "videoId": "bCgJhh5qoog",
@@ -1096,7 +1096,7 @@
     "country": "UA"
   },
   {
-    "videoId": "f6QN_Z16uVM",
+    "videoId": "jIuya3xun7M",
     "channelId": "UChBQgieUidXV1CmDxSdRm3g",
     "name": "Citizen TV Kenya",
     "category": "News",
@@ -1528,14 +1528,6 @@
     "country": "RU"
   },
   {
-    "videoId": "Y_77JfbnTC4",
-    "channelId": "UCnh5Faqn_r9HxeNd_dsvGHQ",
-    "name": "Halab Today TV",
-    "category": "News",
-    "language": "ara",
-    "country": "SY"
-  },
-  {
     "videoId": "SxzSL8GBJ4A",
     "channelId": "UCnMBV5Iw4WqKILKue1nP6Hg",
     "name": "Dunya News",
@@ -1766,14 +1758,6 @@
     "category": "News",
     "language": "jpn",
     "country": "JP"
-  },
-  {
-    "videoId": "397TgLKA9S8",
-    "channelId": "UCqyt55f3byoK8rjgO0LBe4Q",
-    "name": "Desh TV",
-    "category": "News",
-    "language": "ben",
-    "country": "BD"
   },
   {
     "videoId": "UQ64XobiT0Y",
@@ -2008,7 +1992,7 @@
     "country": "JP"
   },
   {
-    "videoId": "xBN8C1fiuTE",
+    "videoId": "L1CBhQyfEXs",
     "channelId": "UCTlqstA2Wrt4fimd_VWKr8g",
     "name": "TrustTV News",
     "category": "News",
@@ -2502,14 +2486,6 @@
     "category": "News",
     "language": "eng",
     "country": "US"
-  },
-  {
-    "videoId": "wiX1noplt8Y",
-    "channelId": "UCYvINPByAdCcpA0sWrF3I_w",
-    "name": "Radio Mitre",
-    "category": "News",
-    "language": "spa",
-    "country": "AR"
   },
   {
     "videoId": "_l5g9TP77Vc",
