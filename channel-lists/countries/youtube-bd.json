@@ -40,7 +40,7 @@
     "country": "BD"
   },
   {
-    "videoId": "ssM6i5UVkdA",
+    "videoId": "urczBBUS_RQ",
     "channelId": "UCATUkaOHwO9EP_W87zCiPbA",
     "name": "Independent Television",
     "category": "News",
@@ -67,6 +67,14 @@
     "videoId": "3HL3JWG1qSg",
     "channelId": "UCN6sm8iHiPd0cnoUardDAnw",
     "name": "Jamuna TV",
+    "category": "News",
+    "language": "ben",
+    "country": "BD"
+  },
+  {
+    "videoId": "Qxixte3AMUo",
+    "channelId": "UCqyt55f3byoK8rjgO0LBe4Q",
+    "name": "Desh TV",
     "category": "News",
     "language": "ben",
     "country": "BD"

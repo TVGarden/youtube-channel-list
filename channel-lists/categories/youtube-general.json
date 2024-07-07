@@ -152,7 +152,7 @@
     "country": "MX"
   },
   {
-    "videoId": "uwYlAVaMvQE",
+    "videoId": "TNFi8epXblc",
     "channelId": "UCnEQCNDsMtPlrVwCrRViaeQ",
     "name": "TV Nitra",
     "category": "General",
@@ -251,6 +251,14 @@
     "videoId": "5ARTNKq49WY",
     "channelId": "UCva-htH2wvmKsG6SkcEJ4Vw",
     "name": "Maurienne TV",
+    "category": "General",
+    "language": "fra",
+    "country": "FR"
+  },
+  {
+    "videoId": "HTAsjJ-FQ7k",
+    "channelId": "UCwVQAPo6tjC5w5yBBh0WEdA",
+    "name": "TVPI Officiel",
     "category": "General",
     "language": "fra",
     "country": "FR"

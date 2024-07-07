@@ -544,7 +544,7 @@
     "country": "IN"
   },
   {
-    "videoId": "H6nxSwqFTV4",
+    "videoId": "3HFVGyOunTU",
     "channelId": "UC9CYT9gSNLevX5ey2_6CK0Q",
     "name": "NDTV India",
     "category": "News",
@@ -632,7 +632,7 @@
     "country": "JP"
   },
   {
-    "videoId": "ssM6i5UVkdA",
+    "videoId": "urczBBUS_RQ",
     "channelId": "UCATUkaOHwO9EP_W87zCiPbA",
     "name": "Independent Television",
     "category": "News",
@@ -664,7 +664,7 @@
     "country": "DJ"
   },
   {
-    "videoId": "KYsZCF4chkM",
+    "videoId": "EWxIn1IFJZ0",
     "channelId": "UCB82Zom1MYh8VV4q7wXkfGA",
     "name": "SUNO NEWS HD",
     "category": "News",
@@ -1120,6 +1120,14 @@
     "country": "GH"
   },
   {
+    "videoId": "lAXx6qR9cSk",
+    "channelId": "UCHDfPYXReWt5EVIzBA6TzOQ",
+    "name": "SBT RS",
+    "category": "News",
+    "language": "por",
+    "country": "BR"
+  },
+  {
     "videoId": "xoQYyvuffBY",
     "channelId": "UCHJ8gW2vKH5R3VohymtBCrQ",
     "name": "M1 - Híradó",
@@ -1248,6 +1256,14 @@
     "country": "PK"
   },
   {
+    "videoId": "xygfgmO9Eqk",
+    "channelId": "UCj0TppyxzQWm9JbMg3CP8Rg",
+    "name": "CGTN Europe",
+    "category": "News",
+    "language": "eng",
+    "country": "CN"
+  },
+  {
     "videoId": "cb12KmMMDJA",
     "channelId": "UCj6PcyLvpnIRT_2W_mwa9Aw",
     "name": "TN",
@@ -1288,14 +1304,6 @@
     "country": "IN"
   },
   {
-    "videoId": "1JuA1dWBthA",
-    "channelId": "UCjKDdxZM_z4MC-yxEJP0Cow",
-    "name": "ЛДПР-ТВ",
-    "category": "News",
-    "language": "rus",
-    "country": "RU"
-  },
-  {
     "videoId": "d1S0l_DGb3A",
     "channelId": "UCjmnq35TvJ1J8JZS49OPg-Q",
     "name": "JAN TV",
@@ -1334,6 +1342,14 @@
     "category": "News",
     "language": "eng",
     "country": "DE"
+  },
+  {
+    "videoId": "yQT12rzZ-zw",
+    "channelId": "UCKQhfw-lzz0uKnE1fY1PsAA",
+    "name": "A Haber",
+    "category": "News",
+    "language": "tur",
+    "country": "TR"
   },
   {
     "videoId": "tS6-7WcYwk0",
@@ -1758,6 +1774,14 @@
     "category": "News",
     "language": "jpn",
     "country": "JP"
+  },
+  {
+    "videoId": "Qxixte3AMUo",
+    "channelId": "UCqyt55f3byoK8rjgO0LBe4Q",
+    "name": "Desh TV",
+    "category": "News",
+    "language": "ben",
+    "country": "BD"
   },
   {
     "videoId": "UQ64XobiT0Y",
