@@ -192,7 +192,7 @@
     "country": "PL"
   },
   {
-    "videoId": "DHT8D_KhqHU",
+    "videoId": "BF98Pai9PR0",
     "channelId": "UC2P5Fd5g41Gtdqf0Uzh8Qaw",
     "name": "Rtv News",
     "category": "News",
@@ -1120,14 +1120,6 @@
     "country": "GH"
   },
   {
-    "videoId": "lAXx6qR9cSk",
-    "channelId": "UCHDfPYXReWt5EVIzBA6TzOQ",
-    "name": "SBT RS",
-    "category": "News",
-    "language": "por",
-    "country": "BR"
-  },
-  {
     "videoId": "xoQYyvuffBY",
     "channelId": "UCHJ8gW2vKH5R3VohymtBCrQ",
     "name": "M1 - Híradó",
@@ -1544,6 +1536,14 @@
     "country": "RU"
   },
   {
+    "videoId": "F0TitLkKiw8",
+    "channelId": "UCnh5Faqn_r9HxeNd_dsvGHQ",
+    "name": "Halab Today TV",
+    "category": "News",
+    "language": "ara",
+    "country": "SY"
+  },
+  {
     "videoId": "SxzSL8GBJ4A",
     "channelId": "UCnMBV5Iw4WqKILKue1nP6Hg",
     "name": "Dunya News",
@@ -1742,6 +1742,14 @@
     "category": "News",
     "language": "eng",
     "country": "US"
+  },
+  {
+    "videoId": "wBfcQq1_-1g",
+    "channelId": "UCQC0xLG_W0QpqAXQ4-yhwBA",
+    "name": "Mosaïk Cristal",
+    "category": "News",
+    "language": "fra",
+    "country": "FR"
   },
   {
     "videoId": "jxOv0nFjIBU",
@@ -2016,7 +2024,7 @@
     "country": "JP"
   },
   {
-    "videoId": "L1CBhQyfEXs",
+    "videoId": "sM6ZL4AaPVk",
     "channelId": "UCTlqstA2Wrt4fimd_VWKr8g",
     "name": "TrustTV News",
     "category": "News",
@@ -2120,7 +2128,7 @@
     "country": "FR"
   },
   {
-    "videoId": "VLku8UJOTdI",
+    "videoId": "G7j9YqVcs5A",
     "channelId": "UCuiLR4p6wQ3xLEm15pEn1Xw",
     "name": "Record News",
     "category": "News",
@@ -2510,6 +2518,14 @@
     "category": "News",
     "language": "eng",
     "country": "US"
+  },
+  {
+    "videoId": "R7VLBijcoLc",
+    "channelId": "UCYvINPByAdCcpA0sWrF3I_w",
+    "name": "Radio Mitre",
+    "category": "News",
+    "language": "spa",
+    "country": "AR"
   },
   {
     "videoId": "_l5g9TP77Vc",

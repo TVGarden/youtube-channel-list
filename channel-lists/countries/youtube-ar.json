@@ -96,7 +96,7 @@
     "country": "AR"
   },
   {
-    "videoId": "E4jB8J8VzZg",
+    "videoId": "tDDrxCRHR0E",
     "channelId": "UCPmnk6gpje7qhq2eaAwtsMQ",
     "name": "Somos Uno",
     "category": "General",
@@ -180,6 +180,14 @@
     "channelId": "UCYozHHDnLnQs2yc2k3t8cPA",
     "name": "El Ocho",
     "category": "Entertainment",
+    "language": "spa",
+    "country": "AR"
+  },
+  {
+    "videoId": "R7VLBijcoLc",
+    "channelId": "UCYvINPByAdCcpA0sWrF3I_w",
+    "name": "Radio Mitre",
+    "category": "News",
     "language": "spa",
     "country": "AR"
   }
