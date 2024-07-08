@@ -64,7 +64,7 @@
     "country": "PL"
   },
   {
-    "videoId": "X0OGvIcr8p8",
+    "videoId": "_tN6QXgBBtA",
     "channelId": "UCL1u3cY7_nPjbZmKljCy_Cw",
     "name": "Telewizja Dami Radom",
     "category": "News",
@@ -92,6 +92,22 @@
     "channelId": "UCseu7OBsXzSg3sW1_Lfek9Q",
     "name": "ZTV live",
     "category": "News",
+    "language": "pol",
+    "country": "PL"
+  },
+  {
+    "videoId": "fXxntzdsCFk",
+    "channelId": "UCt5sVDyzu0NhrjR-d_b-lhg",
+    "name": "Telewizja Gorzów",
+    "category": "General",
+    "language": "pol",
+    "country": "PL"
+  },
+  {
+    "videoId": "IDVFn8b3Hjk",
+    "channelId": "UCyQL0IjtptnQ9PxmAfH3fKQ",
+    "name": "Telewizja Zabrze",
+    "category": "General",
     "language": "pol",
     "country": "PL"
   },

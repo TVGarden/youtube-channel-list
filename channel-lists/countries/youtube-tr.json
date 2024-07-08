@@ -72,7 +72,15 @@
     "country": "TR"
   },
   {
-    "videoId": "4CghYc8W55A",
+    "videoId": "Z44CA2BRWAE",
+    "channelId": "UCAGVKxpAKwXMWdmcHbrvcwQ",
+    "name": "EKOTÜRK TV",
+    "category": "News",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "videoId": "AIOB1ZnLvM8",
     "channelId": "UCBgTP2LOFVPmq15W-RH-WXA",
     "name": "TRT Haber",
     "category": "News",
@@ -84,14 +92,6 @@
     "channelId": "UCdlEXiVLTEvA280oyMvr8Kw",
     "name": "Güldür Güldür Show",
     "category": "Comedy",
-    "language": "tur",
-    "country": "TR"
-  },
-  {
-    "videoId": "znhvJ1ddfjQ",
-    "channelId": "UCE1XdVHzOdMnUsUMatIzjag",
-    "name": "Kemal Sunal Filmleri",
-    "category": "Classic",
     "language": "tur",
     "country": "TR"
   },

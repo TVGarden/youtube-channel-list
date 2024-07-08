@@ -88,10 +88,18 @@
     "country": "ID"
   },
   {
-    "videoId": "piEd0lEdMJE",
+    "videoId": "3DE-qc5MLVM",
     "channelId": "UCOuwLct59ZOFrwhDIY6tVxw",
     "name": "KompasTV Jember",
     "category": "News",
+    "language": "ind",
+    "country": "ID"
+  },
+  {
+    "videoId": "1XFBnHpPhVg",
+    "channelId": "UCpJRmMTfdv0iPbnjo6qBw_g",
+    "name": "Aquarius Musikindo",
+    "category": "Music",
     "language": "ind",
     "country": "ID"
   },

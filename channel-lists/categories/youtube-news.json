@@ -544,7 +544,7 @@
     "country": "IN"
   },
   {
-    "videoId": "3HFVGyOunTU",
+    "videoId": "ryjCjE0rzgA",
     "channelId": "UC9CYT9gSNLevX5ey2_6CK0Q",
     "name": "NDTV India",
     "category": "News",
@@ -590,6 +590,14 @@
     "category": "News",
     "language": "hin",
     "country": "IN"
+  },
+  {
+    "videoId": "Z44CA2BRWAE",
+    "channelId": "UCAGVKxpAKwXMWdmcHbrvcwQ",
+    "name": "EKOTÜRK TV",
+    "category": "News",
+    "language": "tur",
+    "country": "TR"
   },
   {
     "videoId": "bCgJhh5qoog",
@@ -704,7 +712,7 @@
     "country": "US"
   },
   {
-    "videoId": "4CghYc8W55A",
+    "videoId": "AIOB1ZnLvM8",
     "channelId": "UCBgTP2LOFVPmq15W-RH-WXA",
     "name": "TRT Haber",
     "category": "News",
@@ -1136,14 +1144,6 @@
     "country": "FR"
   },
   {
-    "videoId": "nXjuy8xE468",
-    "channelId": "UCHKvg7FqyEqmOkYx0y4KtlA",
-    "name": "News24 Daily",
-    "category": "News",
-    "language": "ben",
-    "country": "BD"
-  },
-  {
     "videoId": "KCooRJggrsI",
     "channelId": "UChl-MciRVsq6RPyhaIMceOg",
     "name": "Vistara News ",
@@ -1376,7 +1376,7 @@
     "country": "UA"
   },
   {
-    "videoId": "X0OGvIcr8p8",
+    "videoId": "_tN6QXgBBtA",
     "channelId": "UCL1u3cY7_nPjbZmKljCy_Cw",
     "name": "Telewizja Dami Radom",
     "category": "News",
@@ -1480,7 +1480,7 @@
     "country": "IN"
   },
   {
-    "videoId": "3HL3JWG1qSg",
+    "videoId": "Bv70kJKau8Y",
     "channelId": "UCN6sm8iHiPd0cnoUardDAnw",
     "name": "Jamuna TV",
     "category": "News",
@@ -1600,7 +1600,7 @@
     "country": "UK"
   },
   {
-    "videoId": "CKjSm5ZeehE",
+    "videoId": "pF507BLtbqU",
     "channelId": "UCoNYj9OFHZn3ACmmeRCPwbA",
     "name": "三立iNEWS",
     "category": "News",
@@ -1640,7 +1640,7 @@
     "country": "IN"
   },
   {
-    "videoId": "piEd0lEdMJE",
+    "videoId": "3DE-qc5MLVM",
     "channelId": "UCOuwLct59ZOFrwhDIY6tVxw",
     "name": "KompasTV Jember",
     "category": "News",
@@ -2224,7 +2224,7 @@
     "country": "IN"
   },
   {
-    "videoId": "gsnxk11SLYY",
+    "videoId": "WRugOnoDDwU",
     "channelId": "UCv7_krlrre3GQi79d4guxHQ",
     "name": "YTV News",
     "category": "News",
