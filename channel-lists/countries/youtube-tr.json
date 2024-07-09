@@ -24,7 +24,7 @@
     "country": "TR"
   },
   {
-    "videoId": "Qkim2xt_cwY",
+    "videoId": "aNNgFPvgAfU",
     "channelId": "UC5GvVahlgulCyo4cshSmbcg",
     "name": "عربي TRT",
     "category": "News",
@@ -92,6 +92,14 @@
     "channelId": "UCdlEXiVLTEvA280oyMvr8Kw",
     "name": "Güldür Güldür Show",
     "category": "Comedy",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "videoId": "Pg_Phhduj6E",
+    "channelId": "UCE1XdVHzOdMnUsUMatIzjag",
+    "name": "Kemal Sunal Filmleri",
+    "category": "Classic",
     "language": "tur",
     "country": "TR"
   },
