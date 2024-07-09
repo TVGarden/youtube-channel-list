@@ -40,14 +40,6 @@
     "country": "PK"
   },
   {
-    "videoId": "WKrKx7rIzuM",
-    "channelId": "UCb3vKSPkWFWiFljsSGoeyoQ",
-    "name": "WasebTV",
-    "category": "Entertainment",
-    "language": "pan",
-    "country": "PK"
-  },
-  {
     "videoId": "EWxIn1IFJZ0",
     "channelId": "UCB82Zom1MYh8VV4q7wXkfGA",
     "name": "SUNO NEWS HD",
@@ -75,6 +67,14 @@
     "videoId": "x9vnBopSDBw",
     "channelId": "UCElJZvY_RVra6qjD8WSQYog",
     "name": "Public News",
+    "category": "News",
+    "language": "urd",
+    "country": "PK"
+  },
+  {
+    "videoId": "j9LrhgqQzFI",
+    "channelId": "UCgBAPAcLsh_MAPvJprIz89w",
+    "name": "Aaj TV",
     "category": "News",
     "language": "urd",
     "country": "PK"

@@ -24,10 +24,18 @@
     "country": "AR"
   },
   {
-    "videoId": "YGjD4PpCmdU",
+    "videoId": "vZki6K9HJeM",
     "channelId": "UC5UKMEIoqvNDMSDz2_6Sn9g",
     "name": "Canal 8 San Juan",
     "category": "News",
+    "language": "spa",
+    "country": "AR"
+  },
+  {
+    "videoId": "ojgWl8AkNSc",
+    "channelId": "UC6yPLxBTg8TodC2KPrGDTjA",
+    "name": "TEC",
+    "category": "Science",
     "language": "spa",
     "country": "AR"
   },

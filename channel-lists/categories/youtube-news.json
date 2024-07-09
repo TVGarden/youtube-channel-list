@@ -336,7 +336,7 @@
     "country": "US"
   },
   {
-    "videoId": "YGjD4PpCmdU",
+    "videoId": "vZki6K9HJeM",
     "channelId": "UC5UKMEIoqvNDMSDz2_6Sn9g",
     "name": "Canal 8 San Juan",
     "category": "News",
@@ -400,7 +400,7 @@
     "country": "KR"
   },
   {
-    "videoId": "hZPIqA6hXKY",
+    "videoId": "2CF5kpnjCoM",
     "channelId": "UC6T0L26KS1NHMPbTwI1L4Eg",
     "name": "Ulusal Kanal",
     "category": "News",
@@ -544,7 +544,7 @@
     "country": "IN"
   },
   {
-    "videoId": "ryjCjE0rzgA",
+    "videoId": "Eug_olNcLtY",
     "channelId": "UC9CYT9gSNLevX5ey2_6CK0Q",
     "name": "NDTV India",
     "category": "News",
@@ -992,6 +992,14 @@
     "country": "FR"
   },
   {
+    "videoId": "j9LrhgqQzFI",
+    "channelId": "UCgBAPAcLsh_MAPvJprIz89w",
+    "name": "Aaj TV",
+    "category": "News",
+    "language": "urd",
+    "country": "PK"
+  },
+  {
     "videoId": "coYw-eVU0Ks",
     "channelId": "UCGCZAYq5Xxojl_tSXcVJhiQ",
     "name": "JapaNews24",
@@ -1126,6 +1134,14 @@
     "category": "News",
     "language": "fra",
     "country": "FR"
+  },
+  {
+    "videoId": "ENMCr7m_qeA",
+    "channelId": "UCHKvg7FqyEqmOkYx0y4KtlA",
+    "name": "News24 Daily",
+    "category": "News",
+    "language": "ben",
+    "country": "BD"
   },
   {
     "videoId": "KCooRJggrsI",
@@ -1304,7 +1320,7 @@
     "country": "IN"
   },
   {
-    "videoId": "6YOCUInU9lk",
+    "videoId": "weEljqAkgtI",
     "channelId": "UCkccyEbqhhM3uKOI6Shm-4Q",
     "name": "Meganoticias",
     "category": "News",
@@ -1518,14 +1534,6 @@
     "category": "News",
     "language": "rus",
     "country": "RU"
-  },
-  {
-    "videoId": "F0TitLkKiw8",
-    "channelId": "UCnh5Faqn_r9HxeNd_dsvGHQ",
-    "name": "Halab Today TV",
-    "category": "News",
-    "language": "ara",
-    "country": "SY"
   },
   {
     "videoId": "SxzSL8GBJ4A",
@@ -1768,7 +1776,7 @@
     "country": "JP"
   },
   {
-    "videoId": "Qxixte3AMUo",
+    "videoId": "t4LD8YpPOb4",
     "channelId": "UCqyt55f3byoK8rjgO0LBe4Q",
     "name": "Desh TV",
     "category": "News",
@@ -1912,7 +1920,7 @@
     "country": "IN"
   },
   {
-    "videoId": "rOkKn_RpV6Q",
+    "videoId": "otLwPT7ys7o",
     "channelId": "UCsRfBAspa72ExrsN347W2xg",
     "name": "SBT Rio",
     "category": "News",
@@ -2112,7 +2120,7 @@
     "country": "FR"
   },
   {
-    "videoId": "G7j9YqVcs5A",
+    "videoId": "dyEv5wa-SQo",
     "channelId": "UCuiLR4p6wQ3xLEm15pEn1Xw",
     "name": "Record News",
     "category": "News",
@@ -2208,7 +2216,7 @@
     "country": "IN"
   },
   {
-    "videoId": "WRugOnoDDwU",
+    "videoId": "h19hzvj_3-U",
     "channelId": "UCv7_krlrre3GQi79d4guxHQ",
     "name": "YTV News",
     "category": "News",
@@ -2280,7 +2288,7 @@
     "country": "FR"
   },
   {
-    "videoId": "_BUdsqiJmLU",
+    "videoId": "6cm3iS-cjbg",
     "channelId": "UCW33LPZQ1SA7ByUW6GeKRGw",
     "name": "TV Morava",
     "category": "News",
@@ -2350,14 +2358,6 @@
     "category": "News",
     "language": "eng",
     "country": "US"
-  },
-  {
-    "videoId": "QoY06xa2vII",
-    "channelId": "UCxA_zZwALQMmVMSZyLKC-Nw",
-    "name": "Belqees TV",
-    "category": "News",
-    "language": "ara",
-    "country": "YE"
   },
   {
     "videoId": "2i1Mt0gkhLY",

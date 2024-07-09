@@ -96,7 +96,7 @@
     "country": "IN"
   },
   {
-    "videoId": "_pYiejsmlzg",
+    "videoId": "sDRAmyP3Hno",
     "channelId": "UC6E1pvhGa55AaZ-svF70ViA",
     "name": "Paras TV",
     "category": "Religious",
@@ -152,7 +152,7 @@
     "country": "IN"
   },
   {
-    "videoId": "ryjCjE0rzgA",
+    "videoId": "Eug_olNcLtY",
     "channelId": "UC9CYT9gSNLevX5ey2_6CK0Q",
     "name": "NDTV India",
     "category": "News",
@@ -685,6 +685,14 @@
     "name": "T News Telugu",
     "category": "News",
     "language": "tel",
+    "country": "IN"
+  },
+  {
+    "videoId": "iUWx2YwYTEo",
+    "channelId": "UCu9Fj9QRAg26ZY9DhF8HSrQ",
+    "name": "DD Urdu",
+    "category": "Culture",
+    "language": "urd",
     "country": "IN"
   },
   {

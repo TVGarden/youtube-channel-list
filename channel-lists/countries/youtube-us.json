@@ -48,14 +48,6 @@
     "country": "US"
   },
   {
-    "videoId": "oUTtf9VRjtw",
-    "channelId": "UC74bcC7aGRNz4KoRpJsJNEw",
-    "name": "Nicktoons: The Fairly OddParents",
-    "category": "Kids",
-    "language": "eng",
-    "country": "US"
-  },
-  {
     "videoId": "W9WeTzvwyMw",
     "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
     "name": "TokuSHOUTsu: Speed Racer",
@@ -420,6 +412,14 @@
     "channelId": "UCeY4C8Sbx8B4bIyREPSvORQ",
     "name": "The Smurfs",
     "category": "Kids",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "2xg7rtS8dVw",
+    "channelId": "UCf1y3FvYJYPbgMqHX7ZzeZA",
+    "name": "SonLife Broadcasting Network",
+    "category": "Religious",
     "language": "eng",
     "country": "US"
   },
