@@ -544,7 +544,7 @@
     "country": "IN"
   },
   {
-    "videoId": "Eug_olNcLtY",
+    "videoId": "DGDioG8w84Y",
     "channelId": "UC9CYT9gSNLevX5ey2_6CK0Q",
     "name": "NDTV India",
     "category": "News",
@@ -712,7 +712,7 @@
     "country": "US"
   },
   {
-    "videoId": "AIOB1ZnLvM8",
+    "videoId": "WeMTnqO6wrE",
     "channelId": "UCBgTP2LOFVPmq15W-RH-WXA",
     "name": "TRT Haber",
     "category": "News",
@@ -1048,7 +1048,7 @@
     "country": "NG"
   },
   {
-    "videoId": "KnChSzhYGb8",
+    "videoId": "_NUOYnhjDEM",
     "channelId": "UCgp4A6I8LCWrhUzn-5SbKvA",
     "name": "TVC News Nigeria",
     "category": "News",
@@ -1102,6 +1102,14 @@
     "category": "News",
     "language": "ukr",
     "country": "UA"
+  },
+  {
+    "videoId": "2MXPjTfuYmA",
+    "channelId": "UChBQgieUidXV1CmDxSdRm3g",
+    "name": "Citizen TV Kenya",
+    "category": "News",
+    "language": "eng",
+    "country": "KE"
   },
   {
     "videoId": "F4nH4PeX_7w",
@@ -1288,7 +1296,7 @@
     "country": "US"
   },
   {
-    "videoId": "uo5KYNAUJaM",
+    "videoId": "KvZIEgHfscU",
     "channelId": "UCJi8M0hRKjz8SLPvJKEVTOg",
     "name": "ETV Andhra Pradesh",
     "category": "News",
@@ -1534,6 +1542,14 @@
     "category": "News",
     "language": "rus",
     "country": "RU"
+  },
+  {
+    "videoId": "rqStCYxl5C0",
+    "channelId": "UCnh5Faqn_r9HxeNd_dsvGHQ",
+    "name": "Halab Today TV",
+    "category": "News",
+    "language": "ara",
+    "country": "SY"
   },
   {
     "videoId": "SxzSL8GBJ4A",
@@ -2120,7 +2136,7 @@
     "country": "FR"
   },
   {
-    "videoId": "dyEv5wa-SQo",
+    "videoId": "T07fzub-ji0",
     "channelId": "UCuiLR4p6wQ3xLEm15pEn1Xw",
     "name": "Record News",
     "category": "News",
@@ -2216,7 +2232,7 @@
     "country": "IN"
   },
   {
-    "videoId": "h19hzvj_3-U",
+    "videoId": "yv3GvgOqviY",
     "channelId": "UCv7_krlrre3GQi79d4guxHQ",
     "name": "YTV News",
     "category": "News",
@@ -2358,6 +2374,14 @@
     "category": "News",
     "language": "eng",
     "country": "US"
+  },
+  {
+    "videoId": "YDIcwHOkaqI",
+    "channelId": "UCxA_zZwALQMmVMSZyLKC-Nw",
+    "name": "Belqees TV",
+    "category": "News",
+    "language": "ara",
+    "country": "YE"
   },
   {
     "videoId": "2i1Mt0gkhLY",
@@ -2504,7 +2528,7 @@
     "country": "US"
   },
   {
-    "videoId": "R7VLBijcoLc",
+    "videoId": "cHMOlf9H_k0",
     "channelId": "UCYvINPByAdCcpA0sWrF3I_w",
     "name": "Radio Mitre",
     "category": "News",
