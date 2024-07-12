@@ -416,7 +416,7 @@
     "country": "IN"
   },
   {
-    "videoId": "SEmrYL1CqJE",
+    "videoId": "0tGTXrxo84U",
     "channelId": "UClOK2dPmq8k8Xwii_4TjRnQ",
     "name": "Agamvani Channel",
     "category": "Religious",
@@ -685,6 +685,14 @@
     "name": "T News Telugu",
     "category": "News",
     "language": "tel",
+    "country": "IN"
+  },
+  {
+    "videoId": "NJBJ494lOdE",
+    "channelId": "UCu9Fj9QRAg26ZY9DhF8HSrQ",
+    "name": "DD Urdu",
+    "category": "Culture",
+    "language": "urd",
     "country": "IN"
   },
   {
