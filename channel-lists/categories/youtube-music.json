@@ -112,14 +112,6 @@
     "country": "AR"
   },
   {
-    "videoId": "RLa_RBK7U-s",
-    "channelId": "UCCstDEJoyVd44ARRfNrw6Lw",
-    "name": "IDJRadio",
-    "category": "Music",
-    "language": "srp",
-    "country": "RS"
-  },
-  {
     "videoId": "7AxXXNmu9vQ",
     "channelId": "UCHVcga2iFmktWA7vX-CnAtA",
     "name": "Lính Trận Miền Xa - Nhạc Lính Hải Ngoại",
@@ -230,6 +222,14 @@
     "category": "Music",
     "language": "eng",
     "country": "NL"
+  },
+  {
+    "videoId": "78YrYnvyq7E",
+    "channelId": "UCmzIkIsRhfIwuQaju_YhZfA",
+    "name": "National Quartet Convention",
+    "category": "Music",
+    "language": "eng",
+    "country": "US"
   },
   {
     "videoId": "N5wXZouIqaQ",
