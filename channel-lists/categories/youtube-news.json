@@ -544,7 +544,7 @@
     "country": "IN"
   },
   {
-    "videoId": "c601bP4hQek",
+    "videoId": "cW5HGRj_ga8",
     "channelId": "UC9CYT9gSNLevX5ey2_6CK0Q",
     "name": "NDTV India",
     "category": "News",
@@ -648,7 +648,7 @@
     "country": "BD"
   },
   {
-    "videoId": "2B-FXxrr8F8",
+    "videoId": "Y9ydTr-5N0I",
     "channelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
     "name": "Dawn News",
     "category": "News",
@@ -784,7 +784,7 @@
     "country": "IN"
   },
   {
-    "videoId": "2gv4-2IxPLg",
+    "videoId": "3tvZo1BlTSM",
     "channelId": "UCcu3RolEOalAMef4Lt3uZLg",
     "name": "AlQahera News",
     "category": "News",
@@ -848,7 +848,7 @@
     "country": "IN"
   },
   {
-    "videoId": "DgBFE69vsa0",
+    "videoId": "N73aMgoGTdg",
     "channelId": "UCElJZvY_RVra6qjD8WSQYog",
     "name": "Public News",
     "category": "News",
@@ -1248,7 +1248,7 @@
     "country": "US"
   },
   {
-    "videoId": "3ze2GsDn7pM",
+    "videoId": "fg2cC3ID5Zs",
     "channelId": "UCj-e7yp2_-qE-TPritppZGQ",
     "name": "PTV World",
     "category": "News",
@@ -1686,14 +1686,6 @@
     "category": "News",
     "language": "pol",
     "country": "PL"
-  },
-  {
-    "videoId": "DAin4OQ1LKo",
-    "channelId": "UCPLKy4Ypb4mfblbjJI8Aljw",
-    "name": "News Central TV",
-    "category": "News",
-    "language": "eng",
-    "country": "NG"
   },
   {
     "videoId": "HBorWH77wPs",
@@ -2136,7 +2128,7 @@
     "country": "FR"
   },
   {
-    "videoId": "QSwJbjIEBzA",
+    "videoId": "f6QlQ5rG5Po",
     "channelId": "UCuiLR4p6wQ3xLEm15pEn1Xw",
     "name": "Record News",
     "category": "News",
@@ -2192,6 +2184,14 @@
     "country": "JP"
   },
   {
+    "videoId": "pJ4uSsvPpsE",
+    "channelId": "UCUvXoiDEKI8VZJrr58g4VAw",
+    "name": "DBC NEWS",
+    "category": "News",
+    "language": "ben",
+    "country": "BD"
+  },
+  {
     "videoId": "NuYS96NiJY0",
     "channelId": "UCUy__zD6aeuZKUXX8kUc4ZQ",
     "name": "Česko-Slovenská regionálna televízia",
@@ -2224,7 +2224,7 @@
     "country": "IN"
   },
   {
-    "videoId": "1MeQx2y4KRU",
+    "videoId": "jHyNvpCzrME",
     "channelId": "UCv7_krlrre3GQi79d4guxHQ",
     "name": "YTV News",
     "category": "News",
@@ -2472,14 +2472,6 @@
     "country": "IN"
   },
   {
-    "videoId": "LE2r7H06du0",
-    "channelId": "UCYNpIdSp5xvvQzgOHtw2RAw",
-    "name": "KOMPASTV JAWA TIMUR",
-    "category": "News",
-    "language": "ind",
-    "country": "ID"
-  },
-  {
     "videoId": "O9mOtdZ-nSk",
     "channelId": "UCyoGb3SMlTlB8CLGVH4c8Rw",
     "name": "Euronews Spanish",
@@ -2528,7 +2520,7 @@
     "country": "AR"
   },
   {
-    "videoId": "FSMSxdoOq4A",
+    "videoId": "GiOAT1voGDM",
     "channelId": "UCyXRmWbmyB7TSJekXsPCZKQ",
     "name": "TV Thathi SBT",
     "category": "News",

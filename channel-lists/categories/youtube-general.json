@@ -176,14 +176,6 @@
     "country": "MX"
   },
   {
-    "videoId": "LOAiBQiHb-s",
-    "channelId": "UCpeD73Gb4KjKUL2gyoJ4gLw",
-    "name": "Televisa Univision Saltillo",
-    "category": "General",
-    "language": "spa",
-    "country": "MX"
-  },
-  {
     "videoId": "fKdkLwh6xFg",
     "channelId": "UCPmnk6gpje7qhq2eaAwtsMQ",
     "name": "Somos Uno",
@@ -270,6 +262,14 @@
     "category": "General",
     "language": "spa",
     "country": "MX"
+  },
+  {
+    "videoId": "LPh3vrpTGR4",
+    "channelId": "UCyQL0IjtptnQ9PxmAfH3fKQ",
+    "name": "Telewizja Zabrze",
+    "category": "General",
+    "language": "pol",
+    "country": "PL"
   },
   {
     "videoId": "lQFmDMHLavQ",
