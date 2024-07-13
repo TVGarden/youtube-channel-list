@@ -224,7 +224,7 @@
     "country": "TW"
   },
   {
-    "videoId": "vCF14lNFwcc",
+    "videoId": "6UbLhvCFb6U",
     "channelId": "UC2vPjreaN9Jpan45p66H7hA",
     "name": "TVSUDECKA PL",
     "category": "News",
@@ -334,6 +334,14 @@
     "category": "News",
     "language": "eng",
     "country": "US"
+  },
+  {
+    "videoId": "xybI8KqAmZk",
+    "channelId": "UC5UKMEIoqvNDMSDz2_6Sn9g",
+    "name": "Canal 8 San Juan",
+    "category": "News",
+    "language": "spa",
+    "country": "AR"
   },
   {
     "videoId": "CwQl49tDPTk",
@@ -888,7 +896,7 @@
     "country": "US"
   },
   {
-    "videoId": "c42VVB37AZY",
+    "videoId": "MoClX2T6Qms",
     "channelId": "UCevif8Yk47cJKrq4-0EmwIA",
     "name": "Imagen Multicast",
     "category": "News",
@@ -1320,7 +1328,7 @@
     "country": "IN"
   },
   {
-    "videoId": "ncH_osb_GIg",
+    "videoId": "pZLOkHeKkvo",
     "channelId": "UCkccyEbqhhM3uKOI6Shm-4Q",
     "name": "Meganoticias",
     "category": "News",
@@ -1336,7 +1344,7 @@
     "country": "DE"
   },
   {
-    "videoId": "yQT12rzZ-zw",
+    "videoId": "l6lwJer4-gE",
     "channelId": "UCKQhfw-lzz0uKnE1fY1PsAA",
     "name": "A Haber",
     "category": "News",
@@ -1456,7 +1464,7 @@
     "country": "BR"
   },
   {
-    "videoId": "ZdWCI3a9fMk",
+    "videoId": "8MV3isE0Pyc",
     "channelId": "UCMKvT0YVLufHMdGLH89J1oA",
     "name": "朝日新聞デジタル",
     "category": "News",
@@ -1784,7 +1792,7 @@
     "country": "JP"
   },
   {
-    "videoId": "ciMIHlrtaBQ",
+    "videoId": "l33QNAfh9m4",
     "channelId": "UCqyt55f3byoK8rjgO0LBe4Q",
     "name": "Desh TV",
     "category": "News",
@@ -2184,14 +2192,6 @@
     "country": "JP"
   },
   {
-    "videoId": "MYVi_NKphds",
-    "channelId": "UCUvXoiDEKI8VZJrr58g4VAw",
-    "name": "DBC NEWS",
-    "category": "News",
-    "language": "ben",
-    "country": "BD"
-  },
-  {
     "videoId": "NuYS96NiJY0",
     "channelId": "UCUy__zD6aeuZKUXX8kUc4ZQ",
     "name": "Česko-Slovenská regionálna televízia",
@@ -2528,6 +2528,14 @@
     "country": "AR"
   },
   {
+    "videoId": "FSMSxdoOq4A",
+    "channelId": "UCyXRmWbmyB7TSJekXsPCZKQ",
+    "name": "TV Thathi SBT",
+    "category": "News",
+    "language": "por",
+    "country": "BR"
+  },
+  {
     "videoId": "1mYzBgRV6-k",
     "channelId": "UCz2yxQJZgiB_5elTzqV7FiQ",
     "name": "BOL NEWS",
@@ -2558,14 +2566,6 @@
     "category": "News",
     "language": "tur",
     "country": "TR"
-  },
-  {
-    "videoId": "jm43IyjUv9E",
-    "channelId": "UCziREKwhu2KgoDVNlRrfMBw",
-    "name": "Canal de Panamá",
-    "category": "News",
-    "language": "spa",
-    "country": "PA"
   },
   {
     "videoId": "XKueVSGTk2o",
