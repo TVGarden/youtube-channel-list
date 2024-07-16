@@ -432,14 +432,6 @@
     "country": "US"
   },
   {
-    "videoId": "L86tCKYXk7Y",
-    "channelId": "UCFzph9x-n9FR52BI94Zfgww",
-    "name": "MYSTERY SCIENCE THEATER 3000: RiffTrax",
-    "category": "Comedy",
-    "language": "eng",
-    "country": "US"
-  },
-  {
     "videoId": "UzwY3cKX_L4",
     "channelId": "UCGbjb7FYYmj0z3_9iJ7dMPQ",
     "name": "CoinVaultTV",
@@ -600,25 +592,9 @@
     "country": "US"
   },
   {
-    "videoId": "_s02fgM0D0o",
-    "channelId": "UCMeyWH1vyb1TT6Vimp4MqLA",
-    "name": "AAC Television",
-    "category": "Shop",
-    "language": "eng",
-    "country": "US"
-  },
-  {
     "videoId": "l_6pNRZi9KY",
     "channelId": "UCMPKq9xxIiAtfkOFW8gYwNw",
     "name": "Rubble & Crew: Full Episodes",
-    "category": "Kids",
-    "language": "eng",
-    "country": "US"
-  },
-  {
-    "videoId": "IU9aFQaM-Hw",
-    "channelId": "UCMsgXPD3wzzt8RxHJmXH7hQ",
-    "name": "Cartoon Network: The Marvelous Misadventures of Flapjack",
     "category": "Kids",
     "language": "eng",
     "country": "US"
@@ -1024,7 +1000,7 @@
     "country": "US"
   },
   {
-    "videoId": "gyPrdKh8A8w",
+    "videoId": "vapjZBgNooA",
     "channelId": "UCSGeXKPLsXkSCIwaG2cCjLA",
     "name": "News 9 YouTube",
     "category": "News",
@@ -1100,6 +1076,14 @@
     "channelId": "UCvYVGf_JFME9dVe3WtljP1Q",
     "name": "The Victory Channel",
     "category": "Religious",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "7lxMFtc43bk",
+    "channelId": "UCW17klvo2VzdVdHRE5ywPsA",
+    "name": "I Dream of Jeannie",
+    "category": "Classic",
     "language": "eng",
     "country": "US"
   },

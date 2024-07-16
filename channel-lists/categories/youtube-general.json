@@ -168,6 +168,14 @@
     "country": "MX"
   },
   {
+    "videoId": "wkUFo9dymD0",
+    "channelId": "UCot4t8PVKz8TT5xVM8Eb00w",
+    "name": "Televisa Ciudad Juarez",
+    "category": "General",
+    "language": "spa",
+    "country": "MX"
+  },
+  {
     "videoId": "I4-K8S2qhIs",
     "channelId": "UCpeD73Gb4KjKUL2gyoJ4gLw",
     "name": "Televisa Univision Saltillo",
@@ -216,12 +224,28 @@
     "country": "BR"
   },
   {
+    "videoId": "gXBXXWNaOrM",
+    "channelId": "UCt5sVDyzu0NhrjR-d_b-lhg",
+    "name": "Telewizja Gorzów",
+    "category": "General",
+    "language": "pol",
+    "country": "PL"
+  },
+  {
     "videoId": "N-UGU17tJss",
     "channelId": "UCtKY2DeY9GkBr35opV7E2Lg",
     "name": "BTV",
     "category": "General",
     "language": "eng",
     "country": "US"
+  },
+  {
+    "videoId": "2EKZsjkzXhY",
+    "channelId": "UCtm1LvYEIQ_NrfOUVJ08YhQ",
+    "name": "Televisa Sinaloa",
+    "category": "General",
+    "language": "spa",
+    "country": "MX"
   },
   {
     "videoId": "6LlZXt8nk4s",
@@ -259,6 +283,14 @@
     "videoId": "LPh3vrpTGR4",
     "channelId": "UCyQL0IjtptnQ9PxmAfH3fKQ",
     "name": "Telewizja Zabrze",
+    "category": "General",
+    "language": "pol",
+    "country": "PL"
+  },
+  {
+    "videoId": "ojFbLPqQ3o4",
+    "channelId": "UCYxbE-WoPqKq26sSeQ6eD1w",
+    "name": "NewTv",
     "category": "General",
     "language": "pol",
     "country": "PL"

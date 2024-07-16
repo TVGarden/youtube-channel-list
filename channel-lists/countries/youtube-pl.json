@@ -16,7 +16,7 @@
     "country": "PL"
   },
   {
-    "videoId": "6UbLhvCFb6U",
+    "videoId": "G30uZf9uX7g",
     "channelId": "UC2vPjreaN9Jpan45p66H7hA",
     "name": "TVSUDECKA PL",
     "category": "News",
@@ -96,9 +96,25 @@
     "country": "PL"
   },
   {
+    "videoId": "gXBXXWNaOrM",
+    "channelId": "UCt5sVDyzu0NhrjR-d_b-lhg",
+    "name": "Telewizja Gorzów",
+    "category": "General",
+    "language": "pol",
+    "country": "PL"
+  },
+  {
     "videoId": "LPh3vrpTGR4",
     "channelId": "UCyQL0IjtptnQ9PxmAfH3fKQ",
     "name": "Telewizja Zabrze",
+    "category": "General",
+    "language": "pol",
+    "country": "PL"
+  },
+  {
+    "videoId": "ojFbLPqQ3o4",
+    "channelId": "UCYxbE-WoPqKq26sSeQ6eD1w",
+    "name": "NewTv",
     "category": "General",
     "language": "pol",
     "country": "PL"

@@ -120,10 +120,18 @@
     "country": "MX"
   },
   {
-    "videoId": "QiP1tpc4yY4",
+    "videoId": "PzVJ2zXDotA",
     "channelId": "UCo1nfa1JKNqtcUyLjLwTiIw",
     "name": "MULTIMEDIOS",
     "category": "Entertainment",
+    "language": "spa",
+    "country": "MX"
+  },
+  {
+    "videoId": "wkUFo9dymD0",
+    "channelId": "UCot4t8PVKz8TT5xVM8Eb00w",
+    "name": "Televisa Ciudad Juarez",
+    "category": "General",
     "language": "spa",
     "country": "MX"
   },
@@ -155,6 +163,14 @@
     "videoId": "6XYBUgE6vag",
     "channelId": "UCRujF_YxVVFmTRWURQH-Cww",
     "name": "Televisa Guadalajara",
+    "category": "General",
+    "language": "spa",
+    "country": "MX"
+  },
+  {
+    "videoId": "2EKZsjkzXhY",
+    "channelId": "UCtm1LvYEIQ_NrfOUVJ08YhQ",
+    "name": "Televisa Sinaloa",
     "category": "General",
     "language": "spa",
     "country": "MX"
