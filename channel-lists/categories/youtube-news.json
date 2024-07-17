@@ -408,7 +408,7 @@
     "country": "TR"
   },
   {
-    "videoId": "Smy2zVGK9x0",
+    "videoId": "MuQbyqetsls",
     "channelId": "UC7c6rvyAZLpKGk8ttVnpnLA",
     "name": "TaiwanPlus",
     "category": "News",
@@ -544,6 +544,14 @@
     "country": "IN"
   },
   {
+    "videoId": "lLAl6K3AnTM",
+    "channelId": "UC9CYT9gSNLevX5ey2_6CK0Q",
+    "name": "NDTV India",
+    "category": "News",
+    "language": "hin",
+    "country": "IN"
+  },
+  {
     "videoId": "bDIyW1K61A4",
     "channelId": "UC9IQhNgS43lmUdU-KdGyb0A",
     "name": "News18 Urdu",
@@ -632,7 +640,15 @@
     "country": "JP"
   },
   {
-    "videoId": "Y9ydTr-5N0I",
+    "videoId": "HC3aol0eMdU",
+    "channelId": "UCATUkaOHwO9EP_W87zCiPbA",
+    "name": "Independent Television",
+    "category": "News",
+    "language": "ben",
+    "country": "BD"
+  },
+  {
+    "videoId": "m4ldT4b8vK4",
     "channelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
     "name": "Dawn News",
     "category": "News",
@@ -768,7 +784,7 @@
     "country": "IN"
   },
   {
-    "videoId": "3tvZo1BlTSM",
+    "videoId": "ySGKh5o7-TU",
     "channelId": "UCcu3RolEOalAMef4Lt3uZLg",
     "name": "AlQahera News",
     "category": "News",
@@ -1328,7 +1344,7 @@
     "country": "DE"
   },
   {
-    "videoId": "l6lwJer4-gE",
+    "videoId": "CI8_3d5LHyw",
     "channelId": "UCKQhfw-lzz0uKnE1fY1PsAA",
     "name": "A Haber",
     "category": "News",
@@ -1672,7 +1688,7 @@
     "country": "PL"
   },
   {
-    "videoId": "lp1XW9xL2tQ",
+    "videoId": "uymtyQwCsDQ",
     "channelId": "UCPLKy4Ypb4mfblbjJI8Aljw",
     "name": "News Central TV",
     "category": "News",
@@ -1920,14 +1936,6 @@
     "country": "IN"
   },
   {
-    "videoId": "WYlqCkDiiDs",
-    "channelId": "UCsRfBAspa72ExrsN347W2xg",
-    "name": "SBT Rio",
-    "category": "News",
-    "language": "por",
-    "country": "BR"
-  },
-  {
     "videoId": "HhEKHN0RYkA",
     "channelId": "UCsRnhjcUCR78Q3Ud6OXCTNg",
     "name": "T13",
@@ -2104,7 +2112,7 @@
     "country": "FR"
   },
   {
-    "videoId": "_zTHAZ3axO4",
+    "videoId": "UvL-km8lnME",
     "channelId": "UCucu9XccNzF4BPOweW0RD5w",
     "name": "Live Z101",
     "category": "News",
@@ -2120,7 +2128,7 @@
     "country": "FR"
   },
   {
-    "videoId": "GxaTtal5fyM",
+    "videoId": "Pqv4W-6byWo",
     "channelId": "UCuiLR4p6wQ3xLEm15pEn1Xw",
     "name": "Record News",
     "category": "News",

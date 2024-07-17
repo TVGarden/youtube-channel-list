@@ -40,10 +40,26 @@
     "country": "BD"
   },
   {
+    "videoId": "HC3aol0eMdU",
+    "channelId": "UCATUkaOHwO9EP_W87zCiPbA",
+    "name": "Independent Television",
+    "category": "News",
+    "language": "ben",
+    "country": "BD"
+  },
+  {
     "videoId": "upn0W8nGY4E",
     "channelId": "UCHKvg7FqyEqmOkYx0y4KtlA",
     "name": "News24 Daily",
     "category": "News",
+    "language": "ben",
+    "country": "BD"
+  },
+  {
+    "videoId": "Ise1T2C5aZQ",
+    "channelId": "UCi-aUVwZR5U8GBNOy0CC4ww",
+    "name": "Rtv Music",
+    "category": "Music",
     "language": "ben",
     "country": "BD"
   },
