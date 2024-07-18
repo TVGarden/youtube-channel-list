@@ -96,6 +96,14 @@
     "country": "TR"
   },
   {
+    "videoId": "xpH6GAi3aBI",
+    "channelId": "UCE1XdVHzOdMnUsUMatIzjag",
+    "name": "Kemal Sunal Filmleri",
+    "category": "Classic",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
     "videoId": "I_RsWDrgg5I",
     "channelId": "UCehmwSZGPod7JFbHJspmxzQ",
     "name": "Cartoon Network Türkiye",
@@ -120,7 +128,7 @@
     "country": "TR"
   },
   {
-    "videoId": "l-Tg2SiHSbk",
+    "videoId": "DfS0Nbv-IUQ",
     "channelId": "UCgH3Vo5DVMsrbDSUoSecm0Q",
     "name": "Lider Haber",
     "category": "News",
@@ -208,7 +216,7 @@
     "country": "TR"
   },
   {
-    "videoId": "CI8_3d5LHyw",
+    "videoId": "ZHIPH7ALzJ4",
     "channelId": "UCKQhfw-lzz0uKnE1fY1PsAA",
     "name": "A Haber",
     "category": "News",
@@ -308,14 +316,6 @@
     "channelId": "UCqdRRlw5iWCwV0kF7K3o-vQ",
     "name": "Poyraz Karayel",
     "category": "Series",
-    "language": "tur",
-    "country": "TR"
-  },
-  {
-    "videoId": "Sf_Dfgs5Jzg",
-    "channelId": "UCQgq6bnp3N_ZlyNq5dHmkNw",
-    "name": "BYHORSES TV",
-    "category": "Sports",
     "language": "tur",
     "country": "TR"
   },

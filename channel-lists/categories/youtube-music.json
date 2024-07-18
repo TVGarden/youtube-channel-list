@@ -64,14 +64,6 @@
     "country": "KR"
   },
   {
-    "videoId": "UaSr72vpj00",
-    "channelId": "UC4KnMZaxcv1KZDAJsgHXcOA",
-    "name": "LRT Radijas",
-    "category": "Music",
-    "language": "lit",
-    "country": "LT"
-  },
-  {
     "videoId": "EbHYDvg1siE",
     "channelId": "UC4KnMZaxcv1KZDAJsgHXcOA",
     "name": "LRT Opus",
@@ -83,6 +75,14 @@
     "videoId": "k7Ik8Ls-ZFk",
     "channelId": "UC4KnMZaxcv1KZDAJsgHXcOA",
     "name": "LRT Klasika",
+    "category": "Music",
+    "language": "lit",
+    "country": "LT"
+  },
+  {
+    "videoId": "izc0E-37OmY",
+    "channelId": "UC4KnMZaxcv1KZDAJsgHXcOA",
+    "name": "LRT Radijas",
     "category": "Music",
     "language": "lit",
     "country": "LT"
@@ -118,6 +118,14 @@
     "category": "Music",
     "language": "spa",
     "country": "AR"
+  },
+  {
+    "videoId": "25SCvLhh7oI",
+    "channelId": "UCHVcga2iFmktWA7vX-CnAtA",
+    "name": "Lính Trận Miền Xa - Nhạc Lính Hải Ngoại",
+    "category": "Music",
+    "language": "vie",
+    "country": "VN"
   },
   {
     "videoId": "Ise1T2C5aZQ",
@@ -331,6 +339,14 @@
     "videoId": "IyoIiDoB7EE",
     "channelId": "UCrcfRtdHb11YJEloTSaOYvw",
     "name": "Dark Monkey Music: Techno GYM Music",
+    "category": "Music",
+    "language": "eng",
+    "country": "DE"
+  },
+  {
+    "videoId": "wsTRey-ajJQ",
+    "channelId": "UCrcfRtdHb11YJEloTSaOYvw",
+    "name": "Dark Monkey Music: Minimal Techno",
     "category": "Music",
     "language": "eng",
     "country": "DE"
@@ -552,7 +568,7 @@
     "country": "ES"
   },
   {
-    "videoId": "m1-RimFG1Sc",
+    "videoId": "NHDzumM8ikE",
     "channelId": "UCzPB5j0mU-0TORZ-7-u8y0w",
     "name": "1062 Mad Radio Live",
     "category": "Music",
