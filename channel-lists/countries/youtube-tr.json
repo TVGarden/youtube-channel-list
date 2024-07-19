@@ -128,7 +128,7 @@
     "country": "TR"
   },
   {
-    "videoId": "DfS0Nbv-IUQ",
+    "videoId": "gFXKkMye5b0",
     "channelId": "UCgH3Vo5DVMsrbDSUoSecm0Q",
     "name": "Lider Haber",
     "category": "News",
@@ -256,14 +256,6 @@
     "country": "TR"
   },
   {
-    "videoId": "2bJMbofRq5k",
-    "channelId": "UCndv_71XKrbKshL_LjM3pAA",
-    "name": "Her An Kur'an Her An Zikir",
-    "category": "Religious",
-    "language": "tur",
-    "country": "TR"
-  },
-  {
     "videoId": "kDvc4MSsnyI",
     "channelId": "UCNLO4lpteIloZ4IKb9L2DoA",
     "name": "TJK TV",
@@ -316,6 +308,14 @@
     "channelId": "UCqdRRlw5iWCwV0kF7K3o-vQ",
     "name": "Poyraz Karayel",
     "category": "Series",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "videoId": "Kl0k0QgKEto",
+    "channelId": "UCQgq6bnp3N_ZlyNq5dHmkNw",
+    "name": "BYHORSES TV",
+    "category": "Sports",
     "language": "tur",
     "country": "TR"
   },
