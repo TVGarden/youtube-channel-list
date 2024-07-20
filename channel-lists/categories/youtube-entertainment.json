@@ -40,6 +40,14 @@
     "country": "LT"
   },
   {
+    "videoId": "oVrXWj_8XRU",
+    "channelId": "UC9hyY_wWSJnkUKPfrfOP4dQ",
+    "name": "Joy Prime TV",
+    "category": "Entertainment",
+    "language": "eng",
+    "country": "GH"
+  },
+  {
     "videoId": "lDcWeklf6DI",
     "channelId": "UCaKod3X1Tn4c7Ci0iUKcvzQ",
     "name": "SBS Running Man",
@@ -80,7 +88,7 @@
     "country": "US"
   },
   {
-    "videoId": "BnFf1QNNgUY",
+    "videoId": "Ke0rxsumH1U",
     "channelId": "UCFuWAM_YItwkHzDWDKtJULg",
     "name": "Canal 23 Televisa Ensenada",
     "category": "Entertainment",
@@ -112,20 +120,20 @@
     "country": "TN"
   },
   {
-    "videoId": "SwiIHOHYYYs",
-    "channelId": "UCjwXjnO3BGePtB7gSKEpoqA",
-    "name": "Televisa Tijuana",
-    "category": "Entertainment",
-    "language": "spa",
-    "country": "MX"
-  },
-  {
     "videoId": "-L9cBf3oAO0",
     "channelId": "UCkELMMBdy4gPj6ooQwYJ-yg",
     "name": "Hot Door Night 綜藝大熱門",
     "category": "Entertainment",
     "language": "zho",
     "country": "TW"
+  },
+  {
+    "videoId": "MBRmsKfMai4",
+    "channelId": "UCKlgbbF9wphTKATOWiG5jPQ",
+    "name": "Adom TV",
+    "category": "Entertainment",
+    "language": "eng",
+    "country": "GH"
   },
   {
     "videoId": "Df3g76Y25gs",
@@ -262,14 +270,6 @@
     "category": "Entertainment",
     "language": "spa",
     "country": "AR"
-  },
-  {
-    "videoId": "WFDbJY0eBGI",
-    "channelId": "UCw7SNYrYei7F5ttQO3o-rpA",
-    "name": "Disney Channel: Wizards of Waverly Place",
-    "category": "Entertainment",
-    "language": "eng",
-    "country": "US"
   },
   {
     "videoId": "4xvCBja5zy8",

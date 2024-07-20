@@ -88,14 +88,6 @@
     "country": "PK"
   },
   {
-    "videoId": "VRXXpZ-JnN4",
-    "channelId": "UC0OGisUcF1mAwL4pqjLCmhg",
-    "name": "토마토집통",
-    "category": "News",
-    "language": "kor",
-    "country": "KR"
-  },
-  {
     "videoId": "Dp2na0xhqYE",
     "channelId": "UC0Um3pnZ2WGBEeoA3BX2sKw",
     "name": "HUM News",
@@ -160,7 +152,7 @@
     "country": "IN"
   },
   {
-    "videoId": "oVA2DKozsE8",
+    "videoId": "Shx_ke0O3QA",
     "channelId": "UC1vOCYEu3DfoI4fYcfWKmWA",
     "name": "Kalinga TV",
     "category": "News",
@@ -528,7 +520,7 @@
     "country": "IN"
   },
   {
-    "videoId": "zdve7Ypo500",
+    "videoId": "TUUZQ_WmBE4",
     "channelId": "UC9CYT9gSNLevX5ey2_6CK0Q",
     "name": "NDTV India",
     "category": "News",
@@ -640,7 +632,7 @@
     "country": "PK"
   },
   {
-    "videoId": "kJ3lGXrQKi0",
+    "videoId": "ZYxryFWdAeQ",
     "channelId": "UCB0NxICFmGabAalD46J2i4A",
     "name": "RTD",
     "category": "News",
@@ -662,6 +654,14 @@
     "category": "News",
     "language": "spa",
     "country": "AR"
+  },
+  {
+    "videoId": "Z_a_UuS5-hM",
+    "channelId": "UCbATDExtWstHnwWELZnXNZA",
+    "name": "Euronews Romanian",
+    "category": "News",
+    "language": "ron",
+    "country": "FR"
   },
   {
     "videoId": "6Ec7bnQVO44",
@@ -816,7 +816,7 @@
     "country": "IN"
   },
   {
-    "videoId": "d8dTCghlw1A",
+    "videoId": "pkQwqa3zVeA",
     "channelId": "UCElJZvY_RVra6qjD8WSQYog",
     "name": "Public News",
     "category": "News",
@@ -928,7 +928,7 @@
     "country": "BR"
   },
   {
-    "videoId": "Hy4UCfsE6Yk",
+    "videoId": "NdQSOItOQ5Y",
     "channelId": "UCFgk2Q2mVO1BklRQhSv6p0w",
     "name": "C5N",
     "category": "News",
@@ -984,7 +984,7 @@
     "country": "JP"
   },
   {
-    "videoId": "1Rxe2it_taw",
+    "videoId": "_K9v_wa-Ei8",
     "channelId": "UCGCZAYq5Xxojl_tSXcVJhiQ",
     "name": "ANNnewsCH Ukraine War",
     "category": "News",
@@ -1094,6 +1094,14 @@
     "category": "News",
     "language": "ben",
     "country": "IN"
+  },
+  {
+    "videoId": "YGNEW1JIxNg",
+    "channelId": "UChd1DEecCRlxaa0-hvPACCw",
+    "name": "JoyNews",
+    "category": "News",
+    "language": "eng",
+    "country": "GH"
   },
   {
     "videoId": "xoQYyvuffBY",
@@ -1288,7 +1296,7 @@
     "country": "IN"
   },
   {
-    "videoId": "C69Vdz_P_tE",
+    "videoId": "TWuV6U3oQqI",
     "channelId": "UCkccyEbqhhM3uKOI6Shm-4Q",
     "name": "Meganoticias",
     "category": "News",
@@ -1576,6 +1584,14 @@
     "country": "JP"
   },
   {
+    "videoId": "w3iTYZA0AOA",
+    "channelId": "UCoSkllfpgmFHtbVK835QaQg",
+    "name": "Official iNews",
+    "category": "News",
+    "language": "ind",
+    "country": "ID"
+  },
+  {
     "videoId": "ztmY_cCtUl0",
     "channelId": "UCOulx_rep5O4i9y6AyDqVvw",
     "name": "SÖZCÜ Televizyonu",
@@ -1632,7 +1648,7 @@
     "country": "PL"
   },
   {
-    "videoId": "w_jowvGU9fQ",
+    "videoId": "ZEa6nkHKgG0",
     "channelId": "UCPLKy4Ypb4mfblbjJI8Aljw",
     "name": "News Central TV",
     "category": "News",
@@ -1872,6 +1888,14 @@
     "country": "IN"
   },
   {
+    "videoId": "40y3OjDA2Pg",
+    "channelId": "UCsRfBAspa72ExrsN347W2xg",
+    "name": "SBT Rio",
+    "category": "News",
+    "language": "por",
+    "country": "BR"
+  },
+  {
     "videoId": "fSTF8ke-R34",
     "channelId": "UCsRnhjcUCR78Q3Ud6OXCTNg",
     "name": "T13",
@@ -2048,7 +2072,7 @@
     "country": "FR"
   },
   {
-    "videoId": "0veJ93LjybQ",
+    "videoId": "JkRtmJOMmZ4",
     "channelId": "UCucu9XccNzF4BPOweW0RD5w",
     "name": "Live Z101",
     "category": "News",
@@ -2064,7 +2088,7 @@
     "country": "FR"
   },
   {
-    "videoId": "Cp6XWRtRiwA",
+    "videoId": "EKgModoa8JM",
     "channelId": "UCuiLR4p6wQ3xLEm15pEn1Xw",
     "name": "Record News",
     "category": "News",
@@ -2384,14 +2408,6 @@
     "country": "IN"
   },
   {
-    "videoId": "jy-3chGcJnc",
-    "channelId": "UCYmUbCx3q38TJo4_qN-_uAA",
-    "name": "KumudamNews",
-    "category": "News",
-    "language": "tam",
-    "country": "IN"
-  },
-  {
     "videoId": "kpVF_3_O61I",
     "channelId": "UCYNpIdSp5xvvQzgOHtw2RAw",
     "name": "KOMPASTV JAWA TIMUR",
@@ -2448,7 +2464,7 @@
     "country": "AR"
   },
   {
-    "videoId": "GiOAT1voGDM",
+    "videoId": "V9RDjjDrK64",
     "channelId": "UCyXRmWbmyB7TSJekXsPCZKQ",
     "name": "TV Thathi SBT",
     "category": "News",
