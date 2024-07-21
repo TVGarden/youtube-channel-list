@@ -80,14 +80,6 @@
     "country": "US"
   },
   {
-    "videoId": "c9AO5EzdfO8",
-    "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
-    "name": "TokuSHOUTsu: ReBoot",
-    "category": "Animation",
-    "language": "eng",
-    "country": "US"
-  },
-  {
     "videoId": "BN7D9a3n7wg",
     "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
     "name": "TokuSHOUTsu: Digimon Adventure tri.",
@@ -140,14 +132,6 @@
     "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
     "name": "TokuSHOUTsu: Mach GoGoGo",
     "category": "Animation",
-    "language": "jpn",
-    "country": "US"
-  },
-  {
-    "videoId": "qNOVz9sKUMc",
-    "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
-    "name": "TokuSHOUTsu: Godzilla",
-    "category": "Classic",
     "language": "jpn",
     "country": "US"
   },
@@ -219,22 +203,6 @@
     "videoId": "b3WkMYJYIHg",
     "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
     "name": "TokuSHOUTsu: Kamen Rider Geats",
-    "category": "Series",
-    "language": "jpn",
-    "country": "US"
-  },
-  {
-    "videoId": "-g2OvZ9hLgI",
-    "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
-    "name": "TokuSHOUTsu: Kamen Rider Zero-One",
-    "category": "Series",
-    "language": "jpn",
-    "country": "US"
-  },
-  {
-    "videoId": "sA_QJMQMFZg",
-    "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
-    "name": "TokuSHOUTsu: Ultraman",
     "category": "Series",
     "language": "jpn",
     "country": "US"
@@ -452,14 +420,6 @@
     "channelId": "UCgVZ0mrM3liHNhRYC5Mchgg",
     "name": "WPLG Local 10",
     "category": "News",
-    "language": "eng",
-    "country": "US"
-  },
-  {
-    "videoId": "AIDnEYSQNxs",
-    "channelId": "UCHyeWVPbdJNWNxdlsKl3IYA",
-    "name": "Sunny Bunnies: Sunny Dessert",
-    "category": "Kids",
     "language": "eng",
     "country": "US"
   },
@@ -740,14 +700,6 @@
     "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
     "name": "Shout! Studios: Space: 1999",
     "category": "Classic",
-    "language": "eng",
-    "country": "US"
-  },
-  {
-    "videoId": "Sa21BNj2mW8",
-    "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
-    "name": "Shout! Studios: ReBoot",
-    "category": "Animation",
     "language": "eng",
     "country": "US"
   },

@@ -24,14 +24,6 @@
     "country": "US"
   },
   {
-    "videoId": "c9AO5EzdfO8",
-    "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
-    "name": "TokuSHOUTsu: ReBoot",
-    "category": "Animation",
-    "language": "eng",
-    "country": "US"
-  },
-  {
     "videoId": "BN7D9a3n7wg",
     "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
     "name": "TokuSHOUTsu: Digimon Adventure tri.",
@@ -80,20 +72,20 @@
     "country": "US"
   },
   {
-    "videoId": "Sa21BNj2mW8",
-    "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
-    "name": "Shout! Studios: ReBoot",
-    "category": "Animation",
-    "language": "eng",
-    "country": "US"
-  },
-  {
     "videoId": "_7TLt-Ox7m0",
     "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
     "name": "Shout! Studios: M.A.S.K.",
     "category": "Animation",
     "language": "eng",
     "country": "US"
+  },
+  {
+    "videoId": "3JyNVHwiEXE",
+    "channelId": "UCpts-8H1DqUaGmUkFhbXMQQ",
+    "name": "Kapitan Bomba",
+    "category": "Animation",
+    "language": "pol",
+    "country": "PL"
   },
   {
     "videoId": "6LZqtJjU3gA",

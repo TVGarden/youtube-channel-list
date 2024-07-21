@@ -24,7 +24,7 @@
     "country": "PK"
   },
   {
-    "videoId": "m4ldT4b8vK4",
+    "videoId": "iSRFvX3P12Q",
     "channelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
     "name": "Dawn News",
     "category": "News",
@@ -64,6 +64,14 @@
     "country": "PK"
   },
   {
+    "videoId": "CpOKRYnXuAo",
+    "channelId": "UCdLLxVWeJbtOCZ6s7-YZVKA",
+    "name": "PTV Home",
+    "category": "General",
+    "language": "urd",
+    "country": "PK"
+  },
+  {
     "videoId": "7OljcHpzxoM",
     "channelId": "UCdTup4kK7Ze08KYp7ReiuMw",
     "name": "City 42",
@@ -75,14 +83,6 @@
     "videoId": "pkQwqa3zVeA",
     "channelId": "UCElJZvY_RVra6qjD8WSQYog",
     "name": "Public News",
-    "category": "News",
-    "language": "urd",
-    "country": "PK"
-  },
-  {
-    "videoId": "j9LrhgqQzFI",
-    "channelId": "UCgBAPAcLsh_MAPvJprIz89w",
-    "name": "Aaj TV",
     "category": "News",
     "language": "urd",
     "country": "PK"

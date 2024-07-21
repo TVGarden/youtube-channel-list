@@ -1,6 +1,6 @@
 [
   {
-    "videoId": "_Cyp35zsYn0",
+    "videoId": "v18SWAbwctM",
     "channelId": "UC6yPLxBTg8TodC2KPrGDTjA",
     "name": "TEC",
     "category": "Science",
@@ -46,6 +46,14 @@
     "category": "Science",
     "language": "eng",
     "country": "US"
+  },
+  {
+    "videoId": "Uec4qouXCzU",
+    "channelId": "UCl-ipFGVotx_Tu5YWMEZgsg",
+    "name": "Kosmo FR",
+    "category": "Science",
+    "language": "fra",
+    "country": "FR"
   },
   {
     "videoId": "nA9UZF-SZoQ",

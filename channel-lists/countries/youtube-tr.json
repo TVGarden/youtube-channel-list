@@ -128,7 +128,7 @@
     "country": "TR"
   },
   {
-    "videoId": "gFXKkMye5b0",
+    "videoId": "lPS-xICxVak",
     "channelId": "UCgH3Vo5DVMsrbDSUoSecm0Q",
     "name": "Lider Haber",
     "category": "News",
@@ -252,6 +252,14 @@
     "channelId": "UCndsdUW_oPLqpQJY9J8oIRg",
     "name": "TV100",
     "category": "News",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "videoId": "pmvvmuXQuKU",
+    "channelId": "UCndv_71XKrbKshL_LjM3pAA",
+    "name": "Her An Kur'an Her An Zikir",
+    "category": "Religious",
     "language": "tur",
     "country": "TR"
   },

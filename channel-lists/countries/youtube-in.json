@@ -56,7 +56,7 @@
     "country": "IN"
   },
   {
-    "videoId": "Shx_ke0O3QA",
+    "videoId": "-abXMFMEzPY",
     "channelId": "UC1vOCYEu3DfoI4fYcfWKmWA",
     "name": "Kalinga TV",
     "category": "News",
@@ -96,7 +96,7 @@
     "country": "IN"
   },
   {
-    "videoId": "5O2exVaP34U",
+    "videoId": "o5UHEfkc13Q",
     "channelId": "UC6E1pvhGa55AaZ-svF70ViA",
     "name": "Paras TV",
     "category": "Religious",
@@ -152,7 +152,7 @@
     "country": "IN"
   },
   {
-    "videoId": "TUUZQ_WmBE4",
+    "videoId": "6dCIsubSr7w",
     "channelId": "UC9CYT9gSNLevX5ey2_6CK0Q",
     "name": "NDTV India",
     "category": "News",
@@ -416,7 +416,7 @@
     "country": "IN"
   },
   {
-    "videoId": "ffiXoLYHdTI",
+    "videoId": "pfx1wjWgbEI",
     "channelId": "UClOK2dPmq8k8Xwii_4TjRnQ",
     "name": "Agamvani Channel",
     "category": "Religious",
@@ -512,7 +512,7 @@
     "country": "IN"
   },
   {
-    "videoId": "Li1ZA566CIo",
+    "videoId": "3JodH4xoqJs",
     "channelId": "UCNZOrs1QBt8cJnv9ud96qRA",
     "name": "hmtv News Live",
     "category": "News",
@@ -557,14 +557,6 @@
     "name": "TV9 Telugu News",
     "category": "News",
     "language": "tel",
-    "country": "IN"
-  },
-  {
-    "videoId": "EodrnhcYYkw",
-    "channelId": "UCpzsmNuUEmod64DGgBDPO-Q",
-    "name": "TV5 Kannada",
-    "category": "News",
-    "language": "kan",
     "country": "IN"
   },
   {
@@ -787,6 +779,14 @@
     "videoId": "9M02G5c6x6w",
     "channelId": "UCYlh4lH762HvHt6mmiecyWQ",
     "name": "Sun News",
+    "category": "News",
+    "language": "tam",
+    "country": "IN"
+  },
+  {
+    "videoId": "LiTbZI43OO8",
+    "channelId": "UCYmUbCx3q38TJo4_qN-_uAA",
+    "name": "KumudamNews",
     "category": "News",
     "language": "tam",
     "country": "IN"
