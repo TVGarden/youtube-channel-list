@@ -160,6 +160,14 @@
     "country": "US"
   },
   {
+    "videoId": "RHqWe_pHsiA",
+    "channelId": "UCHyeWVPbdJNWNxdlsKl3IYA",
+    "name": "Sunny Bunnies: Sunny Dessert",
+    "category": "Kids",
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "videoId": "yiaYYMWBoa0",
     "channelId": "UCiuu1WKCPw8VPasHoRE3NZA",
     "name": "Leo Si Penjaga Alam",
@@ -187,6 +195,14 @@
     "videoId": "SWzgdGppln4",
     "channelId": "UClZkHt2kNIgyrTTPnSQV3SA",
     "name": "Get Movies: Маша и Медведь",
+    "category": "Kids",
+    "language": "rus",
+    "country": "RU"
+  },
+  {
+    "videoId": "FeT14-NWHTY",
+    "channelId": "UCM3vklq_KgWZDmbfg_0Yg_A",
+    "name": "Мульт",
     "category": "Kids",
     "language": "rus",
     "country": "RU"

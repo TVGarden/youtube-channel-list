@@ -64,14 +64,6 @@
     "country": "KR"
   },
   {
-    "videoId": "DZCD3X2op2w",
-    "channelId": "UC4i1qf8CUH93DLSbD9efqig",
-    "name": "어서와 한국은 처음이지",
-    "category": "Entertainment",
-    "language": "kor",
-    "country": "KR"
-  },
-  {
     "videoId": "46sFF47-Ef8",
     "channelId": "UC6kZpTl39-_SqfBrF1-N2oQ",
     "name": "연합뉴스경제TV",
@@ -144,14 +136,6 @@
     "country": "KR"
   },
   {
-    "videoId": "1PHBkF0IFrM",
-    "channelId": "UCNE1pYj5_Hmnaz1xnnJi_dQ",
-    "name": "헬로tv  X  더라이프",
-    "category": "Music",
-    "language": "eng",
-    "country": "KR"
-  },
-  {
     "videoId": "s9xL1DpBsfQ",
     "channelId": "UCnfwIKyFYRuqZzzKBDt6JOA",
     "name": "매일경제TV",
@@ -219,6 +203,14 @@
     "videoId": "P1fX2GGdVS0",
     "channelId": "UCUSSnoEQ8DSRK-gnWS0vfyA",
     "name": "Arirang Radio K-Pop",
+    "category": "Music",
+    "language": "kor",
+    "country": "KR"
+  },
+  {
+    "videoId": "921KnQVfVLg",
+    "channelId": "UCYeeEwH_s9yD9HQe4e2JuBw",
+    "name": "TVCHOSUN JOY",
     "category": "Music",
     "language": "kor",
     "country": "KR"

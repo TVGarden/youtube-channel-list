@@ -160,7 +160,7 @@
     "country": "IN"
   },
   {
-    "videoId": "-abXMFMEzPY",
+    "videoId": "EyCxjgBNkHw",
     "channelId": "UC1vOCYEu3DfoI4fYcfWKmWA",
     "name": "Kalinga TV",
     "category": "News",
@@ -184,7 +184,7 @@
     "country": "FR"
   },
   {
-    "videoId": "OYwDecVzgho",
+    "videoId": "8pzStnRNFWc",
     "channelId": "UC29dc_mBUWW4mz5h754v88w",
     "name": "Telewizja Żary",
     "category": "News",
@@ -328,7 +328,7 @@
     "country": "US"
   },
   {
-    "videoId": "xybI8KqAmZk",
+    "videoId": "g176SQbO6U0",
     "channelId": "UC5UKMEIoqvNDMSDz2_6Sn9g",
     "name": "Canal 8 San Juan",
     "category": "News",
@@ -528,7 +528,7 @@
     "country": "IN"
   },
   {
-    "videoId": "6dCIsubSr7w",
+    "videoId": "Gy9WiEQUXAE",
     "channelId": "UC9CYT9gSNLevX5ey2_6CK0Q",
     "name": "NDTV India",
     "category": "News",
@@ -576,7 +576,7 @@
     "country": "IN"
   },
   {
-    "videoId": "Z44CA2BRWAE",
+    "videoId": "jQqfeAbBPps",
     "channelId": "UCAGVKxpAKwXMWdmcHbrvcwQ",
     "name": "EKOTÜRK TV",
     "category": "News",
@@ -616,14 +616,6 @@
     "country": "IN"
   },
   {
-    "videoId": "gXvMSjtaMPg",
-    "channelId": "UCATnyu9lou_Lw43gvyoh8uA",
-    "name": "RCC News 24",
-    "category": "News",
-    "language": "jpn",
-    "country": "JP"
-  },
-  {
     "videoId": "iSRFvX3P12Q",
     "channelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
     "name": "Dawn News",
@@ -638,14 +630,6 @@
     "category": "News",
     "language": "urd",
     "country": "PK"
-  },
-  {
-    "videoId": "NGmmjMGmUyU",
-    "channelId": "UCB0NxICFmGabAalD46J2i4A",
-    "name": "RTD",
-    "category": "News",
-    "language": "fra",
-    "country": "DJ"
   },
   {
     "videoId": "U4o_kehupVg",
@@ -976,6 +960,14 @@
     "country": "FR"
   },
   {
+    "videoId": "-BYSXvUGeBw",
+    "channelId": "UCgBAPAcLsh_MAPvJprIz89w",
+    "name": "Aaj TV",
+    "category": "News",
+    "language": "urd",
+    "country": "PK"
+  },
+  {
     "videoId": "coYw-eVU0Ks",
     "channelId": "UCGCZAYq5Xxojl_tSXcVJhiQ",
     "name": "JapaNews24",
@@ -1048,7 +1040,7 @@
     "country": "MX"
   },
   {
-    "videoId": "_cZhpYLI7ZA",
+    "videoId": "wKHc_JErNZw",
     "channelId": "UCgVZ0mrM3liHNhRYC5Mchgg",
     "name": "WPLG Local 10",
     "category": "News",
@@ -1120,7 +1112,7 @@
     "country": "FR"
   },
   {
-    "videoId": "KCooRJggrsI",
+    "videoId": "XkZAuRbCmJw",
     "channelId": "UChl-MciRVsq6RPyhaIMceOg",
     "name": "Vistara News ",
     "category": "News",
@@ -1216,7 +1208,7 @@
     "country": "US"
   },
   {
-    "videoId": "ePX9Cnmavgg",
+    "videoId": "8-PLRPSh9lw",
     "channelId": "UCj-e7yp2_-qE-TPritppZGQ",
     "name": "PTV World",
     "category": "News",
@@ -1272,14 +1264,6 @@
     "country": "IN"
   },
   {
-    "videoId": "Jr_oegyVlV4",
-    "channelId": "UCjKDdxZM_z4MC-yxEJP0Cow",
-    "name": "ЛДПР-ТВ",
-    "category": "News",
-    "language": "rus",
-    "country": "RU"
-  },
-  {
     "videoId": "G4mnn35n_Xk",
     "channelId": "UCjmnq35TvJ1J8JZS49OPg-Q",
     "name": "JAN TV",
@@ -1296,7 +1280,7 @@
     "country": "MY"
   },
   {
-    "videoId": "2S4x9T9fajg",
+    "videoId": "K3OhEZ2Eifg",
     "channelId": "UCkcClukVA92272XoJdei8Xw",
     "name": "Swatantra TV",
     "category": "News",
@@ -1304,7 +1288,7 @@
     "country": "IN"
   },
   {
-    "videoId": "TWuV6U3oQqI",
+    "videoId": "nlKs6S0cvUE",
     "channelId": "UCkccyEbqhhM3uKOI6Shm-4Q",
     "name": "Meganoticias",
     "category": "News",
@@ -1366,14 +1350,6 @@
     "category": "News",
     "language": "pol",
     "country": "PL"
-  },
-  {
-    "videoId": "X7h4A2Jb9Tg",
-    "channelId": "UCl27leged0PT2kIrRtrFYKA",
-    "name": "RBC News 24",
-    "category": "News",
-    "language": "jpn",
-    "country": "JP"
   },
   {
     "videoId": "HLv-EF57rcY",
@@ -1584,7 +1560,7 @@
     "country": "TW"
   },
   {
-    "videoId": "BFowoOnJA8g",
+    "videoId": "sL_rJgYzgws",
     "channelId": "UCoQBJMzcwmXrRSHBFAlTsIw",
     "name": "FNNプライムオンライン",
     "category": "News",
@@ -1656,7 +1632,7 @@
     "country": "PL"
   },
   {
-    "videoId": "ZEa6nkHKgG0",
+    "videoId": "CXwNvgqW_60",
     "channelId": "UCPLKy4Ypb4mfblbjJI8Aljw",
     "name": "News Central TV",
     "category": "News",
@@ -1694,6 +1670,14 @@
     "category": "News",
     "language": "ukr",
     "country": "UA"
+  },
+  {
+    "videoId": "EodrnhcYYkw",
+    "channelId": "UCpzsmNuUEmod64DGgBDPO-Q",
+    "name": "TV5 Kannada",
+    "category": "News",
+    "language": "kan",
+    "country": "IN"
   },
   {
     "videoId": "8McTsOqeueE",
@@ -2168,7 +2152,7 @@
     "country": "IN"
   },
   {
-    "videoId": "OyKagb6soKM",
+    "videoId": "sPJiEXrR-0M",
     "channelId": "UCv7_krlrre3GQi79d4guxHQ",
     "name": "YTV News",
     "category": "News",

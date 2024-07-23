@@ -16,7 +16,7 @@
     "country": "AR"
   },
   {
-    "videoId": "UqxnADjTLv4",
+    "videoId": "g-9veP1HcLo",
     "channelId": "UC1Oa7gHuqzGHB90FPb0ssPA",
     "name": "FMVale975",
     "category": "Music",
@@ -24,7 +24,7 @@
     "country": "AR"
   },
   {
-    "videoId": "xybI8KqAmZk",
+    "videoId": "g176SQbO6U0",
     "channelId": "UC5UKMEIoqvNDMSDz2_6Sn9g",
     "name": "Canal 8 San Juan",
     "category": "News",
@@ -104,7 +104,7 @@
     "country": "AR"
   },
   {
-    "videoId": "09MQD--FO7k",
+    "videoId": "f1XxIbyWlCE",
     "channelId": "UCPmnk6gpje7qhq2eaAwtsMQ",
     "name": "Somos Uno",
     "category": "General",
@@ -139,6 +139,14 @@
     "videoId": "iAi3lMiH_4s",
     "channelId": "UCtc_WjDRwCrZSEq2WEwD7XQ",
     "name": "Pop Radio 101.5",
+    "category": "Music",
+    "language": "spa",
+    "country": "AR"
+  },
+  {
+    "videoId": "Xsp4KI_diUc",
+    "channelId": "UCtloZ7xFNO9O114pkoV9a5g",
+    "name": "Mega 98.3",
     "category": "Music",
     "language": "spa",
     "country": "AR"

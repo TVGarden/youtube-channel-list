@@ -416,7 +416,7 @@
     "country": "US"
   },
   {
-    "videoId": "_cZhpYLI7ZA",
+    "videoId": "wKHc_JErNZw",
     "channelId": "UCgVZ0mrM3liHNhRYC5Mchgg",
     "name": "WPLG Local 10",
     "category": "News",
@@ -427,6 +427,14 @@
     "videoId": "cx-9Kl-uAiM",
     "channelId": "UCHyeWVPbdJNWNxdlsKl3IYA",
     "name": "Sunny Bunnies: Sunny Colors",
+    "category": "Kids",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "RHqWe_pHsiA",
+    "channelId": "UCHyeWVPbdJNWNxdlsKl3IYA",
+    "name": "Sunny Bunnies: Sunny Dessert",
     "category": "Kids",
     "language": "eng",
     "country": "US"
@@ -448,7 +456,7 @@
     "country": "US"
   },
   {
-    "videoId": "itwExrc5YoM",
+    "videoId": "tlIPYp3EB8I",
     "channelId": "UCj3dt20MAZcvDN8GKeT2FBg",
     "name": "Cutlery Corner Network",
     "category": "Shop",
