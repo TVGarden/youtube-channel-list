@@ -24,6 +24,14 @@
     "country": "DE"
   },
   {
+    "videoId": "bf7eUuizGL0",
+    "channelId": "UC4i1qf8CUH93DLSbD9efqig",
+    "name": "어서와 한국은 처음이지",
+    "category": "Entertainment",
+    "language": "kor",
+    "country": "KR"
+  },
+  {
     "videoId": "m67gYVnA100",
     "channelId": "UC4KnMZaxcv1KZDAJsgHXcOA",
     "name": "LRT Lituanica",
@@ -32,7 +40,7 @@
     "country": "LT"
   },
   {
-    "videoId": "oVrXWj_8XRU",
+    "videoId": "mOLCxHvKGCQ",
     "channelId": "UC9hyY_wWSJnkUKPfrfOP4dQ",
     "name": "Joy Prime TV",
     "category": "Entertainment",
@@ -54,14 +62,6 @@
     "category": "Entertainment",
     "language": "eng",
     "country": "CA"
-  },
-  {
-    "videoId": "hLQmC0qh4UI",
-    "channelId": "UCb3vKSPkWFWiFljsSGoeyoQ",
-    "name": "WasebTV",
-    "category": "Entertainment",
-    "language": "pan",
-    "country": "PK"
   },
   {
     "videoId": "ADDSmXoPDY8",
@@ -278,6 +278,14 @@
     "category": "Entertainment",
     "language": "spa",
     "country": "MX"
+  },
+  {
+    "videoId": "M7R45M_rcIo",
+    "channelId": "UCxZ7Z0-z9EnTZAyKmeP2_MQ",
+    "name": "Raquel Daruech TV",
+    "category": "Entertainment",
+    "language": "spa",
+    "country": "UY"
   },
   {
     "videoId": "og5hZLEuc-E",

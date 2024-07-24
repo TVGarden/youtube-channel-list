@@ -48,6 +48,14 @@
     "country": "JP"
   },
   {
+    "videoId": "YM_sOKbrPgE",
+    "channelId": "UCATnyu9lou_Lw43gvyoh8uA",
+    "name": "RCC News 24",
+    "category": "News",
+    "language": "jpn",
+    "country": "JP"
+  },
+  {
     "videoId": "Jc_MexRxmDM",
     "channelId": "UCCTpf5c_9HDo_OSu3aX8uFQ",
     "name": "HBC News 北海道放送",
@@ -107,6 +115,14 @@
     "videoId": "7yWjVMmdcWI",
     "channelId": "UChx_y6aLWNkifSDUt2TVAzg",
     "name": "TOS News",
+    "category": "News",
+    "language": "jpn",
+    "country": "JP"
+  },
+  {
+    "videoId": "NXV2cp5PZsc",
+    "channelId": "UCl27leged0PT2kIrRtrFYKA",
+    "name": "RBC News 24",
     "category": "News",
     "language": "jpn",
     "country": "JP"
@@ -200,7 +216,7 @@
     "country": "JP"
   },
   {
-    "videoId": "sPJiEXrR-0M",
+    "videoId": "5sDJmVnGz8I",
     "channelId": "UCv7_krlrre3GQi79d4guxHQ",
     "name": "YTV News",
     "category": "News",

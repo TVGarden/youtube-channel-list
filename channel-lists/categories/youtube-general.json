@@ -32,6 +32,14 @@
     "country": "MX"
   },
   {
+    "videoId": "ykCIWIq1AIg",
+    "channelId": "UC0V3IJCnr6ZNjB9t_GLhFFA",
+    "name": "NTV Live ",
+    "category": "General",
+    "language": "ben",
+    "country": "BD"
+  },
+  {
     "videoId": "otzSZWYZkOc",
     "channelId": "UC0vwjMGoZpwG_lLBuF6_ALA",
     "name": "Telewizja Olsztyn",
@@ -64,14 +72,6 @@
     "country": "CN"
   },
   {
-    "videoId": "OFhSAICQwJg",
-    "channelId": "UC5EnLdE7ASjYzWt7wvT-QSg",
-    "name": "Televisa Veracruz",
-    "category": "General",
-    "language": "spa",
-    "country": "MX"
-  },
-  {
     "videoId": "hAiIY3vttN0",
     "channelId": "UC9QNz6VS3gGz55dzxAQtgtA",
     "name": "Televisa Querétaro",
@@ -102,14 +102,6 @@
     "category": "General",
     "language": "pol",
     "country": "PL"
-  },
-  {
-    "videoId": "wZnHb9epxpg",
-    "channelId": "UCdFKGMlvchusRx1u3mBUwrQ",
-    "name": "TV Tambaú",
-    "category": "General",
-    "language": "por",
-    "country": "BR"
   },
   {
     "videoId": "CpOKRYnXuAo",
@@ -192,7 +184,7 @@
     "country": "MX"
   },
   {
-    "videoId": "f1XxIbyWlCE",
+    "videoId": "7zsP3Kmc_CQ",
     "channelId": "UCPmnk6gpje7qhq2eaAwtsMQ",
     "name": "Somos Uno",
     "category": "General",
@@ -272,7 +264,7 @@
     "country": "FR"
   },
   {
-    "videoId": "ueuL8VOUYRI",
+    "videoId": "zBBE0n6ZEgQ",
     "channelId": "UCwVQAPo6tjC5w5yBBh0WEdA",
     "name": "TVPI Officiel",
     "category": "General",

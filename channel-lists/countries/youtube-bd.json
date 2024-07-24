@@ -1,6 +1,6 @@
 [
   {
-    "videoId": "eGmB12T_me8",
+    "videoId": "XmvY9M2Pw0U",
     "channelId": "UC0AMtPKwU61uDs--L04_kfQ",
     "name": "Madani Channel Bangla",
     "category": "Religious",
@@ -8,9 +8,57 @@
     "country": "BD"
   },
   {
+    "videoId": "ykCIWIq1AIg",
+    "channelId": "UC0V3IJCnr6ZNjB9t_GLhFFA",
+    "name": "NTV Live ",
+    "category": "General",
+    "language": "ben",
+    "country": "BD"
+  },
+  {
+    "videoId": "4zF6nC3HwY0",
+    "channelId": "UC2P5Fd5g41Gtdqf0Uzh8Qaw",
+    "name": "Rtv News",
+    "category": "News",
+    "language": "ben",
+    "country": "BD"
+  },
+  {
+    "videoId": "ohyyvjOsxKs",
+    "channelId": "UC8NcXMG3A3f2aFQyGTpSNww",
+    "name": "Channel i News",
+    "category": "News",
+    "language": "ben",
+    "country": "BD"
+  },
+  {
+    "videoId": "cKmL34FQhjE",
+    "channelId": "UCATUkaOHwO9EP_W87zCiPbA",
+    "name": "Independent Television",
+    "category": "News",
+    "language": "ben",
+    "country": "BD"
+  },
+  {
+    "videoId": "GqhZnIN8T9U",
+    "channelId": "UCqyt55f3byoK8rjgO0LBe4Q",
+    "name": "Desh TV",
+    "category": "News",
+    "language": "ben",
+    "country": "BD"
+  },
+  {
     "videoId": "SYLLGpSlF-w",
     "channelId": "UCtqvtAVmad5zywaziN6CbfA",
     "name": "Ekattor TV",
+    "category": "News",
+    "language": "ben",
+    "country": "BD"
+  },
+  {
+    "videoId": "flGkMdb3oD8",
+    "channelId": "UCUvXoiDEKI8VZJrr58g4VAw",
+    "name": "DBC NEWS",
     "category": "News",
     "language": "ben",
     "country": "BD"

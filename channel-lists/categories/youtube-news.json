@@ -56,14 +56,6 @@
     "country": "IN"
   },
   {
-    "videoId": "RZgxuQ0e5zc",
-    "channelId": "UC-kzuB1mP2LnmaXMPniKeyg",
-    "name": "SBT CENTRAL",
-    "category": "News",
-    "language": "por",
-    "country": "BR"
-  },
-  {
     "videoId": "Y8re9iEbrkA",
     "channelId": "UC-LRBEUet4xX2fRB3JitFxg",
     "name": "ANews",
@@ -184,12 +176,20 @@
     "country": "FR"
   },
   {
-    "videoId": "8pzStnRNFWc",
+    "videoId": "hMM-d6k5K4g",
     "channelId": "UC29dc_mBUWW4mz5h754v88w",
     "name": "Telewizja Żary",
     "category": "News",
     "language": "pol",
     "country": "PL"
+  },
+  {
+    "videoId": "4zF6nC3HwY0",
+    "channelId": "UC2P5Fd5g41Gtdqf0Uzh8Qaw",
+    "name": "Rtv News",
+    "category": "News",
+    "language": "ben",
+    "country": "BD"
   },
   {
     "videoId": "oZdzzvxTfUY",
@@ -304,7 +304,7 @@
     "country": "MY"
   },
   {
-    "videoId": "aNNgFPvgAfU",
+    "videoId": "m_1GV8Y9kwE",
     "channelId": "UC5GvVahlgulCyo4cshSmbcg",
     "name": "عربي TRT",
     "category": "News",
@@ -488,6 +488,14 @@
     "country": "JP"
   },
   {
+    "videoId": "ohyyvjOsxKs",
+    "channelId": "UC8NcXMG3A3f2aFQyGTpSNww",
+    "name": "Channel i News",
+    "category": "News",
+    "language": "ben",
+    "country": "BD"
+  },
+  {
     "videoId": "DFi8WM4VsQs",
     "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
     "name": "CBS News",
@@ -528,7 +536,7 @@
     "country": "IN"
   },
   {
-    "videoId": "Gy9WiEQUXAE",
+    "videoId": "9QgNx0ez4Qo",
     "channelId": "UC9CYT9gSNLevX5ey2_6CK0Q",
     "name": "NDTV India",
     "category": "News",
@@ -616,6 +624,22 @@
     "country": "IN"
   },
   {
+    "videoId": "YM_sOKbrPgE",
+    "channelId": "UCATnyu9lou_Lw43gvyoh8uA",
+    "name": "RCC News 24",
+    "category": "News",
+    "language": "jpn",
+    "country": "JP"
+  },
+  {
+    "videoId": "cKmL34FQhjE",
+    "channelId": "UCATUkaOHwO9EP_W87zCiPbA",
+    "name": "Independent Television",
+    "category": "News",
+    "language": "ben",
+    "country": "BD"
+  },
+  {
     "videoId": "iSRFvX3P12Q",
     "channelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
     "name": "Dawn News",
@@ -632,12 +656,12 @@
     "country": "PK"
   },
   {
-    "videoId": "U4o_kehupVg",
-    "channelId": "UCB82Zom1MYh8VV4q7wXkfGA",
-    "name": "SUNO NEWS HD",
+    "videoId": "girHxxgYQp0",
+    "channelId": "UCB0NxICFmGabAalD46J2i4A",
+    "name": "RTD",
     "category": "News",
-    "language": "urd",
-    "country": "PK"
+    "language": "fra",
+    "country": "DJ"
   },
   {
     "videoId": "ocFG3yor--M",
@@ -648,7 +672,7 @@
     "country": "AR"
   },
   {
-    "videoId": "Z_a_UuS5-hM",
+    "videoId": "7KYNh3n6IpE",
     "channelId": "UCbATDExtWstHnwWELZnXNZA",
     "name": "Euronews Romanian",
     "category": "News",
@@ -672,7 +696,7 @@
     "country": "US"
   },
   {
-    "videoId": "WeMTnqO6wrE",
+    "videoId": "og4Bl9zD6l8",
     "channelId": "UCBgTP2LOFVPmq15W-RH-WXA",
     "name": "TRT Haber",
     "category": "News",
@@ -856,7 +880,7 @@
     "country": "US"
   },
   {
-    "videoId": "MoClX2T6Qms",
+    "videoId": "nf51kcqhqYs",
     "channelId": "UCevif8Yk47cJKrq4-0EmwIA",
     "name": "Imagen Multicast",
     "category": "News",
@@ -910,14 +934,6 @@
     "category": "News",
     "language": "mal",
     "country": "IN"
-  },
-  {
-    "videoId": "2XnL_oZLIGw",
-    "channelId": "UCfbg-zJ9uZ-WInaLy_dWcQA",
-    "name": "SBT RIBEIRÃO PRETO",
-    "category": "News",
-    "language": "por",
-    "country": "BR"
   },
   {
     "videoId": "NdQSOItOQ5Y",
@@ -1056,7 +1072,7 @@
     "country": "IN"
   },
   {
-    "videoId": "YHnPoh4IUO4",
+    "videoId": "hNfDJk4LYiM",
     "channelId": "UCH4UNKBHSNwstan99YDoCVg",
     "name": "Alghad TV: قناة الغد",
     "category": "News",
@@ -1088,7 +1104,7 @@
     "country": "IN"
   },
   {
-    "videoId": "YGNEW1JIxNg",
+    "videoId": "8-dQWe6SNlE",
     "channelId": "UChd1DEecCRlxaa0-hvPACCw",
     "name": "JoyNews",
     "category": "News",
@@ -1350,6 +1366,14 @@
     "category": "News",
     "language": "pol",
     "country": "PL"
+  },
+  {
+    "videoId": "NXV2cp5PZsc",
+    "channelId": "UCl27leged0PT2kIrRtrFYKA",
+    "name": "RBC News 24",
+    "category": "News",
+    "language": "jpn",
+    "country": "JP"
   },
   {
     "videoId": "HLv-EF57rcY",
@@ -1736,6 +1760,14 @@
     "country": "JP"
   },
   {
+    "videoId": "GqhZnIN8T9U",
+    "channelId": "UCqyt55f3byoK8rjgO0LBe4Q",
+    "name": "Desh TV",
+    "category": "News",
+    "language": "ben",
+    "country": "BD"
+  },
+  {
     "videoId": "UQ64XobiT0Y",
     "channelId": "UCrcpw88HvKJ0skdsHniCJtQ",
     "name": "News18 Lokmat",
@@ -1862,14 +1894,6 @@
     "category": "News",
     "language": "hin",
     "country": "IN"
-  },
-  {
-    "videoId": "40y3OjDA2Pg",
-    "channelId": "UCsRfBAspa72ExrsN347W2xg",
-    "name": "SBT Rio",
-    "category": "News",
-    "language": "por",
-    "country": "BR"
   },
   {
     "videoId": "fSTF8ke-R34",
@@ -2120,6 +2144,14 @@
     "country": "JP"
   },
   {
+    "videoId": "flGkMdb3oD8",
+    "channelId": "UCUvXoiDEKI8VZJrr58g4VAw",
+    "name": "DBC NEWS",
+    "category": "News",
+    "language": "ben",
+    "country": "BD"
+  },
+  {
     "videoId": "NuYS96NiJY0",
     "channelId": "UCUy__zD6aeuZKUXX8kUc4ZQ",
     "name": "Česko-Slovenská regionálna televízia",
@@ -2152,7 +2184,7 @@
     "country": "IN"
   },
   {
-    "videoId": "sPJiEXrR-0M",
+    "videoId": "5sDJmVnGz8I",
     "channelId": "UCv7_krlrre3GQi79d4guxHQ",
     "name": "YTV News",
     "category": "News",

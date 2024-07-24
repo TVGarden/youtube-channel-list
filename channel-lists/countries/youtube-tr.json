@@ -24,7 +24,7 @@
     "country": "TR"
   },
   {
-    "videoId": "aNNgFPvgAfU",
+    "videoId": "m_1GV8Y9kwE",
     "channelId": "UC5GvVahlgulCyo4cshSmbcg",
     "name": "عربي TRT",
     "category": "News",
@@ -80,7 +80,7 @@
     "country": "TR"
   },
   {
-    "videoId": "WeMTnqO6wrE",
+    "videoId": "og4Bl9zD6l8",
     "channelId": "UCBgTP2LOFVPmq15W-RH-WXA",
     "name": "TRT Haber",
     "category": "News",
@@ -220,6 +220,14 @@
     "channelId": "UCKQhfw-lzz0uKnE1fY1PsAA",
     "name": "A Haber",
     "category": "News",
+    "language": "tur",
+    "country": "TR"
+  },
+  {
+    "videoId": "L7OBdPdsi2s",
+    "channelId": "UCkRY4J8G__K8SEWZRLbke-Q",
+    "name": "Muhteşem Yüzyıl",
+    "category": "Series",
     "language": "tur",
     "country": "TR"
   },
