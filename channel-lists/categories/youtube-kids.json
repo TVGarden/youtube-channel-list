@@ -8,12 +8,20 @@
     "country": "FR"
   },
   {
-    "videoId": "HTEAqfdg63A",
+    "videoId": "PtfTtoax93A",
     "channelId": "UC2T2eP7aoOqTDssupevArfA",
     "name": "Jetix",
     "category": "Kids",
     "language": "rus",
     "country": "RU"
+  },
+  {
+    "videoId": "AjmKgbRY2Vw",
+    "channelId": "UC74bcC7aGRNz4KoRpJsJNEw",
+    "name": "Nicktoons: SpongeBob",
+    "category": "Kids",
+    "language": "eng",
+    "country": "US"
   },
   {
     "videoId": "bfUFeaVQnLY",
@@ -403,6 +411,14 @@
     "videoId": "VTz-GfVrSDA",
     "channelId": "UCU9iHFmrNgFp1gP75lSkIdA",
     "name": "Unicorn Academy",
+    "category": "Kids",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "hPzpXb3xwfc",
+    "channelId": "UCx27Pkk8plpiosF14qXq-VA",
+    "name": "SpongeBob SquarePants Official",
     "category": "Kids",
     "language": "eng",
     "country": "US"

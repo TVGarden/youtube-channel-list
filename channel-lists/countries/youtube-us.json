@@ -48,6 +48,14 @@
     "country": "US"
   },
   {
+    "videoId": "AjmKgbRY2Vw",
+    "channelId": "UC74bcC7aGRNz4KoRpJsJNEw",
+    "name": "Nicktoons: SpongeBob",
+    "category": "Kids",
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "videoId": "W9WeTzvwyMw",
     "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
     "name": "TokuSHOUTsu: Speed Racer",
@@ -416,7 +424,7 @@
     "country": "US"
   },
   {
-    "videoId": "wKHc_JErNZw",
+    "videoId": "eMCNMKO8eKU",
     "channelId": "UCgVZ0mrM3liHNhRYC5Mchgg",
     "name": "WPLG Local 10",
     "category": "News",
@@ -768,22 +776,6 @@
     "country": "US"
   },
   {
-    "videoId": "YXkyiCQwMEg",
-    "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
-    "name": "Shout! Studios: ALF (Latino Español)",
-    "category": "Series",
-    "language": "spa",
-    "country": "US"
-  },
-  {
-    "videoId": "4Ci11_3zcVA",
-    "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
-    "name": "Shout! Studios: ALF (Español de España)",
-    "category": "Series",
-    "language": "spa",
-    "country": "US"
-  },
-  {
     "videoId": "b5SZiMxeuLI",
     "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
     "name": "Shout! Studios: The Whitest Kids U' Know",
@@ -1048,7 +1040,15 @@
     "country": "US"
   },
   {
-    "videoId": "vZ0YOm__YJc",
+    "videoId": "hPzpXb3xwfc",
+    "channelId": "UCx27Pkk8plpiosF14qXq-VA",
+    "name": "SpongeBob SquarePants Official",
+    "category": "Kids",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "0G3bj8km5WE",
     "channelId": "UCx6h-dWzJ5NpAlja1YsApdg",
     "name": "Newsmax",
     "category": "News",

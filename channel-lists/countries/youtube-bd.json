@@ -8,7 +8,7 @@
     "country": "BD"
   },
   {
-    "videoId": "ykCIWIq1AIg",
+    "videoId": "2RY-mcBOR-E",
     "channelId": "UC0V3IJCnr6ZNjB9t_GLhFFA",
     "name": "NTV Live ",
     "category": "General",
@@ -16,7 +16,7 @@
     "country": "BD"
   },
   {
-    "videoId": "4zF6nC3HwY0",
+    "videoId": "4k3lxJ-d5dM",
     "channelId": "UC2P5Fd5g41Gtdqf0Uzh8Qaw",
     "name": "Rtv News",
     "category": "News",
@@ -24,7 +24,7 @@
     "country": "BD"
   },
   {
-    "videoId": "ohyyvjOsxKs",
+    "videoId": "3yJbDC98BU0",
     "channelId": "UC8NcXMG3A3f2aFQyGTpSNww",
     "name": "Channel i News",
     "category": "News",
@@ -35,6 +35,14 @@
     "videoId": "cKmL34FQhjE",
     "channelId": "UCATUkaOHwO9EP_W87zCiPbA",
     "name": "Independent Television",
+    "category": "News",
+    "language": "ben",
+    "country": "BD"
+  },
+  {
+    "videoId": "jkcK0g4TCY4",
+    "channelId": "UCN6sm8iHiPd0cnoUardDAnw",
+    "name": "Jamuna TV",
     "category": "News",
     "language": "ben",
     "country": "BD"
