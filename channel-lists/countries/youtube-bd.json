@@ -8,7 +8,7 @@
     "country": "BD"
   },
   {
-    "videoId": "2RY-mcBOR-E",
+    "videoId": "BG-tUWW0LR0",
     "channelId": "UC0V3IJCnr6ZNjB9t_GLhFFA",
     "name": "NTV Live ",
     "category": "General",
@@ -16,7 +16,7 @@
     "country": "BD"
   },
   {
-    "videoId": "4k3lxJ-d5dM",
+    "videoId": "qXLJc1Wvr4w",
     "channelId": "UC2P5Fd5g41Gtdqf0Uzh8Qaw",
     "name": "Rtv News",
     "category": "News",
@@ -35,6 +35,14 @@
     "videoId": "cKmL34FQhjE",
     "channelId": "UCATUkaOHwO9EP_W87zCiPbA",
     "name": "Independent Television",
+    "category": "News",
+    "language": "ben",
+    "country": "BD"
+  },
+  {
+    "videoId": "hL9Zf2ISZeg",
+    "channelId": "UCHKvg7FqyEqmOkYx0y4KtlA",
+    "name": "News24 Daily",
     "category": "News",
     "language": "ben",
     "country": "BD"
@@ -68,6 +76,14 @@
     "channelId": "UCUvXoiDEKI8VZJrr58g4VAw",
     "name": "DBC NEWS",
     "category": "News",
+    "language": "ben",
+    "country": "BD"
+  },
+  {
+    "videoId": "yyNrRIpHbJk",
+    "channelId": "UCWVqdPTigfQ-cSNwG7O9MeA",
+    "name": "EKHON TV",
+    "category": "Business",
     "language": "ben",
     "country": "BD"
   },
