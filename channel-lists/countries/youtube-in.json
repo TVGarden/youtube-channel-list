@@ -136,7 +136,7 @@
     "country": "IN"
   },
   {
-    "videoId": "Df5XiZNrigk",
+    "videoId": "yhZXTuTFXx0",
     "channelId": "UC8Z-VjXBtDJTvq6aqkIskPg",
     "name": "Polimer News",
     "category": "News",
@@ -152,7 +152,7 @@
     "country": "IN"
   },
   {
-    "videoId": "-1Q6G0HRURA",
+    "videoId": "CXZv6JXpc8o",
     "channelId": "UC9CYT9gSNLevX5ey2_6CK0Q",
     "name": "NDTV India",
     "category": "News",
@@ -597,6 +597,14 @@
     "name": "CNBC Awaaz",
     "category": "Business",
     "language": "hin",
+    "country": "IN"
+  },
+  {
+    "videoId": "DTuhoG7tpTc",
+    "channelId": "UCQLEbraENUGWh6p1Rv664rQ",
+    "name": "PTC NEWS",
+    "category": "News",
+    "language": "pan",
     "country": "IN"
   },
   {

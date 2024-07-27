@@ -1,13 +1,5 @@
 [
   {
-    "videoId": "oZdzzvxTfUY",
-    "channelId": "UC2TuODJhC03pLgd6MpWP0iw",
-    "name": "Taiwan SETNEWS",
-    "category": "News",
-    "language": "zho",
-    "country": "TW"
-  },
-  {
     "videoId": "FoBfXvlOR6I",
     "channelId": "UC2TuODJhC03pLgd6MpWP0iw",
     "name": "三立LIVE新聞 (SET Live NEWS)",
@@ -171,14 +163,6 @@
     "videoId": "rO9tl-LyaZo",
     "channelId": "UCO3bfz4KY6zGT5IOaFJuxpA",
     "name": "CTV News 中視新聞",
-    "category": "News",
-    "language": "zho",
-    "country": "TW"
-  },
-  {
-    "videoId": "pF507BLtbqU",
-    "channelId": "UCoNYj9OFHZn3ACmmeRCPwbA",
-    "name": "三立iNEWS",
     "category": "News",
     "language": "zho",
     "country": "TW"

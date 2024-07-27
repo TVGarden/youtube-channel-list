@@ -152,14 +152,6 @@
     "country": "US"
   },
   {
-    "videoId": "lGQ03jNe8d8",
-    "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
-    "name": "TokuSHOUTsu: Tokusatsu",
-    "category": "Classic",
-    "language": "jpn",
-    "country": "US"
-  },
-  {
     "videoId": "xNnd8Vk6w1Y",
     "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
     "name": "TokuSHOUTsu: Kamen Rider",
@@ -720,6 +712,14 @@
     "country": "US"
   },
   {
+    "videoId": "-_ofjzIsSkU",
+    "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
+    "name": "Shout! Studios: Farscape (English)",
+    "category": "Series",
+    "language": "eng",
+    "country": "US"
+  },
+  {
     "videoId": "ex9QWiQZM-o",
     "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
     "name": "Shout! Studios: Farscape (Français)",
@@ -765,6 +765,22 @@
     "name": "Shout! Studios: ALF (English)",
     "category": "Series",
     "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "djRpzsfkJOI",
+    "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
+    "name": "Shout! Studios: ALF (Latino Español)",
+    "category": "Series",
+    "language": "spa",
+    "country": "US"
+  },
+  {
+    "videoId": "c8yUVbo3P5c",
+    "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
+    "name": "Shout! Studios: ALF (Español de España)",
+    "category": "Series",
+    "language": "spa",
     "country": "US"
   },
   {
@@ -821,30 +837,6 @@
     "name": "Shout! Studios: Pee-wee's Playhouse",
     "category": "Classic",
     "language": "eng",
-    "country": "US"
-  },
-  {
-    "videoId": "-_ofjzIsSkU",
-    "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
-    "name": "Shout! Studios: Farscape (English)",
-    "category": "Series",
-    "language": "eng",
-    "country": "US"
-  },
-  {
-    "videoId": "djRpzsfkJOI",
-    "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
-    "name": "Shout! Studios: ALF (Latino Español)",
-    "category": "Series",
-    "language": "spa",
-    "country": "US"
-  },
-  {
-    "videoId": "c8yUVbo3P5c",
-    "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
-    "name": "Shout! Studios: ALF (Español de España)",
-    "category": "Series",
-    "language": "spa",
     "country": "US"
   },
   {
