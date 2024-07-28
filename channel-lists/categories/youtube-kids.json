@@ -352,14 +352,6 @@
     "country": "US"
   },
   {
-    "videoId": "P1vg7TrDU6Q",
-    "channelId": "UCS0B3UT8eyVA_Cbgh5hXzpg",
-    "name": "اوكو ليلي القناة الرسمية 1",
-    "category": "Kids",
-    "language": "ara",
-    "country": "AE"
-  },
-  {
     "videoId": "EbgJKtDiido",
     "channelId": "UCS0B3UT8eyVA_Cbgh5hXzpg",
     "name": "اوكو ليلي القناة الرسمية 2",
@@ -368,7 +360,15 @@
     "country": "AE"
   },
   {
-    "videoId": "G8cvEshnckQ",
+    "videoId": "HxOFiWy5Z6I",
+    "channelId": "UCS0B3UT8eyVA_Cbgh5hXzpg",
+    "name": "اوكو ليلي القناة الرسمية 1",
+    "category": "Kids",
+    "language": "ara",
+    "country": "AE"
+  },
+  {
+    "videoId": "d0Mo9ggV6tM",
     "channelId": "UCsklwaoSWVr87jTQi-b4fvg",
     "name": "Super Simple: Bedtime Songs",
     "category": "Kids",
@@ -376,7 +376,7 @@
     "country": "CA"
   },
   {
-    "videoId": "hsbmwQ4sovs",
+    "videoId": "8wUl5cP2lsg",
     "channelId": "UCsklwaoSWVr87jTQi-b4fvg",
     "name": "Super Simple: Noodle and Pals",
     "category": "Kids",
@@ -384,7 +384,7 @@
     "country": "CA"
   },
   {
-    "videoId": "X2-WtZiJZjQ",
+    "videoId": "eR6wCcXTeCg",
     "channelId": "UCsklwaoSWVr87jTQi-b4fvg",
     "name": "Super Simple: Simple Songs",
     "category": "Kids",

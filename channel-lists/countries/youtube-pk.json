@@ -24,7 +24,7 @@
     "country": "PK"
   },
   {
-    "videoId": "0YAcFnB8mGE",
+    "videoId": "Z0bcjzJ9aZo",
     "channelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
     "name": "Dawn News",
     "category": "News",
@@ -52,6 +52,14 @@
     "channelId": "UCcmpeVbSSQlZRvHfdC-CRwg",
     "name": "24 News HD",
     "category": "News",
+    "language": "urd",
+    "country": "PK"
+  },
+  {
+    "videoId": "_4i4XodZ7Is",
+    "channelId": "UCdLLxVWeJbtOCZ6s7-YZVKA",
+    "name": "PTV Home",
+    "category": "General",
     "language": "urd",
     "country": "PK"
   },

@@ -96,14 +96,6 @@
     "country": "AT"
   },
   {
-    "videoId": "iZcerb7AuV0",
-    "channelId": "UCcmuFsMIIIHO3LBqeBVfm8Q",
-    "name": "Televisa Mexicali",
-    "category": "General",
-    "language": "spa",
-    "country": "MX"
-  },
-  {
     "videoId": "X9b9la7rowY",
     "channelId": "UCdBYAZdagaQcr-Fe15ifMPQ",
     "name": "Telewizja Narew",
@@ -118,6 +110,14 @@
     "category": "General",
     "language": "por",
     "country": "BR"
+  },
+  {
+    "videoId": "_4i4XodZ7Is",
+    "channelId": "UCdLLxVWeJbtOCZ6s7-YZVKA",
+    "name": "PTV Home",
+    "category": "General",
+    "language": "urd",
+    "country": "PK"
   },
   {
     "videoId": "AqO-ZytvnzM",
@@ -232,7 +232,7 @@
     "country": "US"
   },
   {
-    "videoId": "r8mGc8J8f0k",
+    "videoId": "FxswzeHszKw",
     "channelId": "UCtm1LvYEIQ_NrfOUVJ08YhQ",
     "name": "Televisa Sinaloa",
     "category": "General",
