@@ -360,6 +360,14 @@
     "country": "JP"
   },
   {
+    "videoId": "M2FQkczPRb8",
+    "channelId": "UC6cxTsUnfSZrj96KNHhRTHQ",
+    "name": "Saam TV News",
+    "category": "News",
+    "language": "mar",
+    "country": "IN"
+  },
+  {
     "videoId": "oWnkRvZb5fE",
     "channelId": "UC6ickpgDIsltU_-8CbZaksQ",
     "name": "ETV Telangana",
@@ -464,7 +472,7 @@
     "country": "JP"
   },
   {
-    "videoId": "o2l1zGOoTwA",
+    "videoId": "hjF8VNsG8Ro",
     "channelId": "UC8NcXMG3A3f2aFQyGTpSNww",
     "name": "Channel i News",
     "category": "News",
@@ -512,7 +520,7 @@
     "country": "IN"
   },
   {
-    "videoId": "paViGeU-d2E",
+    "videoId": "TP3SP2Umm1o",
     "channelId": "UC9CYT9gSNLevX5ey2_6CK0Q",
     "name": "NDTV India",
     "category": "News",
@@ -640,7 +648,7 @@
     "country": "DJ"
   },
   {
-    "videoId": "R8-DIRW24WQ",
+    "videoId": "0j15TA2iyrY",
     "channelId": "UCB82Zom1MYh8VV4q7wXkfGA",
     "name": "SUNO NEWS HD",
     "category": "News",
@@ -968,7 +976,7 @@
     "country": "JP"
   },
   {
-    "videoId": "N-EXv0Fw4Ks",
+    "videoId": "Xcj7hu_w3S8",
     "channelId": "UCGDQNvybfDDeGTf4GtigXaw",
     "name": "DD India",
     "category": "News",
@@ -1256,7 +1264,7 @@
     "country": "MY"
   },
   {
-    "videoId": "K3OhEZ2Eifg",
+    "videoId": "-O46lm-D1kg",
     "channelId": "UCkcClukVA92272XoJdei8Xw",
     "name": "Swatantra TV",
     "category": "News",
@@ -1320,7 +1328,7 @@
     "country": "UA"
   },
   {
-    "videoId": "vGxlzU290z0",
+    "videoId": "-770SCZ2euo",
     "channelId": "UCL1u3cY7_nPjbZmKljCy_Cw",
     "name": "Telewizja Dami Radom",
     "category": "News",
@@ -1368,7 +1376,7 @@
     "country": "TW"
   },
   {
-    "videoId": "uf5aOXorX1w",
+    "videoId": "DDudn80ODB8",
     "channelId": "UCMIobchb8wgycijrgc1UnZw",
     "name": "ABN Digital Exclusives",
     "category": "News",
@@ -1534,6 +1542,14 @@
     "category": "News",
     "language": "jpn",
     "country": "JP"
+  },
+  {
+    "videoId": "ggnt7_ec2zY",
+    "channelId": "UCoSkllfpgmFHtbVK835QaQg",
+    "name": "Official iNews",
+    "category": "News",
+    "language": "ind",
+    "country": "ID"
   },
   {
     "videoId": "ztmY_cCtUl0",
@@ -2398,14 +2414,6 @@
     "category": "News",
     "language": "zho",
     "country": "TW"
-  },
-  {
-    "videoId": "-VxkRobBLBo",
-    "channelId": "UCyscVWiJELkATSuU-RF2NLg",
-    "name": "قناة الحرة - Alhurra",
-    "category": "News",
-    "language": "ara",
-    "country": "US"
   },
   {
     "videoId": "yBsxGdPKETI",
