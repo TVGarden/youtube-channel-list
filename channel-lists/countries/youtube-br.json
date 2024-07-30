@@ -40,7 +40,7 @@
     "country": "BR"
   },
   {
-    "videoId": "Buvcf1D9t4c",
+    "videoId": "szDw4p0V0Tc",
     "channelId": "UCdFKGMlvchusRx1u3mBUwrQ",
     "name": "TV Tambaú",
     "category": "General",
@@ -68,6 +68,14 @@
     "channelId": "UCH1a8t5cikU9cYa69BLVfbQ",
     "name": "TV ALERJ",
     "category": "Entertainment",
+    "language": "por",
+    "country": "BR"
+  },
+  {
+    "videoId": "zmF6WHEVoKw",
+    "channelId": "UCHDfPYXReWt5EVIzBA6TzOQ",
+    "name": "SBT RS",
+    "category": "News",
     "language": "por",
     "country": "BR"
   },
@@ -144,7 +152,7 @@
     "country": "BR"
   },
   {
-    "videoId": "THwqjEi6vu4",
+    "videoId": "ap8bSB2hkpk",
     "channelId": "UCVrKQMmA2ew9LFzeIDaOFgw",
     "name": "TV Canção Nova",
     "category": "Religious",

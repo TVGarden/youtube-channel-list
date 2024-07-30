@@ -1,6 +1,6 @@
 [
   {
-    "videoId": "IIoXSr8nHls",
+    "videoId": "Zy6rJp-7ClY",
     "channelId": "UC_mwCcsKDJLSWjply5s0h8w",
     "name": "Televisa Laguna",
     "category": "General",
@@ -96,6 +96,14 @@
     "country": "AT"
   },
   {
+    "videoId": "kGQ-qzbHkyg",
+    "channelId": "UCcmuFsMIIIHO3LBqeBVfm8Q",
+    "name": "Televisa Mexicali",
+    "category": "General",
+    "language": "spa",
+    "country": "MX"
+  },
+  {
     "videoId": "X9b9la7rowY",
     "channelId": "UCdBYAZdagaQcr-Fe15ifMPQ",
     "name": "Telewizja Narew",
@@ -104,7 +112,7 @@
     "country": "PL"
   },
   {
-    "videoId": "Buvcf1D9t4c",
+    "videoId": "szDw4p0V0Tc",
     "channelId": "UCdFKGMlvchusRx1u3mBUwrQ",
     "name": "TV Tambaú",
     "category": "General",
@@ -176,7 +184,7 @@
     "country": "MX"
   },
   {
-    "videoId": "t2tnEGemamw",
+    "videoId": "KJXC6LtNhos",
     "channelId": "UCot4t8PVKz8TT5xVM8Eb00w",
     "name": "Televisa Ciudad Juarez",
     "category": "General",
@@ -195,6 +203,14 @@
     "videoId": "5WZiZLEz6H8",
     "channelId": "UCQb3i7gu9J8A4zzQU7j6C1Q",
     "name": "Televisa Zacatecas",
+    "category": "General",
+    "language": "spa",
+    "country": "MX"
+  },
+  {
+    "videoId": "JvRcWWbrjlQ",
+    "channelId": "UCRujF_YxVVFmTRWURQH-Cww",
+    "name": "Televisa Guadalajara",
     "category": "General",
     "language": "spa",
     "country": "MX"
@@ -256,17 +272,9 @@
     "country": "FR"
   },
   {
-    "videoId": "qqJkIwEJX7I",
-    "channelId": "UCxK8C1E8UZ5RipNXIBYEvTA",
-    "name": "Televisa Piedras Negras",
-    "category": "General",
-    "language": "spa",
-    "country": "MX"
-  },
-  {
-    "videoId": "ojFbLPqQ3o4",
-    "channelId": "UCYxbE-WoPqKq26sSeQ6eD1w",
-    "name": "NewTv",
+    "videoId": "NtE8LWn4iQM",
+    "channelId": "UCyQL0IjtptnQ9PxmAfH3fKQ",
+    "name": "Telewizja Zabrze",
     "category": "General",
     "language": "pol",
     "country": "PL"

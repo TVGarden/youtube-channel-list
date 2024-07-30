@@ -1,6 +1,6 @@
 [
   {
-    "videoId": "IIoXSr8nHls",
+    "videoId": "Zy6rJp-7ClY",
     "channelId": "UC_mwCcsKDJLSWjply5s0h8w",
     "name": "Televisa Laguna",
     "category": "General",
@@ -48,6 +48,14 @@
     "country": "MX"
   },
   {
+    "videoId": "kGQ-qzbHkyg",
+    "channelId": "UCcmuFsMIIIHO3LBqeBVfm8Q",
+    "name": "Televisa Mexicali",
+    "category": "General",
+    "language": "spa",
+    "country": "MX"
+  },
+  {
     "videoId": "nf51kcqhqYs",
     "channelId": "UCevif8Yk47cJKrq4-0EmwIA",
     "name": "Imagen Multicast",
@@ -88,7 +96,7 @@
     "country": "MX"
   },
   {
-    "videoId": "-aGAjkpXVfc",
+    "videoId": "72EAhgikerY",
     "channelId": "UCjwXjnO3BGePtB7gSKEpoqA",
     "name": "Televisa Tijuana",
     "category": "Entertainment",
@@ -120,7 +128,7 @@
     "country": "MX"
   },
   {
-    "videoId": "t2tnEGemamw",
+    "videoId": "KJXC6LtNhos",
     "channelId": "UCot4t8PVKz8TT5xVM8Eb00w",
     "name": "Televisa Ciudad Juarez",
     "category": "General",
@@ -144,17 +152,17 @@
     "country": "MX"
   },
   {
-    "videoId": "FxswzeHszKw",
-    "channelId": "UCtm1LvYEIQ_NrfOUVJ08YhQ",
-    "name": "Televisa Sinaloa",
+    "videoId": "JvRcWWbrjlQ",
+    "channelId": "UCRujF_YxVVFmTRWURQH-Cww",
+    "name": "Televisa Guadalajara",
     "category": "General",
     "language": "spa",
     "country": "MX"
   },
   {
-    "videoId": "qqJkIwEJX7I",
-    "channelId": "UCxK8C1E8UZ5RipNXIBYEvTA",
-    "name": "Televisa Piedras Negras",
+    "videoId": "FxswzeHszKw",
+    "channelId": "UCtm1LvYEIQ_NrfOUVJ08YhQ",
+    "name": "Televisa Sinaloa",
     "category": "General",
     "language": "spa",
     "country": "MX"

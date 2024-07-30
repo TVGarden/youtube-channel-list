@@ -96,7 +96,7 @@
     "country": "JP"
   },
   {
-    "videoId": "_K9v_wa-Ei8",
+    "videoId": "7N6JFEnRNEI",
     "channelId": "UCGCZAYq5Xxojl_tSXcVJhiQ",
     "name": "ANNnewsCH Ukraine War",
     "category": "News",
@@ -204,6 +204,14 @@
     "channelId": "UCUVWoy_rGPdZeUp7jjRHOaQ",
     "name": "Earthquake Alert Channel",
     "category": "Education",
+    "language": "jpn",
+    "country": "JP"
+  },
+  {
+    "videoId": "5tlj-xznT_E",
+    "channelId": "UCv7_krlrre3GQi79d4guxHQ",
+    "name": "YTV News",
+    "category": "News",
     "language": "jpn",
     "country": "JP"
   },

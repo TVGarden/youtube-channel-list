@@ -48,6 +48,14 @@
     "country": "LT"
   },
   {
+    "videoId": "nVl4OvWm7is",
+    "channelId": "UC9hyY_wWSJnkUKPfrfOP4dQ",
+    "name": "Joy Prime TV",
+    "category": "Entertainment",
+    "language": "eng",
+    "country": "GH"
+  },
+  {
     "videoId": "lDcWeklf6DI",
     "channelId": "UCaKod3X1Tn4c7Ci0iUKcvzQ",
     "name": "SBS Running Man",
@@ -112,7 +120,7 @@
     "country": "TN"
   },
   {
-    "videoId": "-aGAjkpXVfc",
+    "videoId": "72EAhgikerY",
     "channelId": "UCjwXjnO3BGePtB7gSKEpoqA",
     "name": "Televisa Tijuana",
     "category": "Entertainment",
@@ -126,6 +134,14 @@
     "category": "Entertainment",
     "language": "zho",
     "country": "TW"
+  },
+  {
+    "videoId": "2sUO-IFsky8",
+    "channelId": "UCKlgbbF9wphTKATOWiG5jPQ",
+    "name": "Adom TV",
+    "category": "Entertainment",
+    "language": "eng",
+    "country": "GH"
   },
   {
     "videoId": "Df3g76Y25gs",
@@ -270,14 +286,6 @@
     "category": "Entertainment",
     "language": "spa",
     "country": "UY"
-  },
-  {
-    "videoId": "og5hZLEuc-E",
-    "channelId": "UCYozHHDnLnQs2yc2k3t8cPA",
-    "name": "El Ocho",
-    "category": "Entertainment",
-    "language": "spa",
-    "country": "AR"
   },
   {
     "videoId": "RYqewnoTqWQ",

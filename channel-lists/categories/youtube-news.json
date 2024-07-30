@@ -200,6 +200,14 @@
     "country": "TW"
   },
   {
+    "videoId": "rroKIOQ8x8g",
+    "channelId": "UC2TuODJhC03pLgd6MpWP0iw",
+    "name": "Taiwan SETNEWS",
+    "category": "News",
+    "language": "zho",
+    "country": "TW"
+  },
+  {
     "videoId": "ylYJSBUgaMA",
     "channelId": "UC2VmWn8dAqkzlQqvy02E1PA",
     "name": "民視新聞網 Formosa TV",
@@ -520,7 +528,7 @@
     "country": "IN"
   },
   {
-    "videoId": "TP3SP2Umm1o",
+    "videoId": "_lONSJilRdA",
     "channelId": "UC9CYT9gSNLevX5ey2_6CK0Q",
     "name": "NDTV India",
     "category": "News",
@@ -624,7 +632,7 @@
     "country": "BD"
   },
   {
-    "videoId": "Z0bcjzJ9aZo",
+    "videoId": "ZSNAogtMXh4",
     "channelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
     "name": "Dawn News",
     "category": "News",
@@ -808,7 +816,7 @@
     "country": "IN"
   },
   {
-    "videoId": "pkQwqa3zVeA",
+    "videoId": "YNSTxpCNFLg",
     "channelId": "UCElJZvY_RVra6qjD8WSQYog",
     "name": "Public News",
     "category": "News",
@@ -968,7 +976,7 @@
     "country": "JP"
   },
   {
-    "videoId": "_K9v_wa-Ei8",
+    "videoId": "7N6JFEnRNEI",
     "channelId": "UCGCZAYq5Xxojl_tSXcVJhiQ",
     "name": "ANNnewsCH Ukraine War",
     "category": "News",
@@ -1078,6 +1086,22 @@
     "category": "News",
     "language": "ben",
     "country": "IN"
+  },
+  {
+    "videoId": "VW0pkD_zB0U",
+    "channelId": "UChd1DEecCRlxaa0-hvPACCw",
+    "name": "JoyNews",
+    "category": "News",
+    "language": "eng",
+    "country": "GH"
+  },
+  {
+    "videoId": "zmF6WHEVoKw",
+    "channelId": "UCHDfPYXReWt5EVIzBA6TzOQ",
+    "name": "SBT RS",
+    "category": "News",
+    "language": "por",
+    "country": "BR"
   },
   {
     "videoId": "xoQYyvuffBY",
@@ -1264,15 +1288,7 @@
     "country": "MY"
   },
   {
-    "videoId": "-O46lm-D1kg",
-    "channelId": "UCkcClukVA92272XoJdei8Xw",
-    "name": "Swatantra TV",
-    "category": "News",
-    "language": "tel",
-    "country": "IN"
-  },
-  {
-    "videoId": "sUsoDO6AdSU",
+    "videoId": "wyyzKquX1Nw",
     "channelId": "UCkccyEbqhhM3uKOI6Shm-4Q",
     "name": "Meganoticias",
     "category": "News",
@@ -1424,7 +1440,7 @@
     "country": "IN"
   },
   {
-    "videoId": "sU0LXHJLfzw",
+    "videoId": "vE0vYDEba_g",
     "channelId": "UCN6sm8iHiPd0cnoUardDAnw",
     "name": "Jamuna TV",
     "category": "News",
@@ -1608,7 +1624,7 @@
     "country": "PL"
   },
   {
-    "videoId": "CXwNvgqW_60",
+    "videoId": "8Em8wGbFc2M",
     "channelId": "UCPLKy4Ypb4mfblbjJI8Aljw",
     "name": "News Central TV",
     "category": "News",
@@ -1704,7 +1720,7 @@
     "country": "JP"
   },
   {
-    "videoId": "0p0Is9xDxAI",
+    "videoId": "922s9awrMd0",
     "channelId": "UCqyt55f3byoK8rjgO0LBe4Q",
     "name": "Desh TV",
     "category": "News",
@@ -1792,7 +1808,7 @@
     "country": "ZA"
   },
   {
-    "videoId": "ySNmgblDU_E",
+    "videoId": "Hyar7wlcIEw",
     "channelId": "UCsDQbVxQjBuFOa98vxRlbVQ",
     "name": "Roya News",
     "category": "News",
@@ -1856,7 +1872,7 @@
     "country": "BR"
   },
   {
-    "videoId": "fSTF8ke-R34",
+    "videoId": "oX3rKkFegVk",
     "channelId": "UCsRnhjcUCR78Q3Ud6OXCTNg",
     "name": "T13",
     "category": "News",
@@ -2144,6 +2160,14 @@
     "country": "IN"
   },
   {
+    "videoId": "5tlj-xznT_E",
+    "channelId": "UCv7_krlrre3GQi79d4guxHQ",
+    "name": "YTV News",
+    "category": "News",
+    "language": "jpn",
+    "country": "JP"
+  },
+  {
     "videoId": "ASndlvhI8p0",
     "channelId": "UCVEaAWKfv7fE1c-ZuBs7TKQ",
     "name": "Телеканал 1+1: FREEДОМ ",
@@ -2288,7 +2312,7 @@
     "country": "YE"
   },
   {
-    "videoId": "2i1Mt0gkhLY",
+    "videoId": "SDACb4NSqNw",
     "channelId": "UCXbufH95DIUqyAWSzeDI0JQ",
     "name": "Malaimurasu Tv 24X7",
     "category": "News",
@@ -2416,6 +2440,14 @@
     "country": "TW"
   },
   {
+    "videoId": "_eevbBe14jk",
+    "channelId": "UCyscVWiJELkATSuU-RF2NLg",
+    "name": "قناة الحرة - Alhurra",
+    "category": "News",
+    "language": "ara",
+    "country": "US"
+  },
+  {
     "videoId": "yBsxGdPKETI",
     "channelId": "UCYUbNjkuE4lsr2v1Id2O1oA",
     "name": "ABC 7 Bay Area and San Francisco News (KGO-DT1)",
@@ -2448,7 +2480,7 @@
     "country": "PK"
   },
   {
-    "videoId": "sr2Ry9JVDtU",
+    "videoId": "RQrLqUxw0U0",
     "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
     "name": "NDTV",
     "category": "News",
@@ -2456,7 +2488,7 @@
     "country": "IN"
   },
   {
-    "videoId": "RQrLqUxw0U0",
+    "videoId": "B3gVCgT6haw",
     "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
     "name": "NDTV",
     "category": "News",
