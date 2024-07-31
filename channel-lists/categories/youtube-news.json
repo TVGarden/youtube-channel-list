@@ -192,17 +192,17 @@
     "country": "BD"
   },
   {
-    "videoId": "FoBfXvlOR6I",
+    "videoId": "rroKIOQ8x8g",
     "channelId": "UC2TuODJhC03pLgd6MpWP0iw",
-    "name": "三立LIVE新聞 (SET Live NEWS)",
+    "name": "Taiwan SETNEWS",
     "category": "News",
     "language": "zho",
     "country": "TW"
   },
   {
-    "videoId": "rroKIOQ8x8g",
+    "videoId": "FoBfXvlOR6I",
     "channelId": "UC2TuODJhC03pLgd6MpWP0iw",
-    "name": "Taiwan SETNEWS",
+    "name": "三立LIVE新聞 (SET Live NEWS)",
     "category": "News",
     "language": "zho",
     "country": "TW"
@@ -528,7 +528,7 @@
     "country": "IN"
   },
   {
-    "videoId": "_lONSJilRdA",
+    "videoId": "WYBo3euYNCc",
     "channelId": "UC9CYT9gSNLevX5ey2_6CK0Q",
     "name": "NDTV India",
     "category": "News",
@@ -632,7 +632,7 @@
     "country": "BD"
   },
   {
-    "videoId": "ZSNAogtMXh4",
+    "videoId": "9iUBHe6KNbE",
     "channelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
     "name": "Dawn News",
     "category": "News",
@@ -656,7 +656,7 @@
     "country": "DJ"
   },
   {
-    "videoId": "0j15TA2iyrY",
+    "videoId": "003hlIBxe1g",
     "channelId": "UCB82Zom1MYh8VV4q7wXkfGA",
     "name": "SUNO NEWS HD",
     "category": "News",
@@ -1040,14 +1040,6 @@
     "country": "MX"
   },
   {
-    "videoId": "eMCNMKO8eKU",
-    "channelId": "UCgVZ0mrM3liHNhRYC5Mchgg",
-    "name": "WPLG Local 10",
-    "category": "News",
-    "language": "eng",
-    "country": "US"
-  },
-  {
     "videoId": "HHtIeJ4X0_Q",
     "channelId": "UCgZxM9BVOWr1w9Edi79Wg5w",
     "name": "Tamil Janam ",
@@ -1118,6 +1110,14 @@
     "category": "News",
     "language": "fra",
     "country": "FR"
+  },
+  {
+    "videoId": "Phwpnh5HhOI",
+    "channelId": "UCHKvg7FqyEqmOkYx0y4KtlA",
+    "name": "News24 Daily",
+    "category": "News",
+    "language": "ben",
+    "country": "BD"
   },
   {
     "videoId": "XkZAuRbCmJw",
@@ -1288,7 +1288,15 @@
     "country": "MY"
   },
   {
-    "videoId": "wyyzKquX1Nw",
+    "videoId": "nD16HOXwCF0",
+    "channelId": "UCkcClukVA92272XoJdei8Xw",
+    "name": "Swatantra TV",
+    "category": "News",
+    "language": "tel",
+    "country": "IN"
+  },
+  {
+    "videoId": "UXEIicjh9Bc",
     "channelId": "UCkccyEbqhhM3uKOI6Shm-4Q",
     "name": "Meganoticias",
     "category": "News",
@@ -1486,14 +1494,6 @@
     "category": "News",
     "language": "rus",
     "country": "RU"
-  },
-  {
-    "videoId": "_ESW_2bDORU",
-    "channelId": "UCnh5Faqn_r9HxeNd_dsvGHQ",
-    "name": "Halab Today TV",
-    "category": "News",
-    "language": "ara",
-    "country": "SY"
   },
   {
     "videoId": "SxzSL8GBJ4A",
@@ -1872,7 +1872,7 @@
     "country": "BR"
   },
   {
-    "videoId": "oX3rKkFegVk",
+    "videoId": "-C9cn0JV2K0",
     "channelId": "UCsRnhjcUCR78Q3Ud6OXCTNg",
     "name": "T13",
     "category": "News",
@@ -2160,7 +2160,7 @@
     "country": "IN"
   },
   {
-    "videoId": "5tlj-xznT_E",
+    "videoId": "Gh7N4A6FDF8",
     "channelId": "UCv7_krlrre3GQi79d4guxHQ",
     "name": "YTV News",
     "category": "News",
@@ -2464,7 +2464,7 @@
     "country": "AR"
   },
   {
-    "videoId": "V9RDjjDrK64",
+    "videoId": "fRvLflsUH7M",
     "channelId": "UCyXRmWbmyB7TSJekXsPCZKQ",
     "name": "TV Thathi SBT",
     "category": "News",
@@ -2488,7 +2488,7 @@
     "country": "IN"
   },
   {
-    "videoId": "B3gVCgT6haw",
+    "videoId": "cpPQZnDN8hM",
     "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
     "name": "NDTV",
     "category": "News",

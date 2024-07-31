@@ -24,14 +24,6 @@
     "country": "MX"
   },
   {
-    "videoId": "xqpbd6eQTpk",
-    "channelId": "UC5EnLdE7ASjYzWt7wvT-QSg",
-    "name": "Televisa Veracruz",
-    "category": "General",
-    "language": "spa",
-    "country": "MX"
-  },
-  {
     "videoId": "_LuNIT6DOWo",
     "channelId": "UC7k--FhnJzhPTrbtldMSoQQ",
     "name": "adn40Mx",
@@ -160,9 +152,17 @@
     "country": "MX"
   },
   {
-    "videoId": "FxswzeHszKw",
+    "videoId": "EKsnfi7Uy1s",
     "channelId": "UCtm1LvYEIQ_NrfOUVJ08YhQ",
     "name": "Televisa Sinaloa",
+    "category": "General",
+    "language": "spa",
+    "country": "MX"
+  },
+  {
+    "videoId": "_ELvjLNjAls",
+    "channelId": "UCxK8C1E8UZ5RipNXIBYEvTA",
+    "name": "Televisa Piedras Negras",
     "category": "General",
     "language": "spa",
     "country": "MX"

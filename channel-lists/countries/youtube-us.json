@@ -136,25 +136,9 @@
     "country": "US"
   },
   {
-    "videoId": "xNnd8Vk6w1Y",
-    "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
-    "name": "TokuSHOUTsu: Kamen Rider",
-    "category": "Classic",
-    "language": "jpn",
-    "country": "US"
-  },
-  {
     "videoId": "3F_EFcjtOVs",
     "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
     "name": "TokuSHOUTsu: Kamen Rider Ryuki",
-    "category": "Series",
-    "language": "jpn",
-    "country": "US"
-  },
-  {
-    "videoId": "SfMhpy5a9qw",
-    "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
-    "name": "TokuSHOUTsu: Chōjin Sentai Jetman",
     "category": "Series",
     "language": "jpn",
     "country": "US"
@@ -176,14 +160,6 @@
     "country": "US"
   },
   {
-    "videoId": "0SOfjGGZ7fE",
-    "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
-    "name": "TokuSHOUTsu: Taiki Matsuno",
-    "category": "Series",
-    "language": "jpn",
-    "country": "US"
-  },
-  {
     "videoId": "b3WkMYJYIHg",
     "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
     "name": "TokuSHOUTsu: Kamen Rider Geats",
@@ -196,14 +172,6 @@
     "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
     "name": "TokuSHOUTsu: Ultraman Movie Marathon",
     "category": "Animation",
-    "language": "eng",
-    "country": "US"
-  },
-  {
-    "videoId": "dY_67832hnY",
-    "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
-    "name": "TokuSHOUTsu: Kung Fu & Karate Movies",
-    "category": "Movies",
     "language": "eng",
     "country": "US"
   },
@@ -400,14 +368,6 @@
     "country": "US"
   },
   {
-    "videoId": "eMCNMKO8eKU",
-    "channelId": "UCgVZ0mrM3liHNhRYC5Mchgg",
-    "name": "WPLG Local 10",
-    "category": "News",
-    "language": "eng",
-    "country": "US"
-  },
-  {
     "videoId": "RHqWe_pHsiA",
     "channelId": "UCHyeWVPbdJNWNxdlsKl3IYA",
     "name": "Sunny Bunnies: Sunny Dessert",
@@ -475,6 +435,14 @@
     "videoId": "1-5GE_w7XvA",
     "channelId": "UCKtfozhWfwvXUTnR7PV3t5g",
     "name": "Peacock jr: Curious George",
+    "category": "Kids",
+    "language": "eng",
+    "country": "US"
+  },
+  {
+    "videoId": "tv9Q8bFyuYE",
+    "channelId": "UCKtfozhWfwvXUTnR7PV3t5g",
+    "name": "Peacock jr: Caillou",
     "category": "Kids",
     "language": "eng",
     "country": "US"
@@ -560,25 +528,9 @@
     "country": "US"
   },
   {
-    "videoId": "ju-DEEKwoQ0",
-    "channelId": "UCNcdbMyA59zE-Vk668bKWOg",
-    "name": "Disney Junior: Minnie's Bow-Toons",
-    "category": "Kids",
-    "language": "eng",
-    "country": "US"
-  },
-  {
     "videoId": "eTHZw4NSiG8",
     "channelId": "UCNcdbMyA59zE-Vk668bKWOg",
     "name": "Disney Junior: Winnie the Pooh",
-    "category": "Kids",
-    "language": "eng",
-    "country": "US"
-  },
-  {
-    "videoId": "skxfRc-swTo",
-    "channelId": "UCNcdbMyA59zE-Vk668bKWOg",
-    "name": "Disney Junior: Marvel's Spidey and his Amazing Friends",
     "category": "Kids",
     "language": "eng",
     "country": "US"
@@ -920,7 +872,7 @@
     "country": "US"
   },
   {
-    "videoId": "-UVH-0Nufxg",
+    "videoId": "kp5c5SawnfU",
     "channelId": "UCSVSJ1OCSv5ClFgKFTHIDew",
     "name": "PAW Patrol (English)",
     "category": "Kids",
