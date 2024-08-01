@@ -72,6 +72,14 @@
     "country": "CN"
   },
   {
+    "videoId": "NsRuJaGchPs",
+    "channelId": "UC5EnLdE7ASjYzWt7wvT-QSg",
+    "name": "Televisa Veracruz",
+    "category": "General",
+    "language": "spa",
+    "country": "MX"
+  },
+  {
     "videoId": "hAiIY3vttN0",
     "channelId": "UC9QNz6VS3gGz55dzxAQtgtA",
     "name": "Televisa Querétaro",
@@ -104,20 +112,12 @@
     "country": "PL"
   },
   {
-    "videoId": "szDw4p0V0Tc",
+    "videoId": "9mD6BqIhPug",
     "channelId": "UCdFKGMlvchusRx1u3mBUwrQ",
     "name": "TV Tambaú",
     "category": "General",
     "language": "por",
     "country": "BR"
-  },
-  {
-    "videoId": "_4i4XodZ7Is",
-    "channelId": "UCdLLxVWeJbtOCZ6s7-YZVKA",
-    "name": "PTV Home",
-    "category": "General",
-    "language": "urd",
-    "country": "PK"
   },
   {
     "videoId": "AqO-ZytvnzM",
@@ -176,7 +176,7 @@
     "country": "MX"
   },
   {
-    "videoId": "KJXC6LtNhos",
+    "videoId": "H1YjrTPlSgc",
     "channelId": "UCot4t8PVKz8TT5xVM8Eb00w",
     "name": "Televisa Ciudad Juarez",
     "category": "General",
@@ -251,6 +251,14 @@
     "videoId": "5ARTNKq49WY",
     "channelId": "UCva-htH2wvmKsG6SkcEJ4Vw",
     "name": "Maurienne TV",
+    "category": "General",
+    "language": "fra",
+    "country": "FR"
+  },
+  {
+    "videoId": "yTOjGPiFseY",
+    "channelId": "UCwVQAPo6tjC5w5yBBh0WEdA",
+    "name": "TVPI Officiel",
     "category": "General",
     "language": "fra",
     "country": "FR"
