@@ -24,7 +24,7 @@
     "country": "KR"
   },
   {
-    "videoId": "vF3THv-LiMg",
+    "videoId": "5Do65pe8Tb4",
     "channelId": "UC-uYy4_jIvDoJ4wigEv1S5A",
     "name": "Televisa Del Bajio",
     "category": "General",
@@ -104,7 +104,7 @@
     "country": "MX"
   },
   {
-    "videoId": "X9b9la7rowY",
+    "videoId": "1Ns6EQ65yGg",
     "channelId": "UCdBYAZdagaQcr-Fe15ifMPQ",
     "name": "Telewizja Narew",
     "category": "General",
@@ -112,12 +112,20 @@
     "country": "PL"
   },
   {
-    "videoId": "9mD6BqIhPug",
+    "videoId": "Okw9k2-4K0g",
     "channelId": "UCdFKGMlvchusRx1u3mBUwrQ",
     "name": "TV Tambaú",
     "category": "General",
     "language": "por",
     "country": "BR"
+  },
+  {
+    "videoId": "oeFvNmtXcc8",
+    "channelId": "UCdLLxVWeJbtOCZ6s7-YZVKA",
+    "name": "PTV Home",
+    "category": "General",
+    "language": "urd",
+    "country": "PK"
   },
   {
     "videoId": "AqO-ZytvnzM",
@@ -192,17 +200,17 @@
     "country": "MX"
   },
   {
+    "videoId": "RvO33Cd5nZI",
+    "channelId": "UCPmnk6gpje7qhq2eaAwtsMQ",
+    "name": "Somos Uno",
+    "category": "General",
+    "language": "spa",
+    "country": "AR"
+  },
+  {
     "videoId": "5WZiZLEz6H8",
     "channelId": "UCQb3i7gu9J8A4zzQU7j6C1Q",
     "name": "Televisa Zacatecas",
-    "category": "General",
-    "language": "spa",
-    "country": "MX"
-  },
-  {
-    "videoId": "JvRcWWbrjlQ",
-    "channelId": "UCRujF_YxVVFmTRWURQH-Cww",
-    "name": "Televisa Guadalajara",
     "category": "General",
     "language": "spa",
     "country": "MX"
@@ -296,7 +304,7 @@
     "country": "MX"
   },
   {
-    "videoId": "ldHbEiRd7y4",
+    "videoId": "uIbxunPN1KA",
     "channelId": "UCZvmZep3wknWdBPcKnwsPHA",
     "name": "TV Relax",
     "category": "General",

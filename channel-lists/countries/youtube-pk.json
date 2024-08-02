@@ -24,6 +24,14 @@
     "country": "PK"
   },
   {
+    "videoId": "Eg-Kqz51boA",
+    "channelId": "UCaxR-D8FjZ-2otbU0_Y2grg",
+    "name": "Dawn News",
+    "category": "News",
+    "language": "urd",
+    "country": "PK"
+  },
+  {
     "videoId": "b6sRM0kuTP8",
     "channelId": "UCB-8E662xOk1I3-wdhTMNiw",
     "name": "City 21 News",
@@ -32,7 +40,7 @@
     "country": "PK"
   },
   {
-    "videoId": "003hlIBxe1g",
+    "videoId": "SAmQWYHDPNU",
     "channelId": "UCB82Zom1MYh8VV4q7wXkfGA",
     "name": "SUNO NEWS HD",
     "category": "News",
@@ -44,6 +52,14 @@
     "channelId": "UCcmpeVbSSQlZRvHfdC-CRwg",
     "name": "24 News HD",
     "category": "News",
+    "language": "urd",
+    "country": "PK"
+  },
+  {
+    "videoId": "oeFvNmtXcc8",
+    "channelId": "UCdLLxVWeJbtOCZ6s7-YZVKA",
+    "name": "PTV Home",
+    "category": "General",
     "language": "urd",
     "country": "PK"
   },
@@ -132,14 +148,6 @@
     "channelId": "UCz2yxQJZgiB_5elTzqV7FiQ",
     "name": "BOL NEWS",
     "category": "News",
-    "language": "urd",
-    "country": "PK"
-  },
-  {
-    "videoId": "wLHV2eVjnI4",
-    "channelId": "UCZMKZS3L9GfhcFkMyBRoVFg",
-    "name": "Kids Land",
-    "category": "Kids",
     "language": "urd",
     "country": "PK"
   }
