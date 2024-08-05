@@ -40,7 +40,7 @@
     "country": "PK"
   },
   {
-    "videoId": "SAmQWYHDPNU",
+    "videoId": "waY5of1DuCA",
     "channelId": "UCB82Zom1MYh8VV4q7wXkfGA",
     "name": "SUNO NEWS HD",
     "category": "News",
@@ -56,7 +56,7 @@
     "country": "PK"
   },
   {
-    "videoId": "oeFvNmtXcc8",
+    "videoId": "w5n4lpF5CXY",
     "channelId": "UCdLLxVWeJbtOCZ6s7-YZVKA",
     "name": "PTV Home",
     "category": "General",
@@ -72,7 +72,7 @@
     "country": "PK"
   },
   {
-    "videoId": "HOJrHWojemQ",
+    "videoId": "5pYvTWckjHc",
     "channelId": "UCElJZvY_RVra6qjD8WSQYog",
     "name": "Public News",
     "category": "News",
@@ -148,6 +148,14 @@
     "channelId": "UCz2yxQJZgiB_5elTzqV7FiQ",
     "name": "BOL NEWS",
     "category": "News",
+    "language": "urd",
+    "country": "PK"
+  },
+  {
+    "videoId": "n_diyVG81dY",
+    "channelId": "UCZMKZS3L9GfhcFkMyBRoVFg",
+    "name": "Kids Land",
+    "category": "Kids",
     "language": "urd",
     "country": "PK"
   }

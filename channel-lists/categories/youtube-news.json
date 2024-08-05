@@ -184,7 +184,7 @@
     "country": "PL"
   },
   {
-    "videoId": "qXLJc1Wvr4w",
+    "videoId": "pDWISfdVrDI",
     "channelId": "UC2P5Fd5g41Gtdqf0Uzh8Qaw",
     "name": "Rtv News",
     "category": "News",
@@ -246,14 +246,6 @@
     "category": "News",
     "language": "urd",
     "country": "PK"
-  },
-  {
-    "videoId": "bpHGserl4YQ",
-    "channelId": "UC3RHl2mbrQbHeXdY15NmXZw",
-    "name": "Kurdistan24",
-    "category": "News",
-    "language": "kur",
-    "country": "IQ"
   },
   {
     "videoId": "jAn7L2Kt32U",
@@ -408,7 +400,7 @@
     "country": "TW"
   },
   {
-    "videoId": "aVAdOXF_mQw",
+    "videoId": "mUSJPtIICGg",
     "channelId": "UC7eTa1b57wOoboFKH2hVdMQ",
     "name": "Телеканал Конкурент TV",
     "category": "News",
@@ -512,7 +504,7 @@
     "country": "KR"
   },
   {
-    "videoId": "yhZXTuTFXx0",
+    "videoId": "ZbCtq8tLi2A",
     "channelId": "UC8Z-VjXBtDJTvq6aqkIskPg",
     "name": "Polimer News",
     "category": "News",
@@ -528,7 +520,7 @@
     "country": "IN"
   },
   {
-    "videoId": "n-z4ux2YVjA",
+    "videoId": "-KfaXbLypzo",
     "channelId": "UC9CYT9gSNLevX5ey2_6CK0Q",
     "name": "NDTV India",
     "category": "News",
@@ -656,7 +648,7 @@
     "country": "DJ"
   },
   {
-    "videoId": "SAmQWYHDPNU",
+    "videoId": "waY5of1DuCA",
     "channelId": "UCB82Zom1MYh8VV4q7wXkfGA",
     "name": "SUNO NEWS HD",
     "category": "News",
@@ -816,7 +808,7 @@
     "country": "IN"
   },
   {
-    "videoId": "HOJrHWojemQ",
+    "videoId": "5pYvTWckjHc",
     "channelId": "UCElJZvY_RVra6qjD8WSQYog",
     "name": "Public News",
     "category": "News",
@@ -992,7 +984,7 @@
     "country": "IN"
   },
   {
-    "videoId": "lPS-xICxVak",
+    "videoId": "hRxFIB2RBWk",
     "channelId": "UCgH3Vo5DVMsrbDSUoSecm0Q",
     "name": "Lider Haber",
     "category": "News",
@@ -1072,7 +1064,7 @@
     "country": "UA"
   },
   {
-    "videoId": "i5mk5FVCgiI",
+    "videoId": "rYunSkNjIDk",
     "channelId": "UChBQgieUidXV1CmDxSdRm3g",
     "name": "Citizen TV Kenya",
     "category": "News",
@@ -1088,7 +1080,7 @@
     "country": "IN"
   },
   {
-    "videoId": "VW0pkD_zB0U",
+    "videoId": "ZR5qE09xEw4",
     "channelId": "UChd1DEecCRlxaa0-hvPACCw",
     "name": "JoyNews",
     "category": "News",
@@ -1096,7 +1088,7 @@
     "country": "GH"
   },
   {
-    "videoId": "lId-CFVBOFM",
+    "videoId": "5dE0nDwy3wY",
     "channelId": "UCHDfPYXReWt5EVIzBA6TzOQ",
     "name": "SBT RS",
     "category": "News",
@@ -1118,6 +1110,14 @@
     "category": "News",
     "language": "fra",
     "country": "FR"
+  },
+  {
+    "videoId": "yV4yZaoBaFA",
+    "channelId": "UCHKvg7FqyEqmOkYx0y4KtlA",
+    "name": "News24 Daily",
+    "category": "News",
+    "language": "ben",
+    "country": "BD"
   },
   {
     "videoId": "XkZAuRbCmJw",
@@ -1272,7 +1272,7 @@
     "country": "IN"
   },
   {
-    "videoId": "G4mnn35n_Xk",
+    "videoId": "xulXXMX5XWc",
     "channelId": "UCjmnq35TvJ1J8JZS49OPg-Q",
     "name": "JAN TV",
     "category": "News",
@@ -1288,7 +1288,7 @@
     "country": "MY"
   },
   {
-    "videoId": "nD16HOXwCF0",
+    "videoId": "PdouG6_-nfo",
     "channelId": "UCkcClukVA92272XoJdei8Xw",
     "name": "Swatantra TV",
     "category": "News",
@@ -1296,7 +1296,7 @@
     "country": "IN"
   },
   {
-    "videoId": "wSkel2TbN_Q",
+    "videoId": "8MNya_nv-II",
     "channelId": "UCkccyEbqhhM3uKOI6Shm-4Q",
     "name": "Meganoticias",
     "category": "News",
@@ -1344,7 +1344,7 @@
     "country": "UA"
   },
   {
-    "videoId": "iHWaDbi6mtw",
+    "videoId": "0XNM33wFtiA",
     "channelId": "UCkyrSWEcjZKpIwMxiPfOcgg",
     "name": "5 канал",
     "category": "News",
@@ -1448,7 +1448,7 @@
     "country": "IN"
   },
   {
-    "videoId": "znQUIYdWFTw",
+    "videoId": "sXEn7_KKnN0",
     "channelId": "UCN6sm8iHiPd0cnoUardDAnw",
     "name": "Jamuna TV",
     "category": "News",
@@ -1494,14 +1494,6 @@
     "category": "News",
     "language": "rus",
     "country": "RU"
-  },
-  {
-    "videoId": "iG12cs5oLCo",
-    "channelId": "UCnh5Faqn_r9HxeNd_dsvGHQ",
-    "name": "Halab Today TV",
-    "category": "News",
-    "language": "ara",
-    "country": "SY"
   },
   {
     "videoId": "SxzSL8GBJ4A",
@@ -1568,7 +1560,7 @@
     "country": "JP"
   },
   {
-    "videoId": "ggnt7_ec2zY",
+    "videoId": "AssY1EawT0Q",
     "channelId": "UCoSkllfpgmFHtbVK835QaQg",
     "name": "Official iNews",
     "category": "News",
@@ -1664,7 +1656,7 @@
     "country": "IN"
   },
   {
-    "videoId": "EodrnhcYYkw",
+    "videoId": "lECa_RPUlv4",
     "channelId": "UCpzsmNuUEmod64DGgBDPO-Q",
     "name": "TV5 Kannada",
     "category": "News",
@@ -1728,7 +1720,7 @@
     "country": "JP"
   },
   {
-    "videoId": "922s9awrMd0",
+    "videoId": "tUheIPa6BKs",
     "channelId": "UCqyt55f3byoK8rjgO0LBe4Q",
     "name": "Desh TV",
     "category": "News",
@@ -1880,7 +1872,7 @@
     "country": "BR"
   },
   {
-    "videoId": "kc3JyNqbuPU",
+    "videoId": "1QPcqOIlxKI",
     "channelId": "UCsRnhjcUCR78Q3Ud6OXCTNg",
     "name": "T13",
     "category": "News",
@@ -1968,7 +1960,7 @@
     "country": "JP"
   },
   {
-    "videoId": "Sh77nuqJ930",
+    "videoId": "dI085zWgXxU",
     "channelId": "UCTlqstA2Wrt4fimd_VWKr8g",
     "name": "TrustTV News",
     "category": "News",
@@ -2014,6 +2006,14 @@
     "category": "News",
     "language": "urd",
     "country": "PK"
+  },
+  {
+    "videoId": "wALLwCjrg3A",
+    "channelId": "UCTXNz3gjAypWp3EhlIATEJQ",
+    "name": "24 Horas - TVN Chile",
+    "category": "News",
+    "language": "spa",
+    "country": "CL"
   },
   {
     "videoId": "Pr2J5Dl6Pkg",
@@ -2392,7 +2392,7 @@
     "country": "IN"
   },
   {
-    "videoId": "sLRDDfMkwCQ",
+    "videoId": "La82cPKgo5o",
     "channelId": "UCYmUbCx3q38TJo4_qN-_uAA",
     "name": "KumudamNews",
     "category": "News",
@@ -2432,7 +2432,7 @@
     "country": "TW"
   },
   {
-    "videoId": "OKzd_EmEE2s",
+    "videoId": "_PYFgpjkSzE",
     "channelId": "UCyscVWiJELkATSuU-RF2NLg",
     "name": "قناة الحرة - Alhurra",
     "category": "News",
@@ -2464,7 +2464,7 @@
     "country": "PK"
   },
   {
-    "videoId": "24Soly3-ohU",
+    "videoId": "sr2Ry9JVDtU",
     "channelId": "UCZFMm1mMw0F81Z37aaEzTUA",
     "name": "NDTV",
     "category": "News",
@@ -2488,7 +2488,15 @@
     "country": "TR"
   },
   {
-    "videoId": "XKueVSGTk2o",
+    "videoId": "BMsVNGWbTtY",
+    "channelId": "UCziREKwhu2KgoDVNlRrfMBw",
+    "name": "Canal de Panamá",
+    "category": "News",
+    "language": "spa",
+    "country": "PA"
+  },
+  {
+    "videoId": "1DASMwDLrME",
     "channelId": "UCzl0OrB3-ehunyotIQvK77A",
     "name": "METRO TV ",
     "category": "News",
