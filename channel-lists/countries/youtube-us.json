@@ -40,7 +40,7 @@
     "country": "US"
   },
   {
-    "videoId": "y29ypdtqXwY",
+    "videoId": "7O1KrpvsjRI",
     "channelId": "UC6VJE6cD8ZPpe6ZOtVtlBTA",
     "name": "Amazing Facts TV",
     "category": "Religious",
@@ -123,14 +123,6 @@
     "videoId": "7zGMVvIR4Ts",
     "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
     "name": "TokuSHOUTsu: ALF (日本語)",
-    "category": "Series",
-    "language": "jpn",
-    "country": "US"
-  },
-  {
-    "videoId": "DZML1mJB_Zw",
-    "channelId": "UC8NdtyLr-9_Kslj4bML6SPw",
-    "name": "TokuSHOUTsu: Kamen Rider Mix",
     "category": "Series",
     "language": "jpn",
     "country": "US"
@@ -320,7 +312,7 @@
     "country": "US"
   },
   {
-    "videoId": "McmkgsZd2b4",
+    "videoId": "xAFgOOYMOF8",
     "channelId": "UCgVZ0mrM3liHNhRYC5Mchgg",
     "name": "WPLG Local 10",
     "category": "News",
@@ -624,14 +616,6 @@
     "country": "US"
   },
   {
-    "videoId": "ex9QWiQZM-o",
-    "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
-    "name": "Shout! Studios: Farscape (Français)",
-    "category": "Series",
-    "language": "fra",
-    "country": "US"
-  },
-  {
     "videoId": "t4y-Lb4Fuks",
     "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
     "name": "Shout! Studios: Farscape (Deutsch)",
@@ -693,38 +677,6 @@
     "name": "Shout! Studios: Elvira's Movie Macabre",
     "category": "Classic",
     "language": "eng",
-    "country": "US"
-  },
-  {
-    "videoId": "Kl_R0zQWeZU",
-    "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
-    "name": "Shout! Studios: ALF (Deutsch)",
-    "category": "Series",
-    "language": "deu",
-    "country": "US"
-  },
-  {
-    "videoId": "CYhowtND6i0",
-    "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
-    "name": "Shout! Studios: ALF (日本語)",
-    "category": "Series",
-    "language": "jpn",
-    "country": "US"
-  },
-  {
-    "videoId": "2xcyFCfkcpU",
-    "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
-    "name": "Shout! Studios: ALF (Français)",
-    "category": "Series",
-    "language": "fra",
-    "country": "US"
-  },
-  {
-    "videoId": "qQMwtMpMAa4",
-    "channelId": "UCpHaAKu74UHvcYCi2g_PvBQ",
-    "name": "Shout! Studios: ALF (Português)",
-    "category": "Series",
-    "language": "por",
     "country": "US"
   },
   {
@@ -795,14 +747,6 @@
     "videoId": "sBf2Hbt60s8",
     "channelId": "UCrNnk0wFBnCS1awGjq_ijGQ",
     "name": "PBS Kids: SUPER WHY!",
-    "category": "Kids",
-    "language": "eng",
-    "country": "US"
-  },
-  {
-    "videoId": "AYHCSTvV_Tk",
-    "channelId": "UCrNnk0wFBnCS1awGjq_ijGQ",
-    "name": "PBS KIDS: Pinkalicious & Peterrific",
     "category": "Kids",
     "language": "eng",
     "country": "US"

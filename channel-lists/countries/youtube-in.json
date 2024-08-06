@@ -152,7 +152,7 @@
     "country": "IN"
   },
   {
-    "videoId": "-KfaXbLypzo",
+    "videoId": "QIeZRXyZ8z4",
     "channelId": "UC9CYT9gSNLevX5ey2_6CK0Q",
     "name": "NDTV India",
     "category": "News",
@@ -496,7 +496,7 @@
     "country": "IN"
   },
   {
-    "videoId": "xOqVWGBpL_s",
+    "videoId": "iaYu4f3WoA0",
     "channelId": "UCNIzL2dT2gZxQae2LHXvl0A",
     "name": "Srisaila Tv",
     "category": "Religious",
@@ -536,14 +536,6 @@
     "country": "IN"
   },
   {
-    "videoId": "tgBTspqA5nY",
-    "channelId": "UCP0uG-mcMImgKnJz-VjJZmQ",
-    "name": "Manorama News",
-    "category": "News",
-    "language": "mal",
-    "country": "IN"
-  },
-  {
     "videoId": "HBorWH77wPs",
     "channelId": "UCPP3etACgdUWvizcES1dJ8Q",
     "name": "News18 India",
@@ -560,7 +552,7 @@
     "country": "IN"
   },
   {
-    "videoId": "lECa_RPUlv4",
+    "videoId": "XlsIAIk4m_c",
     "channelId": "UCpzsmNuUEmod64DGgBDPO-Q",
     "name": "TV5 Kannada",
     "category": "News",
@@ -664,7 +656,7 @@
     "country": "IN"
   },
   {
-    "videoId": "QRSlchcPicg",
+    "videoId": "vXN_xc61asM",
     "channelId": "UCTboTRX74UydvU_cBdm_cCQ",
     "name": "SVBC TTD: SVBC2",
     "category": "Religious",
@@ -685,6 +677,14 @@
     "name": "T News Telugu",
     "category": "News",
     "language": "tel",
+    "country": "IN"
+  },
+  {
+    "videoId": "BZAzpqpnFNI",
+    "channelId": "UCu9Fj9QRAg26ZY9DhF8HSrQ",
+    "name": "DD Urdu",
+    "category": "Culture",
+    "language": "urd",
     "country": "IN"
   },
   {
